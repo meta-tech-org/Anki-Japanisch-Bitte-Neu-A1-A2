@@ -359,6 +359,221 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f12acd4f-7b99-11ec-92b0-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "D",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "は",
+                                "ha",
+                                ""
+                            ],
+                            "guid": "cd?onu4&3q",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "せ",
+                                "se",
+                                ""
+                            ],
+                            "guid": "N4g>]3e]g?",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぜ",
+                                "ze",
+                                ""
+                            ],
+                            "guid": "fl$*WMs^,J",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "せんせい",
+                                "Lehrer (Hiragana)"
+                            ],
+                            "guid": "Db}wR<@h~r",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はは",
+                                "(meine) Mutter (Hiragana)"
+                            ],
+                            "guid": "FMXK!_/;Kj",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet das Themapartikel?",
+                                "は"
+                            ],
+                            "guid": "1K+L>v,&D",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie heißt dieses Partikel? は",
+                                "Themapartikel"
+                            ],
+                            "guid": "t+E7zi),,G",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いでさんはせんせいです。",
+                                "Frau Ide ist Lehrerin."
+                            ],
+                            "guid": "G%q1DZIuQz",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "せんせい、ははです。",
+                                "Frau Lehrerin, das ist meine Mutter."
+                            ],
+                            "guid": "AmKX_$(QtB",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Coco Chanel は Designer です。",
+                                "<font color=\"#00ff00\">Coco Chanel</font> ist <font color=\"#00ff00\">Designerin</font>."
+                            ],
+                            "guid": "g!qlWHAO`j",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ははは Programmer です。",
+                                "Meine Mutter ist <font color=\"#00ff00\">Programmiererin</font>."
+                            ],
+                            "guid": "x)16V*Z+Je",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f12bdeb5-7b99-11ec-adde-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "E",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ト",
+                                "to",
+                                ""
+                            ],
+                            "guid": "z:15z&Jj4/",
+                            "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ド",
+                                "do",
+                                ""
+                            ],
+                            "guid": "qd(0*XB%T|",
+                            "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "イ",
+                                "i",
+                                ""
+                            ],
+                            "guid": "Dzj4eb}lpi",
+                            "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ツ",
+                                "tsu",
+                                ""
+                            ],
+                            "guid": "u_M/c2A/5t",
+                            "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本",
+                                "Japan"
+                            ],
+                            "guid": "f_$?:LS]Hb",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツ",
+                                "Deutschland"
+                            ],
+                            "guid": "O2~+s0j_-q",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで：Xはドイツです。Yは日本です。",
+                                "Ide: <font color=\"#00ff00\">X</font> ist Deutschland. <font color=\"#00ff00\">Y</font> ist <span style=\"background-color: rgb(0, 0, 255);\">Japan</span>."
+                            ],
+                            "guid": "OSzQ4CtV%)",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "24b95f7c-7ab1-11ec-bdd2-0c7a15ee466f",
@@ -369,6 +584,212 @@
             "extendRev": 0,
             "media_files": [],
             "name": "Kapitel 01",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "f12db369-7b99-11ec-9e6d-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "A",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こ",
+                                "ko",
+                                ""
+                            ],
+                            "guid": "tO;Ck.`U@L",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ご",
+                                "go",
+                                ""
+                            ],
+                            "guid": "jfdf03I4Q9",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "し",
+                                "shi",
+                                ""
+                            ],
+                            "guid": "qPbQV`Q1zg",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じ",
+                                "ji",
+                                ""
+                            ],
+                            "guid": "uHz0,s6S|Q",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "の",
+                                "no",
+                                ""
+                            ],
+                            "guid": "MfFbJuk*y]",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ば",
+                                "ba",
+                                ""
+                            ],
+                            "guid": "q})>}>QzT#",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぱ",
+                                "pa",
+                                ""
+                            ],
+                            "guid": "sqsxFr2rje",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よ",
+                                "yo",
+                                ""
+                            ],
+                            "guid": "qLi}kXrDNt",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "人",
+                                "Mensch"
+                            ],
+                            "guid": "b#0P78h7N,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんばんは",
+                                "Guten Abend!"
+                            ],
+                            "guid": "o4R7Fg?It{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本人",
+                                "Japaner/-in"
+                            ],
+                            "guid": "w)l$FZR~)>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツ人",
+                                "Deutsche/r"
+                            ],
+                            "guid": "p@@0&X]jb}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スイス人",
+                                "Schweizer/-in"
+                            ],
+                            "guid": "r-Y#Wv%v^A",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんばんは。いでです。",
+                                "Guten Abend. Ich bin Ide."
+                            ],
+                            "guid": "Hj3V_y`Z)>",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんばんは。Behrmannです。ドイツ人です。",
+                                "Guten Abend! Mein Name ist <font color=\"#00ff00\">Behrmann</font>. Ich bin Deutscher."
+                            ],
+                            "guid": "ptT[Iu$Op-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Wilhelm TellはAustria人ですか。<br>B: いいえ、スイス人です。",
+                                "A: Ist<font color=\"#00ff00\"> Wilhelm Tell</font> <font color=\"#00ff00\">Österreich</font><span style=\"background-color: rgb(0, 0, 255);\">er</span>?<br>B: Nein, er ist Schweiz<span style=\"background-color: rgb(0, 0, 255);\">er</span>."
+                            ],
+                            "guid": "xg5B.uN56u",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こが：カイさんはドイツ人ですか。<br>いいの：はい、ドイツ人です。",
+                                "Koga: Ist Kai Deutscher?<br>Iino: Ja, er ist Deutscher."
+                            ],
+                            "guid": "no?!kHsMQL",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "f12cf021-7b99-11ec-9067-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 02",
             "notes": []
         }
     ],

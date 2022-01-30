@@ -95,7 +95,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Behrmannです。",
-                                "(Mein Name) ist <font color=\"#00ff00\">Behrmann</font>."
+                                "(Mein Name) ist <i>Behrmann</i>."
                             ],
                             "guid": "N!Iyx0G|di",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -105,7 +105,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "いすずです。pilotです。",
-                                "Ich heiße Isuzu. Ich bin <font color=\"#00ff00\">Pilot</font>."
+                                "Ich heiße Isuzu. Ich bin <i>Pilot</i>."
                             ],
                             "guid": "L,r+OJ<}OH",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -115,7 +115,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "いいです。programmerです。",
-                                "Ich heiße ii. Ich bin <font color=\"#00ff00\">Programmierer</font>."
+                                "Ich heiße ii. Ich bin <i>Programmierer</i>."
                             ],
                             "guid": "P?9xRtU$J`",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -419,7 +419,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "はは",
-                                "(meine) Mutter (Hiragana)"
+                                "(meine) Mutter"
                             ],
                             "guid": "FMXK!_/;Kj",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -469,7 +469,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Coco Chanel は Designer です。",
-                                "<font color=\"#00ff00\">Coco Chanel</font> ist <font color=\"#00ff00\">Designerin</font>."
+                                "<i>Coco Chanel</i> ist <i>Designerin</i>."
                             ],
                             "guid": "g!qlWHAO`j",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -479,7 +479,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ははは Programmer です。",
-                                "Meine Mutter ist <font color=\"#00ff00\">Programmiererin</font>."
+                                "Meine Mutter ist <i>Programmiererin</i>."
                             ],
                             "guid": "x)16V*Z+Je",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -567,7 +567,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "いで：Xはドイツです。Yは日本です。",
-                                "Ide: <font color=\"#00ff00\">X</font> ist Deutschland. <font color=\"#00ff00\">Y</font> ist <span style=\"background-color: rgb(0, 0, 255);\">Japan</span>."
+                                "Ide: <i>X</i> ist Deutschland. <i>Y</i> ist <b>Japan</b>."
                             ],
                             "guid": "OSzQ4CtV%)",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -722,7 +722,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ドイツ人",
+                                "ドイツ 人",
                                 "Deutsche/r"
                             ],
                             "guid": "p@@0&X]jb}",
@@ -752,8 +752,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "こんばんは。Behrmannです。ドイツ人です。",
-                                "Guten Abend! Mein Name ist <font color=\"#00ff00\">Behrmann</font>. Ich bin Deutscher."
+                                "こんばんは。Behrmannです。ドイツ 人です。",
+                                "Guten Abend! Mein Name ist <i>Behrmann</i>. Ich bin Deutsch<b>er</b>."
                             ],
                             "guid": "ptT[Iu$Op-",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -763,7 +763,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: Wilhelm TellはAustria人ですか。<br>B: いいえ、スイス人です。",
-                                "A: Ist<font color=\"#00ff00\"> Wilhelm Tell</font> <font color=\"#00ff00\">Österreich</font><span style=\"background-color: rgb(0, 0, 255);\">er</span>?<br>B: Nein, er ist Schweiz<span style=\"background-color: rgb(0, 0, 255);\">er</span>."
+                                "A: Ist<font color=\"#00ff00\"> </font><i>Wilhelm Tell Österreich</i><b>er</b>?<br>B: Nein, er ist Schweiz<b>er</b>."
                             ],
                             "guid": "xg5B.uN56u",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -773,13 +773,26 @@
                             "__type__": "Note",
                             "fields": [
                                 "こが：カイさんはドイツ人ですか。<br>いいの：はい、ドイツ人です。",
-                                "Koga: Ist Kai Deutscher?<br>Iino: Ja, er ist Deutscher."
+                                "Koga: Ist Kai Deutsch<b>er</b>?<br>Iino: Ja, er ist Deutsch<b>er</b>."
                             ],
                             "guid": "no?!kHsMQL",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "afc7071d-81cf-11ec-81af-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "B",
+                    "notes": []
                 }
             ],
             "crowdanki_uuid": "f12cf021-7b99-11ec-9067-0c7a15ee466f",

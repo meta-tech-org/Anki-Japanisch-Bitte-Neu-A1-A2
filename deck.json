@@ -248,17 +248,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "は",
-                                "ha",
-                                ""
-                            ],
-                            "guid": "cd?onu4&3q",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "カ",
                                 "ka",
                                 ""
@@ -1213,6 +1202,7 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Aussprache}}",

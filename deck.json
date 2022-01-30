@@ -804,6 +804,303 @@
             "media_files": [],
             "name": "Kapitel 02",
             "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "afc902e3-81cf-11ec-8b9d-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "A",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "め",
+                                "me",
+                                ""
+                            ],
+                            "guid": "kxG0&k+_/b",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゃ",
+                                "ja",
+                                ""
+                            ],
+                            "guid": "h7Wxb-L@@j",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しゃ",
+                                "sha",
+                                ""
+                            ],
+                            "guid": "nW|&)]g!Cn",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "や",
+                                "ya",
+                                ""
+                            ],
+                            "guid": "k+^zsN1aBu",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "な",
+                                "na",
+                                ""
+                            ],
+                            "guid": "olgGFLBwfn",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~じゃないです",
+                                "Verneinungsform von です (Umgangssprache)"
+                            ],
+                            "guid": "q2@w*TUhs?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いしゃ",
+                                "Arzt/Ärztin"
+                            ],
+                            "guid": "la0[b^_{N#",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "め",
+                                "Auge"
+                            ],
+                            "guid": "g(V9.Z6Evr",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "は",
+                                "Zahn"
+                            ],
+                            "guid": "A$R3^T|ZrP",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "お",
+                                "Höflichkeitsvorsible"
+                            ],
+                            "guid": "Epp3(ZG8z`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~ではないです",
+                                "Verneinungsform von です (Höflich)"
+                            ],
+                            "guid": "FxrlYML3=V",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo wird ~さん, außer bei Namen, noch benutzt?",
+                                "Bei bestimmten Berufen wie Ärzten."
+                            ],
+                            "guid": "jW`jD;h`7C",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird die Vorsible&nbsp;お benutzt?",
+                                "Als Höflichkeitspräfix bei bestimmten Berufen und Personen, aber nicht bei Fremdwörtern oder langen Wörtern."
+                            ],
+                            "guid": "wwl5yXEnO,",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: さのさんですか。<br>B: さのじゃないです。やのです。",
+                                "A: Sind Sie Frau Sano?<br>B: Ich bin nicht Sano, ich bin Yano."
+                            ],
+                            "guid": "yuX4Ut|Be#",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A : Kafka はスイス人ですか。<br>B : いいえ、スイス人じゃないです。",
+                                "A: Ist Kafka Schweizer?<br>B: Nein, er ist kein Schweizer."
+                            ],
+                            "guid": "L:EI:[w_lv",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A : かさいさんはおいしゃさんですか。<br>B: いいえ、おいしゃさんではないです。せんせいです。",
+                                "A: Ist Frau Kasai Ärztin?<br>B: Nein, sie ist keine Ärztin. Sie ist Lehrerin."
+                            ],
+                            "guid": "n+)hi4$_}[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "afca1fa5-81cf-11ec-9276-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "B",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はじめまして",
+                                "Angenehm, sehr erfreut"
+                            ],
+                            "guid": "yQ%tzkhwlB",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かいしゃ",
+                                "Firma"
+                            ],
+                            "guid": "hXumH?C7h",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かいしゃいん",
+                                "Firmenangestellte(-r)"
+                            ],
+                            "guid": "o:%qMaR`e$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird das Partikel&nbsp;の ungefähr übersetzt und verwendet?",
+                                "Ähnlich wie \"von\".<br>Boschのengineer entspricht \"Ingenieur von Bosch\"."
+                            ],
+                            "guid": "xaMtXrgeT`",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さのさんはSony のかたですか。",
+                                "Sind Sie von der Firma <i>Sony</i>, Frau Sano?"
+                            ],
+                            "guid": "ms6IFYf<2P",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さの: さのです。はじめまして。<br>いしい: はじめまして。いしいです。",
+                                "Sano: Ich bin Sano. Angenehm.<br>Ishii: Angenehm! Ich bin Ishii."
+                            ],
+                            "guid": "H5+$Kwo`[Q",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Sony のかたですか。<br>B : はい、Sony です。",
+                                "A: Sind Sie von der Firma <i>Sony</i>?<br>B: Ja, ich bin von <i>Sony</i>."
+                            ],
+                            "guid": "Af5a(uLpEE",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Sony のかたですか。<br>B: いいえ、Siemens です。",
+                                "A: Sind Sie von der Firma&nbsp;<i>Sony</i>?<br>B: Nein, ich bin von <i>Siemens</i>."
+                            ],
+                            "guid": "Fd;(i#yTt{",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Sony のかたですか 。<br>B: はい。Sonyのさのです。",
+                                "A: Sind Sie von der Firma <i>Sony</i>?<br>B: Ja. Ich bin Sano von <i>Sony</i>."
+                            ],
+                            "guid": "E=IBGZ.<4e",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "afc81881-81cf-11ec-a6ca-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 03",
+            "notes": []
         }
     ],
     "crowdanki_uuid": "24b84e18-7ab1-11ec-989e-0c7a15ee466f",

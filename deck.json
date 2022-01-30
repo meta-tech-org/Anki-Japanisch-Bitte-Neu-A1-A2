@@ -75,7 +75,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "です",
-                                "sein (Verb), für alle Personen, Singular und Plural"
+                                "sein (Verb), für alle Personen, Singular und Plural",
+                                ""
                             ],
                             "guid": "H$,{3WM>{G",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -172,7 +173,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "〜さん",
-                                "~Herr/Frau"
+                                "~Herr/Frau",
+                                ""
                             ],
                             "guid": "Ol|BPt5WJJ",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -271,7 +273,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "はい",
-                                "ja"
+                                "ja",
+                                ""
                             ],
                             "guid": "I@5w4g2Oy4",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -281,7 +284,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "いいえ",
-                                "nein"
+                                "nein",
+                                ""
                             ],
                             "guid": "Lr_W|5.Ava",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -398,7 +402,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "せんせい",
-                                "Lehrer (Hiragana)"
+                                "Lehrer (Hiragana)",
+                                ""
                             ],
                             "guid": "Db}wR<@h~r",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -408,7 +413,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "はは",
-                                "(meine) Mutter"
+                                "(meine) Mutter",
+                                ""
                             ],
                             "guid": "FMXK!_/;Kj",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -485,7 +491,9 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "日本.png"
+                    ],
                     "name": "E",
                     "notes": [
                         {
@@ -536,7 +544,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本",
-                                "Japan"
+                                "Japan",
+                                "<img src=\"日本.png\">"
                             ],
                             "guid": "f_$?:LS]Hb",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -546,7 +555,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "ドイツ",
-                                "Deutschland"
+                                "Deutschland",
+                                ""
                             ],
                             "guid": "O2~+s0j_-q",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -587,7 +597,10 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "人.png",
+                        "日本人.png"
+                    ],
                     "name": "A",
                     "notes": [
                         {
@@ -682,7 +695,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "人",
-                                "Mensch"
+                                "Mensch",
+                                "<img src=\"人.png\">"
                             ],
                             "guid": "b#0P78h7N,",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -692,7 +706,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "こんばんは",
-                                "Guten Abend!"
+                                "Guten Abend!",
+                                ""
                             ],
                             "guid": "o4R7Fg?It{",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -702,7 +717,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本人",
-                                "Japaner/-in"
+                                "Japaner/-in",
+                                "<img src=\"日本人.png\">"
                             ],
                             "guid": "w)l$FZR~)>",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -712,7 +728,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "ドイツ 人",
-                                "Deutsche/r"
+                                "Deutsche/r",
+                                ""
                             ],
                             "guid": "p@@0&X]jb}",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -722,7 +739,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "スイス人",
-                                "Schweizer/-in"
+                                "Schweizer/-in",
+                                ""
                             ],
                             "guid": "r-Y#Wv%v^A",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -868,7 +886,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "~じゃないです",
-                                "Verneinungsform von です (Umgangssprache)"
+                                "Verneinungsform von です (Umgangssprache)",
+                                ""
                             ],
                             "guid": "q2@w*TUhs?",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -878,7 +897,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "いしゃ",
-                                "Arzt/Ärztin"
+                                "Arzt/Ärztin",
+                                ""
                             ],
                             "guid": "la0[b^_{N#",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -888,7 +908,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "め",
-                                "Auge"
+                                "Auge",
+                                ""
                             ],
                             "guid": "g(V9.Z6Evr",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -898,7 +919,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "は",
-                                "Zahn"
+                                "Zahn",
+                                ""
                             ],
                             "guid": "A$R3^T|ZrP",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -908,7 +930,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "お",
-                                "Höflichkeitsvorsible"
+                                "Höflichkeitsvorsible",
+                                ""
                             ],
                             "guid": "Epp3(ZG8z`",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -918,7 +941,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "~ではないです",
-                                "Verneinungsform von です (Höflich)"
+                                "Verneinungsform von です (Höflich)",
+                                ""
                             ],
                             "guid": "FxrlYML3=V",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -992,7 +1016,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "はじめまして",
-                                "Angenehm, sehr erfreut"
+                                "Angenehm, sehr erfreut",
+                                ""
                             ],
                             "guid": "yQ%tzkhwlB",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1002,7 +1027,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "かいしゃ",
-                                "Firma"
+                                "Firma",
+                                ""
                             ],
                             "guid": "hXumH?C7h",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1012,7 +1038,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "かいしゃいん",
-                                "Firmenangestellte(-r)"
+                                "Firmenangestellte(-r)",
+                                ""
                             ],
                             "guid": "o:%qMaR`e$",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -1249,6 +1276,14 @@
                     "rtl": false,
                     "size": 20,
                     "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Strichordnung",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",
@@ -1274,7 +1309,7 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br>\n<br>\n{{Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -1285,7 +1320,7 @@
                     "qfmt": "{{Front}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br>\n<br>\n{{Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",

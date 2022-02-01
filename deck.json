@@ -916,7 +916,7 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "36a7a75b-8354-11ec-9452-0c7a15ee466f",
+                    "crowdanki_uuid": "c56af858-838e-11ec-8c6a-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -1266,7 +1266,7 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "36ab9ef9-8354-11ec-8894-0c7a15ee466f",
+                    "crowdanki_uuid": "c56f171a-838e-11ec-89a6-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -1329,7 +1329,7 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "36ac895e-8354-11ec-b149-0c7a15ee466f",
+                    "crowdanki_uuid": "c5700188-838e-11ec-b45f-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -1393,7 +1393,7 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "36ae852d-8354-11ec-8d3b-0c7a15ee466f",
+                    "crowdanki_uuid": "c571fd3f-838e-11ec-89f0-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -1479,7 +1479,7 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "36af969d-8354-11ec-a4f0-0c7a15ee466f",
+                    "crowdanki_uuid": "c5730eb3-838e-11ec-b55b-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
@@ -1537,9 +1537,60 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c5742026-838e-11ec-b947-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "bi.gif",
+                        "hi.gif",
+                        "pi.gif"
+                    ],
+                    "name": "C",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ひ",
+                                "hi",
+                                "<img src=\"hi.gif\">"
+                            ],
+                            "guid": "pEa}L-,*>B",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "び",
+                                "bi",
+                                "<img src=\"bi.gif\">"
+                            ],
+                            "guid": "xu!+Y@gmh%",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぴ",
+                                "pi",
+                                "<img src=\"pi.gif\">"
+                            ],
+                            "guid": "f#*G>blsoh",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
-            "crowdanki_uuid": "36ad9aca-8354-11ec-8332-0c7a15ee466f",
+            "crowdanki_uuid": "c57112db-838e-11ec-be39-0c7a15ee466f",
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
@@ -1547,6 +1598,582 @@
             "extendRev": 0,
             "media_files": [],
             "name": "Kapitel 04",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c5761bf3-838e-11ec-b765-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "ge.gif",
+                        "ju.gif",
+                        "ke.gif",
+                        "wo.gif"
+                    ],
+                    "name": "A",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "け",
+                                "ke",
+                                "<img src=\"ke.gif\">"
+                            ],
+                            "guid": "H6[Yf?a;%M",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "げ",
+                                "ge",
+                                "<img src=\"ge.gif\">"
+                            ],
+                            "guid": "r!rIzPAB;L",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "を",
+                                "wo",
+                                "<img src=\"wo.gif\">"
+                            ],
+                            "guid": "Em4S]lY*Qh",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゅ",
+                                "ju",
+                                "<img src=\"ju.gif\">"
+                            ],
+                            "guid": "GkZS9>90u_",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c5772d69-838e-11ec-a481-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "gi.gif",
+                        "wa.gif"
+                    ],
+                    "name": "B",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぎ",
+                                "gi",
+                                "<img src=\"gi.gif\">"
+                            ],
+                            "guid": "N!~v3+wLwj",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きゅ",
+                                "kyu",
+                                ""
+                            ],
+                            "guid": "Mx02c^Bu/k",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わ",
+                                "wa",
+                                "<img src=\"wa.gif\">"
+                            ],
+                            "guid": "xBdg73Qr;T",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c5783edc-838e-11ec-8395-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "C",
+                    "notes": []
+                }
+            ],
+            "crowdanki_uuid": "c5753190-838e-11ec-a709-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 05",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c57a139f-838e-11ec-982c-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "A",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c57b2503-838e-11ec-a191-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "mu.gif"
+                    ],
+                    "name": "B",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "む",
+                                "mu",
+                                "<img src=\"mu.gif\">"
+                            ],
+                            "guid": "NGBa##@ns9",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きょ",
+                                "kyo",
+                                ""
+                            ],
+                            "guid": "QEx_Ieio5P",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c57c0f6e-838e-11ec-8d42-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "be.gif",
+                        "bo.gif",
+                        "he.gif",
+                        "ho.gif",
+                        "pe.gif",
+                        "po.gif"
+                    ],
+                    "name": "C",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ヘ",
+                                "he",
+                                "<img src=\"he.gif\">"
+                            ],
+                            "guid": "g]~kpy>6d-",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ベ",
+                                "be",
+                                "<img src=\"be.gif\">"
+                            ],
+                            "guid": "l19PTpVvX[",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ペ",
+                                "pe",
+                                "<img src=\"pe.gif\">"
+                            ],
+                            "guid": "[,<gUAk79",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ほ",
+                                "ho",
+                                "<img src=\"ho.gif\">"
+                            ],
+                            "guid": "OgiO:oLxA.",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぼ",
+                                "bo",
+                                "<img src=\"bo.gif\">"
+                            ],
+                            "guid": "w5|X+[=Iuc",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぽ",
+                                "po",
+                                "<img src=\"po.gif\">"
+                            ],
+                            "guid": "gY9*[41ZH2",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "c5792933-838e-11ec-8cb5-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 06",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c57e324d-838e-11ec-8046-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "ne.gif",
+                        "ru.gif"
+                    ],
+                    "name": "A",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ね",
+                                "ne",
+                                "<img src=\"ne.gif\">"
+                            ],
+                            "guid": "DvM`tYWM,D",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "る",
+                                "ru",
+                                "<img src=\"ru.gif\">"
+                            ],
+                            "guid": "PTBv?VujMI",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c57f1cad-838e-11ec-92d5-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "bu.gif",
+                        "fu.gif",
+                        "pu.gif"
+                    ],
+                    "name": "B",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ふ",
+                                "fu",
+                                "<img src=\"fu.gif\">"
+                            ],
+                            "guid": "vv9<F*uQ1P",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぶ",
+                                "bu",
+                                "<img src=\"bu.gif\">"
+                            ],
+                            "guid": "u^EJxdEre}",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぷ",
+                                "pu",
+                                "<img src=\"pu.gif\">"
+                            ],
+                            "guid": "O|awceYEZ8",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ちゃ",
+                                "cha",
+                                ""
+                            ],
+                            "guid": "s^+RpdNAXK",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ちよ",
+                                "cho",
+                                ""
+                            ],
+                            "guid": "d2+T6w%?~%",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c5802e17-838e-11ec-913e-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "C",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "づ",
+                                "zu",
+                                ""
+                            ],
+                            "guid": "mb<Qda|.,W",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "c57d20de-838e-11ec-b8a5-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 07",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c58202d2-838e-11ec-95f5-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "nu.gif",
+                        "ro.gif"
+                    ],
+                    "name": "B",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ろ",
+                                "ro",
+                                "<img src=\"ro.gif\">"
+                            ],
+                            "guid": "qve-q1l5nX",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぬ",
+                                "nu",
+                                "<img src=\"nu.gif\">"
+                            ],
+                            "guid": "x=+A(Z3NP.",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "c5811873-838e-11ec-b147-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 08",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c583fea6-838e-11ec-a681-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "byo.gif"
+                    ],
+                    "name": "D",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "びょ",
+                                "byo",
+                                "<img src=\"byo.gif\">"
+                            ],
+                            "guid": "IOfcEzX*@{",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "c582ed33-838e-11ec-b84f-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 09",
+            "notes": []
+        },
+        {
+            "__type__": "Deck",
+            "children": [
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c585fa71-838e-11ec-86d8-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "B",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ひゃ",
+                                "hya",
+                                ""
+                            ],
+                            "guid": "r-{rPlbpAt",
+                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                }
+            ],
+            "crowdanki_uuid": "c584e905-838e-11ec-8db2-0c7a15ee466f",
+            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 0,
+            "extendRev": 0,
+            "media_files": [],
+            "name": "Kapitel 10",
             "notes": []
         }
     ],

@@ -13,7 +13,13 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "de.gif",
+                        "i.gif",
+                        "su.gif",
+                        "te.gif",
+                        "zu.gif"
+                    ],
                     "name": "A",
                     "notes": [
                         {
@@ -21,7 +27,7 @@
                             "fields": [
                                 "い",
                                 "i",
-                                ""
+                                "<img src=\"i.gif\">"
                             ],
                             "guid": "Lk8Ig6}<Yc",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -32,7 +38,7 @@
                             "fields": [
                                 "て",
                                 "te",
-                                ""
+                                "<img src=\"te.gif\">"
                             ],
                             "guid": "dtC9utKmBR",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -43,7 +49,7 @@
                             "fields": [
                                 "で",
                                 "de",
-                                ""
+                                "<img src=\"de.gif\">"
                             ],
                             "guid": "czry>wyy+h",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -54,7 +60,7 @@
                             "fields": [
                                 "す",
                                 "su",
-                                ""
+                                "<img src=\"su.gif\">"
                             ],
                             "guid": "Nc{+z^LnO[",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -65,7 +71,7 @@
                             "fields": [
                                 "ず",
                                 "zu",
-                                ""
+                                "<img src=\"zu.gif\">"
                             ],
                             "guid": "rKE^Ch9H;}",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -133,7 +139,11 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "n.gif",
+                        "sa.gif",
+                        "za.gif"
+                    ],
                     "name": "B",
                     "notes": [
                         {
@@ -141,7 +151,7 @@
                             "fields": [
                                 "さ",
                                 "sa",
-                                ""
+                                "<img src=\"sa.gif\">"
                             ],
                             "guid": "Cu}F|?^>R>",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -152,7 +162,7 @@
                             "fields": [
                                 "ざ",
                                 "za",
-                                ""
+                                "<img src=\"za.gif\">"
                             ],
                             "guid": "ysaKAjRB}~",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -163,7 +173,7 @@
                             "fields": [
                                 "ん",
                                 "n",
-                                ""
+                                "<img src=\"n.gif\">"
                             ],
                             "guid": "B~gdcbuU4-",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -211,7 +221,11 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "e.gif",
+                        "ga.gif",
+                        "ka.gif"
+                    ],
                     "name": "C",
                     "notes": [
                         {
@@ -219,7 +233,7 @@
                             "fields": [
                                 "か",
                                 "ka",
-                                ""
+                                "<img src=\"ka.gif\">"
                             ],
                             "guid": "o@ZEOPb}[U",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -230,7 +244,7 @@
                             "fields": [
                                 "が",
                                 "ga",
-                                ""
+                                "<img src=\"ga.gif\">"
                             ],
                             "guid": "uBNl-T%znt",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -241,7 +255,7 @@
                             "fields": [
                                 "え",
                                 "e",
-                                ""
+                                "<img src=\"e.gif\">"
                             ],
                             "guid": "MjHes(/:fO",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -362,7 +376,11 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "ha.gif",
+                        "se.gif",
+                        "ze.gif"
+                    ],
                     "name": "D",
                     "notes": [
                         {
@@ -370,7 +388,7 @@
                             "fields": [
                                 "は",
                                 "ha",
-                                ""
+                                "<img src=\"ha.gif\">"
                             ],
                             "guid": "cd?onu4&3q",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -381,7 +399,7 @@
                             "fields": [
                                 "せ",
                                 "se",
-                                ""
+                                "<img src=\"se.gif\">"
                             ],
                             "guid": "N4g>]3e]g?",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -392,7 +410,7 @@
                             "fields": [
                                 "ぜ",
                                 "ze",
-                                ""
+                                "<img src=\"ze.gif\">"
                             ],
                             "guid": "fl$*WMs^,J",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -598,6 +616,14 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "ba.gif",
+                        "go.gif",
+                        "ji.gif",
+                        "ko.gif",
+                        "no.gif",
+                        "pa.gif",
+                        "shi.gif",
+                        "yo.gif",
                         "人.png",
                         "日本人.png"
                     ],
@@ -608,7 +634,7 @@
                             "fields": [
                                 "こ",
                                 "ko",
-                                ""
+                                "<img src=\"ko.gif\">"
                             ],
                             "guid": "tO;Ck.`U@L",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -619,7 +645,7 @@
                             "fields": [
                                 "ご",
                                 "go",
-                                ""
+                                "<img src=\"go.gif\">"
                             ],
                             "guid": "jfdf03I4Q9",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -630,7 +656,7 @@
                             "fields": [
                                 "し",
                                 "shi",
-                                ""
+                                "<img src=\"shi.gif\">"
                             ],
                             "guid": "qPbQV`Q1zg",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -641,7 +667,7 @@
                             "fields": [
                                 "じ",
                                 "ji",
-                                ""
+                                "<img src=\"ji.gif\">"
                             ],
                             "guid": "uHz0,s6S|Q",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -652,7 +678,7 @@
                             "fields": [
                                 "の",
                                 "no",
-                                ""
+                                "<img src=\"no.gif\">"
                             ],
                             "guid": "MfFbJuk*y]",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -663,7 +689,7 @@
                             "fields": [
                                 "ば",
                                 "ba",
-                                ""
+                                "<img src=\"ba.gif\">"
                             ],
                             "guid": "q})>}>QzT#",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -674,7 +700,7 @@
                             "fields": [
                                 "ぱ",
                                 "pa",
-                                ""
+                                "<img src=\"pa.gif\">"
                             ],
                             "guid": "sqsxFr2rje",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -685,7 +711,7 @@
                             "fields": [
                                 "よ",
                                 "yo",
-                                ""
+                                "<img src=\"yo.gif\">"
                             ],
                             "guid": "qLi}kXrDNt",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -727,7 +753,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ドイツ人",
+                                "ドイツ 人",
                                 "Deutsche/r",
                                 ""
                             ],
@@ -824,7 +850,12 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "ja.gif",
+                        "me.gif",
+                        "na.gif",
+                        "ya.gif"
+                    ],
                     "name": "A",
                     "notes": [
                         {
@@ -832,7 +863,7 @@
                             "fields": [
                                 "め",
                                 "me",
-                                ""
+                                "<img src=\"me.gif\">"
                             ],
                             "guid": "kxG0&k+_/b",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -843,7 +874,7 @@
                             "fields": [
                                 "じゃ",
                                 "ja",
-                                ""
+                                "<img src=\"ja.gif\">"
                             ],
                             "guid": "h7Wxb-L@@j",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -865,7 +896,7 @@
                             "fields": [
                                 "や",
                                 "ya",
-                                ""
+                                "<img src=\"ya.gif\">"
                             ],
                             "guid": "k+^zsN1aBu",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
@@ -876,7 +907,7 @@
                             "fields": [
                                 "な",
                                 "na",
-                                ""
+                                "<img src=\"na.gif\">"
                             ],
                             "guid": "olgGFLBwfn",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",

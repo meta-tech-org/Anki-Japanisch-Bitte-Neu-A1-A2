@@ -3055,6 +3055,803 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "35d2facc-8515-11ec-91af-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "何日.png",
+                        "何月.png",
+                        "日.png",
+                        "月.png"
+                    ],
+                    "name": "A",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きょうは5月11日です。",
+                                "Heute ist der 11. Mai."
+                            ],
+                            "guid": "GEL3iz_)_(",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "月[がつ]",
+                                "Mond, Monat",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "cU#;-zl0zB",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たんじょうび",
+                                "Geburtstag",
+                                ""
+                            ],
+                            "guid": "s?}@ifOz&M",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつ",
+                                "wann",
+                                ""
+                            ],
+                            "guid": "xSLT)Ph5LS",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おめでとう（ございます）",
+                                "Herzlichen Glückwunsch!",
+                                ""
+                            ],
+                            "guid": "j@?W8cT9:J",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ほんとう",
+                                "Wahrheit",
+                                ""
+                            ],
+                            "guid": "jzrG8mE~`x",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ほんとうですか",
+                                "Wirklich?",
+                                ""
+                            ],
+                            "guid": "Oi`cVa?$@P",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "クリスマス",
+                                "Weihnachten",
+                                ""
+                            ],
+                            "guid": "Kdbv8J,b_D",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なん] 月[がつ]",
+                                "Welcher Monat",
+                                "<img src=\"何月.png\">"
+                            ],
+                            "guid": "jr<Q2n;HLL",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なん] 日[にち]",
+                                "Welcher Tag",
+                                "<img src=\"何日.png\">"
+                            ],
+                            "guid": "uhKh:B>!X1",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1 月[いちがつ]",
+                                "Januar",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "P5%Oh24X4c",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2月[にがつ]",
+                                "Februar",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "vNr6zH}7b~",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3月[さんがつ]",
+                                "März",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "rAYHoF=)Q@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4月[しがつ]",
+                                "April",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "tp-8gqAG<X",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5月[ごがつ]",
+                                "Mai",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "nG)0@?bmL9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6月[ろくがつ]",
+                                "Juni",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "P|A1cyx841",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "7月[しちがつ]",
+                                "Juli",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "Q>@PDMhooo",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8月[はちがつ]",
+                                "August",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "HFx*nZ:{ol",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9月[くがつ]",
+                                "September",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "uitw55m2yf",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "10月[じゅうがつ]",
+                                "Oktober",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "u6X|Okqb0Z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "11月[じゅういちがつ]",
+                                "November",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "AX`([56VR4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "12月[じゅうにがつ]",
+                                "Dezember",
+                                "<img src=\"月.png\">"
+                            ],
+                            "guid": "lL5O@cl[Z{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1日[ついたち]",
+                                "1 Tag",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "tjJNR7:21x",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "2日[ふつか]",
+                                "2 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "ILU#7BVzkw",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "3日[みっか]",
+                                "3 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "t|2DkymGr6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "4日[よっか]",
+                                "4 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "e%!y?P|&n",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5日[いつか]",
+                                "5 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "L[UKImCTUu",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6日[むいか]",
+                                "6 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "k]1@+2%v68",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "7日[なのか]",
+                                "7 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "N2<fK!_lt9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8日[ようか]",
+                                "8 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "G;xS:v`8VE",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9日[ここのか]",
+                                "9 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "tcXfJC|#4;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "10日[とうか]",
+                                "10 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "kN`1lcNqCh",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "11日[じゅういちにち]",
+                                "11 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "J,jQ3]sc[;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "12日[じゅうににち]",
+                                "12 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "o(>,0%8v%5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "13日[じゅうさんにち]",
+                                "13 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "GN0JyMcq$&",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "14日[じゅうよっか]",
+                                "14 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "wy{+f5^Wn.",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "15日[じゅうごにち]",
+                                "15 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "Bb_e=665=i",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "16日[じゅうろくにち]",
+                                "16 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "jKs&Xi|%37",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "17日[じゅうしちにち]",
+                                "17 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "Ia&^@Q=hP[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "18日[じゅうはちにち]",
+                                "18 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "7)>0o02/.",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "19日[じゅうくにち]",
+                                "19 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "F5,~C2;mJm",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "20日[はつか]",
+                                "20 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "ke*{YN1~@l",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "21日[にじゅういちにち]",
+                                "21 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "P}[l8v:A*N",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "22日[にじゅうににち]",
+                                "22 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "uf%9B)}g>o",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "23日[にじゅうさんにち]",
+                                "23 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "x4^2ho*=m~",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "24日[にじゅうよっか]",
+                                "24 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "o=vFOfD@dv",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "25日[にじゅうごにち]",
+                                "25 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "jp;XNX@`J)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "26日[にじゅうろくにち]",
+                                "26 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "IE/gGFBy,>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "27日[にじゅうしちにち]",
+                                "27 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "peA*bpO.fU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "28日[にじゅうはちにち]",
+                                "28 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "d-<n6Vk8E`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "29日[にじゅうくにち]",
+                                "29 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "`1f:;~t.4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "30日[さんじゅうにち]",
+                                "30 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "wP0^}TZSC9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "31日[さんじゅういちにち]",
+                                "31 Tage",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "NE;T}[!u)b",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird das Kanji&nbsp;何 als なん ausgesprochen?",
+                                "Das Kanji-Zeichen 何 wird なん ausgesprochen, wenn ein Wort mit dem Anlaut<br>d-, t-,n- (zum Beispielです）folgt,　oder wenn　何 sich　auf ein Zählwort/ eine Ordnungszahl<br>(etwa 日＝にち，人＝にん、月＝がつ） bezieht. 何 wird auch vor Wörtern, die mit <i>welcher,<br>welche, welches</i> übersetzt werden, なん gelesen."
+                            ],
+                            "guid": "i>By65~SXv",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird das Kanji&nbsp;何 als&nbsp;なに ausgeprochen?",
+                                "Als vollstandiges Fragewort (= was) wird 何 als なに ausgesprochen."
+                            ],
+                            "guid": "HGy{sm{>n!",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird&nbsp;何 ausgesprochen, wenn darauf das Partikel&nbsp;と folgt?",
+                                "Als vollstandiges Fragewort (= was) wird 何 なにausgesprochen, auch wenn die Aufzählungspartikel と mit dem Anfangsbuchstaben<br>t-dahintersteht."
+                            ],
+                            "guid": "H>y{-R[*.d",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なに]がすきてすか。",
+                                "Was mögen Sie?"
+                            ],
+                            "guid": "yVv7.U/;D0",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なに]と 何[なに]をかいますか。",
+                                "Was und was kaufen Sie?"
+                            ],
+                            "guid": "lp;>.2vWc",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:すみません、きょうは 何[なん] 日[にち]ですか。<br>B:2 月[つき]13 日[にち]、 金曜日[きんようび]です。",
+                                "A: Entschuldigung! Der Wieviete (des Monats) ist heute?<br>B: Der 13. Februar, Freitag."
+                            ],
+                            "guid": "tDKb5[]K@j",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おしょうがつ",
+                                "Neujahr",
+                                ""
+                            ],
+                            "guid": "kV0XLNUiKH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ひなまつり",
+                                "Puppenfest",
+                                ""
+                            ],
+                            "guid": "#lVBBn7[{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こどもの 日[ひ]",
+                                "Kindertag",
+                                "<img src=\"日.png\">"
+                            ],
+                            "guid": "k/(=xMf~6c",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たなばた",
+                                "Tanabata (Fest am siebten Tag des siebten Monats)",
+                                ""
+                            ],
+                            "guid": "c9tz{:X5fb",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おぼん",
+                                "Obon Festival (traditionelles&nbsp;buddhistisches Fest und&nbsp;Feiertag in&nbsp;Japan zur Errettung der Seelen der verstorbenen Ahnen)",
+                                ""
+                            ],
+                            "guid": "]M}b|,(,5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おおみそか",
+                                "Silvester",
+                                ""
+                            ],
+                            "guid": "g}@C!LkV/L",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An welchen Tagen findet das Puppenfest statt?",
+                                "3 月[さんがつ] 3 日[みっか]"
+                            ],
+                            "guid": "Q_x2e)fugK",
+                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An welchen Tagen findet das Kinderfest statt?",
+                                "5 月[ごがつ]　5 日[いつか]"
+                            ],
+                            "guid": "pPMg_/+k!=",
+                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An welchen Tagen findet das Tanabata-Fest statt?",
+                                "7 月[しちがつ]　7 日[なのか]"
+                            ],
+                            "guid": "zoFBRJZ.P&",
+                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "An welchen Tagen findet das Obon-Fest statt?",
+                                "8月[はちがつ]&nbsp; 13日[じゅうさんにち]&nbsp; ~ 15日[じゅうごにち]"
+                            ],
+                            "guid": "tzDp,ThnC0",
+                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: たんじょうびはいつですか。<br>B: 2 月[にがつ] です。",
+                                "A: Wann ist Ihr Geburtstag?<br>B: Im Februar."
+                            ],
+                            "guid": "o<QC~(v-<U",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 2月[にがつ] 何[なん] 日[ひ]ですか。<br>B: 2月[にがつ]&nbsp;の 29日[にじゅうくにち]です。<br>A: ほんとうですか。",
+                                "A: An welchem Tag im Februar?<br>B: Am 29. Februar.<br>A: Tatsachlich?"
+                            ],
+                            "guid": "DEi3;-p[QB",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: おたんじょうびおめでとうございます。<br>B: ありがとうございます。",
+                                "A: Herzlichen Glückwunsch zum Geburtstag!<br>B: Vielen Dank!"
+                            ],
+                            "guid": "e3nS4G%]zY",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "63cb1606-8395-11ec-a1a8-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
@@ -3107,6 +3904,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
+            "mid": 1642764953999,
             "name": "Kapitel 12",
             "notes": []
         },
@@ -3277,6 +4075,54 @@
             },
             "reviewOrder": 0,
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 0,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
         }
     ],
     "desc": "",
@@ -3415,9 +4261,10 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}<br>\n<br>\n{{Strichordnung}}",
+                    "afmt": "{{furigana:Front}}\n\n<hr id=answer>\n\n{{Back}}<br>\n<br>\n{{Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -3425,10 +4272,10 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{kanji:Front}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}<br>\n<br>\n{{Strichordnung}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Front}}<br>\n<br>\n{{Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -3484,9 +4331,10 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{furigana:Front}}\n\n<hr id=answer>\n\n{{Back}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -3494,7 +4342,7 @@
                     "did": null,
                     "name": "Card 1",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{kanji:Front}}"
                 },
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
@@ -3623,9 +4471,62 @@
                 ]
             ],
             "sortf": 0,
+            "tags": [],
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Trivia",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Back}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",

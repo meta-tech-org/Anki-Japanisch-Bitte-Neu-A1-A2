@@ -4345,7 +4345,7 @@
                     "qfmt": "{{kanji:Japanisch}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Japanisch}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Japanisch}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",

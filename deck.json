@@ -561,7 +561,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "日本",
+                                "日本[にほん]",
                                 "Japan",
                                 "<img src=\"日本.png\">"
                             ],
@@ -720,7 +720,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "人",
+                                "人[じん]",
                                 "Mensch",
                                 "<img src=\"人.png\">"
                             ],
@@ -742,7 +742,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "日本人",
+                                "日本人[にほんじん]",
                                 "Japaner/-in",
                                 "<img src=\"日本人.png\">"
                             ],
@@ -753,7 +753,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ドイツ人",
+                                "ドイツ人[じん]",
                                 "Deutsche/r",
                                 ""
                             ],
@@ -764,7 +764,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "スイス人",
+                                "スイス人[じん]",
                                 "Schweizer/-in",
                                 ""
                             ],

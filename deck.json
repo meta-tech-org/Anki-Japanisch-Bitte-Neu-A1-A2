@@ -4213,7 +4213,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large{\n\tfont-size:40px;\n}",
             "flds": [
                 {
                     "font": "Arial",
@@ -4264,26 +4264,26 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{furigana:Front}}\n\n<hr id=answer>\n\n{{Back}}<br>\n<br>\n{{Strichordnung}}",
+                    "afmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Front}}</p>\n\n<hr id=answer>\n\n\n<p class=\"p-large\">{{Back}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Japanisch -> Deutsch",
                     "ord": 0,
-                    "qfmt": "{{kanji:Front}}"
+                    "qfmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Front}}</p>"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Front}}<br>\n<br>\n{{Strichordnung}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{furigana:Front}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Deutsch -> Japanisch",
                     "ord": 1,
-                    "qfmt": "{{Back}}"
+                    "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Back}}</p>"
                 }
             ],
             "type": 0

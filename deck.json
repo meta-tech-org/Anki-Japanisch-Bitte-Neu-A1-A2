@@ -1236,7 +1236,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "さのさんはSony のかたですか。",
+                                "さのさんはSonyのかたですか。",
                                 "Sind Sie von der Firma <i>Sony</i>, Frau Sano?"
                             ],
                             "guid": "ms6IFYf<2P",
@@ -3820,7 +3820,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: たんじょうびはいつですか。<br>B: 2 月[にがつ] です。",
+                                "A: たんじょうびはいつですか。<br>B: 2 月[にがつ]です。",
                                 "A: Wann ist Ihr Geburtstag?<br>B: Im Februar."
                             ],
                             "guid": "o<QC~(v-<U",

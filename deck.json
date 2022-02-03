@@ -4135,7 +4135,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large {\n  font-size: 40px;\n}\n",
             "flds": [
                 {
                     "font": "Arial",
@@ -4186,26 +4186,26 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Aussprache}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{Aussprache}}</p>\n\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}\n{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Hiragana: Aussprache",
                     "ord": 0,
-                    "qfmt": "Wie ist die Aussprache dieses Hiragana-Zeichens?<br/>\n{{Kana}}"
+                    "qfmt": "Wie ist die Aussprache dieses Hiragana-Zeichens?<br/>\n<p class=\"p-large\">{{Kana}}</p>"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Kana}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{Kana}}</p>\n\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}\n{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Hiragana: Schreibweise",
                     "ord": 1,
-                    "qfmt": "Wie wird dieses Hiragana-Zeichen geschrieben?<br/>\n{{Aussprache}}"
+                    "qfmt": "Wie wird dieses Hiragana-Zeichen geschrieben?<br/>\n<p class=\"p-large\">{{Aussprache}}</p>"
                 }
             ],
             "type": 0
@@ -4270,7 +4270,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Japanisch -> Deutsch",
+                    "name": "Vokabel: Japanisch -> Deutsch",
                     "ord": 0,
                     "qfmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Front}}</p>"
                 },
@@ -4281,7 +4281,7 @@
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Deutsch -> Japanisch",
+                    "name": "Vokabel: Deutsch -> Japanisch",
                     "ord": 1,
                     "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Back}}</p>"
                 }
@@ -4361,7 +4361,7 @@
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large {\n  font-size: 40px;\n}\n",
             "flds": [
                 {
                     "font": "Arial",
@@ -4411,26 +4411,26 @@
             "sortf": 0,
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Aussprache}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{Aussprache}}</p>\n\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}\n{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Katakana: Aussprache",
                     "ord": 0,
-                    "qfmt": "Wie ist die Aussprache dieses Katakana-Zeichens?<br/>\n{{Kana}}"
+                    "qfmt": "Wie ist die Aussprache dieses Katakana-Zeichens?<br/>\n<p class=\"p-large\">{{Kana}}</p>"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Kana}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{Kana}}</p>\n\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}\n{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Katakana: Schreibweise",
                     "ord": 1,
-                    "qfmt": "Wie wird dieses Katakana-Zeichen geschrieben?<br/>\n{{Aussprache}}"
+                    "qfmt": "Wie wird dieses Katakana-Zeichen geschrieben?\n<p class=\"p-large\">{{Aussprache}}</p>"
                 }
             ],
             "type": 0

@@ -4260,7 +4260,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Japanisch}}</p>\n\n<hr id=answer>\n\n\n<p class=\"p-large\">{{Deutsch}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
+                    "afmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{furigana:Japanisch}}</p>\n\n<hr id=answer>\n\n\n<p class=\"p-large\">{{Deutsch}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",

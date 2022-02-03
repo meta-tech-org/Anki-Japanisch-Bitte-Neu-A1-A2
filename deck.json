@@ -4217,7 +4217,7 @@
             "flds": [
                 {
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Japanisch",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -4225,7 +4225,7 @@
                 },
                 {
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Deutsch",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -4247,24 +4247,20 @@
             "req": [
                 [
                     0,
-                    "any",
-                    [
-                        0
-                    ]
+                    "none",
+                    []
                 ],
                 [
                     1,
-                    "any",
-                    [
-                        1
-                    ]
+                    "none",
+                    []
                 ]
             ],
             "sortf": 0,
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Front}}</p>\n\n<hr id=answer>\n\n\n<p class=\"p-large\">{{Back}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
+                    "afmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Japanisch}}</p>\n\n<hr id=answer>\n\n\n<p class=\"p-large\">{{Deutsch}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -4272,10 +4268,10 @@
                     "did": null,
                     "name": "Vokabel: Japanisch -> Deutsch",
                     "ord": 0,
-                    "qfmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Front}}</p>"
+                    "qfmt": "Übersetze die Vokabel ins Deutsche:<br>\n\n<p class=\"p-large\">{{kanji:Japanisch}}</p>"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{furigana:Front}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{furigana:Japanisch}}</p>\n<br>\n{{#Strichordnung}}\nStrichordnung:<br>\n{{Strichordnung}}{{/Strichordnung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -4283,7 +4279,7 @@
                     "did": null,
                     "name": "Vokabel: Deutsch -> Japanisch",
                     "ord": 1,
-                    "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Back}}</p>"
+                    "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Deutsch}}</p>"
                 }
             ],
             "type": 0
@@ -4295,7 +4291,7 @@
             "flds": [
                 {
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Japanisch",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -4303,7 +4299,7 @@
                 },
                 {
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Deutsch",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -4317,43 +4313,39 @@
             "req": [
                 [
                     0,
-                    "any",
-                    [
-                        0
-                    ]
+                    "none",
+                    []
                 ],
                 [
                     1,
-                    "any",
-                    [
-                        1
-                    ]
+                    "none",
+                    []
                 ]
             ],
             "sortf": 0,
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{furigana:Front}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{furigana:Japanisch}}\n\n<hr id=answer>\n\n{{Deutsch}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Satz: Japanisch -> Deutsch",
                     "ord": 0,
-                    "qfmt": "{{kanji:Front}}"
+                    "qfmt": "{{kanji:Japanisch}}"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Japanisch}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Satz: Deutsch -> Japanisch",
                     "ord": 1,
-                    "qfmt": "{{Back}}"
+                    "qfmt": "{{Deutsch}}"
                 }
             ],
             "type": 0
@@ -4442,7 +4434,7 @@
             "flds": [
                 {
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Frage",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -4450,7 +4442,7 @@
                 },
                 {
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Antwort",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -4474,15 +4466,15 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Antwort}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Grammatikfrage",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Frage}}"
                 }
             ],
             "type": 0
@@ -4494,7 +4486,7 @@
             "flds": [
                 {
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Frage",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -4502,7 +4494,7 @@
                 },
                 {
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Antwort",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -4526,15 +4518,15 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Antwort}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Triviafrage",
                     "ord": 0,
-                    "qfmt": "{{Front}}"
+                    "qfmt": "{{Frage}}"
                 }
             ],
             "type": 0

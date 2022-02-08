@@ -2791,6 +2791,259 @@
                             "guid": "Oo6Yvhy*W}",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "東[とう]",
+                                "Osten",
+                                ""
+                            ],
+                            "guid": "djvhE6?rB/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "京[きょう]",
+                                "Hauptstadt",
+                                ""
+                            ],
+                            "guid": "pS.$5EjP<>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "中[ちゅう]",
+                                "Mitte",
+                                ""
+                            ],
+                            "guid": "LO)g9}5a$H",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "国[ごく]",
+                                "Land, Staat",
+                                ""
+                            ],
+                            "guid": "[+[:2X-l4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "が",
+                                "Subjektpartikel",
+                                ""
+                            ],
+                            "guid": "Hq<e&B8`>4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だれ",
+                                "Fragewort wer, wem, wen",
+                                ""
+                            ],
+                            "guid": "G<Pj_&T{y[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だれが",
+                                "wer",
+                                ""
+                            ],
+                            "guid": "jt^?^gKdhT",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だれも",
+                                "keiner, niemand (mit Verneinung)",
+                                ""
+                            ],
+                            "guid": "Fc_~t-@p|c",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "まいにち",
+                                "jeden Tag, täglich",
+                                ""
+                            ],
+                            "guid": "w5-uVPMWkD",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かいます",
+                                "kaufen",
+                                ""
+                            ],
+                            "guid": "RhW1G?L@yV",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きます",
+                                "kommen",
+                                ""
+                            ],
+                            "guid": "gvu-Q/45zI",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "でんわ",
+                                "Telefon",
+                                ""
+                            ],
+                            "guid": "KAwn6./]$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "でんわをします",
+                                "telefonieren",
+                                ""
+                            ],
+                            "guid": "-av%6#fvi",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ヘ",
+                                "Partikel für Richtung und Ziel",
+                                ""
+                            ],
+                            "guid": "iD2RCt~O[8",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぎんこう",
+                                "Bank",
+                                ""
+                            ],
+                            "guid": "t8l`]nYILm",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "イギリス",
+                                "England",
+                                ""
+                            ],
+                            "guid": "HrkXz3Os)/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "メキシコ",
+                                "Mexiko",
+                                ""
+                            ],
+                            "guid": "CbgK_H59ME",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ディスコ",
+                                "Disco",
+                                ""
+                            ],
+                            "guid": "QiX1x=qzwi",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スーパー",
+                                "Supermarkt",
+                                ""
+                            ],
+                            "guid": "EshDl_>+.t",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ケラー",
+                                "Keller",
+                                ""
+                            ],
+                            "guid": "C:=q7mnQ,T",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "トーマス",
+                                "Thomas",
+                                ""
+                            ],
+                            "guid": "ACAj$Tr6V!",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "中国[ちゅうごく]",
+                                "China",
+                                ""
+                            ],
+                            "guid": "r6n8mnL!%f",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "東京[とうきょう]",
+                                "Tokio",
+                                ""
+                            ],
+                            "guid": "v,q76UuU(*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -2805,7 +3058,63 @@
                     "extendRev": 0,
                     "media_files": [],
                     "name": "C",
-                    "notes": []
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いち～じゅうに",
+                                "1 bis 12",
+                                ""
+                            ],
+                            "guid": "MkBM8N:dF+",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~ 人[にん]",
+                                "Zählwort für Menschen (Zahl vorangestellt)",
+                                ""
+                            ],
+                            "guid": "P}065iG|.:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なん] 人[にん]",
+                                "Wie viele Personen?",
+                                ""
+                            ],
+                            "guid": "C>R<1}%`II",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "人[ひと]",
+                                "Mensch, Person",
+                                ""
+                            ],
+                            "guid": "ri/yh7%C{(",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツの 人[ひと]",
+                                "Deutscher",
+                                ""
+                            ],
+                            "guid": "es^^)KQU(9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 },
                 {
                     "__type__": "Deck",
@@ -2839,6 +3148,138 @@
                             ],
                             "guid": "beMhX~lMsh",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "先[せん]",
+                                "Führung, Spitze, vorher",
+                                ""
+                            ],
+                            "guid": "G`2qZeCnC{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もってきます",
+                                "(mit-)bringen",
+                                ""
+                            ],
+                            "guid": "s-t/o`28U1",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おねがいします",
+                                "um etwas bitten",
+                                ""
+                            ],
+                            "guid": "mGsZs[%[H(",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "でんわをおねがいします",
+                                "Bitte (jemanden) anrufen!",
+                                ""
+                            ],
+                            "guid": "lm.E{^IoDx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "つくります",
+                                "herstellen, zubereiten, kochen, basteln",
+                                ""
+                            ],
+                            "guid": "tT1lGk2:Tf",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドラマ",
+                                "Drama",
+                                ""
+                            ],
+                            "guid": "d8`eI`$%{L",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハム",
+                                "Schinken",
+                                ""
+                            ],
+                            "guid": "r}--svOZ[@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "バウアー",
+                                "Bauer",
+                                ""
+                            ],
+                            "guid": "hTac2!UqFU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハントケ",
+                                "Handke",
+                                ""
+                            ],
+                            "guid": "QIG$$vIsPR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ブラウン",
+                                "Braun",
+                                ""
+                            ],
+                            "guid": "nlwOpw<`EP",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ライヒ",
+                                "Reich (Name)",
+                                ""
+                            ],
+                            "guid": "J.4Vj4@u{6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ヨアヒム",
+                                "Joachim",
+                                ""
+                            ],
+                            "guid": "ktXS3oMZuz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

@@ -2656,7 +2656,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
-                    "name": "A",
+                    "name": "A_3",
                     "notes": [
                         {
                             "__type__": "Note",
@@ -2842,96 +2842,6 @@
                                 "Das stimmt nicht. Sie ist sehr schön!"
                             ],
                             "guid": "pNY75uo?Z#",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "もしもし、トーステンで｀す。",
-                                "(Am Telefon)<br>HaIIo, hier ist Thorsten."
-                            ],
-                            "guid": "I[!`s^0]Kf",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "もしもし、たなかです。おひさしぶリです。",
-                                "(Am Telefon)<br>Hallo, hier ist Tanaka. Lange nicht gehört!"
-                            ],
-                            "guid": "u|M+_b2at7",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "もしもし、さのさんの おたくですか。",
-                                "(Am Telefon)<br>Hallo, bin ich da bei Frau Sano?"
-                            ],
-                            "guid": "er0:d&;HyE",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いいえ。おおたです。",
-                                "(Am Telefon)<br>Nein. (Hier spricht) Ota."
-                            ],
-                            "guid": "J3yMyV@ix-",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "あ、どうもすみませんでした。",
-                                "(Am Telefon)<br>Ach, ich bitte Sie um Entschuldigung."
-                            ],
-                            "guid": "iS(tSobN;$",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "もしもし、[A] です。",
-                                "(Am Telefon)<br>Hallo. Hier spricht A."
-                            ],
-                            "guid": "PZc7svoW48",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "もしもし、あ、[A] さん、いま、どこからですか。",
-                                "(Am Telefon)<br>Hallo, sind Sie das, Herr A.&nbsp;Woher rufen Sie an?"
-                            ],
-                            "guid": "g|kC&tHKh/",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いまベルリンからです。",
-                                "Jetzt rufe ich aus Berlin an."
-                            ],
-                            "guid": "el,;}e8<VG",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "きのうきました。",
-                                "Ich bin gestern (hierher) gekommen."
-                            ],
-                            "guid": "rll1?l7zNZ",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
@@ -4753,8 +4663,10 @@
                 "order": 1,
                 "perDay": 20
             },
+            "newGatherPriority": 0,
             "newMix": 0,
             "newPerDayMinimum": 0,
+            "newSortOrder": 0,
             "replayq": true,
             "rev": {
                 "bury": false,

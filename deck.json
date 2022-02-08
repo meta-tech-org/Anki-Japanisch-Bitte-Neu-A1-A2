@@ -3301,14 +3301,13 @@
                 {
                     "__type__": "Deck",
                     "children": [],
-                    "crowdanki_uuid": "4e6be57d-88ed-11ec-b014-704d7b2ee0df",
-                    "deck_config_uuid": "4e6c0c7e-88ed-11ec-b25b-704d7b2ee0df",
+                    "crowdanki_uuid": "dc2057bb-88ed-11ec-ba90-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
-                    "mid": 1642764953999,
                     "name": "A",
                     "notes": [
                         {

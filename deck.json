@@ -2649,6 +2649,50 @@
                 {
                     "__type__": "Deck",
                     "children": [],
+                    "crowdanki_uuid": "4e6be57d-88ed-11ec-b014-704d7b2ee0df",
+                    "deck_config_uuid": "4e6c0c7e-88ed-11ec-b25b-704d7b2ee0df",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "A",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "フランス語はできますか。",
+                                "Können Sie Französisch?"
+                            ],
+                            "guid": "eC7{bib?/R",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、できます。いでさんは？",
+                                "Ja, (das) kann ich. Und Sie, Frau Ide?"
+                            ],
+                            "guid": "s5`=*/wtA5",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはできません。<br>でも英語とスペイン語は<br>ちょっとできます。",
+                                "(Französisch) kann ich nicht.<br>Aber Englisch und Spanisch<br>kann ich ein bisschen."
+                            ],
+                            "guid": "A{1{VWIF$K",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
                     "crowdanki_uuid": "63c0dcd6-8395-11ec-b0c1-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
@@ -2656,6 +2700,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1644323376456,
                     "name": "B",
                     "notes": [
                         {
@@ -2678,6 +2723,216 @@
                             ],
                             "guid": "rHdIK[-70i",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:いいおてんきですね。さんぽをしませんか。<br>B:いいですね",
+                                "Schönes Wetter, nicht wahr?<br>Wollen wir nicht spazieren gehen?<br>Ja gerne!"
+                            ],
+                            "guid": "odycxxrAuj",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いしい： ベアマンさんはいいかたですね。<br>Keller: そうですね。いい人ですね。",
+                                "Herr Behrmann ist eine netter Mensch, nicht wahr?<br>Ja, er ist ein netter Mensch."
+                            ],
+                            "guid": "haJwwTnFXg",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:大阪大学はいい大学ですね。<br>B: そうですね。いい大学ですね。",
+                                "Die Osaka-Universität ist eine gute Universität, nicht wahr?<br>Das stimmt. Sie ist eine gute Universität."
+                            ],
+                            "guid": "I:,FzX)c_j",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "大阪はおもしろくないですか。",
+                                "Ist Osaka nicht interessant?"
+                            ],
+                            "guid": "Kk^{RJ-$(K",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ええ、おもしろくないですね。",
+                                "Das stimmt. Es ist nicht interessant."
+                            ],
+                            "guid": "O$}oS27~5>",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいえ、おもしろいですよ。",
+                                "Das stimmt nicht. Es ist interessant."
+                            ],
+                            "guid": "KE_x@);wWl",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいえ、おもしろくないですよ。",
+                                "Nein. Es ist nicht interessant."
+                            ],
+                            "guid": "gSHri2%cjK",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツはどうですか。",
+                                "Wie ist es in Deutschland?/ Wie finden Sie Deutschland?"
+                            ],
+                            "guid": "MA/ejV*.!D",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "とても おもしろい国です。",
+                                "Es ist ein sehr interessantes Land."
+                            ],
+                            "guid": "Q~sAA1WGh}",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おリがみはむずかしいですね。",
+                                "Origami ist schwer, nicht wahr?"
+                            ],
+                            "guid": "t_o)S}<dX5",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "パリはいいまちですね。",
+                                "Paris ist eine schöne Stadt!"
+                            ],
+                            "guid": "fk6WRzA+0j",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいえ、とてもいいですよ。",
+                                "Das stimmt nicht. Sie ist sehr schön!"
+                            ],
+                            "guid": "pNY75uo?Z#",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、トーステンで｀す。",
+                                "(Am Telefon)<br>HaIIo, hier ist Thorsten."
+                            ],
+                            "guid": "I[!`s^0]Kf",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、たなかです。おひさしぶリです。",
+                                "(Am Telefon)<br>Hallo, hier ist Tanaka. Lange nicht gehört!"
+                            ],
+                            "guid": "u|M+_b2at7",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、さのさんの おたくですか。",
+                                "(Am Telefon)<br>Hallo, bin ich da bei Frau Sano?"
+                            ],
+                            "guid": "er0:d&;HyE",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいえ。おおたです。",
+                                "(Am Telefon)<br>Nein. (Hier spricht) Ota."
+                            ],
+                            "guid": "J3yMyV@ix-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あ、どうもすみませんでした。",
+                                "(Am Telefon)<br>Ach, ich bitte Sie um Entschuldigung."
+                            ],
+                            "guid": "iS(tSobN;$",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、[A] です。",
+                                "(Am Telefon)<br>Hallo. Hier spricht A."
+                            ],
+                            "guid": "PZc7svoW48",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、あ、[A] さん、いま、どこからですか。",
+                                "(Am Telefon)<br>Hallo, sind Sie das, Herr A.&nbsp;Woher rufen Sie an?"
+                            ],
+                            "guid": "g|kC&tHKh/",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いまベルリンからです。",
+                                "Jetzt rufe ich aus Berlin an."
+                            ],
+                            "guid": "el,;}e8<VG",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのうきました。",
+                                "Ich bin gestern (hierher) gekommen."
+                            ],
+                            "guid": "rll1?l7zNZ",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -2715,6 +2970,176 @@
                             "guid": "EF;HdOXwgh",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、トーステンで｀す。",
+                                "(Am Telefon)<br>HaIIo, hier ist Thorsten."
+                            ],
+                            "guid": "I[!`s^0]Kf",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、たなかです。おひさしぶリです。",
+                                "(Am Telefon)<br>Hallo, hier ist Tanaka. Lange nicht gehört!"
+                            ],
+                            "guid": "u|M+_b2at7",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、さのさんの おたくですか。",
+                                "(Am Telefon)<br>Hallo, bin ich da bei Frau Sano?"
+                            ],
+                            "guid": "er0:d&;HyE",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいえ。おおたです。",
+                                "(Am Telefon)<br>Nein. (Hier spricht) Ota."
+                            ],
+                            "guid": "J3yMyV@ix-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あ、どうもすみませんでした。",
+                                "(Am Telefon)<br>Ach, ich bitte Sie um Entschuldigung."
+                            ],
+                            "guid": "iS(tSobN;$",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、[A] です。",
+                                "(Am Telefon)<br>Hallo. Hier spricht A."
+                            ],
+                            "guid": "PZc7svoW48",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、あ、[A] さん、いま、どこからですか。",
+                                "(Am Telefon)<br>Hallo, sind Sie das, Herr A.&nbsp;Woher rufen Sie an?"
+                            ],
+                            "guid": "g|kC&tHKh/",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いまベルリンからです。",
+                                "Jetzt rufe ich aus Berlin an."
+                            ],
+                            "guid": "el,;}e8<VG",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのうきました。",
+                                "Ich bin gestern (hierher) gekommen."
+                            ],
+                            "guid": "rll1?l7zNZ",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おひさしぶリです。おげんきですか。",
+                                "Lange nicht gesehen! Wie geht es Ihnen?"
+                            ],
+                            "guid": "pTJB{oGh8y",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、どうも。おたくのみなさんも<br>おげんきですか。",
+                                "Ja, danke schön. Mir geht es gut. Bei Ihnen&nbsp;zu Hause, geht es da allen gut?"
+                            ],
+                            "guid": "iYuzae#Lzj",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、あリがとうございます。おかあさんもおげんきですか。",
+                                "Ja, danke schön.&nbsp;Geht es Ihrer Mutter auch gut?"
+                            ],
+                            "guid": "t[q&_Lm!|h",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、ははもげんきです。",
+                                "Ja, meiner Mutter geht es auch gut."
+                            ],
+                            "guid": "n<.+.6Zt$3",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、Aです。いま&nbsp;ロンドンからです。",
+                                "(Am Telefon)<br>Hallo, hier ist A Jetzt (rufe ich)&nbsp;aus London an."
+                            ],
+                            "guid": "GIyVu{0m~n",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、A さん、イギリスからですか。",
+                                "(Am Telefon)<br>Hallo, (rufen Sie) aus England (an)"
+                            ],
+                            "guid": "GP}RKYyRP7",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "英語はだいじょうぶですか。",
+                                "Geht es mit Ihrem Englisch?"
+                            ],
+                            "guid": "LT23m%SW_>",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ええ、英語はすこしできます。",
+                                "Ja, ich kann ein bisschen Englisch."
+                            ],
+                            "guid": "L-D3X+=mem",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -2741,6 +3166,226 @@
                             ],
                             "guid": "IOfcEzX*@{",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ではいてさん、おげんきで。",
+                                "Nun, bleiben Sie gesund."
+                            ],
+                            "guid": "pV]m[|Uag0",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おたくの みなさんに どうぞ よろしく。",
+                                "Viele Grüße an Ihre Familie!"
+                            ],
+                            "guid": "h<j_e=;8*f",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あリがとうございます。&nbsp;いしいさんも どうぞ おげんきで。さようなら。",
+                                "Vielen Dank. Bleiben Sie auch gesund, Herr Ishii.&nbsp;Auf Wiederhören."
+                            ],
+                            "guid": "n~/QHKJ{Pc",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "では しつれいします。",
+                                "Auf Wiederhören."
+                            ],
+                            "guid": "hf3svTme~^",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おとう さんは おげんきですか。",
+                                "Wie geht es Ihrem Vater?"
+                            ],
+                            "guid": "q+@:,BdoR`",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、ちちは とても げんきです。でも、ははは ちょっと…。",
+                                "Danke, meinem Vater geht es sehr gut.<br>Aber meine Mutter ist ein bisschen... (krank)."
+                            ],
+                            "guid": "E-_Tuk~<M,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですか。それはどうも…。どうぞ、おだしヽじに。",
+                                "Ist das wahr? Das ist aber ... (nichtschön). / Es tut mir leid. <br>Gute Besserung! / Bitte sagen Sie ihr gute Besserung!"
+                            ],
+                            "guid": "r&|%&z<D?v",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし。ベアマンです。おはようございます。",
+                                "(Am Telefon)<br>Hallo. Ich bin Bärmann. Guten Morgen."
+                            ],
+                            "guid": "p:nxvCe_j~",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おはようございます。お久しぶりです。お元気ですか。",
+                                "Guten Morgen. Lange nicht gesehen. wie gehts?"
+                            ],
+                            "guid": "i6P7/O84,u",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、げんきです。きょうはいいおてんきですね。",
+                                "Ja, ich bin okay. Heute ist eine gute Zeit."
+                            ],
+                            "guid": "k4eU]}QF+b",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですね",
+                                "ist das so"
+                            ],
+                            "guid": "gb3$92d$mw",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いっしょにさんぽをしませんか。",
+                                "Möchten Sie mit uns spazieren gehen?"
+                            ],
+                            "guid": "Fnda-40EPg",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さんぽですか。いいですね。",
+                                "Ist es ein Spaziergang? Hört sich gut an."
+                            ],
+                            "guid": "Px)+X|~zwV",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゃ、わたしが おたくに いきましようか。",
+                                "Soll ich dann zu deinem Haus gehen?"
+                            ],
+                            "guid": "w-TPp0pdMJ",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、すぐいきます。",
+                                "Ja, ich werde bald gehen."
+                            ],
+                            "guid": "BhOzhLv(h_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "らいげつ、大阪から ちちが きます。",
+                                "Nächsten Monat kommt mein Vater aus Osaka."
+                            ],
+                            "guid": "cT]BCnN=!a",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうてすか。おかあさんは・・・。",
+                                "Ist das so? Und deine Mutter ...?"
+                            ],
+                            "guid": "K~Z][|Yz}_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ははは きません。",
+                                ""
+                            ],
+                            "guid": "Pl@8r::is4",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですか。それは ざんねんですね。・・・おとうさんは、ドイツ語は。",
+                                ""
+                            ],
+                            "guid": "eS5OItB|w!",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツ語は&nbsp; あまリ&nbsp; できません。でも、よく&nbsp; ドイツの&nbsp; オペラを&nbsp;&nbsp;ききます。",
+                                ""
+                            ],
+                            "guid": "HV-k-7fd*X",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですか。じゃ、いっしょに&nbsp; オペラを&nbsp; みませんか。",
+                                ""
+                            ],
+                            "guid": "H7lKy*1][=",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それは&nbsp; いいてすね。みましよう。",
+                                ""
+                            ],
+                            "guid": "of?[Y[.I+=",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]

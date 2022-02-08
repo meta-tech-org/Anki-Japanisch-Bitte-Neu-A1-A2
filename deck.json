@@ -4161,6 +4161,314 @@
                             "guid": "nY5RW:sd|#",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "まて",
+                                "(Partikel) bis (zeitlich, örtlich)",
+                                ""
+                            ],
+                            "guid": "hkyPQKterG",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きっと",
+                                "bestimmt, sicherlich",
+                                ""
+                            ],
+                            "guid": "kx<aPT~/;:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゅぎょう",
+                                "Unterricht",
+                                ""
+                            ],
+                            "guid": "wx<wb3;aYo",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わかります",
+                                "verstehen",
+                                ""
+                            ],
+                            "guid": "cThW-t][e(",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わかりました",
+                                "Ich verstehe/ Alles klar",
+                                ""
+                            ],
+                            "guid": ";F,5:i60O",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "てんらんかい",
+                                "Ausstellung",
+                                ""
+                            ],
+                            "guid": "pQtS*pl#,Y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ユーロ",
+                                "Euro",
+                                ""
+                            ],
+                            "guid": "m{2=*X=P69",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アール ヌーボー",
+                                "Art nouveau",
+                                ""
+                            ],
+                            "guid": "NaK)opZ+1+",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ピカソ",
+                                "Picasso",
+                                ""
+                            ],
+                            "guid": "h9yBU(mW,E",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ダリ",
+                                "Dali",
+                                ""
+                            ],
+                            "guid": "piI1;a<=g@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "マッケ",
+                                "Macke",
+                                ""
+                            ],
+                            "guid": "phD$A9~n0H",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ユトリロ",
+                                "Utrillo",
+                                ""
+                            ],
+                            "guid": "tCz3n`rqI%",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "セザンヌ",
+                                "Cezanne",
+                                ""
+                            ],
+                            "guid": "OK^7#eykkn",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "シューマン",
+                                "Schumann",
+                                ""
+                            ],
+                            "guid": "uZX=o4t|1C",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "シューベルト",
+                                "Schubert",
+                                ""
+                            ],
+                            "guid": "pG(@6Z<`IM",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さんじゅう",
+                                "30",
+                                ""
+                            ],
+                            "guid": "b$28motIox",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さんじゅうよん",
+                                "34",
+                                ""
+                            ],
+                            "guid": "y-TiNaE4da",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さんじゅうしち",
+                                "37",
+                                ""
+                            ],
+                            "guid": "wXm)a+_99e",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さんじゅうきゅう",
+                                "39",
+                                ""
+                            ],
+                            "guid": "uG*rT$l>]3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よんじゅう",
+                                "40",
+                                ""
+                            ],
+                            "guid": "yxu%Z~Qq[o",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ごじゅう",
+                                "50",
+                                ""
+                            ],
+                            "guid": "Fi_xH,jK3-",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ろくじゅう",
+                                "60",
+                                ""
+                            ],
+                            "guid": "y{dVxmE(o3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ななじゅう",
+                                "70",
+                                ""
+                            ],
+                            "guid": "I<2s0YmxYN",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はちじゅう",
+                                "80",
+                                ""
+                            ],
+                            "guid": "Fg]%D}fV^O",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きゅうじゅう",
+                                "90",
+                                ""
+                            ],
+                            "guid": "rNv^;;4=qk",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きゅうじゅうきゅう",
+                                "99",
+                                ""
+                            ],
+                            "guid": "cZDw5U?%wR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ひゃく",
+                                "100",
+                                ""
+                            ],
+                            "guid": "heTHVxs`Ki",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ひゃくいち",
+                                "101",
+                                ""
+                            ],
+                            "guid": "B7b[Z?U*g,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 }

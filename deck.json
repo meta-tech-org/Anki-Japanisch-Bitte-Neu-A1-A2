@@ -2521,6 +2521,204 @@
                             "guid": "h=XTH2e_Q?",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "のみます",
+                                "trinken",
+                                ""
+                            ],
+                            "guid": "xMbE6w%4<t",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すぐ",
+                                "gleich, sofort (Adverb)",
+                                ""
+                            ],
+                            "guid": "NUw?fg`/7[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんどの",
+                                "nächster, kommender",
+                                ""
+                            ],
+                            "guid": "zz8&,49T>:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんどの土曜日",
+                                "kommender Samstag",
+                                ""
+                            ],
+                            "guid": "r0{lnc$)z{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おんせん",
+                                "Heiße Quellen",
+                                ""
+                            ],
+                            "guid": "K@ZOP@#h&r",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "うんてん",
+                                "Autofahren (Nomen)",
+                                ""
+                            ],
+                            "guid": "vtT*Bu9zoU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "うんてんします",
+                                "Autofahren (Verb)",
+                                ""
+                            ],
+                            "guid": "O4.UNF/)}b",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オペラ",
+                                "Oper",
+                                ""
+                            ],
+                            "guid": "qg)Nyl_?YV",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ウーテ",
+                                "Ute",
+                                ""
+                            ],
+                            "guid": "h+P*Vuz37%",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ピザ",
+                                "Pizza",
+                                ""
+                            ],
+                            "guid": "C`-*9t=-OB",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハンバーグ",
+                                "Hackbraten (Hamburger)",
+                                ""
+                            ],
+                            "guid": "Hs7:Ts7Hd%",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "デパート",
+                                "Kaufhaus",
+                                ""
+                            ],
+                            "guid": "m3/f<O``o4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "クラス",
+                                "Klasse",
+                                ""
+                            ],
+                            "guid": "ur=F1K[|;z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "コース",
+                                "Kurs",
+                                ""
+                            ],
+                            "guid": "y,]t&a$MVH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "コーヒー",
+                                "Kaffee",
+                                ""
+                            ],
+                            "guid": "NsFAE1)+MS",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "土曜日[どようび]",
+                                "Samstag",
+                                ""
+                            ],
+                            "guid": "z4w>^Fe2Tx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "土曜日に",
+                                "am Samstag",
+                                ""
+                            ],
+                            "guid": "s#b=p~oOQ;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "土[ど]",
+                                "Erde",
+                                ""
+                            ],
+                            "guid": "Q3oGxGVP+:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },

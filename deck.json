@@ -3308,6 +3308,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1642764953999,
                     "name": "A",
                     "notes": [
                         {
@@ -3337,6 +3338,16 @@
                                 "(Französisch) kann ich nicht.<br>Aber Englisch und Spanisch<br>kann ich ein bisschen."
                             ],
                             "guid": "A{1{VWIF$K",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オラフはドイツ人です。でもドイツ語ができません。",
+                                "Olaf ist Deutscher. Aber er kann kein Deutsch."
+                            ],
+                            "guid": "yM>o9!^8=<",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }

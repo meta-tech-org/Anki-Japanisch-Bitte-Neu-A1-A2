@@ -2464,7 +2464,9 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "土曜日.png"
+                    ],
                     "name": "A",
                     "notes": [
                         {
@@ -2692,7 +2694,7 @@
                             "fields": [
                                 "土曜日[どようび]",
                                 "Samstag",
-                                ""
+                                "<img src=\"土曜日.png\">"
                             ],
                             "guid": "z4w>^Fe2Tx",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -6080,7 +6082,7 @@
                     "media_files": [
                         "休.png"
                     ],
-                    "mid": 1642764953999,
+                    "mid": 1644425084653,
                     "name": "B",
                     "notes": [
                         {
@@ -6344,6 +6346,275 @@
                             ],
                             "guid": "eRmZQUC6Wm",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "c7da47c7-89c9-11ec-8c22-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "何曜日.png",
+                        "日曜日.png",
+                        "月曜日.png",
+                        "木.png",
+                        "木曜日.png",
+                        "来月.png",
+                        "水.png",
+                        "水曜日.png",
+                        "火.png",
+                        "火曜日.png",
+                        "金曜日.png"
+                    ],
+                    "name": "C",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "水[すい]",
+                                "Wasser",
+                                "<img src=\"水.png\">"
+                            ],
+                            "guid": "bHr>+#}vwf",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "火[か]",
+                                "Feuer",
+                                "<img src=\"火.png\">"
+                            ],
+                            "guid": "L*_~F&,(G$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "木[もく]",
+                                "Baum, Holz",
+                                "<img src=\"木.png\">"
+                            ],
+                            "guid": "L=h.H+PHO,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こん週[こ んしゅつ]",
+                                "diese Woche",
+                                ""
+                            ],
+                            "guid": "n};T4:TFxf",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日曜日[にちようび]",
+                                "Sonntag",
+                                "<img src=\"日曜日.png\">"
+                            ],
+                            "guid": "s_mqiJ2I.6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "月曜日[げつようび]",
+                                "Montag",
+                                "<img src=\"月曜日.png\">"
+                            ],
+                            "guid": "k81q?k4<>X",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "火曜日[かようび]",
+                                "Dienstag",
+                                "<img src=\"火曜日.png\">"
+                            ],
+                            "guid": "KAVl[FljNN",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "水曜日[すいようび]",
+                                "Mittwoch",
+                                "<img src=\"水曜日.png\">"
+                            ],
+                            "guid": "q=(fxf8n@=",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "木曜日[もくようび]",
+                                "Donnerstag",
+                                "<img src=\"木曜日.png\">"
+                            ],
+                            "guid": "bLoWaM=L`9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "Freitag",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こん週の土曜日",
+                                "Samstag dieser Woche",
+                                ""
+                            ],
+                            "guid": "A)2w?kp*gr",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何曜日[なんようび]",
+                                "welcher Wochentag",
+                                "<img src=\"何曜日.png\">"
+                            ],
+                            "guid": "zLXy([4(C*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "来月[らいげつ]",
+                                "nächster Monat",
+                                "<img src=\"来月.png\">"
+                            ],
+                            "guid": "s]1_eCu]@b",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man einen Termin, ein Datum oder einen Zeitpunkt betonen?",
+                                "Um einen Termin, ein Datum oder einen Zeitpunkt zu betonen, verwendet man hinter der Partikel に zusätzlich die Themapartikel は, zum Beispiel 5時には."
+                            ],
+                            "guid": "qA~?GG&Uod",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 4 日[よっか]は 何[なん] 曜日[ようび]ですか。<br>B: 木曜日[もくようび]です。",
+                                "A: Welchen Wochentag haben wir am 4.?<br>B: Einen Donnerstag."
+                            ],
+                            "guid": "MYf`)0z97[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:こん 週[しゅう]の 土曜日[どようび]にえいがにいきませんか。<br>B:いいですね。",
+                                "A: Wollen wir nicht am Samstag dieser Woche ins Kino gehen?<br>B: Das ist eine gute Idee!"
+                            ],
+                            "guid": "hktup^N.:5",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いしいさんは日曜日は何をしますか。",
+                                "Was macht Frau Ishii am Sonntag?"
+                            ],
+                            "guid": "J~U4sSivJD",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>月曜日{{c1::は::は・を・に・には}}ドイツ語のじゅぎょう{{c1::を::は・を・に・には}}{{c2::いきました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                ""
+                            ],
+                            "guid": "vn@@K%`dwF",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>火曜日{{c1::は::は・を・に・には}}ともだち{{c1::に::は・を・に・には}}{{c2::あいました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                ""
+                            ],
+                            "guid": "A0m_sjVEV2",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>水曜日{{c1::は::は・を・に・には}}バッハのコンサート{{c1::を::は・を・に・には}}{{c2::ききました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                ""
+                            ],
+                            "guid": "w:Mqq/O`G%",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>木曜日{{c1::は::は・を・に・には}}フランスのえいが{{c1::を::は・を・に・には}}{{c2::みました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                ""
+                            ],
+                            "guid": "FdFaV$ZA`A",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>金曜日{{c1::は::は・を・に・には}}本{{c1::を::は・を・に・には}}{{c2::よみました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                ""
+                            ],
+                            "guid": "h;Uw)}uZeJ",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>土曜日{{c1::は::は・を・に・には}}ドイツリょうリ{{c2::たべました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                ""
+                            ],
+                            "guid": "EJB^Su.ju,",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
                         }
                     ]
@@ -7038,6 +7309,58 @@
                 }
             ],
             "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Text",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back Extra",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Cloze",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{cloze:Text}}<br>\n{{Back Extra}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Cloze",
+                    "ord": 0,
+                    "qfmt": "{{cloze:Text}}"
+                }
+            ],
+            "type": 1
         }
     ],
     "notes": []

@@ -6080,7 +6080,7 @@
                     "media_files": [
                         "休.png"
                     ],
-                    "mid": 1642765939199,
+                    "mid": 1642764953999,
                     "name": "B",
                     "notes": [
                         {
@@ -6304,6 +6304,46 @@
                             ],
                             "guid": "P459.4QDb@",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:なつ休みは何月何日からですか。<br>B:10月15日からです。",
+                                "A: Ab welchem Datum ist ihr Sommerurlaub? / Wann beginnen die Sommerferien?<br>B: Ab dem 15. Oktober."
+                            ],
+                            "guid": "n@{]cK!BX[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:ゴールデンウィークはいつからいつまでですか。<br>B:4月29日から5月7日までです。",
+                                "A: Von wann bis wann ist die goldene Woche?<br>B: Vom 29. April bis zum 07. Mai."
+                            ],
+                            "guid": "L=}>;xAM%<",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いつウィーンにかえリますか。<br>B: 5月1日にかえリます。",
+                                "A: Wann fahren Sie nach Wien zurück?<br>B: Am 01. Mai fahre ich zurück."
+                            ],
+                            "guid": "luC8iMC2VC",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: バッハのコンサートは何月何日ですか。<br>B: 3月14日です。",
+                                "A: Wann findet das Bach-Konzert statt?<br>B: Am 14. März."
+                            ],
+                            "guid": "eRmZQUC6Wm",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]

@@ -6077,7 +6077,10 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "休.png"
+                    ],
+                    "mid": 1642765939199,
                     "name": "B",
                     "notes": [
                         {
@@ -6111,6 +6114,196 @@
                             ],
                             "guid": "n73upo~6R|",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "休み[やすみ]",
+                                "Pause, Ferien",
+                                "<img src=\"休.png\">"
+                            ],
+                            "guid": "tZFa:lidVx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "に",
+                                "(Partikel) für Zeitangabe: an (dem Tag),<br>in (dem Monat/ dem Jahr etc.)",
+                                ""
+                            ],
+                            "guid": "d8Z,F52a}G",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつから",
+                                "ab wann, seit wann",
+                                ""
+                            ],
+                            "guid": "l[T(pSFR*@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつまで",
+                                "bis wann",
+                                ""
+                            ],
+                            "guid": "uGH/#]lul~",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かえリます",
+                                "(nach Hause/ in die Heimat etc.) zurückkehren",
+                                ""
+                            ],
+                            "guid": "gUHqM7P0>y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ウィーン",
+                                "Wien (Stadt)",
+                                ""
+                            ],
+                            "guid": "zSU:qlNmv0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ゴールデンウィーク",
+                                "goldenweek (eine Woche mit vier Feiertagen zwischen Ende April und Anfang Mai",
+                                ""
+                            ],
+                            "guid": "n)LBZ+;YyT",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "カーネーショーン",
+                                "Nelke (Blume)",
+                                ""
+                            ],
+                            "guid": "u;wZ9YY+yQ",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ははの 日[ひ]",
+                                "Muttertag",
+                                ""
+                            ],
+                            "guid": "HBNS;MApsz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "なつ 休[やす]み",
+                                "Sommerferien/-urlaub",
+                                "<img src=\"休.png\">"
+                            ],
+                            "guid": "k<:wHi[]@{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bezeichnet der Partikel ～に?",
+                                "Eine Zeitangabe mit der Partikel に bezeichnet den Zeitpunkt oder die Zeitspanne eines Ereignisses oder einer Handlung."
+                            ],
+                            "guid": "DnJ7}^L!!+",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8 時[じ]にかいしゃにいきます。",
+                                "Um 8 Uhr fahre ich zur Firma."
+                            ],
+                            "guid": "m*a&AZRBsq",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "1 月[がつ]にウィーンにいきます。",
+                                "Im Januar fahre ich nach Wien."
+                            ],
+                            "guid": "rac1D(f,*5",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "休[やす]みにどこにいきますか。",
+                                "Wohin fahren Sie in den Ferien?"
+                            ],
+                            "guid": "n_@Ijzn9Xy",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ははの 日[ひ]にカーネーションをかいます。",
+                                "AmMuttertag kaufe ich Nelken."
+                            ],
+                            "guid": "Go]Fz-xuSh",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Womit wird&nbsp;かえリます je nach Ausgangspunkt übersetzt?",
+                                "かえリます wird je nach Ausgangspunkt mit zurückgehen oder zurückkommen übersetzt."
+                            ],
+                            "guid": "eHYL7_aa,",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird <i>Nach Hause gehen </i>ausgedrückt?",
+                                "Nach Hause gehen wird nicht mit いきます <i>gehen </i>sondern immer mit かえリます zurückkehren ausgedrückt."
+                            ],
+                            "guid": "D+,A_uIc-n",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann ist es üblich, neben dem Fragewort&nbsp;いつ&nbsp;<i>wann&nbsp;</i>何月何日 zu benutzen?",
+                                "Wenn man gezielt nach einem genauen Datum fragen möchte."
+                            ],
+                            "guid": "P459.4QDb@",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]

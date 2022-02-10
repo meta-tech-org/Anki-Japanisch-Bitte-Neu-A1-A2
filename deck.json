@@ -2362,7 +2362,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ちよ",
+                                "ちょ",
                                 "cho",
                                 ""
                             ],
@@ -2465,6 +2465,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
+                        "土.png",
                         "土曜日.png"
                     ],
                     "name": "A",
@@ -2716,7 +2717,7 @@
                             "fields": [
                                 "土[ど]",
                                 "Erde",
-                                ""
+                                "<img src=\"土.png\">"
                             ],
                             "guid": "Q3oGxGVP+:",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -2929,7 +2930,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "でんわをします",
+                                "でんわ(を)します",
                                 "telefonieren",
                                 ""
                             ],
@@ -3007,7 +3008,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ケラー",
-                                "Keller",
+                                "Keller (Name)",
                                 ""
                             ],
                             "guid": "C:=q7mnQ,T",
@@ -3018,7 +3019,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "トーマス",
-                                "Thomas",
+                                "Thomas (Name)",
                                 ""
                             ],
                             "guid": "ACAj$Tr6V!",
@@ -3233,7 +3234,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "バウアー",
-                                "Bauer",
+                                "Bauer (Name)",
                                 ""
                             ],
                             "guid": "hTac2!UqFU",
@@ -3244,7 +3245,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ハントケ",
-                                "Handke",
+                                "Handke (Name)",
                                 ""
                             ],
                             "guid": "QIG$$vIsPR",
@@ -3255,7 +3256,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ブラウン",
-                                "Braun",
+                                "Braun (Name)",
                                 ""
                             ],
                             "guid": "nlwOpw<`EP",
@@ -3277,7 +3278,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ヨアヒム",
-                                "Joachim",
+                                "Joachim (Name)",
                                 ""
                             ],
                             "guid": "ktXS3oMZuz",
@@ -3483,7 +3484,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "おリがみはむずかしいですね。",
+                                "おりがみはむずかしいですね。",
                                 "Origami ist schwer, nicht wahr?"
                             ],
                             "guid": "t_o)S}<dX5",
@@ -3549,7 +3550,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "もしもし、トーステンで｀す。",
+                                "もしもし、トーステンです。",
                                 "(Am Telefon)<br>HaIIo, hier ist Thorsten."
                             ],
                             "guid": "I[!`s^0]Kf",
@@ -3559,7 +3560,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "もしもし、たなかです。おひさしぶリです。",
+                                "もしもし、たなかです。おひさしぶりです。",
                                 "(Am Telefon)<br>Hallo, hier ist Tanaka. Lange nicht gehört!"
                             ],
                             "guid": "u|M+_b2at7",
@@ -3639,7 +3640,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "おひさしぶリです。おげんきですか。",
+                                "おひさしぶりです。おげんきですか。",
                                 "Lange nicht gesehen! Wie geht es Ihnen?"
                             ],
                             "guid": "pTJB{oGh8y",
@@ -3659,7 +3660,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "はい、あリがとうございます。おかあさんもおげんきですか。",
+                                "はい、ありがとうございます。おかあさんもおげんきですか。",
                                 "Ja, danke schön.&nbsp;Geht es Ihrer Mutter auch gut?"
                             ],
                             "guid": "t[q&_Lm!|h",
@@ -5957,7 +5958,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "こどもの日[ひ]",
+                                "こどもの 日[ひ]",
                                 "Kindertag",
                                 "<img src=\"日.png\">"
                             ],
@@ -6051,7 +6052,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: 2月[にがつ] 何[なん] 日[ひ]ですか。<br>B: 2月[にがつ]&nbsp;の 29日[にじゅうくにち]です。<br>A: ほんとうですか。",
+                                "A: 2月[にがつ] 何[なん] 日[にち]ですか。<br>B: 2月[にがつ]&nbsp;の 29日[にじゅうくにち]です。<br>A: ほんとうですか。",
                                 "A: An welchem Tag im Februar?<br>B: Am 29. Februar.<br>A: Tatsachlich?"
                             ],
                             "guid": "DEi3;-p[QB",
@@ -6898,7 +6899,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 0,
+    "extendNew": 30,
     "extendRev": 0,
     "media_files": [],
     "name": "Japanisch, bitte! Neu",

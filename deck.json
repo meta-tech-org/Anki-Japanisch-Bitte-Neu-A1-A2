@@ -6641,6 +6641,203 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "b379e9ff-8a71-11ec-a81d-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "英.png"
+                    ],
+                    "name": "D",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "で",
+                                "(Partikel für Handlungsort) in, an, auf"
+                            ],
+                            "guid": "G^7]SCxlNc",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どこで",
+                                "wo (Handlungsort)",
+                                ""
+                            ],
+                            "guid": "H!b,B6Hs^>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "がっこう",
+                                "Schule",
+                                ""
+                            ],
+                            "guid": "w$`aATsz8>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かいわ",
+                                "Dialog, Konversation",
+                                ""
+                            ],
+                            "guid": "n(OKszUJe5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "英[えい]かいわ",
+                                "englische Konversation",
+                                "<img src=\"英.png\">"
+                            ],
+                            "guid": "N8vl7i@_m0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かいわがっこう",
+                                "Sprachenschule",
+                                ""
+                            ],
+                            "guid": "t%X$(lwOPL",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じつは",
+                                "offen gesagt, in Wirklichkeit, eigentlich",
+                                ""
+                            ],
+                            "guid": "mmA@X`FUPS",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ならいます",
+                                "lernen, üben",
+                                ""
+                            ],
+                            "guid": "E>r77)AQUe",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "テニスコート",
+                                "Tennisplatz",
+                                ""
+                            ],
+                            "guid": "uf0x24AQB:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ピアノ",
+                                "Klavier",
+                                ""
+                            ],
+                            "guid": "OQ.!Vz*UIR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ギター",
+                                "Gitarre",
+                                ""
+                            ],
+                            "guid": "z+~_F;3GP9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: どこで日本語をべんきょうしましたか。<br>B:&nbsp;しみん大学です。",
+                                "A:&nbsp;Wo haben Sie Japanisch gelernt?<br>B: In der Volkshochschule."
+                            ],
+                            "guid": "Rhe}2M4gVO",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Antwortet man auf eine Frage, in der で bereits verwendet wird, kann dieses in der Antwort weggelassen werden?",
+                                "Antwortet man auf eine Frage, in der で bereits verwendet wird, so kann man in der Antwort auf die Wiederholung der Partikel verzichten."
+                            ],
+                            "guid": "K(|^Z|:{i?",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann fällt die Objektpartikel を in einem Satz weg?",
+                                "Die Objektpartikel を fällt immer weg, wenn das Objekt durch は betont oder zum Thema des Satzes gemacht wird.<br>Beispiel:&nbsp;英語は…べんきょうしましたか。"
+                            ],
+                            "guid": "JA>TYx;kv(",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あしたはうちでしごとをします。",
+                                "Morgen arbeite ich zu Hause."
+                            ],
+                            "guid": "lE-`!;@.2f",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "パリでかいものをしましょう！",
+                                "Lass uns in Paris einkaufen!"
+                            ],
+                            "guid": "FZ*sac>1fz",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "63ca2ba6-8395-11ec-a030-0c7a15ee466f",
@@ -6924,6 +7121,7 @@
     "extendNew": 30,
     "extendRev": 0,
     "media_files": [],
+    "mid": 1642764953999,
     "name": "Japanisch, bitte! Neu",
     "note_models": [
         {
@@ -7384,6 +7582,76 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n\n.p-large{\n\tfont-size:40px;\n}",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Partikel",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "Wofür steht die Partikel:<br>\n\n<p class=\"p-large\">{{Front}}</p>"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Front}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Card 2",
+                    "ord": 1,
+                    "qfmt": "{{Back}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": []

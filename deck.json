@@ -755,7 +755,7 @@
                             "fields": [
                                 "ドイツ人[じん]",
                                 "Deutsche/r",
-                                ""
+                                "<img src=\"人.png\">"
                             ],
                             "guid": "p@@0&X]jb}",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -766,7 +766,7 @@
                             "fields": [
                                 "スイス人[じん]",
                                 "Schweizer/-in",
-                                ""
+                                "<img src=\"人.png\">"
                             ],
                             "guid": "r-Y#Wv%v^A",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -2563,7 +2563,7 @@
                             "fields": [
                                 "こんどの土曜日",
                                 "kommender Samstag",
-                                ""
+                                "<img src=\"土曜日.png\">"
                             ],
                             "guid": "r0{lnc$)z{",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -2706,7 +2706,7 @@
                             "fields": [
                                 "土曜日に",
                                 "am Samstag",
-                                ""
+                                "<img src=\"土曜日.png\">"
                             ],
                             "guid": "s#b=p~oOQ;",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -2736,7 +2736,13 @@
                     "extendRev": 0,
                     "media_files": [
                         "nu.gif",
-                        "ro.gif"
+                        "ro.gif",
+                        "中.png",
+                        "中国.png",
+                        "京.png",
+                        "国.png",
+                        "東.png",
+                        "東京.png"
                     ],
                     "name": "B",
                     "notes": [
@@ -2800,7 +2806,7 @@
                             "fields": [
                                 "東[とう]",
                                 "Osten",
-                                ""
+                                "<img src=\"東.png\">"
                             ],
                             "guid": "djvhE6?rB/",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -2811,7 +2817,7 @@
                             "fields": [
                                 "京[きょう]",
                                 "Hauptstadt",
-                                ""
+                                "<img src=\"京.png\">"
                             ],
                             "guid": "pS.$5EjP<>",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -2822,7 +2828,7 @@
                             "fields": [
                                 "中[ちゅう]",
                                 "Mitte",
-                                ""
+                                "<img src=\"中.png\">"
                             ],
                             "guid": "LO)g9}5a$H",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -2833,7 +2839,7 @@
                             "fields": [
                                 "国[ごく]",
                                 "Land, Staat",
-                                ""
+                                "<img src=\"国.png\">"
                             ],
                             "guid": "[+[:2X-l4",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3031,7 +3037,7 @@
                             "fields": [
                                 "中国[ちゅうごく]",
                                 "China",
-                                ""
+                                "<img src=\"中国.png\">"
                             ],
                             "guid": "r6n8mnL!%f",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3042,7 +3048,7 @@
                             "fields": [
                                 "東京[とうきょう]",
                                 "Tokio",
-                                ""
+                                "<img src=\"東京.png\">"
                             ],
                             "guid": "v,q76UuU(*",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3059,7 +3065,10 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "人.png",
+                        "何人.png"
+                    ],
                     "name": "C",
                     "notes": [
                         {
@@ -3078,7 +3087,7 @@
                             "fields": [
                                 "~ 人[にん]",
                                 "Zählwort für Menschen (Zahl vorangestellt)",
-                                ""
+                                "<img src=\"人.png\">"
                             ],
                             "guid": "P}065iG|.:",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3089,7 +3098,7 @@
                             "fields": [
                                 "何[なん] 人[にん]",
                                 "Wie viele Personen?",
-                                ""
+                                "<img src=\"何人.png\">"
                             ],
                             "guid": "C>R<1}%`II",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3100,7 +3109,7 @@
                             "fields": [
                                 "人[ひと]",
                                 "Mensch, Person",
-                                ""
+                                "<img src=\"人.png\">"
                             ],
                             "guid": "ri/yh7%C{(",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3111,7 +3120,7 @@
                             "fields": [
                                 "ドイツの 人[ひと]",
                                 "Deutscher",
-                                ""
+                                "<img src=\"人.png\">"
                             ],
                             "guid": "es^^)KQU(9",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3128,7 +3137,9 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "先.png"
+                    ],
                     "name": "D",
                     "notes": [
                         {
@@ -3158,7 +3169,7 @@
                             "fields": [
                                 "先[せん]",
                                 "Führung, Spitze, vorher",
-                                ""
+                                "<img src=\"先.png\">"
                             ],
                             "guid": "G`2qZeCnC{",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -3767,7 +3778,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "あリがとうございます。&nbsp;いしいさんも どうぞ おげんきで。さようなら。",
+                                "ありがとうございます。&nbsp;いしいさんも どうぞ おげんきで。さようなら。",
                                 "Vielen Dank. Bleiben Sie auch gesund, Herr Ishii.&nbsp;Auf Wiederhören."
                             ],
                             "guid": "n~/QHKJ{Pc",
@@ -3808,7 +3819,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "そうですか。それはどうも…。どうぞ、おだしヽじに。",
-                                "Ist das wahr? Das ist aber ... (nichtschön). / Es tut mir leid. <br>Gute Besserung! / Bitte sagen Sie ihr gute Besserung!"
+                                "Ist das wahr? Das ist aber ... (nicht schön). / Es tut mir leid. <br>Gute Besserung! / Bitte sagen Sie ihr gute Besserung!"
                             ],
                             "guid": "r&|%&z<D?v",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3827,7 +3838,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "おはようございます。お久しぶりです。お元気ですか。",
+                                "おはようございます。おひさしぶりです。おげんきですか。",
                                 "Guten Morgen. Lange nicht gesehen. wie gehts?"
                             ],
                             "guid": "i6P7/O84,u",
@@ -3918,7 +3929,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ははは きません。",
-                                ""
+                                "Meine Mutter kommt nicht."
                             ],
                             "guid": "Pl@8r::is4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3928,7 +3939,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "そうですか。それは ざんねんですね。・・・おとうさんは、ドイツ語は。",
-                                ""
+                                "Ach so ist das. Das ist aber schade. Kann Ihr Vater Deutsch?"
                             ],
                             "guid": "eS5OItB|w!",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3938,7 +3949,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ドイツ語は&nbsp; あまリ&nbsp; できません。でも、よく&nbsp; ドイツの&nbsp; オペラを&nbsp;&nbsp;ききます。",
-                                ""
+                                "Ich kann nicht gut Deutsch sprechen. Aber ich höre oft deutsche Opern."
                             ],
                             "guid": "HV-k-7fd*X",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3948,7 +3959,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "そうですか。じゃ、いっしょに&nbsp; オペラを&nbsp; みませんか。",
-                                ""
+                                "Achso ist das. Wollen wir dann zusammen eine Oper anschauen?"
                             ],
                             "guid": "H7lKy*1][=",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -4300,7 +4311,15 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "一.png",
+                        "三.png",
+                        "二.png",
+                        "半.png",
+                        "四.png",
+                        "時.png",
+                        "時半.png"
+                    ],
                     "name": "B",
                     "notes": [
                         {
@@ -4352,7 +4371,7 @@
                             "fields": [
                                 "一[いち]",
                                 "1",
-                                ""
+                                "<img src=\"一.png\">"
                             ],
                             "guid": "h,I<>TP4!4",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4363,7 +4382,7 @@
                             "fields": [
                                 "二[に]",
                                 "2",
-                                ""
+                                "<img src=\"二.png\">"
                             ],
                             "guid": "NKQWfxI!->",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4374,7 +4393,7 @@
                             "fields": [
                                 "三[さん]",
                                 "3",
-                                ""
+                                "<img src=\"三.png\">"
                             ],
                             "guid": "inkW*D,.`X",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4385,7 +4404,7 @@
                             "fields": [
                                 "四[よん]",
                                 "4",
-                                ""
+                                "<img src=\"四.png\">"
                             ],
                             "guid": "i=0Ew[)]dv",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4396,7 +4415,7 @@
                             "fields": [
                                 "時[じ]",
                                 "Zeit, Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "P4lO?i5NRQ",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4407,7 +4426,7 @@
                             "fields": [
                                 "半[はん]",
                                 "halb",
-                                ""
+                                "<img src=\"半.png\">"
                             ],
                             "guid": "B3p,.Do&&}",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4605,7 +4624,7 @@
                             "fields": [
                                 "1時[いちじ]",
                                 "1 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "dX2C@@ac4M",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4615,8 +4634,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "2時[にじ]",
-                                "",
-                                ""
+                                "2 Uhr",
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "j;!MEXy=OM",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4627,7 +4646,7 @@
                             "fields": [
                                 "1時半[いちじはん]",
                                 "halb zwei (Uhr)",
-                                ""
+                                "<img src=\"時半.png\">"
                             ],
                             "guid": "m*+s8d;&Z@",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4638,7 +4657,7 @@
                             "fields": [
                                 "2時半[にじはん]",
                                 "halb drei (Uhr)",
-                                ""
+                                "<img src=\"時半.png\">"
                             ],
                             "guid": "pYM]Fxsb/6",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4649,7 +4668,7 @@
                             "fields": [
                                 "3時",
                                 "3 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "kkk?Qeb4h!",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4660,7 +4679,7 @@
                             "fields": [
                                 "4時[よじ]",
                                 "4 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "Q(!:stAU?d",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4671,7 +4690,7 @@
                             "fields": [
                                 "5時",
                                 "5 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "cv1itV9~Y`",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4682,7 +4701,7 @@
                             "fields": [
                                 "6時",
                                 "6 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "w$Gb3NG<gC",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4693,7 +4712,7 @@
                             "fields": [
                                 "7時",
                                 "7 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "f!v<XkiL|E",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4704,7 +4723,7 @@
                             "fields": [
                                 "8時",
                                 "8 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "N:a`D/:mdJ",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4715,7 +4734,7 @@
                             "fields": [
                                 "9時",
                                 "9 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "p(7{yF~l#l",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4726,7 +4745,7 @@
                             "fields": [
                                 "10時",
                                 "10 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "gkv9+|n3-8",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4737,7 +4756,7 @@
                             "fields": [
                                 "11時",
                                 "11 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "y-4?]3+c4R",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4748,7 +4767,7 @@
                             "fields": [
                                 "12時",
                                 "12 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "rxPt/K$:*T",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4759,7 +4778,7 @@
                             "fields": [
                                 "14時",
                                 "14 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "BkHhDw#$4l",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4770,7 +4789,7 @@
                             "fields": [
                                 "17時",
                                 "17 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "h-~h_oXD)X",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4781,7 +4800,7 @@
                             "fields": [
                                 "19時",
                                 "19 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "j/&IR@O=+b",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -4792,7 +4811,7 @@
                             "fields": [
                                 "24時",
                                 "24 Uhr",
-                                ""
+                                "<img src=\"時.png\">"
                             ],
                             "guid": "DOgm$%X|8d",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -6081,7 +6100,8 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
-                        "休.png"
+                        "休.png",
+                        "日.png"
                     ],
                     "mid": 1644425084653,
                     "name": "B",
@@ -6166,7 +6186,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "かえリます",
+                                "かえります",
                                 "(nach Hause/ in die Heimat etc.) zurückkehren",
                                 ""
                             ],
@@ -6212,7 +6232,7 @@
                             "fields": [
                                 "ははの 日[ひ]",
                                 "Muttertag",
-                                ""
+                                "<img src=\"日.png\">"
                             ],
                             "guid": "HBNS;MApsz",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -6282,8 +6302,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Womit wird&nbsp;かえリます je nach Ausgangspunkt übersetzt?",
-                                "かえリます wird je nach Ausgangspunkt mit zurückgehen oder zurückkommen übersetzt."
+                                "Womit wird&nbsp;かえります je nach Ausgangspunkt übersetzt?",
+                                "かえります wird je nach Ausgangspunkt mit zurückgehen oder zurückkommen übersetzt."
                             ],
                             "guid": "eHYL7_aa,",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -6332,7 +6352,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いつウィーンにかえリますか。<br>B: 5月1日にかえリます。",
+                                "A: いつウィーンにかえりますか。<br>B: 5月1日にかえります。",
                                 "A: Wann fahren Sie nach Wien zurück?<br>B: Am 01. Mai fahre ich zurück."
                             ],
                             "guid": "luC8iMC2VC",
@@ -6362,6 +6382,7 @@
                     "extendRev": 0,
                     "media_files": [
                         "何曜日.png",
+                        "土曜日.png",
                         "日曜日.png",
                         "月曜日.png",
                         "木.png",
@@ -6371,6 +6392,7 @@
                         "水曜日.png",
                         "火.png",
                         "火曜日.png",
+                        "週.png",
                         "金曜日.png"
                     ],
                     "name": "C",
@@ -6413,7 +6435,7 @@
                             "fields": [
                                 "こん週[こ んしゅつ]",
                                 "diese Woche",
-                                ""
+                                "<img src=\"週.png\">"
                             ],
                             "guid": "n};T4:TFxf",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -6490,7 +6512,7 @@
                             "fields": [
                                 "こん週の土曜日",
                                 "Samstag dieser Woche",
-                                ""
+                                "<img src=\"週.png\"><img src=\"土曜日.png\">"
                             ],
                             "guid": "A)2w?kp*gr",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",

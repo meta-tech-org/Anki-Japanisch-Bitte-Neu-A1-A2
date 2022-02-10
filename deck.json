@@ -5306,7 +5306,8 @@
                         "何日.png",
                         "何月.png",
                         "日.png",
-                        "月.png"
+                        "月.png",
+                        "木.png"
                     ],
                     "name": "A",
                     "notes": [
@@ -6010,9 +6011,9 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "おおみそか",
+                                "大[おお]みそか",
                                 "Silvester",
-                                ""
+                                "<img src=\"木.png\">"
                             ],
                             "guid": "g}@C!LkV/L",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -6654,6 +6655,7 @@
                     "media_files": [
                         "英.png"
                     ],
+                    "mid": 1642764953999,
                     "name": "D",
                     "notes": [
                         {
@@ -6834,6 +6836,246 @@
                                 "Lass uns in Paris einkaufen!"
                             ],
                             "guid": "FZ*sac>1fz",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 英語はどこでべんきょうしましたか。<br>B: じつは英かいわがっこうでべんきょうしました。",
+                                "A: Wo haben Sie Englisch gelernt?<br>B: Offen gesagt, an einer Sprachenschule für Englisch."
+                            ],
+                            "guid": "d-W4}s3d3e",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いつもどこでかいものをしますか。<br>B: スーパーでかします。",
+                                "A: Wo kaufen Sie immer ein?<br>B: In einem Supermarkt."
+                            ],
+                            "guid": "Bs38,a1c3;",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いつもどこでテニスをしますか。<br>B: かいしゃのテニスコートでします。",
+                                "A: Wo spielen Sie immer Tennis?<br>B: Auf dem Tennisplatz der Firma."
+                            ],
+                            "guid": "o>:yNZjpEh",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いつもどこでおすしをたべますか。<br>B:&nbsp;レストラン東京でたべます。",
+                                "A: Wo essen Sie immer Sushi?<br>B: Im Restaurant Tokio."
+                            ],
+                            "guid": "G|@%rqXM0[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いつもどこでともだちにあいますか。<br>B: ともだちのうちであいます。",
+                                "A: Wo treffen Sie immer Ihre Freunde?<br>B: Im Haus meiner Freunde."
+                            ],
+                            "guid": "n+o:}_9b4f",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あさってどこであいましょうか。<br>B:&nbsp;わたしのかいしゃであいます。",
+                                "A: Wo wollen wir uns übermorgen treffen?<br>B: In meiner Firma."
+                            ],
+                            "guid": "D/%V0td0%c",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: こんどは、いつ、どこであいましょうか。<br>B: あさってかいしゃであいましょう。",
+                                "A: Wann und wo wollen wir uns nächstes Mal treffen?<br>B: Lasst uns übermorgen im Büro treffen."
+                            ],
+                            "guid": "uvqMn)$jp_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし、ベアマンさんのおたくですか。",
+                                "(Am Telefon) Hallo, ist da das Haus von Herrn Behrmann?"
+                            ],
+                            "guid": "Giti<v>Cft",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい。あ、いしいさんですか。",
+                                "Ja. Ah, ist das Frau Ishii?"
+                            ],
+                            "guid": "b*8;[&WErl",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ええ、いしいです。こんばんは。おげんきですか。",
+                                "Ja, hier ist Ishii. Guten Abend! Geht es Ihnen gut?"
+                            ],
+                            "guid": "Ri`j/cv*|+",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、げんきです。いしいさんもおげんきですか。",
+                                "Ja, mir geht es gut. Geht es (Ihnen) Frau Ishii auch gut?"
+                            ],
+                            "guid": "F{72b;c,ev",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ええ、げんきです。…ベアマンさん、じつは、わたし、来月日本にかえります。",
+                                "Ja, mir geht es gut. Herr Behrmann, eigentlich kehre ich nächsten Monat nach Japan zurück."
+                            ],
+                            "guid": "L@F:M4z~iW",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "え、ほんとうですか…。それはざんねんですね。",
+                                "Oh, wirklich. Das ist schade."
+                            ],
+                            "guid": "K:9c?{|8Ll",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ええ、わたしもとてもざんねんです。それで、ベアマンさん、来週いっしょに、しょくじをしませんか。",
+                                "Ja, ich finde es auch sehr schade. Herr Behrmann, wollen wir deshalb nicht nächste Woche zusammen essen gehen?"
+                            ],
+                            "guid": "v&,_lnM3N~",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいですね。どこにいきましょうか。",
+                                "Das hört sich gut an. Wohin sollen wir gehen?"
+                            ],
+                            "guid": "O:Up)^`lNv",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "レストラン東京で、おすしをたべませんか。",
+                                "Wollen wir im Restaurant Tokio Sushi essen?"
+                            ],
+                            "guid": "t~U4I^%,ZX",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ええ、そうしましょう。",
+                                "Ja, lass uns das machen."
+                            ],
+                            "guid": "Qt04o+=avO",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつがいいですか。",
+                                "Wann ist es gut für dich? (Wann passt es dir?)"
+                            ],
+                            "guid": "Njey%{5xcS",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "11日はどうですか。",
+                                "Wie wäre es am 11.?"
+                            ],
+                            "guid": "s:p$7&LU;;",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "11日は水曜日ですね…。水曜日はちょっと…。",
+                                "Der 11. ist ein Mittwoch, oder? Mittwoch passt es mir nicht..."
+                            ],
+                            "guid": "FJ5jS&[FyP",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "12日、木曜日はどうですか。",
+                                "Wie wäre es mit dem 12., Donnerstag?"
+                            ],
+                            "guid": "o{k<LBfECg",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、だいじょうぶです。",
+                                "Ja, ist gut. (Auf die Frage, wann man sich treffen will.)"
+                            ],
+                            "guid": "mck{P31|Ed",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゃ、7時にレストラン東京であいましょう。",
+                                "Dann lass uns um 7 Uhr am Restaurant Tokio treffen."
+                            ],
+                            "guid": "HQ0Hm].5Ng",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい。わかりました。木曜日にレストラン東京で。じゃ、お休みなさい。",
+                                "Ja. Habe verstanden. Am Donnerstag im Restaurant Tokio. Dann, eine gute Nacht."
+                            ],
+                            "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }

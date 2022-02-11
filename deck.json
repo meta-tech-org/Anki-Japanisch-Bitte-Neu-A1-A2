@@ -8080,6 +8080,17 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "金曜日[きんようび]",
+                                "Freitag",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "こん週の土曜日",
                                 "Samstag dieser Woche",
                                 "<img src=\"週.png\"><img src=\"土曜日.png\">"
@@ -8209,17 +8220,6 @@
                             "guid": "EJB^Su.ju,",
                             "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "金曜日[きんようび]",
-                                "Freitag",
-                                "<img src=\"金曜日.png\">"
-                            ],
-                            "guid": "cTkowK&6ps",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
                         }
                     ]
                 },
@@ -8256,6 +8256,17 @@
                                 ""
                             ],
                             "guid": "H!b,B6Hs^>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -8646,17 +8657,6 @@
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつも",
-                                "immer, gewöhnlich",
-                                ""
-                            ],
-                            "guid": "wzYnt>/~uU",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

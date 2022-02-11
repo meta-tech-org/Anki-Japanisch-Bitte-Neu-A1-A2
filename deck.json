@@ -6260,6 +6260,7 @@
                     "media_files": [
                         "山.png"
                     ],
+                    "mid": 1642764953999,
                     "name": "B",
                     "notes": [
                         {
@@ -6474,6 +6475,386 @@
                             ],
                             "guid": "N[]YV7sBty",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist bei der Verbindung von な-Adjektiven mit Nomen zu beachten?",
+                                "Hinter den Wörterbuchformen von な-Adjektiven wird zusätzlich な eingefügt:&nbsp;にぎやか<b>な</b>まち"
+                            ],
+                            "guid": "BsrVvjx3.D",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "げんきな人",
+                                "(ein) gesunder/energischer Mensch"
+                            ],
+                            "guid": "L:GKYh9T{5",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "にがてなさかな",
+                                "(ein) Fisch, den ich/er etc. nicht mag"
+                            ],
+                            "guid": "FQTsu-5({o",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たいへんなしごと",
+                                "(eine) anstrengende/schwierige Arbeit"
+                            ],
+                            "guid": "JYBUf/Y]Sm",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "にぎやかなまち",
+                                "eine&nbsp;lebhafte Stadt"
+                            ],
+                            "guid": "xC-11=w.(1",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しずかなホテル",
+                                "ein ruhiges Hotel"
+                            ],
+                            "guid": "br)s*v8OEw",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ゆうめいな本",
+                                "(ein) berühmtes Buch"
+                            ],
+                            "guid": "e)7b]^VHDH",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きれいな山",
+                                "(ein) schöner Berg"
+                            ],
+                            "guid": "j3YD:`fOk0",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Vergangenheitsform von な-Adjektiven gebildet?",
+                                "Die Vergangenheitsform eines な-Adjektivs wird gebildet, indem man です durch でした ersetzt."
+                            ],
+                            "guid": "L92JtA9dRx",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Vergangenheitsform von いい gebildet?",
+                                "いい wird zu よかった"
+                            ],
+                            "guid": "v;oJy>ct8",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Vergangenheitsform von い-Adjektiven gebildet?",
+                                "い-Adjektive bilden die Vergangenheit nicht mit でした, sondern haben eine eigene Vergangenheitsform. Diese wird gebildet, indem man die Endung い durch かった&nbsp;ersetzt."
+                            ],
+                            "guid": "quRF=<kuvT",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Ausnahme gibt bei der Vergangenheitsform von い-Adjektiven?",
+                                "Die Ausnahme bildet die Vergangenheit von いい"
+                            ],
+                            "guid": "iQLOl~f&Wa",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie werden zwei Sätze mit verschidenen, gleichwertigen Subjekten gegenübergestellt?",
+                                "Um zwei Sätze mit verschiedenen, gleichwertigen Subjekten gegenüber zu stellen, verwendet man für die beiden Subjekte die Partikel は: 日本語は～、はなしは～："
+                            ],
+                            "guid": "h]-bKJd|51",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "が (Am Ende des Satzes)",
+                                "Konjunktionspartikel"
+                            ],
+                            "guid": "M27:+)8N9$",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt die Konjunktionspartikel が aus?",
+                                "Die Konjunktionspartikel が entspricht etwa dem deutschen aber/ doch, steht aber am Ende des ersten Satzes und verbindet die beiden Sätze zu einem Satzgefüge.<br>日本語はむずかしいですが、おもしろいです。"
+                            ],
+                            "guid": "b@kX0Ytrpv",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Ist ein Satzgefüge mit der Konjunktionspartikel が, oder mit der Konjunktion でも formeller?",
+                                "Der Satz mit が,&nbsp;ist formeller als der mit でも."
+                            ],
+                            "guid": "y)yxcUOS#R",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本語はむずかしいですが、おもしろいです。",
+                                "Japanisch ist schwierig, aber (es) ist interssant."
+                            ],
+                            "guid": "d7k%M$_ymO",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: しごとはどうでしたか。<br>B: たいへんでした。",
+                                "A: Wie war Ihre Arbeit?<br>B: Sie war schwer/anstrengend."
+                            ],
+                            "guid": "y)K:wNIw?&",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おととい、たなかさんにあいました。",
+                                "Vorgestern habe ich Frau Tanaka getroffen."
+                            ],
+                            "guid": "H[/=+%PDCw",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: げんきでしたか。<br>B: ええ、とてもげんきでした。",
+                                "A: Ging es ihr gut?<br>B: Ja, ihr ging es sehr gut."
+                            ],
+                            "guid": "d@lSdhF%Vg",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつもげんきなかたですね。",
+                                "Ihr geht es immer gut."
+                            ],
+                            "guid": "Jfi<xb8^N}",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ゆうめいなカンヌにいきました。<br>B: どうでしたか。<br>A: とてもにぎやかなまちでした。",
+                                "A: Ich habe die berühmte (Stadt) Cannes besucht<br>B: Wie war's?<br>A: Sie war sehr gut besucht."
+                            ],
+                            "guid": "iQMO4nH_?U",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: えいがはどうでしたか。<br>B:&nbsp;とてもよかったですよ。",
+                                "A: Wie war der Film?<br>B: Er war sehr gut!"
+                            ],
+                            "guid": "lm&Iik91|p",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本語はちょっとむずかしかったですが、はなしはおもしろかったです。",
+                                "Das Japanisch war ein bisschen schwer, aber die Story war interessant."
+                            ],
+                            "guid": "l}:?nK8`OU",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何がむずかしかったですか",
+                                "Was war schwierig?"
+                            ],
+                            "guid": "sfXqK#m51O",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "・・・わすれました。",
+                                "... Ich habe es vergessen/Ich weiß nicht mehr"
+                            ],
+                            "guid": "sv!iic<<2[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Vergangenheitsform von&nbsp;大き<b>い</b>です?",
+                                "大きかったです"
+                            ],
+                            "guid": "f@&c$k#9[*",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Vergangenheitsform von おもしろ<b>い</b>です?",
+                                "おもしろかったです"
+                            ],
+                            "guid": "m4*FoS+.mW",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Vergangenheitsform von 小さ<b>い</b>です?",
+                                "&nbsp;小さかったです"
+                            ],
+                            "guid": "A^V#J`&w@x",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Vergangenheitsform von むずかし<b>い</b>です?",
+                                "むずかしかったです"
+                            ],
+                            "guid": "L1Uaq2tP!9",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Vergangenheitsform von ふる<b>い</b>です?",
+                                "ふるかったです"
+                            ],
+                            "guid": "zA}Q|0/g(m",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Vergangenheitsform von あたらし<b>い</b>です?",
+                                "あたらしかったです"
+                            ],
+                            "guid": "F(M+0,u]Dh",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Vergangenheitsform von たのし<b>い</b>です?",
+                                "たのしかったです"
+                            ],
+                            "guid": "z=|S)&!$=>",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:&nbsp;べアマンさんはどうでしたか。<br>B:&nbsp;とてもげんきでした。",
+                                "A: Wie ging es Herrn Behrmann?<br>B: Ihm ging es sehr gut."
+                            ],
+                            "guid": "FVnL?,7#XM",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: えいがはどうでしたか。<br>B:&nbsp;とてもおもしろかったです。",
+                                "A: Wie war der Film?<br>B: Er war sehr interessant."
+                            ],
+                            "guid": "BmHFO[|4}$",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:&nbsp;ロンドンのおてんきはどうでしたか。<br>B: よかったです。",
+                                "A: Wie war das Wetter in London?<br>B: Es war gut."
+                            ],
+                            "guid": "FBB%YaPr`[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 日本語のじゅぎょうはどうでしたか。<br>B:&nbsp;むずかしかったです.",
+                                "A: Wie war der Japanischunterricht?<br>B: Er war schwierig."
+                            ],
+                            "guid": "yr5N/H*JT4",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ベルリンはあまりしずかじゃないですね。<br>B:&nbsp;そうですか。まえはとてもしずかでした。",
+                                "A: Berlin ist nicht ruhig, nicht wahr?<br>B: Ist das so? Früher war es sehr ruhig."
+                            ],
+                            "guid": "Ip$2HivAE?",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -7699,17 +8080,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "金曜日[きんようび]",
-                                "Freitag",
-                                "<img src=\"金曜日.png\">"
-                            ],
-                            "guid": "cTkowK&6ps",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "こん週の土曜日",
                                 "Samstag dieser Woche",
                                 "<img src=\"週.png\"><img src=\"土曜日.png\">"
@@ -7839,6 +8209,17 @@
                             "guid": "EJB^Su.ju,",
                             "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "Freitag",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -7875,17 +8256,6 @@
                                 ""
                             ],
                             "guid": "H!b,B6Hs^>",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつも",
-                                "immer, gewöhnlich",
-                                ""
-                            ],
-                            "guid": "wzYnt>/~uU",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -8276,6 +8646,17 @@
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

@@ -5182,6 +5182,140 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "8bfdd5c1-8b59-11ec-9ead-0c7a15ee466f",
+                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "D",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "に",
+                                "um (Uhrzeit)"
+                            ],
+                            "guid": "x*YA/-*%cr",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あいます",
+                                "treffen (Verb)",
+                                ""
+                            ],
+                            "guid": "Dw~6(?51Pn",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "～にあいます",
+                                "jemanden treffen",
+                                ""
+                            ],
+                            "guid": "A~Q59CQJuO",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そう",
+                                "so",
+                                ""
+                            ],
+                            "guid": "J!*cB?<}+3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうします",
+                                "(Ich) tue es so",
+                                ""
+                            ],
+                            "guid": "q.J}`zRCxV",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どこの",
+                                "aus/von welchem Ort/Verlag/Produzenten/...",
+                                ""
+                            ],
+                            "guid": "q.:`nyS=Jg",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "えいがかん",
+                                "Kino",
+                                ""
+                            ],
+                            "guid": "kIv{V.GJc4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オデオン",
+                                "Odeon (Kino)",
+                                ""
+                            ],
+                            "guid": "MnOb,uG3<2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ベンツ",
+                                "(Mercedes) Benz",
+                                ""
+                            ],
+                            "guid": "uljZ/w3?kR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オーケストラ",
+                                "Orchester",
+                                ""
+                            ],
+                            "guid": "b9u0C419m,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スポーツカー",
+                                "Sportwagen",
+                                ""
+                            ],
+                            "guid": "ys2({tok};",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "c584e905-838e-11ec-8db2-0c7a15ee466f",

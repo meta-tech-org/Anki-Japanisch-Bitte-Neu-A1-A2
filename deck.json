@@ -3294,6 +3294,16 @@
                             "guid": "es^^)KQU(9",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welcher Begriff kann statt&nbsp;人 verwendet werden, um höflicher zu sein?",
+                                "かた, z.B. ドイツかた statt ドイツの人."
+                            ],
+                            "guid": "s?WkdU:YS}",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -3463,6 +3473,16 @@
                             ],
                             "guid": "ktXS3oMZuz",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Zu was kann dieser Satz \"verkleinert\" werden?<br>たまごはだれがもってきますか。",
+                                "たまごはだれてすか。"
+                            ],
+                            "guid": "FwQ<V,3.T+",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]

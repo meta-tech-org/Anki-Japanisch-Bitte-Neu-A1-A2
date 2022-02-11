@@ -3292,6 +3292,126 @@
                             "guid": "g#/+}KUt%@",
                             "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>いで：パーティーにはだれがきますか。</b><br>ウーテ：いしいさんがきます。",
+                                "<b>Ide: Wer kommt zur Party?</b><br>Ute: Herr Ishii kommt."
+                            ],
+                            "guid": "FwR/MMaLZ4",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで：パーティーにはだれがきますか。<br><b>ウーテ：いしいさんがきます。</b>",
+                                "Ide: Wer kommt zur Party?<br><b>Ute: Herr Ishii kommt.</b>"
+                            ],
+                            "guid": "KF(cT+{pwt",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで: だれがまいにちりようりをしますか。<br>カイザー: (in der Klasse herumschauend) だれもません。",
+                                "Ide: Wer kocht jeden Tag?<br>Kaiza: Niemand (macht das jeden Tag)."
+                            ],
+                            "guid": "w|lPuCyP]",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "やまださんはらいしゅう中国にいきます。",
+                                "Herr Yamada geht nächste Woche nach China."
+                            ],
+                            "guid": "DJX`aLy8A8",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いぬかいさんはメキシコにいきます。",
+                                "Herr Inukai geht nach Mexiko."
+                            ],
+                            "guid": "p3SYqx4)|+",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オットーさんはこんどの日曜日に東京にいきます。",
+                                "Herr Otto geht nächsten <b>Sonntag </b>nach <b>Tokyo</b>."
+                            ],
+                            "guid": "jkCL=+{tz#",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "やまざきさんがくるまをかいました。",
+                                "Herr Yamazaki kaufte ein Auto."
+                            ],
+                            "guid": "Ram0ktpxd|",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "イギリスのくるま",
+                                "Englisches Auto"
+                            ],
+                            "guid": "l[sc6zGzb:",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "でも、やまざきさんはあまりくるまをうんてんしませんね。",
+                                "Aber, Herr Yamazaki fährt nicht viel Auto, oder?"
+                            ],
+                            "guid": "BQF`~C{S`",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だれがよくイギリスにいきますか。",
+                                "Wer ist oft nach England gegangen?"
+                            ],
+                            "guid": "kV/?Fzz4Qq",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのうだれがでんわをしましたか。",
+                                "Wer hat gestern telefoniert?"
+                            ],
+                            "guid": "QSOGy:IJDr",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのうだれがえいがかんいいきましたか。",
+                                "Wer ist gestern ins Kino gegangen?"
+                            ],
+                            "guid": "MweKE?PKf",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },

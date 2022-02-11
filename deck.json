@@ -4170,6 +4170,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1642764739085,
                     "name": "A",
                     "notes": [
                         {
@@ -5511,7 +5512,12 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "先週.png",
+                        "週.png",
+                        "金.png",
+                        "金曜日.png"
+                    ],
                     "name": "A",
                     "notes": [
                         {
@@ -5578,6 +5584,616 @@
                             ],
                             "guid": "zC9vp0yyaK",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金[きん]",
+                                "Gold",
+                                "<img src=\"金.png\">"
+                            ],
+                            "guid": "d~qRd5t/lB",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "週[しゅう]",
+                                "Woche",
+                                "<img src=\"週.png\">"
+                            ],
+                            "guid": "OyAY7og:o2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいます",
+                                "heißen, sagen",
+                                ""
+                            ],
+                            "guid": "l1{>VO}r0a",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "～という",
+                                "(Rw.) genannt",
+                                ""
+                            ],
+                            "guid": "zN2E:wB37E",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あたらし",
+                                "neu",
+                                ""
+                            ],
+                            "guid": "mo,%K^o|pW",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "つまらない",
+                                "langweilig, unbedeutend",
+                                ""
+                            ],
+                            "guid": "PyUB<8HsK7",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こわい",
+                                "furchterregend, erschreckend, beängstigend",
+                                ""
+                            ],
+                            "guid": "tp&Op(vWiH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist あたらし?",
+                                "あたらし ist ein い-Adjektiv."
+                            ],
+                            "guid": "peRk^1{iIU",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist つまらない?",
+                                "つまらない ist ein い-Adjektiv."
+                            ],
+                            "guid": "j{[;ZFE=0@",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist こわい?",
+                                "こわい&nbsp;ist ein い-Adjektiv."
+                            ],
+                            "guid": "E)Ry;J!JbW",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)しばい",
+                                "Theater(-stuck)",
+                                ""
+                            ],
+                            "guid": "NMYAPVe.Ad",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "レストラン",
+                                "Restaurant",
+                                ""
+                            ],
+                            "guid": "wqwQ]zU<Ui",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "メフィスト",
+                                "Mephisto (Filmtitel)",
+                                ""
+                            ],
+                            "guid": "LKggQ?uK9d",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "カルメン",
+                                "Carmen (Oper von Bizet)",
+                                ""
+                            ],
+                            "guid": "LU^DQkMr&e",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "マイ・フェア・レディ",
+                                "My Fair Lady (Musikaltitel)",
+                                ""
+                            ],
+                            "guid": "LK^6GWKJeg",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ミュージカル",
+                                "Musical",
+                                ""
+                            ],
+                            "guid": "b=SrtkND6n",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "フォークソング",
+                                "Folksong",
+                                ""
+                            ],
+                            "guid": "t,DFxrwooI",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ロシア",
+                                "Russland",
+                                ""
+                            ],
+                            "guid": "b62CL=ZKEG",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "トルコ",
+                                "Türkei",
+                                ""
+                            ],
+                            "guid": "b^5;wjwK3w",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "先週[せんしゅう]",
+                                "letzte Woche",
+                                "<img src=\"先週.png\">"
+                            ],
+                            "guid": "ks{]fJ:f1Z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "Freitag",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "o6PmVRUc^t",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "先週の金曜日に",
+                                "am Freitag letzter Woche",
+                                ""
+                            ],
+                            "guid": "ztBDHZzeRs",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なん]という 本[ほん]ですか",
+                                "Wie heißt das Buch?",
+                                ""
+                            ],
+                            "guid": "o`0]-cT=3`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "先週の金曜日にえいがをみました。",
+                                "Letzte Woche Freitag habe ich einen Film gesehen."
+                            ],
+                            "guid": "J|pkpU=ukE",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何というえいがてすか。",
+                                "Wie heißt der Film?"
+                            ],
+                            "guid": "A1`dx6u]V|",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "「メフィスト」です。すこしふるいえいがです。",
+                                "Er heißt „Mephisto\". Es ist ein etwas alter Film."
+                            ],
+                            "guid": "s[j5XI?8v(",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ミュージカルにいきませんか。",
+                                "Wollen wir nicht ein Musical anschauen?"
+                            ],
+                            "guid": "HN!ggks`:G",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何というミュージカルですか。",
+                                "Wie heißt das Musical?"
+                            ],
+                            "guid": "BW]:IPkB@E",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "「マイフェアレディ」です。",
+                                "Es heißt \"My Fair Lady\"."
+                            ],
+                            "guid": "ug$07tq7s3",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 先週えいがみました。<br>B:&nbsp;何というえいがですか。",
+                                "A: Ich habe letzte Woche einen Film gesehen.<br>B: Wie heißt der Film?"
+                            ],
+                            "guid": "C.ajCs#dzC",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "先週フォークソングのコンサートにいきました。",
+                                "Letzte Woche bin ich auf ein Folksong-Konzert gegangen."
+                            ],
+                            "guid": "GsAw*c#k0N",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: おととい本をかいました。<br>B:&nbsp;何という本ですか。",
+                                "A: Vorgestern habe ich ein Buch gekauft.<br>B: Wie heißt das Buch?"
+                            ],
+                            "guid": "IMMs!eu82h",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 先週の金曜日にDVDをかいました。<br>B: 何というDVDですか。",
+                                "A: Letzte Woche Freitage habe ich eine DVD gekauft.<br>B: Wie heißt die DVD?"
+                            ],
+                            "guid": "Ow]oG_6kmw",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ドイツレストランにいきませんか。<br>B:&nbsp;何というレストランですか。",
+                                "A: Wollen wir in das deutsche Restaurant gehen?<br>B: Wie heißt das Restaurant?"
+                            ],
+                            "guid": "fV-CY;N4/-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Aです。あたらしいレストランです。<br>B: いいですね。いきましょう。",
+                                "A: Es heißt A. Es ist ein neues Restaurant.<br>B: Hört sich gut an. Lass uns gehen."
+                            ],
+                            "guid": "s~rT4oi$w%",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツレストランはあまりよくないですよ。フランスレストランにいきませんか。",
+                                "Das deutsche Restaurant passt mir nicht so gut. Wollen wir nicht in ein französisches Restaurant gehen?"
+                            ],
+                            "guid": "OM0HEfsI}{",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "5f44ae79-8b62-11ec-8845-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "山.png"
+                    ],
+                    "name": "B",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "山[やま]",
+                                "(als vollständiges Wort): Berg",
+                                "<img src=\"山.png\">"
+                            ],
+                            "guid": "G/6.6Uc)Lz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たのしい",
+                                "fröhlich, amüsant",
+                                ""
+                            ],
+                            "guid": "QlD^yHND}&",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たいへん",
+                                "anstrengend, mühsam, schwierig, umständlich",
+                                ""
+                            ],
+                            "guid": "y+yqfgP=.j",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "にぎやか",
+                                "lebhaft",
+                                ""
+                            ],
+                            "guid": "l{g&gM]H#^",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しずか",
+                                "ruhig",
+                                ""
+                            ],
+                            "guid": "Dlp1Aai!$}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きれい",
+                                "schön, sauber",
+                                ""
+                            ],
+                            "guid": "ko][1_5fW5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ゆうめい",
+                                "berühmt, bekannt",
+                                ""
+                            ],
+                            "guid": "y^uIG5iFsD",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はなし",
+                                "Geschichte, Erzählung, Story",
+                                ""
+                            ],
+                            "guid": "n6?j)kwsV$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はなします",
+                                "sprechen",
+                                ""
+                            ],
+                            "guid": "NR9dF_=D9>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わすれます",
+                                "vergessen, liegen lassen, nicht mehr wissen",
+                                ""
+                            ],
+                            "guid": "p6t+ZzC|Pa",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "hg#,>EKcA>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist たのしい?",
+                                "たのしい ist ein い-Adjektiv."
+                            ],
+                            "guid": "FOG?diwXtH",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist たいへん?",
+                                "たいへん ist ein な-Adjektiv."
+                            ],
+                            "guid": "K6}^2uyS]1",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist にぎやか?",
+                                "にぎやか&nbsp;ist ein な-Adjektiv."
+                            ],
+                            "guid": "KW`2V9?Ea_",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist しずか?",
+                                "しずか&nbsp;ist ein な-Adjektiv."
+                            ],
+                            "guid": "qLF6TN,p)X",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist きれい?",
+                                "きれい ist ein な-Adjektiv."
+                            ],
+                            "guid": "werpO:9J0^",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist ゆうめい?",
+                                "ゆうめい ist ein な-Adjektiv."
+                            ],
+                            "guid": "u+Wx>MR}W%",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ミュージックフェスティバル",
+                                "Musikfestival",
+                                ""
+                            ],
+                            "guid": "yb8&nel+kG",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "カンヌ",
+                                "Cannes",
+                                ""
+                            ],
+                            "guid": "sIL(~,E_Z[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ニース",
+                                "Nizza",
+                                ""
+                            ],
+                            "guid": "N[]YV7sBty",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -6803,17 +7419,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "金曜日[きんようび]",
-                                "Freitag",
-                                "<img src=\"金曜日.png\">"
-                            ],
-                            "guid": "cTkowK&6ps",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "こん週の土曜日",
                                 "Samstag dieser Woche",
                                 "<img src=\"週.png\"><img src=\"土曜日.png\">"
@@ -6943,6 +7548,17 @@
                             "guid": "EJB^Su.ju,",
                             "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "Freitag",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -6979,17 +7595,6 @@
                                 ""
                             ],
                             "guid": "H!b,B6Hs^>",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつも",
-                                "immer, gewöhnlich",
-                                ""
-                            ],
-                            "guid": "wzYnt>/~uU",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -7380,6 +7985,17 @@
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -8096,58 +8712,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large {\n  font-size: 40px;\n}\n\n",
-            "flds": [
-                {
-                    "font": "Arial",
-                    "name": "Frage",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "font": "Arial",
-                    "name": "Antwort",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Japanisch::Trivia",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{furigana:Antwort}}</p>",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Triviafrage",
-                    "ord": 0,
-                    "qfmt": "{{Frage}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.cloze {\n font-weight: bold;\n color: blue;\n}\n.nightMode .cloze {\n color: lightblue;\n}\n",
             "flds": [
@@ -8197,6 +8761,58 @@
                 }
             ],
             "type": 1
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large {\n  font-size: 40px;\n}\n\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "name": "Frage",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "name": "Antwort",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Trivia",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{furigana:Antwort}}</p>",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Triviafrage",
+                    "ord": 0,
+                    "qfmt": "{{Frage}}"
+                }
+            ],
+            "type": 0
         }
     ],
     "notes": []

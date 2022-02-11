@@ -2617,7 +2617,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ウーテ",
-                                "Ute",
+                                "Ute (Name)",
                                 ""
                             ],
                             "guid": "h+P*Vuz37%",
@@ -3405,8 +3405,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A:いいおてんきですね。さんぽをしませんか。<br>B:いいですね",
-                                "Schönes Wetter, nicht wahr?<br>Wollen wir nicht spazieren gehen?<br>Ja gerne!"
+                                "A: いいおてんきですね。さんぽをしませんか。<br>B: いいですね",
+                                "A: Schönes Wetter, nicht wahr? Wollen wir nicht spazieren gehen?<br>B: Ja gerne!"
                             ],
                             "guid": "odycxxrAuj",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3416,7 +3416,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "いしい： ベアマンさんはいいかたですね。<br>Keller: そうですね。いい人ですね。",
-                                "Herr Behrmann ist eine netter Mensch, nicht wahr?<br>Ja, er ist ein netter Mensch."
+                                "Ishii: Herr Behrmann ist eine netter Mensch, nicht wahr?<br>Keller: Ja, er ist ein netter Mensch."
                             ],
                             "guid": "haJwwTnFXg",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3426,7 +3426,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A:大阪大学はいい大学ですね。<br>B: そうですね。いい大学ですね。",
-                                "Die Osaka-Universität ist eine gute Universität, nicht wahr?<br>Das stimmt. Sie ist eine gute Universität."
+                                "A: Die Osaka-Universität ist eine gute Universität, nicht wahr?<br>B: Das stimmt. Sie ist eine gute Universität."
                             ],
                             "guid": "I:,FzX)c_j",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3506,7 +3506,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "パリはいいまちですね。",
-                                "Paris ist eine schöne Stadt!"
+                                "Paris ist eine schöne Stadt, nicht wahr?"
                             ],
                             "guid": "fk6WRzA+0j",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3582,7 +3582,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "もしもし、さのさんの おたくですか。",
-                                "(Am Telefon)<br>Hallo, bin ich da bei Frau Sano?"
+                                "(Am Telefon)<br>Hallo, bin ich da beim Haus von Frau Sano?"
                             ],
                             "guid": "er0:d&;HyE",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3611,7 +3611,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "もしもし、[A] です。",
+                                "もしもし、Aです。",
                                 "(Am Telefon)<br>Hallo. Hier spricht A."
                             ],
                             "guid": "PZc7svoW48",
@@ -3621,8 +3621,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "もしもし、あ、[A] さん、いま、どこからですか。",
-                                "(Am Telefon)<br>Hallo, sind Sie das, Herr A.&nbsp;Woher rufen Sie an?"
+                                "もしもし、あ、Aさん、いま、どこからですか。",
+                                "(Am Telefon)<br>Hallo, ah, Herr A.&nbsp;Woher rufen Sie jetzt an?"
                             ],
                             "guid": "g|kC&tHKh/",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3661,8 +3661,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "はい、どうも。おたくのみなさんも<br>おげんきですか。",
-                                "Ja, danke schön. Mir geht es gut. Bei Ihnen&nbsp;zu Hause, geht es da allen gut?"
+                                "はい、どうも。おたくのみなさんもおげんきですか。",
+                                "Ja, danke schön. Bei Ihnen&nbsp;zu Hause, geht es da allen gut?"
                             ],
                             "guid": "iYuzae#Lzj",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3702,7 +3702,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "もしもし、A さん、イギリスからですか。",
-                                "(Am Telefon)<br>Hallo, (rufen Sie) aus England (an)"
+                                "(Am Telefon)<br>Hallo, Herr A, (rufen Sie) aus England (an)?"
                             ],
                             "guid": "GP}RKYyRP7",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3758,8 +3758,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ではいてさん、おげんきで。",
-                                "Nun, bleiben Sie gesund."
+                                "ではいでさん、おげんきで。",
+                                "Nun, Frau Ide, bleiben Sie gesund."
                             ],
                             "guid": "pV]m[|Uag0",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3849,7 +3849,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "はい、げんきです。きょうはいいおてんきですね。",
-                                "Ja, ich bin okay. Heute ist eine gute Zeit."
+                                "Ja, mir geht es gut. Heute ist gutes Wetter, nicht wahr?"
                             ],
                             "guid": "k4eU]}QF+b",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -5926,7 +5926,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "何[なに]がすきてすか。",
+                                "何[なに]がすきですか。",
                                 "Was mögen Sie?"
                             ],
                             "guid": "yVv7.U/;D0",

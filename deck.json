@@ -2722,6 +2722,46 @@
                             "guid": "Q3oGxGVP+:",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird die Endung ～ましょう&nbsp;verwendet?",
+                                "Als Aufforderung zu einer <b>gemeinsamen </b>Tätigkeit oder um eine solche Aufforderung zu akzeptieren."
+                            ],
+                            "guid": "b#cN3ku@yg",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welcher Verb-Endung fordert man jemanden zu einer gemeinsamen Handlung auf/fragt nach der Meinunng zu einem gemeinsamen Vorhaben?",
+                                "～ましょうか (Frage)<br>～ましょう (Antwort)"
+                            ],
+                            "guid": "AQGop!Bzic",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen ～ましょうか und ～ませんか?",
+                                "～ましょうか fragt nach einer gemeinsamen Handlung, ～ませんか hingegen nicht zwangsläufig."
+                            ],
+                            "guid": "eS$5b&F0.;",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen&nbsp;そうてすねぇ… und&nbsp;そうてすね?",
+                                "Die gedehnte Form そうてすねぇ drückt aus, dass man unschlüssig/nicht überzeugt ist.<br>\"Nun ja, also meinen Sie?\"<br><br>そうてすね hingegen drückt \"Ja/Das meine ich auch\" aus."
+                            ],
+                            "guid": "FBYA|TwC<M",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -3050,6 +3090,137 @@
                             ],
                             "guid": "v,q76UuU(*",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welchen Schriftzeichen wird die Chinesische Lesung von Kanji oft aufgeschrieben?",
+                                "Mit Katakana."
+                            ],
+                            "guid": "yiu=i=LCum",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welchen Schriftzeichen wird die Japanische Lesung von Kanji oft aufgeschrieben?",
+                                "Mit Hiragana."
+                            ],
+                            "guid": "mn8!M!qN4(",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird die Subjektpartikel が verwendet?",
+                                "Wenn das Subjekt selbst die neue Information einer Aussage ist."
+                            ],
+                            "guid": "lStKM{2-:E",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird die Partikel は&nbsp;anstelle von が verwendet?",
+                                "Wenn die neue Information darin besteht, was über das Subjekt ausgesagt wird, und nicht über das Subjekt selbst.<br><br>たなかさん<b>が</b>きます。<br>たなかさん<b>は</b>あしたきます。"
+                            ],
+                            "guid": "s(0ZGr{&{1",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Partikel ist richtig?<br><br>たなかさん{{c1::が::が/は}}きます。",
+                                ""
+                            ],
+                            "guid": "edb$6E(vi!",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Partikel ist richtig?<br><br>たなかさん{{c1::は::が/は}}あしたきます。",
+                                ""
+                            ],
+                            "guid": "MGQ:5DWf_y",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Art der Endung muss auf だれも folgen?",
+                                "Eine negative, also z.B. しません."
+                            ],
+                            "guid": "uAtqLFwy9m",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だれもしません",
+                                "Keiner macht das",
+                                ""
+                            ],
+                            "guid": "j*:&MAs]zL",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Partikel&nbsp;へ ausgesprochen?",
+                                "Wie \"e\"."
+                            ],
+                            "guid": "w#gP)9UN}1",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür wird die Partikel&nbsp;へ verwendet?",
+                                "Wie&nbsp;に für Richtung und Zielort."
+                            ],
+                            "guid": "ojG]f#`qi@",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen der Partikeln に und&nbsp;へ?",
+                                "Beide drücken Zielort und Richtung aus, aber&nbsp;に kann außerdem den Zweck der Fortbewegung ausdrücken."
+                            ],
+                            "guid": "gCgE>NZCR6",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Partikel ist richtig?<br><br>たなかさんのうち{{c1::に/へ::に/へ}}しよくじ{{c2::に::に/へ}}いきました。",
+                                ""
+                            ],
+                            "guid": "vHNi8/{HB*",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Partikel ist richtig?<br><br>先生{{c1::に::に/へ}}てがみをかきました。",
+                                ""
+                            ],
+                            "guid": "g#/+}KUt%@",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
                         }
                     ]

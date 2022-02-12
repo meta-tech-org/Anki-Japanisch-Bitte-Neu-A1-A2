@@ -2820,7 +2820,11 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "日曜日.png",
+                        "曜日.png"
+                    ],
+                    "mid": 1642764739085,
                     "name": "C",
                     "notes": [
                         {
@@ -2832,6 +2836,191 @@
                             ],
                             "guid": "mb<Qda|.,W",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ざんねん",
+                                "(Adj.) schade",
+                                ""
+                            ],
+                            "guid": "ieHTFp(fHV",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ざんねんですか",
+                                "leider",
+                                ""
+                            ],
+                            "guid": "yG1Dba11Ri",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "が (am Ende des Satzes)",
+                                "aber, jedoch"
+                            ],
+                            "guid": "l|S?Reb9ai",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(どうも)ありがとう(ございます)",
+                                "Vielen (herzlichen) Dank! Das ist sehr nett von Ihnen. <br>Mit どうも&nbsp;und ございます wird der Ausdruck höflicher",
+                                ""
+                            ],
+                            "guid": "oAcOaabr@c",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "むり",
+                                "(Adj.) unmöglich, unvernünftig",
+                                ""
+                            ],
+                            "guid": "i92Z)1RUxm",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "むりです",
+                                "(Das) ist nicht möglich./ Es geht nicht./Das passt (jemandem) nicht.",
+                                ""
+                            ],
+                            "guid": "A6XC]M)Hil",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だいじょうぶ",
+                                "(Adj.) sicher, möglich, machbar, in Ordnung",
+                                ""
+                            ],
+                            "guid": "z#eAB[XF=`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だいじょうぶです",
+                                "(Das) geht./ln Ordnung./Kein Problem",
+                                ""
+                            ],
+                            "guid": "h=XnTY-`{)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんど",
+                                "hier: nächstes Mal, bei nächster Gelegenheit",
+                                ""
+                            ],
+                            "guid": "kC7/8fFCGo",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "に",
+                                "(Partikel für Zeitangabe) <i>an, in, um</i> <br>(nicht mit きのう，きょう，あした, あさって wo sie als zeitliche Adverbien verwendet werden)"
+                            ],
+                            "guid": "gH8dcj8FSi",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日曜日に",
+                                "am Sonntag",
+                                ""
+                            ],
+                            "guid": "NFVnN1PGf;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "カラオケ",
+                                "Karaoke",
+                                ""
+                            ],
+                            "guid": "w;%{#vKxa2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "カラオケボックス",
+                                "Karaoke Box",
+                                ""
+                            ],
+                            "guid": "Pjh;(&+cqk",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "プール",
+                                "Schwimmbad, Pool",
+                                ""
+                            ],
+                            "guid": "hd2s]&%}yE",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ゴルフ",
+                                "Golf",
+                                ""
+                            ],
+                            "guid": "gHwW0e.p}:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日曜日[にちようび]",
+                                "Sonntag",
+                                "<img src=\"日曜日.png\">"
+                            ],
+                            "guid": "dT>CR<zQlz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "曜日[ようび]",
+                                "Wochentag",
+                                "<img src=\"曜日.png\">"
+                            ],
+                            "guid": "D]<!Mg895=",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -7570,7 +7759,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "に",
+                                "に (in Verbindung mit 時)",
                                 "um (Uhrzeit)"
                             ],
                             "guid": "x*YA/-*%cr",
@@ -10830,7 +11019,6 @@
                     "media_files": [
                         "何曜日.png",
                         "土曜日.png",
-                        "日曜日.png",
                         "月曜日.png",
                         "木.png",
                         "木曜日.png",
@@ -10885,17 +11073,6 @@
                                 "<img src=\"週.png\">"
                             ],
                             "guid": "n};T4:TFxf",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "日曜日[にちようび]",
-                                "Sonntag",
-                                "<img src=\"日曜日.png\">"
-                            ],
-                            "guid": "s_mqiJ2I.6",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },

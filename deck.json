@@ -4450,7 +4450,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
-                    "mid": 1642764739085,
+                    "mid": 1642764953999,
                     "name": "A",
                     "notes": [
                         {
@@ -4748,6 +4748,196 @@
                             ],
                             "guid": "F1>Y+oX({~",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist すき?",
+                                "すき ist ein な-Adjektiv"
+                            ],
+                            "guid": "E@w!v)1X&~",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welcher Partikel wird das deutsche Akkusativobjektiv bei すきです markiert?",
+                                "Das deutsche Akkusativobjekt wird wie bei できます mit der Partikel が markiert.<br>わたしは本がすきです。"
+                            ],
+                            "guid": "zPNUMhPu${",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしは本がすきです。",
+                                "Ich mag Bücher/lch lese gerne Bücher."
+                            ],
+                            "guid": "Lwo>b~)3az",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die verneinte Gegenwartsform von な-Adjektiven gebildet?",
+                                "Die verneinte Gegenwartsform der な-Adjektive wird wie bei Substantiven mit じゃない bzw. ではない gebildet."
+                            ],
+                            "guid": "yJbJbK4Q%F",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで先生はきょうはあまりげんきじゃないです。",
+                                "<b>Lehrerin</b> Ide geht es heute nicht wirklich gut."
+                            ],
+                            "guid": "LtUMIT9ltG",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "本はあまりすきじゃないです。",
+                                "Ich mag <b>Bücher</b> nicht besonders/Ich lese <b>Bücher </b>nicht so gern"
+                            ],
+                            "guid": "O@z*cb%-l_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Bedeutungen kann der folgende Satz haben:&nbsp;トーマス・マンの本",
+                                "-&nbsp;ein von Thomas Mann geschriebenes Buch<br>- ein über Thomas Mann geschriebenes Buch (Urheber, Produzent, Thema)<br>- ein Buch, das Thomas Mann gehört (Besitzer)"
+                            ],
+                            "guid": "OcS+#fc6X:",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird nach dem Urheber/Besitzer eines Buches/Gegenstandes gefragt?",
+                                "Nach dem Urheber und dem Besitzer wird gleicherweise mit dem Fragewort だれ gefragt: だれの本ですか"
+                            ],
+                            "guid": "IZ|f+MU?-h",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だれの本ですか。",
+                                "Von wem ist das <b>Buch</b>?/ Wem gehört das <b>Buch</b>?"
+                            ],
+                            "guid": "E+XS`Vy_nz",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Können Wörter hinter der Partikel の weggelassen werden?",
+                                "Die Worter hinter der Partikel の für Zugehörigkeit, Produzent, Herkunft (nicht fur Besitz) werden oft nicht mehr erwähnt, wenn durch den Kontext klar wird, worum es sich handelt."
+                            ],
+                            "guid": "Q>nh6=3qeW",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: バッハはすきですか。<br>B: はい。でもべーとーべもすきです。",
+                                "A: Mögen Sie Bach?<br>B: Ja. Aber Beethoven mag ich auch."
+                            ],
+                            "guid": "klVK&4(I+2",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ハイドンはすきですか。<br>B: いいえ、あまりすきじゃないです。",
+                                "A: Magst du Haydn?<br>B: Nein, ich mag ihn nicht wirklich."
+                            ],
+                            "guid": "Iy5pt(7-)_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしは東京がすきです。",
+                                "Ich mag <b>Tokio</b>."
+                            ],
+                            "guid": "DEQ37wwXJ4",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 大阪はすきじゃないですか。<br>B: いいえ、すきですよ。",
+                                "A: Mögen Sie <b>Osaka </b>nicht?<br>B: Doch, ich mag es (auch)!"
+                            ],
+                            "guid": "OdV8DT:YM]",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 大阪はすきじゃないですか。<br>B:&nbsp;はい、すきじゃないです。",
+                                "A: Mögen Sie <b>Osaka </b>nicht?<br>B: Nein, ich mag es nicht."
+                            ],
+                            "guid": "d(nLcK!qkb",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: だれの本がおもしろいですか。<br>B: トーマス・マンの本がおもしろいです。／トーマス・マンです。",
+                                "A: Wessen Bücher sind interessant?<br>B: Die Bücher von Thomas Mann sind interessant/(Von) Thomas Mann."
+                            ],
+                            "guid": "AgcnuV?vl1",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あかひげはだれのえいがですか。<br>B: わかりません。<br>C: くろさわあきらです。",
+                                "A:&nbsp;Wer hat den Film \"Akahige'' gemacht?<br>B: Ich weiß es nicht.<br>C: Es ist (ein Film von) Akira Kurosawa."
+                            ],
+                            "guid": "Ra{GDs9Q9r",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: (Ein Portmonee hochaltend) だれのですか。<br>B: わたしのです。<br>C: いいえ、わたしのさいふです。",
+                                "A: Wem gehört dieses Portmonee hier (Hält es hoch)?&nbsp;<br>B: Mir.<br>C: Nein, das ist mein Portmonee."
+                            ],
+                            "guid": "s3d$7{:vv0",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: これはだれのボールペンですか。<br>B: わたしのです。",
+                                "A: Wem gehört der Kugelschreiber hier?<br>B: Mir."
+                            ],
+                            "guid": "O{u2<Q:.{/",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]

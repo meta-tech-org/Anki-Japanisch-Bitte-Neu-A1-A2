@@ -1704,7 +1704,8 @@
                         "ge.gif",
                         "ju.gif",
                         "ke.gif",
-                        "wo.gif"
+                        "wo.gif",
+                        "何.png"
                     ],
                     "name": "A",
                     "notes": [
@@ -1783,6 +1784,136 @@
                             ],
                             "guid": "C%Ogm7[Wm;",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "を",
+                                "Objektpartikel, die das direkte Objekt der Handlung (in vielen Fällen das deutsche Akkusativobjekt was oder wen) anzeigt"
+                            ],
+                            "guid": "l9,EsFA7iy",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゅうどう",
+                                "Judo",
+                                ""
+                            ],
+                            "guid": "ODR3]&l`!s",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "からて",
+                                "Karate",
+                                ""
+                            ],
+                            "guid": "moq`2;c5x^",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "けんどう",
+                                "Kendo (Fechten mit japanischem Bambus-Schwert)",
+                                ""
+                            ],
+                            "guid": "n{cA6x)X@u",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "とざん",
+                                "Bergsteigen",
+                                ""
+                            ],
+                            "guid": "H>?T`lL?Wv",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すいえい",
+                                "Schwimmen (als Sport)",
+                                ""
+                            ],
+                            "guid": "xB|>2h&pK?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "します",
+                                "tun, machen, treiben, spielen, veranstalten",
+                                ""
+                            ],
+                            "guid": "iD~`;9IB+p",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すいえいをします",
+                                "schwimmen gehen",
+                                ""
+                            ],
+                            "guid": "m]xGIzuy&",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しません",
+                                "die Verneinungsform von&nbsp;します",
+                                ""
+                            ],
+                            "guid": "ym*1FP8gWI",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "と",
+                                "und"
+                            ],
+                            "guid": "FODfrf2yPm",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スポーツ",
+                                "Sport",
+                                ""
+                            ],
+                            "guid": "M;dawSW_bj",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なに]",
+                                "was (Fragewort)",
+                                "<img src=\"何.png\">"
+                            ],
+                            "guid": "D/jnDJ.+^g",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -1878,6 +2009,116 @@
                             "guid": "lz4VQnAb}_",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "みます",
+                                "sehen, zuschauen",
+                                ""
+                            ],
+                            "guid": "Mj#t;?&9Q@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "みません",
+                                "Verneinungsform von&nbsp;みます",
+                                ""
+                            ],
+                            "guid": "N&9~5eU]xU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたし",
+                                "ich",
+                                ""
+                            ],
+                            "guid": "Of!L>x8vFm",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぇぇ",
+                                "ja; weniger höflich als はい",
+                                ""
+                            ],
+                            "guid": "zv?IM`V!Cq",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よく",
+                                "(Adverb) oft, viel",
+                                ""
+                            ],
+                            "guid": "ge&+*lZ?R*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ときどき",
+                                "manchmal, ab und zu",
+                                ""
+                            ],
+                            "guid": "PM>F|Nzju1",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "やきゅう",
+                                "Baseball",
+                                ""
+                            ],
+                            "guid": "qYoknoy~Sy",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すもう",
+                                "Sumo (japanischer Ringkampf)",
+                                ""
+                            ],
+                            "guid": "u^yv&II%0{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "サッカー",
+                                "Fußball",
+                                ""
+                            ],
+                            "guid": "N4:L.#0:&j",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スキー",
+                                "Skifahren",
+                                ""
+                            ],
+                            "guid": "GZo`u0k^HY",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -1890,7 +2131,10 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
+                    "media_files": [
+                        "子.PNG"
+                    ],
+                    "mid": 1642764739085,
                     "name": "C",
                     "notes": [
                         {
@@ -1924,6 +2168,116 @@
                             ],
                             "guid": "Q6>n?K5#|]",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あまり",
+                                "nicht allzu (oft, viel)/nicht so (oft,viel/nicht besonders (oft, viel)",
+                                ""
+                            ],
+                            "guid": "N8>(1IW@C,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ご (Spiel)",
+                                "Go-Spiel (mit schwarz-weißen Go-Steinen)",
+                                ""
+                            ],
+                            "guid": "sZ<Ay`7SA8",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おりがみ",
+                                "Origami (japanische Kunst des Papierfaltens)",
+                                ""
+                            ],
+                            "guid": "jJk[4hWKiX",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "にがて (alleine)",
+                                "hier etwa: <i>schwacher Punkt</i>",
+                                ""
+                            ],
+                            "guid": "nT<n3qQaN/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "子[こ]",
+                                "Kind (kurze Schreibweise)",
+                                "<img src=\"子.PNG\">"
+                            ],
+                            "guid": "N(bZ/F|V8<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "子[こ]ども",
+                                "Kind (lange Schreibweise)",
+                                "<img src=\"子.PNG\">"
+                            ],
+                            "guid": "llUtr@oN88",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オーストリア／オーストリー",
+                                "Österreich",
+                                ""
+                            ],
+                            "guid": "teep,H[}uN",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オリバー",
+                                "Oliver (Name)",
+                                ""
+                            ],
+                            "guid": "b,s?UzF+Z/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ボリス",
+                                "Boris (Name)",
+                                ""
+                            ],
+                            "guid": "JGy$_xuU@@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "リサ",
+                                "Lisa (Name)",
+                                ""
+                            ],
+                            "guid": "kbwn3~IFNI",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -4918,7 +5272,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "にがて",
+                                "にがて (Adj.)",
                                 "(Adj.) nicht gut/geschickt sein in etwas",
                                 ""
                             ],

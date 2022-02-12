@@ -6858,6 +6858,259 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "1cdec8ef-8c02-11ec-8bdf-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "来.png",
+                        "来週.png"
+                    ],
+                    "mid": 1642764953999,
+                    "name": "C",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "来[き]ます",
+                                "<b>kommen</b>",
+                                "<img src=\"来.png\">"
+                            ],
+                            "guid": "wG%hr<2wwY",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "来週[らいしゅう]",
+                                "<b>nächste Woche</b>",
+                                "<img src=\"来週.png\">"
+                            ],
+                            "guid": "IexI2<ud3[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あの",
+                                "jener bzw. betreffender (+ Substantiv)",
+                                ""
+                            ],
+                            "guid": "iEuhp|Y(jB",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どの",
+                                "welcher (+ Substantiv)",
+                                ""
+                            ],
+                            "guid": "g3e[QKmk_z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "え／えっ",
+                                "Wie bitte?",
+                                ""
+                            ],
+                            "guid": "k>P2v.Mb-5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man einen (entfernten) Gegenstand/Geschehnisse bezichnen?",
+                                "Um einen (entfernten) Gegenstand zu bezeichnen, kann man das Wort あの dem Substantiv voransetzen. Dies gilt auch für Gegenstände oder Geschehnisse, die nur gedanklich vom Sprecher entfernt sind - zum Beispiel, weil er sich aus der Vergangenheit an sie erinnert."
+                            ],
+                            "guid": "En@y%YkNxV",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あの本",
+                                "jenes <b>Buch </b>(dort)"
+                            ],
+                            "guid": "HSpwR<CjAk",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どの本",
+                                "welches <b>Buch</b>"
+                            ],
+                            "guid": "bm!BmqGYHY",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie bildet man die verneinte Vergangenheitsform eines い-Adjektivs?",
+                                "Vergangenheitsform bildet man, indem man die い-Endung durch くなかった ersetzt."
+                            ],
+                            "guid": "Kx<mw%;J%j",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ミュージカルはどうでしたか。<br>B: あまりよくなかったです。",
+                                "A: Wie war das Musical?<br>B: Es war nicht besonders gut."
+                            ],
+                            "guid": "fI7l?=tE)I",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: パーティーはどうでしたか。<br>B:&nbsp;おもしろくなかったです。",
+                                "A: Wie war die Party?<br>B: Sie war nicht interessant."
+                            ],
+                            "guid": "sy4!ji%gA-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あの本はどうでしたか。<br>B: え、どの本ですか。<br>A: よしもとのあたらしい本です。",
+                                "A: Wie war das <b>Buch</b>?<br>B: Wie bitte? Welches <b>Buch</b>?<br>A: Das neue <b>Buch </b>von Yoshimoto."
+                            ],
+                            "guid": "q?QOt4GD7u",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あまりむずかしくなかったです。",
+                                "Es (das Buch) war nicht so schwer."
+                            ],
+                            "guid": "CE)-AWfuY,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von&nbsp;大きいです?",
+                                "大きくなかったです"
+                            ],
+                            "guid": "t6`RAqEehd",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von おもしろいです?",
+                                "おもしろくなかったです"
+                            ],
+                            "guid": "L?4R_fjg*_",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von 小さいです?",
+                                "小さくなかったです"
+                            ],
+                            "guid": "eIA==DfP|?",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von たのしいです?",
+                                "たのしくなかったです"
+                            ],
+                            "guid": "QUz<8}n*-m",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von ふるいです?",
+                                "ふるくなかったです"
+                            ],
+                            "guid": "lZv7#wS2~E",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von もずかしいです?",
+                                "むずかしくなかったです"
+                            ],
+                            "guid": "v.3VqavG!E",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von あたらしいです?",
+                                "あたらしくなかったです"
+                            ],
+                            "guid": "x|;3a2>v4N",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あの本はどうでしたか。<br>B: あまりおもしろくなかったです。",
+                                "A: Wie war dieses buch?<br>B: Es war nicht sehr interessant."
+                            ],
+                            "guid": "z!{*P!<oKX",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あのオーストリアのレストランはどうでしたか。<br>B: あまりよくなかったです。",
+                                "A: Wie war das Österreichische Restaurant?<br>B: Es war nicht so gut."
+                            ],
+                            "guid": "rV{^J(O^tv",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あの日本のアニメはどうでしたか。<br>B: あまりたのしくなかったです。",
+                                "A: Wie war der Japanische Anime?<br>B: Er war nicht so lustig."
+                            ],
+                            "guid": "n#+g.pOI1q",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "63c808c3-8395-11ec-8aee-0c7a15ee466f",
@@ -6867,6 +7120,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
+            "mid": 1642764953999,
             "name": "Kapitel 11",
             "notes": []
         },
@@ -8080,17 +8334,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "金曜日[きんようび]",
-                                "Freitag",
-                                "<img src=\"金曜日.png\">"
-                            ],
-                            "guid": "cTkowK&6ps",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "こん週の土曜日",
                                 "Samstag dieser Woche",
                                 "<img src=\"週.png\"><img src=\"土曜日.png\">"
@@ -8220,6 +8463,17 @@
                             "guid": "EJB^Su.ju,",
                             "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "Freitag",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -8256,17 +8510,6 @@
                                 ""
                             ],
                             "guid": "H!b,B6Hs^>",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつも",
-                                "immer, gewöhnlich",
-                                ""
-                            ],
-                            "guid": "wzYnt>/~uU",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -8657,6 +8900,17 @@
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

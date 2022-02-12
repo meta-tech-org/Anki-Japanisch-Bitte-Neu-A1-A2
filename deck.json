@@ -5007,6 +5007,7 @@
                     "media_files": [
                         "byo.gif"
                     ],
+                    "mid": 1644425084653,
                     "name": "D",
                     "notes": [
                         {
@@ -5094,7 +5095,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "もしもし。ベアマンです。おはようございます。",
-                                "(Am Telefon)<br>Hallo. Ich bin Bärmann. Guten Morgen."
+                                "(Am Telefon)<br>Hallo. Hier ist Behrmann. Guten Morgen."
                             ],
                             "guid": "p:nxvCe_j~",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -5238,6 +5239,217 @@
                             ],
                             "guid": "of?[Y[.I+=",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どうぞ",
+                                "bitte, Ich bitte Sie (nicht im Sinne von Nichts zu danken)",
+                                ""
+                            ],
+                            "guid": "JMF{&nZ_-B",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ちち",
+                                "(mein) Vater",
+                                ""
+                            ],
+                            "guid": "wAHf<FM[^Q",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おとうさん",
+                                "Vater (einer Person, der der Sprecher Respekt bezeugt), auch als Anrede für den eigenen Vater",
+                                ""
+                            ],
+                            "guid": "g@SOO;?YR4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "びょうき",
+                                "Krankheit",
+                                ""
+                            ],
+                            "guid": "QfFLv>,rn[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おだいじに",
+                                "(Rw.) Gute Besserung!",
+                                ""
+                            ],
+                            "guid": "bs-uYMIvuq",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それ",
+                                "das (im Gespräch zuvor Erwähnte)",
+                                ""
+                            ],
+                            "guid": "wDs*/rtre;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しつれいします",
+                                "(Rw.) hier: Auf Wiedersehen/Auf Wiederhören<br>(wörtl. Entschuldigen Sie bitte die Unhöflichkeit)",
+                                ""
+                            ],
+                            "guid": "J&g4@T{)>&",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よろしく",
+                                "(Rw.) hier: Viele Grüße!",
+                                ""
+                            ],
+                            "guid": "gU/QhoDchI",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "らいげつ",
+                                "nächster Monat",
+                                ""
+                            ],
+                            "guid": "p!gR/UJ_O]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どうも",
+                                "(mit einem zögernden Ton) hier etwa: Das tut mir sehr leid.",
+                                ""
+                            ],
+                            "guid": "(rj|bb}.q",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(どうぞ)おげんきで",
+                                "(Rw.) Bleiben Sie (bitte) gesund!",
+                                ""
+                            ],
+                            "guid": "mrI,k9UFh?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt man oft anstelle einer vollständigen Fomulierung wie \"Vielen Dank (Danke sehr)\")",
+                                "とうも"
+                            ],
+                            "guid": "FJi2Q$w0K!",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt man oft anstelle einer vollständigen Fomulierung wie <i>Es tut mir sehr leid, </i>oder&nbsp;<i>Es ist sehr schade/unhöflich, aber ich muss mich leider verabschieden?</i>",
+                                "とうも"
+                            ],
+                            "guid": "OUz[zo:R$9",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet はははちょっと… wörtlich übersetzt?",
+                                "Meine Mutter (ist) ein bisschen..."
+                            ],
+                            "guid": "KK;Zj4Dq`,",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der (nicht wörtliche) Sinn hinter dem Ausdruck: はははちょっと…?",
+                                "Oft unterbricht man im Japanischen einen Satz mit ちょっと， wenn man keine genauere Angabe machen mochte/kann, oder wenn man auf ein Thema nicht weiter eingehen möchte. Aus dem Kontext kann man jedoch vermuten, was wirklich gemeint ist."
+                            ],
+                            "guid": "J,7LJm8{t",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Antwort passt auf dem folgenden Satz?<br>おげんきてすか。Anwort: {{c1::c}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                ""
+                            ],
+                            "guid": "Kt`x7uL.oz",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Antwort passt auf dem folgenden Satz?<br>どうぞおげんきで。Anwort: {{c1::e}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                ""
+                            ],
+                            "guid": "sXai6T~O3w",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Antwort passt auf dem folgenden Satz?<br>ではしつれいします。Anwort: {{c1::a}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                ""
+                            ],
+                            "guid": "ReBVCFTUR7",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Antwort passt auf dem folgenden Satz?<br>またあした。Anwort: {{c1::d}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                ""
+                            ],
+                            "guid": "B_)[#dSEK5",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Antwort passt auf dem folgenden Satz?<br>ちちがちょっとびょうきです。Anwort: {{c1::b}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                ""
+                            ],
+                            "guid": "q^l~OW)Y))",
+                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
                         }
                     ]

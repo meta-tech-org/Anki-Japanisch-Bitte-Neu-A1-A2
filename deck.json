@@ -2509,6 +2509,7 @@
                         "fu.gif",
                         "pu.gif"
                     ],
+                    "mid": 1642764739085,
                     "name": "B",
                     "notes": [
                         {
@@ -2608,6 +2609,204 @@
                             ],
                             "guid": "FkYV9B7D@)",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おちゃ",
+                                "Tee, (als allgemeiner Begriff für) Kaffeepause",
+                                ""
+                            ],
+                            "guid": "y*i:N-.PB/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本[にほん]ちゃ",
+                                "grüner Tee (<b>japanischer</b> Tee)",
+                                ""
+                            ],
+                            "guid": "tG[`Dte.-_",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どう",
+                                "wie (informell)",
+                                ""
+                            ],
+                            "guid": "EPB[x<MUim",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いかが",
+                                "wie (höflich)",
+                                ""
+                            ],
+                            "guid": "L`nd9qaedf",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)とうふ",
+                                "Tofu, Sojabohnenquark",
+                                ""
+                            ],
+                            "guid": "wk/>y3*vt2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)さしみ",
+                                "dünne Scheiben rohen Fischfilets",
+                                ""
+                            ],
+                            "guid": "L@A=c`RX}3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)さけ",
+                                "Reiswein",
+                                ""
+                            ],
+                            "guid": "h=?+S#7v3]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ちょっと",
+                                "ein bisschen",
+                                ""
+                            ],
+                            "guid": "M6L>eS3M[t",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いただきます",
+                                "(Rw.) Guten Appetit! (sagt nur derjenige, der anfängt zu essen.) Wörtlich: Ich nehme es mit Dank an.",
+                                ""
+                            ],
+                            "guid": "C]pke^uymg",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どうぞ (Beim Überreichen, Hereinbitten etc)",
+                                "Bitte!&nbsp;(Beim Überreichen, Hereinbitten etc)",
+                                ""
+                            ],
+                            "guid": "m,Io_uEgyL",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ケーキ",
+                                "Kuchen",
+                                ""
+                            ],
+                            "guid": "hKX7^D*kS)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "クッキー",
+                                "Kekse",
+                                ""
+                            ],
+                            "guid": "F`d-^01xMR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "コーラ",
+                                "Cola",
+                                ""
+                            ],
+                            "guid": "d&@Dq}Z!Ei",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "フランス",
+                                "Frankreich",
+                                ""
+                            ],
+                            "guid": "jZ>#}ctOwi",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "フランスえいが",
+                                "französischer Film",
+                                ""
+                            ],
+                            "guid": "yikr.0Phjh",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アメリカえいが",
+                                "amerikanischer Film",
+                                ""
+                            ],
+                            "guid": "ueHK@F_Bx/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツりょうり",
+                                "deutsche Küche",
+                                ""
+                            ],
+                            "guid": "c-%l;+F+Hx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本[にほん]りょうり",
+                                "<b>japanische </b>Küche",
+                                ""
+                            ],
+                            "guid": "grYERt=W0y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

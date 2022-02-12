@@ -5564,6 +5564,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1642764953999,
                     "name": "C",
                     "notes": [
                         {
@@ -5916,6 +5917,216 @@
                             ],
                             "guid": "B7b[Z?U*g,",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bezeichnet ~から?",
+                                "から bezeichnet sowohl zeitlich als auch örtlich den <b>Ausgangspunkt </b>einer Handlung oder eines Zustandes."
+                            ],
+                            "guid": "IsT{^H)1@(",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bezeichnet ~まで?",
+                                "まで&nbsp;bezeichnet sowohl zeitlich als auch örtlich den <b>Endpunkt </b>einer Handlung oder eines Zustandes."
+                            ],
+                            "guid": "b!~?7fZIR>",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9時から",
+                                "ab/von 9 <b>Uhr</b>"
+                            ],
+                            "guid": "i~!&([<GnM",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9時まで",
+                                "bis 9 <b>Uhr</b>"
+                            ],
+                            "guid": "OS7muqT~h$",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bilden viele japanische Substantive mit の?",
+                                "Sehr viele japanische Substantive bilden mit の&nbsp;adjektivähnliche Phrasen.<br>Beispiel: 日本語のじゅぎょう bedeutet einmal <i>Japanisch-Unterricht</i> und auch <i>Unterricht auf Japanisch</i>"
+                            ],
+                            "guid": "C}fp?>%Ae0",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche zwei Bedeutungen hat der folgende Ausdruck: 日本語のじゅぎょう?",
+                                "- Unterricht auf Japanisch<br>- Japanisch-Unterricht"
+                            ],
+                            "guid": "B2{1Q2ns?-",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche zwei Bedeutungen hat der folgende Ausdruck: 日本語[にほんご]の 本[ほん]?",
+                                "- Japanisch-(Lehr-)Buch<br>- Buch, das auf Japanisch geschrieben ist"
+                            ],
+                            "guid": "msDe2oey.U",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本語のじゅぎょうをします。",
+                                "Ich gebe <b>Japanisch</b>-Unterricht."
+                            ],
+                            "guid": "s)Rtt:jA$B",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "バッハのコンサート",
+                                "Bach-Konzert"
+                            ],
+                            "guid": "L(~oz1ZAw-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アール・ヌーボーのてんらんかい",
+                                "Art-nouveau-Ausstellung"
+                            ],
+                            "guid": "izq[j%m)#/",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Als was könnte です als Ersatz im folgenden Ausdruck fungieren:~ 時[じ]からてす",
+                                "です fungiert als Ersatz für verschiedene Verben wie anfangen, öffnen oder spielen etc.<br>しごとは8時からです。＝ 8時からしごとをします。"
+                            ],
+                            "guid": "wNd8sZ*~g~",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しごとは8時からです。",
+                                "Die Arbeit ist ab/von acht <b>Uhr </b>(an)."
+                            ],
+                            "guid": "yB_o4fsX[3",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: パーティーはごご二時[にじ]からです。<br>B: わかりました。",
+                                "A: Die Party beginnt um <b>2 Uhr</b> Nachmittags.<br>B: Ich verstehe/Vertanden."
+                            ],
+                            "guid": "e0l7;KzQ2D",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 三時[さんじ]から 何[なに]をしますか。<br>B: わたしは四時[よじ]からテニスをします。",
+                                "A: <b>Was </b>machen Sie heute ab/nach <b>3 Uhr</b>?<br>B: Ich spiele ab <b>4 Uhr</b> Tennis."
+                            ],
+                            "guid": "i`j]wWSVrx",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 三時[さんじ]から 何[なに]をしますか。<br>B: わたしは 三時[さんじ]から 日本語[にほんご]のじゅぎょうです。",
+                                "A: <b>Was </b>machen Sie heute ab/nach <b>3 Uhr</b>?<br>B: Ich gebe von <b>3 Uhr</b> an <b>Japanisch</b>-Unterricht."
+                            ],
+                            "guid": "bn23d4%uuQ",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あしたのてんらんかいは 何[なん] 時[じ]からですか。<br>B: アール・ヌーボーのてんらんかいですね。10 時[じ]からごご6 時[じ]まで、17ユーロです。",
+                                "A: Die morgige Ausstellung, ab <b>wie viel</b> <b>Uhr</b> ist sie geöffnet?<br>B: Die Art-nouveau-Ausstellung meinen Sie, nicht wahr? Sie ist von 10 <b>Uhr </b>bis 18 <b>Uhr </b>geöffnet, (und kostet) 17 Euro."
+                            ],
+                            "guid": "D>!HQkO^p!",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Bさん、ベートーベンのコンサートは 何[なん] 時[じ]からですか。<br>B: 9 時[じ]からです。",
+                                "A: Herr B, ab <b>wann </b>ist das Beethoven Konzert?<br>B: Ab 9 <b>Uhr</b>."
+                            ],
+                            "guid": "K1nB,,q,hC",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Bさん、おんがくのじゅぎょうは 何[なん] 時[じ]からですか。<br>B: 6 時[じ] からです。",
+                                "A. Herr B, ab <b>wann </b>ist der Musik-Unterricht?<br>B: Ab 6 <b>Uhr</b>."
+                            ],
+                            "guid": "wiTkz:M<=H",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 何[なん] 時[じ]までですか。<br>B: ごご5 時[じ]までです。",
+                                "A: Bis <b>wann </b>geht es (das Konzert)?<br>B: Bis 5 <b>Uhr </b>Abends."
+                            ],
+                            "guid": "yDfJSlIir-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: きょうは 一時[いちじ]から 何[なに]をしますか。<br>B: 一時[いちじ]からおひるごはんです。",
+                                "A. <b>Was </b>machen Sie heute ab 1 <b>Uhr</b>?<br>B: Ab 1 <b>Uhr </b>habe ich mein Mittagessen."
+                            ],
+                            "guid": "DsaNhN1HFi",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:きょうは 二時[にじ]から 何[なに]をしますか。<br>B: 二時[にじ]からえいがをきます。",
+                                "A: <b>Was </b>machen Sie heute ab <b>2</b> <b>Uhr</b>?<br>B: Ab <b>2</b> <b>Uhr </b>gehe ich ins Kino."
+                            ],
+                            "guid": "HU+.{uXxs=",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]

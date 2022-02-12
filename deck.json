@@ -7111,6 +7111,246 @@
                             "tags": []
                         }
                     ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "e30d07fe-8c05-11ec-818c-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "D",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いろ",
+                                "Farbe",
+                                ""
+                            ],
+                            "guid": "MW@]hEv~$E",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かんたん",
+                                "einfach (nicht über Menschen)",
+                                ""
+                            ],
+                            "guid": "kqf[GRoK{l",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist かんたん?",
+                                "かんたん ist ein な-Adjektiv."
+                            ],
+                            "guid": "JL#`iVP2{>",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ホテル",
+                                "Hotel",
+                                ""
+                            ],
+                            "guid": "w!NP>|r)`v",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "バス",
+                                "Bus",
+                                ""
+                            ],
+                            "guid": "vqgAPzY+#2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie bildet man die verneinte Vergangenheitsform eines な-Adjektivs?",
+                                "Vergangenheitsform bildet man, indem man じゃなかった an das Adjektiv anhängt."
+                            ],
+                            "guid": "gH|?b?Oa8/",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Phrase \"Zeitwort oder Nomen + の + Nomen\" im Deutschen oft wiedergegeben?",
+                                "Die Phrase „Zeitwort oder Nomen + の + Nomen\" wird im Deutschen oft durch ein Adjektiv wiedergegeben: きのうのえいが der gestrige Film"
+                            ],
+                            "guid": "CSvm(W]08A",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのうのえいが",
+                                "der gestrige Film"
+                            ],
+                            "guid": "G^KL-c.CQZ",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本のしよくじ",
+                                "<b>japanisches </b>Essen"
+                            ],
+                            "guid": "nw*lqBKMkm",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von げんきです?",
+                                "げんきじゃなかったです"
+                            ],
+                            "guid": "D;%I6~1}/Z",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von しずかです?",
+                                "しずかじゃなかったです"
+                            ],
+                            "guid": "o+d|)I%,9@",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von にぎやかです?",
+                                "にぎやかじゃなかったです"
+                            ],
+                            "guid": "IL&(hQM`,G",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von たいへんです?",
+                                "たいへんじゃなかったです"
+                            ],
+                            "guid": "O(=FH;pTu/",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von きれいです?",
+                                "きれいじゃなかったです"
+                            ],
+                            "guid": "fNimK,]TK}",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Vergangenheit von かんたんです?",
+                                "かんたんじゃなかったです?"
+                            ],
+                            "guid": "sEw|D=icLL",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのうのえいがはどうでしたか。",
+                                "Wie war der Film von gestern?"
+                            ],
+                            "guid": "e%m/SPfg.O",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はなしはおもしろかったです。でもいろはあまりきれいじゃなかったです。",
+                                "Die Story war interessant. Aber die Farben waren nicht sehr schön."
+                            ],
+                            "guid": "cY4QsKd^Sx",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アルプス",
+                                "Die Alpen",
+                                ""
+                            ],
+                            "guid": "f&#nk-lhyD",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "小さい山のホテル。きれいなアルプス。ゆうめいなレストランとしずかなおんがく。",
+                                "Ein <b>kleines Berg</b>hotel. Schöne Alpen. Berühmte Restaurants und ruhige Musik."
+                            ],
+                            "guid": "Otpj~Cyqs,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "まちのホテル。にぎやかなジャズフェスティバルとたのしいしょくじ。",
+                                "Stadthotel. Belebtes Jazz-Festival und amüsantes Essen."
+                            ],
+                            "guid": "C])U*H)%ib",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ジャズフェスティバル",
+                                "Jazz-Festival",
+                                ""
+                            ],
+                            "guid": "Pbu^EfCRiL",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ホテルはどうでしたか。<br>B: しずかでしたが、あまりきれいじゃなかったです。",
+                                "A: Wie war das Hotel?<br>B: Es war ruhig, aber nicht sehr sauber/schön."
+                            ],
+                            "guid": "EDvwR=3G&e",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
                 }
             ],
             "crowdanki_uuid": "63c808c3-8395-11ec-8aee-0c7a15ee466f",

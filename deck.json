@@ -1952,6 +1952,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1642764739085,
                     "name": "A",
                     "notes": [
                         {
@@ -1986,6 +1987,181 @@
                             "guid": "j2i1;[hLG=",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのう",
+                                "gestern",
+                                ""
+                            ],
+                            "guid": "D=IIGz;?B:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おととい",
+                                "vorgestern",
+                                ""
+                            ],
+                            "guid": "H)WhB@37P?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "えいが",
+                                "Film (auch als DVD)",
+                                ""
+                            ],
+                            "guid": "O(eyR0&e`%",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "に (Richtung)",
+                                "(Partikel für Richtung und Zweck) <i>zu, nach</i>"
+                            ],
+                            "guid": "iNLhB$g!)0",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いきます",
+                                "gehen, fahren",
+                                ""
+                            ],
+                            "guid": "I*Ux=Ot/{a",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "りょこう",
+                                "Reise",
+                                ""
+                            ],
+                            "guid": "K,0+B~z<CU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "りょこうをします",
+                                "verreisen, eine Reise machen",
+                                ""
+                            ],
+                            "guid": "KUyV,7w;CL",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かいもの",
+                                "Einkäufe",
+                                ""
+                            ],
+                            "guid": "fesUm[RkLz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かいものをします",
+                                "einkaufen",
+                                ""
+                            ],
+                            "guid": "n!V{dD11Sl",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どこ",
+                                "wo",
+                                ""
+                            ],
+                            "guid": "Mj[q2@`&+D",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どこに",
+                                "wohin",
+                                ""
+                            ],
+                            "guid": "J.)oz8R-v+",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それから",
+                                "dann, danach, dazu",
+                                ""
+                            ],
+                            "guid": "cEm]m4>ov*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "パーティー",
+                                "Party",
+                                ""
+                            ],
+                            "guid": "PTALOfnM=}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "サスキア",
+                                "Saskia (Name)",
+                                ""
+                            ],
+                            "guid": "y:r}sg=kX>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "カティア",
+                                "Katia (Name)",
+                                ""
+                            ],
+                            "guid": "rf|gm++Pu(",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スーパー",
+                                "Supermarkt",
+                                ""
+                            ],
+                            "guid": "As^X>PJ;tb",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -1999,8 +2175,10 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [
-                        "mu.gif"
+                        "mu.gif",
+                        "大人.png"
                     ],
+                    "mid": 1642764739085,
                     "name": "B",
                     "notes": [
                         {
@@ -2079,6 +2257,159 @@
                             "guid": "p]~_[DMaX/",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "てがみ",
+                                "Brief",
+                                ""
+                            ],
+                            "guid": "M+*|Q((PvF",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "かきます",
+                                "schreiben",
+                                ""
+                            ],
+                            "guid": "y<4qZkZG-q",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~にてがみをかきます",
+                                "an jemanden einen Brief schreiben",
+                                ""
+                            ],
+                            "guid": "b;|]}h$<4)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きょう",
+                                "heute",
+                                ""
+                            ],
+                            "guid": "q85TNmHSt$",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "も",
+                                "auch"
+                            ],
+                            "guid": "hw^TZ1baOF",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "むかし",
+                                "die alte Zeit, früher",
+                                ""
+                            ],
+                            "guid": "yLtr1^1?QK",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "大人[おとな]",
+                                "<b>Erwachsene</b>",
+                                "<img src=\"大人.png\">"
+                            ],
+                            "guid": "B(oLE`Idy,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "メール",
+                                "e-Mail",
+                                ""
+                            ],
+                            "guid": "vY~c{[,Bjx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アニメ",
+                                "Anime/Animation/Zeichntrickfilm",
+                                ""
+                            ],
+                            "guid": "D3}@dCk<Hy",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "バスケットボール",
+                                "Basketball",
+                                ""
+                            ],
+                            "guid": "r3Qgp@8J[Z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アイスホッケー",
+                                "Eishockey",
+                                ""
+                            ],
+                            "guid": "M^z1ncv.nq",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "テニス",
+                                "Tennis",
+                                ""
+                            ],
+                            "guid": "t#v-qd1g-r",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アメリカ",
+                                "Amerika/Usa",
+                                ""
+                            ],
+                            "guid": "MHzWhSk7BX",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アルバイト",
+                                "Nebenjob",
+                                ""
+                            ],
+                            "guid": "D8]09kz8]a",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -2097,7 +2428,9 @@
                         "he.gif",
                         "ho.gif",
                         "pe.gif",
-                        "po.gif"
+                        "po.gif",
+                        "何.png",
+                        "本.png"
                     ],
                     "name": "C",
                     "notes": [
@@ -2198,6 +2531,138 @@
                             ],
                             "guid": "mu!_R^nwWu",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうじ",
+                                "Saubermachen",
+                                ""
+                            ],
+                            "guid": "*Gz<4X(s]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうじ（を）します",
+                                "putzen, saubermachen",
+                                ""
+                            ],
+                            "guid": "suOc7[[a2p",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さんぽ",
+                                "Sapziergang",
+                                ""
+                            ],
+                            "guid": "C^D3y;)=iK",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さんぽ（を）します",
+                                "spazieren gehen",
+                                ""
+                            ],
+                            "guid": "m90$tB6=8t",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よみます",
+                                "lesen",
+                                ""
+                            ],
+                            "guid": "oMfHx($QZX",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "べんきょう",
+                                "Lernen, Studieren",
+                                ""
+                            ],
+                            "guid": "iFp))9B1<b",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ききます",
+                                "hören, zuhören",
+                                ""
+                            ],
+                            "guid": "Op*8dfDS/u",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "CDをききま",
+                                "CD hören",
+                                ""
+                            ],
+                            "guid": "Mh9jQ]oKDp",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハンドボール",
+                                "Handball",
+                                ""
+                            ],
+                            "guid": "bkzAs3<7O1",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "カイザー",
+                                "Kaiser (Name)",
+                                ""
+                            ],
+                            "guid": "h<7NB#j-p]",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "本[ほん]",
+                                "<b>Buch</b>",
+                                "<img src=\"本.png\">"
+                            ],
+                            "guid": "j}8zTYpap<",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なに]も",
+                                "nichts, gar nichts",
+                                "<img src=\"何.png\">"
+                            ],
+                            "guid": "ucC*EsJ!w)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -2939,8 +3404,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "に",
-                                "(Partikel für Zeitangabe) <i>an, in, um</i> <br>(nicht mit きのう，きょう，あした, あさって wo sie als zeitliche Adverbien verwendet werden)"
+                                "に (Zeit)",
+                                "<i>an, in, um</i> <br>(nicht mit きのう，きょう，あした, あさって wo sie als zeitliche Adverbien verwendet werden)"
                             ],
                             "guid": "gH8dcj8FSi",
                             "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
@@ -3688,17 +4153,6 @@
                                 ""
                             ],
                             "guid": "QiX1x=qzwi",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "スーパー",
-                                "Supermarkt",
-                                ""
-                            ],
-                            "guid": "EshDl_>+.t",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },

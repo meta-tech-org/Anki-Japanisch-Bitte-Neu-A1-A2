@@ -3813,6 +3813,164 @@
                             "guid": "yM>o9!^8=<",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すこし",
+                                "etwas, ein bisschen (vornehmer als ちょっと)",
+                                ""
+                            ],
+                            "guid": "o/`_4;4q0?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "できます",
+                                "fähig sein, können",
+                                ""
+                            ],
+                            "guid": "Bj}@BYbm@D",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "できません",
+                                "nicht können",
+                                ""
+                            ],
+                            "guid": "ibatN^iGx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "にがて",
+                                "(Adj.) nicht gut/geschickt sein in etwas",
+                                ""
+                            ],
+                            "guid": "AE[1X:08Zc",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だめ",
+                                "(Adj.) zwecklos, unmöglich",
+                                ""
+                            ],
+                            "guid": "n[Fq663!WV",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist にがて?",
+                                "にがて ist ein な-Adjektiv."
+                            ],
+                            "guid": "HJYgj|^d:|",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist だめ?",
+                                "だめ ist ein な-Adjektiv."
+                            ],
+                            "guid": "ka>[vdwQpi",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スペイン",
+                                "Spanien",
+                                ""
+                            ],
+                            "guid": "QFk;kA916v",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ポルトガル",
+                                "Portugal",
+                                ""
+                            ],
+                            "guid": "l)^0?5!i{[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "オラフ",
+                                "Olaf (Name)",
+                                ""
+                            ],
+                            "guid": "NY[o4Fb:Z;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wird das Objekt von できます mit を oder mit が markiert?",
+                                "できます bedeutet können oder fähig sein, ist aber im japanischen kein Hilfsverb.<br>Das Objekt wird nicht durch を, sondern durch が&nbsp;markiert."
+                            ],
+                            "guid": "ok6/MMDU7>",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはりょうりができます。",
+                                "Ich kann kochen."
+                            ],
+                            "guid": "M8T$o*(]>x",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "英語[えいご]がてきません。",
+                                "Ich kann nicht <b>Englisch</b>."
+                            ],
+                            "guid": "H=CcVdOmPl",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "フランス語[ふらんすご]はできません。でもドイツ 語[ご]はできます。",
+                                "<b>Französisch </b>kann ich nicht. Aber <b>Deutsch </b>kann ich."
+                            ],
+                            "guid": "j,)L84.-mN",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Bさんはフランス語ができますか。<br>B: はい、すこしできます。",
+                                "A: Herr B, können Sie Französisch?<br>B: Ja, ich kann etwas (formell)."
+                            ],
+                            "guid": "u6H;ecQ.=)",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },

@@ -4953,13 +4953,16 @@
                     "extendRev": 0,
                     "media_files": [
                         "一.png",
+                        "一時半.png",
                         "三.png",
                         "二.png",
+                        "二時半.png",
                         "半.png",
                         "四.png",
                         "時.png",
                         "時半.png"
                     ],
+                    "mid": 1642764953999,
                     "name": "B",
                     "notes": [
                         {
@@ -5455,6 +5458,78 @@
                             ],
                             "guid": "DOgm$%X|8d",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "一時半[いちじはん]",
+                                "<b>halb 2</b>",
+                                "<img src=\"一時半.png\">"
+                            ],
+                            "guid": "s``g)6xY(4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "二時半[にじはん]",
+                                "<b>halb 3</b>",
+                                "<img src=\"二時半.png\">"
+                            ],
+                            "guid": "w&lrd9;F1I",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いま何時[なんじ]ですか。<br>B: 11時[じゅういちじ]です。",
+                                "A: <b>Wie spät</b> ist es jetzt, bitte?<br>B: 11 <b>Uhr</b>."
+                            ],
+                            "guid": "A9n8&V?`]%",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本[にっほん]はいまごご5 時[じ]です。",
+                                "In <b>Japan </b>ist es jetzt 5 <b>Uhr </b>Abends."
+                            ],
+                            "guid": "cF`Z$@p~gg",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツはごぜん10 時です。",
+                                "In Deutschland ist es 10 <b>Uhr </b>vormittags."
+                            ],
+                            "guid": "CT$p3Jd!JL",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いま 何[なん] 時[じ]ですか。<br>B: 四[よ] 時[じ]です。",
+                                "A: <b>Wie viel Uhr</b> haben wir?<br>B: Es ist <b>4 Uhr</b>."
+                            ],
+                            "guid": "A{?ewx`dZa",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Bさん、ローマはいま 何[なん] 時[じ]ですか。<br>B: ごぜん一 時[じ]です。",
+                                "A: Herr B, wie spät ist es gerade in Rom?<br>B: Es ist 1 Uhr vormittags."
+                            ],
+                            "guid": "G$*NBnFEBE",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]

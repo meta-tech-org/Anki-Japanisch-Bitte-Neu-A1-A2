@@ -3289,7 +3289,7 @@
                         "日曜日.png",
                         "曜日.png"
                     ],
-                    "mid": 1642764739085,
+                    "mid": 1642765939199,
                     "name": "C",
                     "notes": [
                         {
@@ -3486,6 +3486,36 @@
                             ],
                             "guid": "D]<!Mg895=",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist ざんねん?",
+                                "ざんねん&nbsp;ist ein な-Adjektiv."
+                            ],
+                            "guid": "F9-}HS~%,:",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist だいじょうぶ?",
+                                "だいじょうぶ&nbsp;ist ein な-Adjektiv."
+                            ],
+                            "guid": "HC2=khu?sz",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist むり?",
+                                "むり&nbsp;ist ein な-Adjektiv."
+                            ],
+                            "guid": "KkCy6Nx46$",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]

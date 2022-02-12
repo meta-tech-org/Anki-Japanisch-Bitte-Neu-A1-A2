@@ -3990,7 +3990,7 @@
                         "小.png",
                         "車.png"
                     ],
-                    "mid": 1642765939199,
+                    "mid": 1642764953999,
                     "name": "B",
                     "notes": [
                         {
@@ -4539,6 +4539,26 @@
                             ],
                             "guid": "b`Xxj*8$4X",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 東京[とうきょう]]は 大[おお]きい]まちですね。<br>B: そうですね。 大[おお]きいまちですね。 大阪[おおさか]も 大[おお]きいまちですね。",
+                                "A: Tokio ist eine große Stadt, nicht wahr?<br>B: So ist es. (Tokio) Sie ist groß. Osaka ist auch eine große Stadt, nicht wahr?"
+                            ],
+                            "guid": "jE~UoH/PXD",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ハーバード 大学[だいがく]はむずかしい 大学[だいがく]ですね。<br>B: そうですね。むずかしい 大学[だいがく]ですね。ハンブルグ 大学[だいがく]もむずかしい 大学[だいがく]ですね。",
+                                "A: Havard (<b>Universität</b>) ist eine schwierige <b>Universität</b>, nicht wahr?<br>B: So ist es. Sie ist eine schwierige <b>Universität</b>. Die Hamburger <b>Universität </b>ist auch eine schwierige <b>Universität</b>, nicht wahr?"
+                            ],
+                            "guid": "fc81AjIFA+",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]

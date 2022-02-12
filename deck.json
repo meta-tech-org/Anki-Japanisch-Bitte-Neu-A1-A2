@@ -1470,7 +1470,8 @@
                         "mo.gif",
                         "re.gif",
                         "so.gif",
-                        "zo.gif"
+                        "zo.gif",
+                        "何.png"
                     ],
                     "name": "A",
                     "notes": [
@@ -1561,6 +1562,126 @@
                             "guid": "l,.D2jNY]Z",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何[なん]",
+                                "was (Fragewort)",
+                                "<img src=\"何.png\">"
+                            ],
+                            "guid": "bcR|tvlv*H",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "これ",
+                                "das hier (das sich in der Nahe des Sprechers befindet)",
+                                ""
+                            ],
+                            "guid": "zFCXI9^bgX",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それ (örtlich)",
+                                "das da (das sich in größerer Entfernung vom Sprecher befindet)",
+                                ""
+                            ],
+                            "guid": "H[Naqp2cCC",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "でも",
+                                "aber (Konjunktion, umgangssprachlich)&nbsp;",
+                                ""
+                            ],
+                            "guid": "IE6ZDQGWts",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wo steht でも?",
+                                "でも steht am Anfang eines nachgeordneten Satzes, der dem vorausgehenden Satz widerspricht."
+                            ],
+                            "guid": "m[;;xOH8sW",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どれ",
+                                "welches (Fragewort)",
+                                ""
+                            ],
+                            "guid": "jcD2ga[D2?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)はし",
+                                "Essstäbchen",
+                                ""
+                            ],
+                            "guid": "gZ?h#GR+u{",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きもの",
+                                "Kimono (traditionelle japanische Kleidung)",
+                                ""
+                            ],
+                            "guid": "HyF(7Sth/L",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たまご",
+                                "Ei, Laich",
+                                ""
+                            ],
+                            "guid": "J<Tl!EmfG}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しょうゆ",
+                                "Sojasoße",
+                                ""
+                            ],
+                            "guid": "lVo*b!S4mn",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ソース",
+                                "Soße, oft jap. Worcester-Soße",
+                                ""
+                            ],
+                            "guid": "L.O^sk0g|`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -1576,7 +1697,10 @@
                     "media_files": [
                         "jo.gif",
                         "ri.gif",
-                        "tsu.gif"
+                        "tsu.gif",
+                        "日本語-568b234f2731c34d4e6956280eb967c46bb7c585.png",
+                        "英語.png",
+                        "語.png"
                     ],
                     "name": "B",
                     "notes": [
@@ -1623,6 +1747,137 @@
                             "guid": "L|I){gOvs4",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ごはん",
+                                "- gekochter Reis<br>- Mahlzeit",
+                                ""
+                            ],
+                            "guid": "I7_T>[Qp1Y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "で (+ Sprache)",
+                                "(Partikel für Methode und Mittel) hier: auf, in (einer Sprache)"
+                            ],
+                            "guid": "w2kk}ZCM_c",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "つくえ",
+                                "Tisch",
+                                ""
+                            ],
+                            "guid": "HIfpL@P=g}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いす",
+                                "Stuhl",
+                                ""
+                            ],
+                            "guid": "EsXJ0Zt0)c",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "うち",
+                                "Haus, zu Hause",
+                                ""
+                            ],
+                            "guid": "DZ|EjyT=gi",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しゅみ",
+                                "Hobby",
+                                ""
+                            ],
+                            "guid": "qw%*oDY!sx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じょうば",
+                                "Reiten",
+                                ""
+                            ],
+                            "guid": "AH4zOO9)je",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "りょうり",
+                                "Gericht, Kochen",
+                                ""
+                            ],
+                            "guid": "tv4+lw`HC,",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どくしょ",
+                                "Bücherlesen",
+                                ""
+                            ],
+                            "guid": "tdQCyO>8Kz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本語[にほんご]",
+                                "Japanisch (Sprache)",
+                                "<img src=\"日本語-568b234f2731c34d4e6956280eb967c46bb7c585.png\">"
+                            ],
+                            "guid": "vJHG*#)eJ2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "英語[えいご]",
+                                "Englisch (Sprache)",
+                                "<img src=\"英語.png\">"
+                            ],
+                            "guid": "NXx6#x]f+0",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツ 語[ご]",
+                                "Deutsch",
+                                "<img src=\"語.png\">"
+                            ],
+                            "guid": "e=5rB&yo)[",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -1638,8 +1893,15 @@
                     "media_files": [
                         "bi.gif",
                         "hi.gif",
-                        "pi.gif"
+                        "pi.gif",
+                        "大.png",
+                        "大学.PNG",
+                        "大学生.PNG",
+                        "学.PNG",
+                        "日本学.png",
+                        "生.PNG"
                     ],
+                    "mid": 1642764739085,
                     "name": "C",
                     "notes": [
                         {
@@ -1673,6 +1935,215 @@
                             ],
                             "guid": "f#*G>blsoh",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "大[だい]",
+                                "groß",
+                                "<img src=\"大.png\">"
+                            ],
+                            "guid": "y5VfKr4Qlh",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "学[がく]",
+                                "lernen, Studiumm, Wissen, Bildung",
+                                "<img src=\"学.PNG\">"
+                            ],
+                            "guid": "o-)$WXr0Ws",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "生[せい]",
+                                "Leben",
+                                "<img src=\"生.PNG\">"
+                            ],
+                            "guid": "AgJTvp+hY",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "でした",
+                                "Vergangenheitsform von です",
+                                ""
+                            ],
+                            "guid": "z`V[)@OWp3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ひしょ",
+                                "Sekretärin",
+                                ""
+                            ],
+                            "guid": "ET`yy_[p)m",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "まえ",
+                                "vorne, früher",
+                                ""
+                            ],
+                            "guid": "tx}&5;=)Gw",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いま",
+                                "jetzt, heute, zurzeit",
+                                ""
+                            ],
+                            "guid": "cjEi{;pl@z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おんがく",
+                                "Musik",
+                                ""
+                            ],
+                            "guid": "PE1e6.:.lw",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "まだ",
+                                "noch",
+                                ""
+                            ],
+                            "guid": "IfoUXHl<j8",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そう",
+                                "so",
+                                ""
+                            ],
+                            "guid": "i{TxA:f4dV",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですか",
+                                "Ist das so?/Ich verstehe",
+                                ""
+                            ],
+                            "guid": "Ca+_x~d^a~",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハンス",
+                                "Hans (Name)",
+                                ""
+                            ],
+                            "guid": "pWP+foBj!8",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハーバード",
+                                "Harvard (Universität)",
+                                ""
+                            ],
+                            "guid": "GhJF6[LJ%|",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "大学[だいがく]",
+                                "Universität, Hochschule",
+                                "<img src=\"大学.PNG\">"
+                            ],
+                            "guid": "KmMwigt4e",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "大学生[だいがくせい]",
+                                "Hochschulstudent",
+                                "<img src=\"大学生.PNG\">"
+                            ],
+                            "guid": "j,Lu&]V*_/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本[にほん] 学[がく]",
+                                "Japanologie",
+                                "<img src=\"日本学.png\">"
+                            ],
+                            "guid": "i]Ux4@[E78",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しみん 大学[だいがく]",
+                                "Volkshochschule",
+                                "<img src=\"大学.PNG\">"
+                            ],
+                            "guid": "z%d1NQ<S.4",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おんがく 大学[だいがく]",
+                                "Musikhochschule",
+                                "<img src=\"大学.PNG\">"
+                            ],
+                            "guid": "{E.-/,wi/",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おん 大[だい]",
+                                "Abkürzung von Musikhochschule",
+                                "<img src=\"大.png\">"
+                            ],
+                            "guid": "l}n{{,q.2#",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -6257,17 +6728,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "うち",
-                                "Haus, mein zu Haus",
-                                ""
-                            ],
-                            "guid": "b6g:%Ti:2`",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "みな",
                                 "alle (Menschen oder Gegenstände)",
                                 ""
@@ -6721,7 +7181,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "それ",
+                                "それ (im Gespräch)",
                                 "das (im Gespräch zuvor Erwähnte)",
                                 ""
                             ],
@@ -8623,17 +9083,6 @@
                                 ""
                             ],
                             "guid": "A~Q59CQJuO",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "そう",
-                                "so",
-                                ""
-                            ],
-                            "guid": "J!*cB?<}+3",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },

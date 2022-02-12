@@ -7122,6 +7122,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1642764739085,
                     "name": "D",
                     "notes": [
                         {
@@ -7348,6 +7349,277 @@
                             ],
                             "guid": "EDvwR=3G&e",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        }
+                    ]
+                },
+                {
+                    "__type__": "Deck",
+                    "children": [],
+                    "crowdanki_uuid": "9f8c58ea-8c0e-11ec-a621-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [
+                        "韓国.png"
+                    ],
+                    "name": "E",
+                    "notes": [
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よく (Adverb)",
+                                "(Adv.) gut",
+                                ""
+                            ],
+                            "guid": "bKK&4QEf~5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それで",
+                                "deshalb, deswegen, aus diesem Grund",
+                                ""
+                            ],
+                            "guid": "p&[{dz[j<u",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "~<b>と&nbsp;</b>はなします",
+                                "mit (jemandem);&nbsp;mit jemandem sprechen"
+                            ],
+                            "guid": "IBIVHNmVuw",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ともだち",
+                                "Freund(-in)",
+                                ""
+                            ],
+                            "guid": "qEZI(WOGQZ",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "韓国[かんこく]",
+                                "(Süd-)Korea",
+                                "<img src=\"韓国.png\">"
+                            ],
+                            "guid": "E9%GY)v`K-",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welcher Partikel wird bei&nbsp;わかる (wie auch bei できる oder すき）das Objekt markiert?",
+                                "Bei わかる&nbsp; wird das Objekt mit が markiert. Im Deutschen hingegen handelt es sich hier um ein Akkusativobjekt. <br>英語がよくわかります&nbsp;bedeutet also <i>Ich verstehe Englisch gut</i>."
+                            ],
+                            "guid": "r%,l**m[yq",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird die Partikel が durch は ersetzt?",
+                                "Die Partikel が&nbsp;wird durch は&nbsp;ersetzt, wenn das Objekt als Thema des Satzes hervorgehoben werden soll oder verneint wird."
+                            ],
+                            "guid": "GWM57<.D6q",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "英語はかんたんでした。それではなしがよくわかりました。",
+                                "Das <b>Englisch </b>war einfach. Deshalb konnte ich die Story gut verstehen."
+                            ],
+                            "guid": "M#G1/fE^ex",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ははは日本人です。それでよく日本にいきます。",
+                                "Meine Mutter ist <b>Japanerin</b>. Deshalb reist/fliegt sie oft nach <b>Japan</b>."
+                            ],
+                            "guid": "jDx11%7<po",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ともだちは韓国人です。それでよく韓国に来ます。",
+                                "Mein Freund ist <b>Koreaner</b>. Daher <b>kommt </b>er&nbsp;oft nach <b>Korea</b>."
+                            ],
+                            "guid": "FfQvn:&!84",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "韓国語もよくはなします。こどもさんも韓国語がよくわかります。",
+                                "Ich spreche gut <b>Koreanisch</b>. Die Kinder verstehen <b>Koreanisch</b> auch gut."
+                            ],
+                            "guid": "GzNjVc`3O-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "英語はわかります。ても日本語はよくわかりません。それでさのさんと英語ではなしました。",
+                                "<b>Englisch </b>verstehe ich. Aber <b>Japanisch </b>verstehe ich nicht so gut. Deshalb habe ich mich mit Frau Sano auf <b>Englisch </b>unterhalten."
+                            ],
+                            "guid": "C.@LpmlL>0",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはドイツ人です。それで、さのさんとドイツ語ではなします。",
+                                "Ich bin <b>Deutscher</b>. Deshalb spreche ich mit Frau Sano auf <b>Deutsch</b>."
+                            ],
+                            "guid": "tok*dZ77FD",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いしいさんの英語はむずかしかったです。それであまりわかりませんでした。",
+                                "Das <b>Englisch </b>von Frau Ishii war schwierig. Daher habe ich sie nicht so gut verstanden."
+                            ],
+                            "guid": "I@5Z:Tq}9T",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ホテルはとてもふるかったです。それであまりきれいじゃなかったです。",
+                                "Das Hotel war sehr alt. Daher war es auch nicht so schön."
+                            ],
+                            "guid": "d.RL%jVp.^",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "せんせいの日本語はかんたんでした。それでよくわかりました。",
+                                "Das <b>Japanisch </b>meines Lehrers war einfach. Daher habe ich es gut verstanden."
+                            ],
+                            "guid": "iG0/yVn;K,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アメリカからともだちが来ました。それで英語をはなしました。",
+                                "Mein Freund <b>kam </b>aus Amerika. Deshalb haben wir <b>Englisch </b>gesprochen."
+                            ],
+                            "guid": "ifk_p&W`G>",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本から来週ともだちが来ます。それでいっしょにりよこうします。",
+                                "Meine Freunde <b>kommen nächste Woche</b> aus <b>Japan</b>. Deshlab machen wir zusammen eine Reise."
+                            ],
+                            "guid": "pAsvJ~^.Rm",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: きのう日本のえいがをみました。<br>B: どうでしたか。",
+                                "A: Ich habe gestern einen <b>japanischen </b>Film gesehen.<br>B: Wie war er?"
+                            ],
+                            "guid": "ls<1O@lfRU",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "日本語はたいへんでしたが、はなしはわかりました。",
+                                "Das Japanisch war kompliziert, aber ich konnte die Geschichte verstehen."
+                            ],
+                            "guid": "hcoX<T>@|d",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "とてもおもしろかったです。でも、とてもふるいえいがでした。それで、いろはあまりきれいじゃなかったです。",
+                                "Er (der Film) war sehr interessant. Aber er war sehr alt. Deshalb waren die Farben auch nicht mehr schön."
+                            ],
+                            "guid": "tmblii+N]z",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "来週あたらしい日本のえいがが来ます。",
+                                "<b>Nächste Woche</b> <b>kommt </b>ein neuer <b>japanischer </b>Film."
+                            ],
+                            "guid": "iV+32&2JS<",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 何というえいがですか。<br>B: え、ちょっとわすれました。でも、きっとおもしろいですよ。",
+                                "A: Wie heißt der Film?<br>B: Ähm, das habe ich (ein wenig) vergessen. Aber er ist bestimmt interessant!"
+                            ],
+                            "guid": "ekf/=z|rUI",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: じゃ、いきましよう。<br>B: じゃ、来週、でんわします。<br>A: わかりました。",
+                                "A: Dann lass uns hingehen! (In den Film gehen)<br>B: Dann, rufe ich dich nächste Woche an.<br>A: Alles klar! (Verstanden)"
+                            ],
+                            "guid": "b^EAnFBKgk",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "アイドル",
+                                "Idole",
+                                ""
+                            ],
+                            "guid": "QGqPXL:}m?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

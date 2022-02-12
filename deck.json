@@ -4573,6 +4573,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1642764953999,
                     "name": "C",
                     "notes": [
                         {
@@ -4764,6 +4765,231 @@
                                 "Ja, ich kann ein bisschen Englisch."
                             ],
                             "guid": "L-D3X+=mem",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)ひさしぶり(です)",
+                                "(Rw.) Lange nicht gesehen/gehört!",
+                                ""
+                            ],
+                            "guid": "xuwv`F_<R6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "げんき",
+                                "gesund, munter",
+                                ""
+                            ],
+                            "guid": "fk>-zT]:nT",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist げんき?",
+                                "げんき ist ein な-Adjektiv."
+                            ],
+                            "guid": "e{A?j!57yw",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "から",
+                                "aus, von (örtlich), ab, von (zeitlich)"
+                            ],
+                            "guid": "F[A9)yGoEc",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "どこから",
+                                "woher/woraus",
+                                ""
+                            ],
+                            "guid": "kwq8Vrz3^)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おたく",
+                                "Haus (einer Person, der der Sprecher Respekt bezeugt)",
+                                ""
+                            ],
+                            "guid": "bT#HDs(q7L",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "うち",
+                                "Haus, mein zu Haus",
+                                ""
+                            ],
+                            "guid": "b6g:%Ti:2`",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "みな",
+                                "alle (Menschen oder Gegenstände)",
+                                ""
+                            ],
+                            "guid": "F;e2S97(%}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "みなさん",
+                                "(Sie) alle",
+                                ""
+                            ],
+                            "guid": "bKZ%mDcLMl",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おたくのみなさん",
+                                "alle bei Ihnen zu Hause (Ihre Familie, Ihre Firmenmitglieder)",
+                                ""
+                            ],
+                            "guid": "f0lLU/$z&R",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "もしもし",
+                                "Hallo! (am Telefon)",
+                                ""
+                            ],
+                            "guid": "JCa$z{.hvd",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おかあさん",
+                                "Mutter (einer Person, der der Sprecher Respekt bezeugt), auch als Anrede für die eigene Mutter",
+                                ""
+                            ],
+                            "guid": "j]5vLvg[11",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "トーステン",
+                                "Thorsten (Name)",
+                                ""
+                            ],
+                            "guid": "L?9H#K-_Ha",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "べアマン",
+                                "Behrmann (Name)",
+                                ""
+                            ],
+                            "guid": "sn:wwRA(P3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "マイアミ",
+                                "Miami (Stadt)",
+                                ""
+                            ],
+                            "guid": "G1sSlHNX>w",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ミラノ",
+                                "Mailand (Stadt)",
+                                ""
+                            ],
+                            "guid": "F;5Be2BNJo",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ミンスク",
+                                "Minsk (Stadt)",
+                                ""
+                            ],
+                            "guid": "GQ.yp;&IEY",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet&nbsp;おげんきですか?",
+                                "<i>Geht es Ihnen gut?</i> Es ist auch eine häufig gebrauchte Redewendung."
+                            ],
+                            "guid": "pt2;fBYkQm",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie kann man auf&nbsp;おげんきですか antworten?",
+                                "-&nbsp;げんきです (üblicherweise)<br>- はい、どうも<br>- あまり... (Es geht mir nicht so gut) aber eher untypisch"
+                            ],
+                            "guid": "jA)l:,(*(}",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet&nbsp;すみませんでした?",
+                                "Es tut mir leid (dass ich etwas Falsches/Dummes gemacht habe/dass Sie so viel für mich tun mussten)."
+                            ],
+                            "guid": "P6<cm6|tUx",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たなかさんのおかあさん",
+                                "Herrn Tanakas Mutter"
+                            ],
+                            "guid": "lc$f.v3xs#",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }

@@ -6141,6 +6141,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1643907910759,
                     "name": "D",
                     "notes": [
                         {
@@ -6261,6 +6262,186 @@
                             ],
                             "guid": "ys2({tok};",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was drückt die Partikel に aus?",
+                                "Die Partikel drückt den Zeitpunkt aus, zu dem man etwas tut oder zu dem etwas geschieht."
+                            ],
+                            "guid": "so[m_0Ii`h",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie drückt man aus, dass man sich mit einer bestimmten Person X trifft?",
+                                "～さんにあいます: Bei あいます verwendet man die Partikel に für die Person, die man trifft. Im Deutschen handelt es sich hierbei um ein Akkusativobjekt (jemanden treffen).<br>"
+                            ],
+                            "guid": "j)VS96s/Na",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann markiert die Partikel が das Subjekt des Satzes?",
+                                "Die Partikel が markiert das Subjekt des Satzes, wenn das Subjekt eine neue Information darstellt. Auch wenn das Subjekt ein Fragewort (z. B. どこの車) enthält, wird die Partikel hinter dem Subjekt verwendet."
+                            ],
+                            "guid": "fN`|3kmw?x",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür kann&nbsp;どこ(の) alles verwendet werden?",
+                                "- um nach dem Ort, der Herkunft oder der Zugehörigkeit zu fragen<br>- als deutsche Fragewörter <i>welcher, welche, welches</i>"
+                            ],
+                            "guid": "oko>=*q7%x",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: どこのえいがかんにいきますか。<br>B: オデオンです。",
+                                "A: In welches Kino gehen Sie?<br>B: Ins \"Odeon\"."
+                            ],
+                            "guid": "dUKo0,b)i*",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: どこの 車[くるま]がいいですか。<br>B: BMWがいいです。",
+                                "A: Welches <b>Auto </b>ist gut?<br>B: BMW ist gut."
+                            ],
+                            "guid": "N&X&Y{XfL%",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: どこの&nbsp;スポーツカーがいいですか。<br>B: Bugatti がいいです。",
+                                "A: Welches Sportauto ist gut?<br>B: Bugatti ist gut."
+                            ],
+                            "guid": "LyVSQ`>+-q",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あしたケラーさんにあいませんか。<br>B: ええ、そうしましよう。",
+                                "A:&nbsp;Wollen wir(nicht) morgen Frau Keller treffen?<br>B: Ja, lass uns das so machen!"
+                            ],
+                            "guid": "Q2?<l?yGpU",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 何[なん] 時[じ]にあいましようか。<br>B: 8 時半[じはん]にあいましよう。",
+                                "A: Um <b>wie viel Uhr</b> wollen wir uns treffen?<br>B: Lass uns um <b>halb </b>9&nbsp;<b>Uhr&nbsp;</b>treffen."
+                            ],
+                            "guid": "x{Gskn#o!#",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あさって5 時[じ]にいとうさんにあいます。",
+                                "Übermorgen um 5 Uhr treffe ich Herrn Ito."
+                            ],
+                            "guid": "N.PP,}x6#-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "べアマンさんはあさって9 時[じ]にさのさんにあいます。",
+                                "Herr Behrmann trifft übermorgen um 9 <b>Uhr</b> Frau Sano."
+                            ],
+                            "guid": "r&ebp;J?ke",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: あした 日本[にほん]のえいがをみませんか。<br>B: だれのえいがですか。<br>A: くろさわあきらのえいがです。",
+                                "A: Wollen wir nicht morgen einen <b>japanischen </b>Film schauen?<br>B: Von wem ist der Film?<br>A: Der Film ist von Kurusawa Akira."
+                            ],
+                            "guid": "K@sFmAx:.k",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 日本語[にほんご]のえいがですか。<br>B: そうです。",
+                                "A. Ist der Film auf <b>Japanisch</b>?<br>B: So ist es. (Ja)"
+                            ],
+                            "guid": "JpL-r2Z$]S",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いいですね。みましよう。 何[なん] 時[じ]からですか。<br>B: 8 時[じ]からです。",
+                                "A. Hört sich gut an! Lass uns (den Film) schauen. Ab <b>wann </b>läuft er?<br>B: Ab 8 <b>Uhr</b>."
+                            ],
+                            "guid": "lQ5$W|Mnup",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: どこのえいがかんですか。<br>B: オデオンです。",
+                                "A: In welchem Kino (läuft er)?<br>B: Im Odeon."
+                            ],
+                            "guid": "iGstvmDIs,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: じゃ、7 時半[じはん]にオデオンにいきましょうか。<br>B: そうしましょう。",
+                                "A: Dann, wollen wir um halb 8 Uhr zum Odeon gehen?<br>B: Lass uns (dann) gehen."
+                            ],
+                            "guid": "j7i.[,A3f[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: じゃ、あした7 時半[じはん]に。<br>B: はい。じゃ、またあした。",
+                                "A: Dann, bis morgen um halb 8 Uhr.<br>B: Ja. Dann, bis morgen."
+                            ],
+                            "guid": "N_kL/d;>$S",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird die Ära des Kaisers, die 1989 bekann, genannt?",
+                                "Die 平成[へいせい] Ära."
+                            ],
+                            "guid": "uy,t,F6Uky",
+                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
                             "tags": []
                         }
                     ]

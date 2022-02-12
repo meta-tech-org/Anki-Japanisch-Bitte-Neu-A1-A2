@@ -2229,6 +2229,7 @@
                         "ne.gif",
                         "ru.gif"
                     ],
+                    "mid": 1642765939199,
                     "name": "A",
                     "notes": [
                         {
@@ -2295,6 +2296,201 @@
                             ],
                             "guid": "sz[AjWep7^",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ね",
+                                "entspricht im Deutschen Wörtern wie <i>doch, wirklich, nicht wahr </i>usw."
+                            ],
+                            "guid": "O.}zo_QH1a",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たべます",
+                                "essen",
+                                ""
+                            ],
+                            "guid": "v!T3|Fd|PR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)ひる",
+                                "Mittag",
+                                ""
+                            ],
+                            "guid": "c|;j@D&lPj",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)ひるごはん",
+                                "Mittagessen",
+                                ""
+                            ],
+                            "guid": "Od_beFE/IO",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しょくじ",
+                                "Essen",
+                                ""
+                            ],
+                            "guid": "Qn+n~kU$sF",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die elegante Entsprechung von&nbsp;ごはんをたべます?",
+                                "しょくじをします"
+                            ],
+                            "guid": "ydOMW(dN,*",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しょくじにいきます",
+                                "essen gehen",
+                                ""
+                            ],
+                            "guid": "z@Rq|el-Cs",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ぜひ",
+                                "- auf jeden Fall, unbedingt, sicher;<br>- sehr gern",
+                                ""
+                            ],
+                            "guid": "r~4),-L`So",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)はなみ",
+                                "Kirschblütenschau",
+                                ""
+                            ],
+                            "guid": "i54Je[o%fn",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "のう",
+                                "(japanisches) Noh-(Masken-)Theater",
+                                ""
+                            ],
+                            "guid": "bW!<OuxOU)",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いっしょに",
+                                "zusammen, gemeinsam",
+                                ""
+                            ],
+                            "guid": "biNn(]?9Jy",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いい",
+                                "gut, schön",
+                                ""
+                            ],
+                            "guid": "M!OV:k+|%n",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist いい?",
+                                "いい ist ein い-Adjektiv."
+                            ],
+                            "guid": "m_^YD-Wv0",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すみません",
+                                "Es tut mir leid.",
+                                ""
+                            ],
+                            "guid": "G^>#KfT|$P",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あさって",
+                                "übermorgen",
+                                ""
+                            ],
+                            "guid": "zGh{?hVe6*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "コンサート",
+                                "Konzert",
+                                ""
+                            ],
+                            "guid": "wojES}G?,6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ボクシング",
+                                "Boxen (Sport)",
+                                ""
+                            ],
+                            "guid": "jw;9vLokk@",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハイキング",
+                                "Wandern",
+                                ""
+                            ],
+                            "guid": "OvC7eM<3yM",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

@@ -3983,8 +3983,14 @@
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [],
-                    "mid": 1644323376456,
+                    "media_files": [
+                        "国.png",
+                        "大.png",
+                        "大阪.PNG",
+                        "小.png",
+                        "車.png"
+                    ],
+                    "mid": 1642765939199,
                     "name": "B",
                     "notes": [
                         {
@@ -4127,6 +4133,412 @@
                             ],
                             "guid": "pNY75uo?Z#",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "小さい[ちいさい]",
+                                "klein",
+                                "<img src=\"小.png\">"
+                            ],
+                            "guid": "g;oW348pq_",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "車[くるま]",
+                                "Wagen, Auto",
+                                "<img src=\"車.png\">"
+                            ],
+                            "guid": "K_Q)V|MMBx",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "(お)てんき",
+                                "Wetter",
+                                ""
+                            ],
+                            "guid": "Cm>TlT4{in",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おもしろい",
+                                "interessant, lustig",
+                                ""
+                            ],
+                            "guid": "Kp-1+.wvp|",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "むずかしい",
+                                "schwierig, schwer, kompliziert",
+                                ""
+                            ],
+                            "guid": "Q~)X^a]M_i",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ふるい",
+                                "alt (nicht für Menschen), altmodisch",
+                                ""
+                            ],
+                            "guid": "m761P5o?n5",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "とても",
+                                "(Adverb) sehr",
+                                ""
+                            ],
+                            "guid": "JiedZb.k2;",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "まち",
+                                "Stadt (gelegentlich auch Stadtteil)",
+                                ""
+                            ],
+                            "guid": "p3E-4|3TAy",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "よ",
+                                "Partikel zur Betonung"
+                            ],
+                            "guid": "Ini)[/LEwE",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform des Adjektivs いい?",
+                                "よくない"
+                            ],
+                            "guid": "KPE)t^D!R-",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist おもしろい?",
+                                "おもしろい ist ein い-Adjektiv."
+                            ],
+                            "guid": "II8>s/{HN;",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist むずかしい?",
+                                "むずかしい ist ein い-Adjektiv."
+                            ],
+                            "guid": "mnqVzzU=L|",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist ふるい?",
+                                "ふるい&nbsp;ist ein い-Adjektiv."
+                            ],
+                            "guid": "Rg~8K){pVi",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "シドニー",
+                                "Syndey (Stadt)",
+                                ""
+                            ],
+                            "guid": "vGA[j~:gMR",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "パリ",
+                                "Paris (Stadt)",
+                                ""
+                            ],
+                            "guid": "kjgUBBTZgM",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ロンドン",
+                                "London (Stadt)",
+                                ""
+                            ],
+                            "guid": "k3zNEt1V?:",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハンブルグ",
+                                "Hamburg (Stadt)",
+                                ""
+                            ],
+                            "guid": "o@S!6]+ko1",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ハリー・ポッタ",
+                                "Harry Potter (Buchtitel)",
+                                ""
+                            ],
+                            "guid": "h4?{2ONan(",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "大[おお]きい",
+                                "groß",
+                                "<img src=\"大.png\">"
+                            ],
+                            "guid": "F294xXlIym",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was für ein Adjektiv-Typ ist 大[おお]きい?",
+                                "大[おお]きい ist ein い-Adjektiv."
+                            ],
+                            "guid": "l(d{(m;.e5",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "大阪[おおさか]",
+                                "Osaka (Stadt)",
+                                "<img src=\"大阪.PNG\">"
+                            ],
+                            "guid": "i`%W$n#m,y",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "国[くに]",
+                                "Staat, Land",
+                                "<img src=\"国.png\">"
+                            ],
+                            "guid": "cs%OnN`F2}",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche zwei Gruppen von Adjektiven gibt es?",
+                                "Im japanischen gibt es zwei Gruppen von Adjektiven: い-Adjektive und な-Adjektive."
+                            ],
+                            "guid": "kadA-;B%qU",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Worauf enden い-Adjektive immer?",
+                                "い-Adjektive enden immer auf い. Allerdings gibt es auch な-Adjektive die auf い enden können."
+                            ],
+                            "guid": "tFYhB5|b`V",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie stehen い-Adjektive von einem Substantiv?",
+                                "い-Adjektive&nbsp;stehen als Attribute unverändert vor einem Substantiv.<br>Beispiel: いいおてんき"
+                            ],
+                            "guid": "s||EaL=tp/",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bewirkt die Partikel よ am Ende eines Satzes?",
+                                "Mit der Partikel よ&nbsp;am Ende des Satzes betont man eine Tatsache, ein Urteil oder die eigene Meinung. Das gilt besonders dann, wenn der Gesprächspartner nicht gut informiert oder anderer Meinung ist."
+                            ],
+                            "guid": "vL8Of4]EQk",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was verwendet man, um eine Aussage, oder Frage zu widersprechen oder sie zu verneinen?",
+                                "Um der Aussage oder Frage des Gesprächspartners zu widersprechen oder sie zu verneinen, verwendet man im Japanischen いいえ. Das gilt auch dann, wenn die Aussage oder Frage negativ formuliert wird."
+                            ],
+                            "guid": "gbKR3WzNz,",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet いいえ als Antwort auf eine Aussage/Frage?",
+                                "いいえ bedeutet <i>Was Sie sagen, stimmt nicht</i>"
+                            ],
+                            "guid": "DBzp~g,[a$",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet はい, oder ええ als Antwort auf eine Aussage/Frage?",
+                                "はい, bzw. ええ bedeutet <i>Was Sie sagen, stimmt.</i>"
+                            ],
+                            "guid": "j=S)^t}`z/",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet die Antwort:&nbsp;ええ、おもしろくないですね",
+                                "Nein, es ist nicht interessant."
+                            ],
+                            "guid": "J1.PHy1[{i",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet die Antwort: いいえ、おもしろいですよ",
+                                "Doch, es ist interessant."
+                            ],
+                            "guid": "Hx{odClg|+",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie drückt man die Frage: <i>Wie ist das?&nbsp;</i>aus?",
+                                "どうですか"
+                            ],
+                            "guid": "Kdu=GVB[@A",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die höfliche Form von&nbsp;どうですか?",
+                                "いかがですか"
+                            ],
+                            "guid": "FKvM!akq@=",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Gegenwart von&nbsp;大きい?",
+                                "大きくない"
+                            ],
+                            "guid": "Ojp1qh0.@R",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Gegenwart von おもしろい?",
+                                "おもしろくない"
+                            ],
+                            "guid": "fXy6.=jOu%",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Gegenwart von 小さい?",
+                                "小さくない"
+                            ],
+                            "guid": "lqgK19@am;",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Gegenwart von むずかしい?",
+                                "むずかしくない"
+                            ],
+                            "guid": "Oy?G{5IMf)",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Gegenwart von ふるい?",
+                                "ふるくない"
+                            ],
+                            "guid": "Ck/NduNh4q",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Verneinungsform in der Gegenwart von いい?",
+                                "よくない"
+                            ],
+                            "guid": "b`Xxj*8$4X",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]

@@ -6591,6 +6591,306 @@
                             "guid": "FwQ<V,3.T+",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: では、かいものをおねがいしますね。<br>B: はい。わたしはハムをもってきます。",
+                                "A: Dann bitte ich Sie (alle) um Einkäufe.<br>B: Ja. Ich bringe Schinken mit."
+                            ],
+                            "guid": "c&8CJga:6e",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはおさしみをもってきます。",
+                                "Ich bringe rohen Fisch (Sashimi)."
+                            ],
+                            "guid": "l,Wj3=~`)j",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "D: わたしはコーラをかいます。たまごはだれですか？<br>E: わたしです。",
+                                "D: Ich kaufe Cola. Und wer (kauft) Eier?<br>E: Ich (kaufe sie)."
+                            ],
+                            "guid": "l[yPu/vo/d",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: すみません。CD をおねがいします。<br>B:&nbsp;はい、CDですね。もってきます。",
+                                "A: Entschuldigung. Geben Sie mir bitte die <i>CD</i>.<br>B: Ja, die <i>CD</i>. Ich bringe sie mit."
+                            ],
+                            "guid": "A(PChUxIf@",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのう何をしましたか。",
+                                "Was hast du gestern gemacht?"
+                            ],
+                            "guid": "wS#7?f&U|$",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "きのうはしごとです。",
+                                "Ich war gestern auf der Arbeit."
+                            ],
+                            "guid": "NR+hf=z%Gd",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで： けんどうはだれがしますか。<br>カイ： ささきさんです。",
+                                "Ide: Wer macht Kendo?<br>Kai: Herr Sasaki."
+                            ],
+                            "guid": "GM5b^ET1d3",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで：では、からてはだれですか。<br>さの：わたしです。",
+                                "Ide: Dann, wer macht Karate?<br>Sano: Ich."
+                            ],
+                            "guid": "JhO=B$6ri9",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さのさんはどこにいきましたか。",
+                                "Wohin ging Frau Sano?"
+                            ],
+                            "guid": "jfks4*CE7[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "東京にいきました。",
+                                "(Sie) ging nach Tokyo."
+                            ],
+                            "guid": "E2kEeOkhj[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: きよう、何をか いますか。<br>B:&nbsp;パンをかいます。",
+                                "A: Was haben Sie heute gekauft?<br>B: (Ich habe) Brot gekauft."
+                            ],
+                            "guid": "A/B-9>e_m6",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: きよう何をしますか。<br>B:&nbsp;ゴルフをします。",
+                                "A: Was hast du heute gemacht?<br>B: Golf gespielt."
+                            ],
+                            "guid": "is%JYU0im,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: むかしはいつもおひるはたべましたか。<br>B:&nbsp;ごはんとたまごたをべました。",
+                                "A: Was hast du früher immer zum Mittag gegessen?<br>B: Ich habe gekochten Reis und Eier gegessen."
+                            ],
+                            "guid": "QM:1%>Mjg,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはよくサッカーをみました。",
+                                "Ich habe oft Fußball geschaut."
+                            ],
+                            "guid": "q1-[~a9L_D",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはドラマをみました。",
+                                "Ich habe Dramas geschaut."
+                            ],
+                            "guid": "F1}]z7fE=a",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはきのうおすしをつくりました。",
+                                "Ich habe gestern Sushi zubereitet."
+                            ],
+                            "guid": "J[3?=e`aMz",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしはハンバーグをつくりました。",
+                                "Ich habe Hamburger vorbereitet."
+                            ],
+                            "guid": "JrXDH~aeuz",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "パーティーにおさけをもってきましようか。",
+                                "Wollen wir Sake zur Party mitnehmen?"
+                            ],
+                            "guid": "MG9iHPa$+#",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで:&nbsp;らいしゅう、パーティーをしましようか。<br>日本語コースの人:&nbsp;しましよう。しましよう。",
+                                "Ide: Nächste Woche, wollen wir da eine Party machen?<br>Japanischkurs-Leute: Wollen wir! Wollen wir!"
+                            ],
+                            "guid": "k&Hgxbah:l",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いで:&nbsp;何をつくりましようか。<br>ヨアヒム・ライヒ:&nbsp;先生、おすしはどうですか。",
+                                "Ide: Was sollen wir machen (produzieren)?<br>Joachim Reich: <b>Frau Lehrerin</b>, wie wäre es mit Sushi?"
+                            ],
+                            "guid": "JPlbCRH_?b",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "では、いっしょにおすしをつくりましょう。",
+                                "Dann, lasst uns zusammen Sushi machen."
+                            ],
+                            "guid": "mIXorT/+X>",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "だれがパーティーにきますか。",
+                                "Wer kommt zur Party?"
+                            ],
+                            "guid": "G$8:;{w_R|",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "わたしもきます。",
+                                "Ich komme auch."
+                            ],
+                            "guid": "o?Unt>T,^&",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それからいしいさんとケラーさんもきます。",
+                                "Also kommen Frau Ishii und Herr Keller auch."
+                            ],
+                            "guid": "wX$<k3a4o-",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いち、に、さん、よん、ご、ろく、しち、はち、きゅう、じゅう、10人ですね。",
+                                "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10 Leute also."
+                            ],
+                            "guid": "k+yyNHm2Wx",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "先生、わたしは何をもってきましょうか。",
+                                "<b>Frau Lehrerin</b>, was soll ich mitbringen?"
+                            ],
+                            "guid": "CHfUWVX87c",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゃ、バウアーさん、おしょうゆをおねがいします。",
+                                "(Während man bespricht, wer was mitbringt)<br>Dann, Herr Bauer, die Soyasauce, bitte."
+                            ],
+                            "guid": "c~Uz9~3?Jq",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おさけはだれがもってきますか。",
+                                "Wer bringt den Sake mit?"
+                            ],
+                            "guid": "p^tCGPPiO%",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "たまごやきはわたしがもってきます。",
+                                "Omelette, das bringe ich mit."
+                            ],
+                            "guid": "sC$JG!)yH,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ケラーさんはきょうはしごとですね。ラィヒさん、ケラーさんにでんわをおねがいします。",
+                                "Herr Keller ist heute auf der Arbeit, oder? Herr Reich, bitte rufen Sie Herr Keller an."
+                            ],
+                            "guid": "AepCH+U@|&",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 }

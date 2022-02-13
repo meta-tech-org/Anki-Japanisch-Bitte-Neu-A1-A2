@@ -6213,6 +6213,94 @@
                             "guid": "s?WkdU:YS}",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "5[ご]&nbsp;人[にん]",
+                                "5 Personen",
+                                ""
+                            ],
+                            "guid": "on!F*F&a~g",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "6[ろく]&nbsp;人[にん]",
+                                "6 Personen",
+                                ""
+                            ],
+                            "guid": "RD$0V3=I*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "7[しち]&nbsp;人[にん]",
+                                "7 Personen",
+                                ""
+                            ],
+                            "guid": "oju*|qdN]*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "8[はち]&nbsp;人[にん]",
+                                "8 Personen",
+                                ""
+                            ],
+                            "guid": "Aw}jn2[&+P",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "9[きゅう]&nbsp;人[にん]",
+                                "9 Personen",
+                                ""
+                            ],
+                            "guid": "oH~nS?s^;z",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "10[じゅう]&nbsp;人[にん]",
+                                "10 Personen",
+                                ""
+                            ],
+                            "guid": "Hq3F](JX,^",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "11[じゅういち]&nbsp;人[にん]",
+                                "11 Personen",
+                                ""
+                            ],
+                            "guid": "E?{(Uzz>(E",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "12[じゅうに]&nbsp;人[にん]",
+                                "12 Personen",
+                                ""
+                            ],
+                            "guid": "f@6HzySngs",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -9915,6 +10003,17 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "そう",
+                                "so",
+                                ""
+                            ],
+                            "guid": "J!*cB?<}+3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "そうします",
                                 "(Ich) tue es so",
                                 ""
@@ -13132,6 +13231,7 @@
                     "media_files": [
                         "何曜日.png",
                         "土曜日.png",
+                        "日曜日.png",
                         "月曜日.png",
                         "木.png",
                         "木曜日.png",
@@ -13192,6 +13292,17 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "日曜日[にちようび]",
+                                "Sonntag",
+                                "<img src=\"日曜日.png\">"
+                            ],
+                            "guid": "s_mqiJ2I.6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "月曜日[げつようび]",
                                 "Montag",
                                 "<img src=\"月曜日.png\">"
@@ -13230,6 +13341,17 @@
                                 "<img src=\"木曜日.png\">"
                             ],
                             "guid": "bLoWaM=L`9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "Freitag",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -13365,17 +13487,6 @@
                             "guid": "EJB^Su.ju,",
                             "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "金曜日[きんようび]",
-                                "Freitag",
-                                "<img src=\"金曜日.png\">"
-                            ],
-                            "guid": "cTkowK&6ps",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
                         }
                     ]
                 },
@@ -13412,6 +13523,17 @@
                                 ""
                             ],
                             "guid": "H!b,B6Hs^>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -13802,17 +13924,6 @@
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつも",
-                                "immer, gewöhnlich",
-                                ""
-                            ],
-                            "guid": "wzYnt>/~uU",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

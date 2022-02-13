@@ -5556,7 +5556,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "<b>A: いっしょにおひるごはんをたべませんか。</b><br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br>D: フランスリょうリをたべましょう。",
+                                "<b>A: いっしょにおひるごはんをたべませんか。</b><br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
                                 "<b>A: Wollen wir (nicht) zusammen zu Mittag essen?</b><br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
                             ],
                             "guid": "CJ;&qI9VK_",
@@ -5566,7 +5566,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いっしょにおひるごはんをたべませんか。<br><b>B: ええ、たべましょう。</b><br>C: 何をたべましょうか。<br>D: フランスリょうリをたべましょう。",
+                                "A: いっしょにおひるごはんをたべませんか。<br><b>B: ええ、たべましょう。</b><br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
                                 "A: Wollen wir (nicht) zusammen zu Mittag essen?<br><b>B: Ja, lasst uns (Mittag) essen.</b><br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
                             ],
                             "guid": "jB{A/USSO",
@@ -5576,7 +5576,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br><b>C: 何をたべましょうか。</b><br>D: フランスリょうリをたべましょう。",
+                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br><b>C: 何をたべましょうか。</b><br>D: フランスりょうりをたべましょう。",
                                 "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br><b>C: Was wollen wir essen?</b><br>D: Lasst uns französische Küche essen."
                             ],
                             "guid": "GM)/r&kGP=",
@@ -5586,7 +5586,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br><b>D: フランスリょうリをたべましょう。</b>",
+                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br><b>D: フランスりょう</b><b>り</b><b>をたべましょう。</b>",
                                 "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br><b>D: Lasst uns französische Küche essen.</b>"
                             ],
                             "guid": "CRPRibxOy<",
@@ -8050,7 +8050,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ドイツ語は&nbsp; あまリ&nbsp; できません。でも、よく&nbsp; ドイツの&nbsp; オペラを&nbsp;&nbsp;ききます。",
+                                "ドイツ語は&nbsp; あまり&nbsp; できません。でも、よく&nbsp; ドイツの&nbsp; オペラを&nbsp;&nbsp;ききます。",
                                 "Ich kann nicht gut Deutsch sprechen. Aber ich höre oft deutsche Opern."
                             ],
                             "guid": "HV-k-7fd*X",
@@ -13201,7 +13201,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wie wird <i>Nach Hause gehen </i>ausgedrückt?",
-                                "Nach Hause gehen wird nicht mit いきます <i>gehen </i>sondern immer mit かえリます zurückkehren ausgedrückt."
+                                "Nach Hause gehen wird nicht mit いきます <i>gehen </i>sondern immer mit かえります zurückkehren ausgedrückt."
                             ],
                             "guid": "D+,A_uIc-n",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",

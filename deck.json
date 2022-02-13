@@ -1473,6 +1473,7 @@
                         "zo.gif",
                         "何.png"
                     ],
+                    "mid": 1642764953999,
                     "name": "A",
                     "notes": [
                         {
@@ -1682,6 +1683,126 @@
                             "guid": "L.O^sk0g|`",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu verwendet man mit manchen kurzen japanischen Nomen das Präfix お?",
+                                "In Verbindung mit manchen kurzen japanischen Nomen wie はし, すし usw. verwendet man häufig das Präfix お. Durch diese Ausdrucksweise erhält der gesamte Satz einen höflichen Ton."
+                            ],
+                            "guid": "AHmI5p|ln%",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Müssen japanische Fragewörter immer am Anfang des Satzes stehen?",
+                                "Anders als im Deutschen müssen japanische Fragewörter, wie hier 何nicht immer am Anfang des Satzes stehen."
+                            ],
+                            "guid": "L6m$HLmlgN",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wodurch werden Frage- und Ausrufezeichen in formellen Texten ersetzt?",
+                                "Frag- und Ausrufezeichen werden in formellen Texten (wie zum Beispiel in Schulbüchern) in der Regel nicht benutzt, sondern durch Punkte ersetzt."
+                            ],
+                            "guid": "bgB<^Hh#&-",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In was für Texten werden Frage- und Ausrufezeichen häufiger benutzt?",
+                                "In einem umgangssprachlichen Text oder bei der Wiedergabe von gesprochener Sprache kommen sie aber sehr häufig vor. überall dort, wo eine Frage nicht komplett ausformuliert und das Fragewort weggelassen wird, vervollständigt das Fragezeichen den Satz."
+                            ],
+                            "guid": "pgb7q7WkC=",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: それは何ですか。<br>B: これですか。",
+                                "A: <b>Was </b>ist das da?<br>B: Dieses hier?"
+                            ],
+                            "guid": "Hy.=1Rut4c",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: はい、それです。<br>B: これはゆかたです。",
+                                "A: Ja, das da (meine ich).<br>B: Das ist ein Yukata."
+                            ],
+                            "guid": "Cm-Z%}h,8j",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ゆかたは 何[なん]ですか。<br>B: ゆかたはきものです。",
+                                "A: <b>Was </b>ist ein \"Yukata\"?<br>B: Ein Yukata ist ein Kimono."
+                            ],
+                            "guid": "xnVx6<Y&{/",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: これは 日本[にほん]のおはしです。<br>B: でもこれは 日本[にほん]のおはしじゃないです。",
+                                "A. Das hier sind <b>japanische </b>Essstäbchen.<br>B: Aber das hier sind keine <b>japanischen </b>Essstäbchen."
+                            ],
+                            "guid": "h@zO(|-0w}",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: これは 何[なん]ですか。<br>B: それはソースです。",
+                                "A: Was ist das hier?<br>B: Das ist japanische Worcester-Soße."
+                            ],
+                            "guid": "BMb]?F-HY!",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: それは？<br>B: これはしょうゆです。",
+                                "A: Und das da? (Was ist das da?)<br>B: Das hier ist Sojasoße."
+                            ],
+                            "guid": "wdOu|#uQm(",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: これは 何[なん]ですか。<br>B: どれですか。",
+                                "A: Was ist das hier?<br>B: Welches?"
+                            ],
+                            "guid": "g(wj(TSp95",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "それはさかなのたまごです。",
+                                "Das sind Fischeier."
+                            ],
+                            "guid": "jY-.G%!1u,",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -1877,6 +1998,96 @@
                             ],
                             "guid": "e=5rB&yo)[",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was beschreibt die Partikel で?",
+                                "で ist eine Partikel, die beschreibt, mit welchem Mittel, welcher Methode oder welchem Werkzeug man etwas tut. Auch Sprachen als Kommunikationsmittel werden mit で&nbsp;angezeigt."
+                            ],
+                            "guid": "I_9[OfR#RM",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet&nbsp;日本語で?",
+                                "日本語で bedeutet \"auf Japanisch\""
+                            ],
+                            "guid": "tlXN_:N8`:",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welchen Ausdruck kann man als Ersatz eines anderen Verbes verwenden, wenn es eindeutig ist, um welches Verb es sich handelt?",
+                                "～です kann auch als Ersatz eines anderen Verbs verwendet werden, wenn es eindeutig ist, um welches Verb und um welche Zeitform es sich dabei handelt"
+                            ],
+                            "guid": "w=G{_xD9D+",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet das は im folgenden Satz?&nbsp;さのさんはしゅみは…。",
+                                "Mit der Themapartikel は führt man das Thema des Satzes ein: <i>was Herrn/Frau Sano angeht</i>"
+                            ],
+                            "guid": "b+t!f/TJ~u",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Können im Japanischen mehrere Themen und damit mehrere Themapartikel aufeinander folgen?",
+                                "Es können im Japanischen mehrere Themen und damit mehrere Themapartikeln aufeinander folgen."
+                            ],
+                            "guid": "L=&}3M=hZ%",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "「はい」はドイツ語で「ja」です。",
+                                "\"はい\" heißt auf Deutsch \"ja\""
+                            ],
+                            "guid": "A=7H@BQ0/c",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:「ではまた」はドイツ語で「AufWiedersehen」です。<br>B: 英語で「I'll see you」です。",
+                                "A: \"ではまた‘‘ heißt auf Deutsch ,,Auf Wiedersehen''.<br>B: Auf Englisch heißt es ,,I'll see you''."
+                            ],
+                            "guid": "mTeddYxjc=",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: さのさんは、しゅみは 何[なん]ですか。<br>B: どくしょです。",
+                                "A: Was ist Ihr Hobby, Frau Sano?<br>B: Bücherlesen."
+                            ],
+                            "guid": "A5Wm9~z#Zk",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:「どくしょ」…。「どくしょ」はドイツ語で 何[なん]ですか。<br>B: ドイツ語で「Bücherlesen」です。",
+                                "A: \"どくしょ‘‘… Was heißt \"どくしょ\" auf Deutsch?<br>B: Auf Deutsch heißt das ,,Bucherlesen\""
+                            ],
+                            "guid": "KF!L*W%}Ke",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -2144,6 +2355,207 @@
                             ],
                             "guid": "l}n{{,q.2#",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was wird ausgedrückt, wenn zwei (oder mehrere) Substantive durch die Partikel の verbunden werden?",
+                                "Werden zwei (oder mehrere) Substantive durch die Partikel の verbunden, bestimmt das vordere Substantiv das hintere Substantiv näher.&nbsp;"
+                            ],
+                            "guid": "vL-kO-14~^",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür steht die Partikel の&nbsp;in diesem Satz:&nbsp;日本学の学生?",
+                                "Hier fungiert の in etwa wie der deutsche Bindestrich: Japanologie-Student."
+                            ],
+                            "guid": "yI~pInZY+",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welcher Partikel werden Zeiten betont, bzw. kontrastiert?",
+                                "まえは~いまは～：Mit der Partikel は werden die Zeiten betont bzw. kontrastiert;<br>früher ~, (aber) heute ~."
+                            ],
+                            "guid": "bP.^JP;OJA",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wofür wird der folgende Satz verwendet: (あ、)そうですか?",
+                                "(あ、)そうですか wird je nach der Betonung und Melodie sowohl als Frage als auch als Zeichen für das Zuhören verwendet; <i>Ist das so?/ Ach ja?</i> oder<i> Ich verstehe./So ist das.</i>"
+                            ],
+                            "guid": "th*[IHKJ{Z",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: ばんさんはかいしゃいんですか。<br>B: いいえ、せんせいです。でもまえはかいしゃいんでした。",
+                                "A: Ist Herr Ban Firmenangestellter?<br>B: Nein, er ist Lehrer. Aber er war früher Firmenangestellter."
+                            ],
+                            "guid": "AV1T4bdQ7A",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "学生[がくせい]さんですか。",
+                                "Sind Sie Student?"
+                            ],
+                            "guid": "xMtXxfCJ2$",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はい、いまはHamburg 大学[だいがく]の学生[がくせい]です。でもまえは日本[にほん]の 大学[だいがく]の 学生[がくせい]でした。",
+                                "Ja, jetzt bin ich Student an der Universität Hamburg. Aber früher war ich Student an einer japanischen Universität."
+                            ],
+                            "guid": "hvDgrx#tjk",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: おしごとは…。<br>B: まだおん 大[だい]の 学生[がくせい]です。",
+                                "A: Was ist lhre Arbeit?<br>B: Ich bin noch Student an einer Musikhochschule."
+                            ],
+                            "guid": "gQ6f(v.D0I",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: 学生[がくせい]さんですか。<br>B: いいえ。 日本[にほん]のかいしゃのひしょです。",
+                                "A: Sind Sie Student?<br>B: Nein. ich bin Sekretärin einer japanischen Firma."
+                            ],
+                            "guid": "e9Jwkp$RF$",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あ、そうですか。",
+                                "Ich verstehe."
+                            ],
+                            "guid": "v9#~&Mq.x.",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: すみません。 日本[にほん]のかたですか。<br>B: いいえ。でもははは 日本人[にほんじん]です。",
+                                "A: Entschuldigung. Sind Sie Japanerin?<br>B: Nein, aber meine Mutter ist Japanerin."
+                            ],
+                            "guid": "pJnEEj.a).",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいのさんはまえはせんせいでした。でもいまはかいしゃいんです。",
+                                "Frau Iino war früher Lehrerin. Aber jetzt ist sie Firmenangestellte."
+                            ],
+                            "guid": "r)g#hqvOp^",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Behrmannさん、Tokyo Evening News のいしいさんです。<br>B: はじめまして。いしいです。",
+                                "A: Herr Behrmann, das ist Frau Ishii von den Tokio Evening News.<br>B: Freut mich Sie kennenzulernen!. Ich bin Frau Ishii."
+                            ],
+                            "guid": "w,!rNSz.#`",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Behrmannです。はじめまして。<br>B: BehrmannさんはBerlinのかたですか。",
+                                "A: Ich bin Behrmann. Freut mich Sie kennenzulernen.<br>B: Herr Behrmann, kommen Sie aus Berlin?"
+                            ],
+                            "guid": "ji+/E^:LuK",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: すみません。おなまえは。<br>B:&nbsp;さかいです。はじめまして。",
+                                "A: Entschuldigen Sie. Ihr Vorname ist...?<br>B: Er ist Sakai. Freut mich Sie kennenzulernen."
+                            ],
+                            "guid": "d6c]b$tG!<",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はじめまして。Kellerです。さかいさんは 学生[がくせい]さんですか。",
+                                "Freut mich SIe kennenzulernen! Ich heiße Keller. Frau Sakai, sind Sie Studentin?"
+                            ],
+                            "guid": "EivWVPRZ.0",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいえ。まえはおん 大[だい]の 学生[がくせい]でした。でもいまはJALのStewardessです。",
+                                "Nein, früher war ich Student an einer Musikhochschule. Aber jetzt bin ich Stewardess bei JAL."
+                            ],
+                            "guid": "MCt:CfnxL&",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: …すみません、これは 何[なん]ですか。<br>B: それはしょうがです。",
+                                "A: ... Entschuldigung, was ist das hier?<br>B: Das dort ist Ingwer."
+                            ],
+                            "guid": "G:sD>#%]Zd",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しょうが",
+                                "Ingwer",
+                                ""
+                            ],
+                            "guid": "ju~,rV_gxa",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: すみません。「しょうが」はドイツ 語[ご]で 何[なん]ですか。<br>B: ドイツ 語[ご]で「lngwer」です。",
+                                "A: Entschuldigung. Was heißt \"しょうが\" auf Deutsch?<br>B: Auf Deutsch heißt es \"Ingwer\"."
+                            ],
+                            "guid": "B``k[}nf6C",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -13270,7 +13682,7 @@
     ],
     "desc": "",
     "dyn": 0,
-    "extendNew": 30,
+    "extendNew": 20,
     "extendRev": 0,
     "media_files": [],
     "mid": 1642764953999,

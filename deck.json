@@ -15283,7 +15283,7 @@
             "flds": [
                 {
                     "font": "Arial",
-                    "name": "Front",
+                    "name": "Partikel",
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
@@ -15291,7 +15291,7 @@
                 },
                 {
                     "font": "Arial",
-                    "name": "Back",
+                    "name": "Bedeutung",
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
@@ -15322,26 +15322,26 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Bedeutung}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 1",
+                    "name": "Partikel -> Bedeutung",
                     "ord": 0,
-                    "qfmt": "Wofür steht die Partikel:<br>\n\n<p class=\"p-large\">{{Front}}</p>"
+                    "qfmt": "Wofür steht die Partikel:<br>\n\n<p class=\"p-large\">{{Partikel}}</p>"
                 },
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{Front}}</p>",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n<p class=\"p-large\">{{Partikel}}</p>",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
                     "bsize": 0,
                     "did": null,
-                    "name": "Card 2",
+                    "name": "Bedeutung -> Partikel",
                     "ord": 1,
-                    "qfmt": "{{Back}}"
+                    "qfmt": "Welche Partikel ist gefragt?\n\n<p class=\"p-large\">{{Bedeutung}}</p>"
                 }
             ],
             "type": 0

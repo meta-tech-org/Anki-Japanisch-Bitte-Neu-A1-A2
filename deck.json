@@ -5496,6 +5496,76 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "A: おちゃをのみましょうか。<br>B: そうですね。のみましょう。",
+                                "A: Wollen wir Tee trinken?<br>B: Hm. Lass uns trinken."
+                            ],
+                            "guid": "A3XZ/=<<U<",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何をのみましょうか。",
+                                "Was wollen wir trinken? (gemeinsam)"
+                            ],
+                            "guid": "knY2,8&+Ar",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "コーヒーをのみましょう。",
+                                "Lass uns Kaffee trinken. (gemeinsam)"
+                            ],
+                            "guid": "dmPMu#w|kr",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんどはいっしょにオペラをききましょう。",
+                                "Lass uns nächstes Mal gemeinsam eine Oper hören."
+                            ],
+                            "guid": "jyb3bMki3?",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですねぇ…。オペラもいいですが、こんどは日本のおんがくはどうですか。",
+                                "Naja... Oper ist auch gut, (aber) wie wäre es nächstes Mal mit japanischer Musik?"
+                            ],
+                            "guid": "n,&k9)@lo[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですねぇ…。じゃ、こんどは日本のおんがくをききましょうか。",
+                                "Naja... Wollen wir dann nächstes Mal japanische Musik hören?"
+                            ],
+                            "guid": "NZ4$m}4ee6",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>A: いっしょにおひるごはんをたべませんか。</b><br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br>D: フランスリょうリをたべましょう。",
+                                "<b>A: Wollen wir (nicht) zusammen zu Mittag essen?</b><br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
+                            ],
+                            "guid": "CJ;&qI9VK_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "A: いっしょにおひるごはんをたべませんか。<br><b>B: ええ、たべましょう。</b><br>C: 何をたべましょうか。<br>D: フランスリょうリをたべましょう。",
                                 "A: Wollen wir (nicht) zusammen zu Mittag essen?<br><b>B: Ja, lasst uns (Mittag) essen.</b><br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
                             ],
@@ -6520,76 +6590,6 @@
                             ],
                             "guid": "FwQ<V,3.T+",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "A: おちゃをのみましょうか。<br>B: そうですね。のみましょう。",
-                                "A: Wollen wir Tee trinken?<br>B: Hm. Lass uns trinken."
-                            ],
-                            "guid": "A3XZ/=<<U<",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "何をのみましょうか。",
-                                "Was wollen wir trinken? (gemeinsam)"
-                            ],
-                            "guid": "knY2,8&+Ar",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "コーヒーをのみましょう。",
-                                "Lass uns Kaffee trinken. (gemeinsam)"
-                            ],
-                            "guid": "dmPMu#w|kr",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "こんどはいっしょにオペラをききましょう。",
-                                "Lass uns nächstes Mal gemeinsam eine Oper hören."
-                            ],
-                            "guid": "jyb3bMki3?",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "そうですねぇ…。オペラもいいですが、こんどは日本のおんがくはどうですか。",
-                                "Naja... Oper ist auch gut, (aber) wie wäre es nächstes Mal mit japanischer Musik?"
-                            ],
-                            "guid": "n,&k9)@lo[",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "そうですねぇ…。じゃ、こんどは日本のおんがくをききましょうか。",
-                                "Naja... Wollen wir dann nächstes Mal japanische Musik hören?"
-                            ],
-                            "guid": "NZ4$m}4ee6",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>A: いっしょにおひるごはんをたべませんか。</b><br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br>D: フランスリょうリをたべましょう。",
-                                "<b>A: Wollen wir (nicht) zusammen zu Mittag essen?</b><br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
-                            ],
-                            "guid": "CJ;&qI9VK_",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]

@@ -3223,6 +3223,56 @@
                             "guid": "D/jnDJ.+^g",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die deutsche Äquivalente zu&nbsp;します?",
+                                "Das Wort \"tun\"."
+                            ],
+                            "guid": "tV6+11;oH,",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird der Plural bei japanischen Verben gehandhabt?",
+                                "Hat die selbe Form wie der Singular. Die Anzahl ergibt sich meist aus dem Kontext."
+                            ],
+                            "guid": "x-tOK<-<FW",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird das Kanji in \"何を\" gelesen?",
+                                "Nani"
+                            ],
+                            "guid": "bgz4ic:~Id",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird das Kanji in \"何ですか\" gelesen?",
+                                "Nan"
+                            ],
+                            "guid": "Fg/lgXAf-%",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Arten von Wörter können mit \"と\" (und) verbunden werden?",
+                                "Nur Substantive.<br>Beispiel: Ich mag Eis und Kuchen. - と<br>Negativbeispiel: Und danach sind wir .... - kein と"
+                            ],
+                            "guid": "bu|I5x/lO|",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -3427,6 +3477,36 @@
                             "guid": "GZo`u0k^HY",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "In welchen Fällen wird die Objektpartikel&nbsp;を durch は ersetzt?",
+                                "Wenn man ein Wort besonders betonen will.<br><br>からてはしますか。-&nbsp;Was Karate angeht, machen Sie das?"
+                            ],
+                            "guid": "c%wH}^eY[{",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen \"からてはしますか。\" und&nbsp;\"からてをしますか。\"?",
+                                "からてをしますか。bedeutet einfach \"machen Sie Karate?\"<br>Wohingegen からてはしますか。bedeutet: \"Was Karate angeht, machen Sie das?\"<br>Das Karate wird in den Vordergrund gestellt."
+                            ],
+                            "guid": "b;&o7V!PCE",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist ein Unterschied bei der Verwendung des japanischen \"わたし\" und dem deutschen \"ich\"?",
+                                "わたし wird nur verwendet, wenn man sich selbst unbedingt betonen möchte und wird sonst weggelassen."
+                            ],
+                            "guid": "E+1f*je!cr",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -3586,6 +3666,46 @@
                             ],
                             "guid": "kbwn3~IFNI",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Heißt \"します\" ausschließlich \"tun\"?",
+                                "Nein, je nach vorangestelltem Wort kann es viele Bedeutungen annehmen wie \"spielen\" (ごをします) oder \"falten\" (おりがみをします)."
+                            ],
+                            "guid": "CGE,_({Gj8",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Welche Art von Wort muss auf&nbsp;あまり folgen?",
+                                "Eine negative Form, zum Beispiel しません."
+                            ],
+                            "guid": "Lf0RE(9xv?",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スポーツは何をしますか。",
+                                "Was Sport angeht, was treiben Sie?"
+                            ],
+                            "guid": "y_K+]+5=^O",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "スポーツは にがてです。",
+                                "(Ich) bin nicht gut im Sport."
+                            ],
+                            "guid": "P!jv&D^GB/",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -3823,6 +3943,46 @@
                             ],
                             "guid": "As^X>PJ;tb",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die Vergangenheitsform von ～ます?",
+                                "～ました"
+                            ],
+                            "guid": "A{yon^9@C3",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie lautet die verneinte Vergangenheitsform von ～ます?",
+                                "～ませんでした"
+                            ],
+                            "guid": "NcZlP^yEcl",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was bedeutet es, wenn は hinter Zeitangaben steht, zum Beispiel bei きのうは?",
+                                "Die Zeitangabe wird zum Thema. \"Was gestern betrifft, ...\""
+                            ],
+                            "guid": "L<sW>x3>2-",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was drückt die Partikel&nbsp;に aus?",
+                                "Gibt Zielort, Richtung oder Zweck der Bewegung an.<br><br>オーストリアにいきます。- Ich fahre nach Österreich.<br>しごとにいきました。- Ich bin zur Arbeit gegangen."
+                            ],
+                            "guid": "g}m87;s<gM",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -4071,6 +4231,16 @@
                             ],
                             "guid": "D8]09kz8]a",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Bedeutung der Partikel も?",
+                                "\"Auch\"."
+                            ],
+                            "guid": "Gmk,gM.#D-",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -4325,6 +4495,46 @@
                             ],
                             "guid": "ucC*EsJ!w)",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird die Gegenheitsform von Verben (ます) auch für die Zukunft verwendet?",
+                                "Wenn es sich um sichere, geplante oder leicht durchführbare Handlungen handelt."
+                            ],
+                            "guid": "bu#zhTqkte",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie wird im Japanischen die Zukunftsform für Verben ausgedrückt, wenn es sich um geplante/sichere Handlungen handelt?",
+                                "Es kann einfach die normale&nbsp;ます-Form verwendet werden."
+                            ],
+                            "guid": "zORn-eV0Xk",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Mit welcher Art von Verben steht 何も immer?",
+                                "Mit der verneinten Form:<br>スポーツは何もしません。- Was Sport betrifft, mache ich nichts."
+                            ],
+                            "guid": "bg$DpTQzt2",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist beim Antworten auf eine Negativfrage wichtig?<br>～はしませんか。",
+                                "Dass eine vollständige Antwort gegeben wird, die \"ja\" oder \"nein\" beinhaltet, da sonst die Aussage nicht eindeutig ist.<br><br>A: いきませんか。<br>B:<br>はい、いきません。<br>oder<br>いいえ、いきます。"
+                            ],
+                            "guid": "Lbt~2`o+CT",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -4607,6 +4817,36 @@
                             ],
                             "guid": "OvC7eM<3yM",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist eine weitere Bedeutung von ～ませんか, neben einer normalen verneinten Frage?",
+                                "Wie im Deutschen eine indirekte Aufforderung \"Wollen sie nicht ... machen?\"."
+                            ],
+                            "guid": "kA7xXL{Z<@",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wozu wird die ～ましょう-Form verwendet?",
+                                "Um den Gesprächspartner zu einer gemeinsamen Handlung aufzufordern.<br><br>\"Lassen Sie uns ... machen!\""
+                            ],
+                            "guid": "oPDIPUo5P;",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Bedeutung von&nbsp;ね am Ende eines Satzes?",
+                                "Betont das gegenseitige Einvernehmen der Sprecher.<br>\"..., nicht wahr?\""
+                            ],
+                            "guid": "Dh~,{u-T>$",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -4924,6 +5164,66 @@
                             "guid": "grYERt=W0y",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist der Unterschied zwischen いかが und&nbsp;どう?",
+                                "いかが ist die höfliche Variante von \"wie\"."
+                            ],
+                            "guid": "M]aeLvL0IV",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wie drückt man folgenden Satz in höflich aus?<br>Aはどうですか。",
+                                "Aはいかがですか。"
+                            ],
+                            "guid": "q86hf_%FT*",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Bedeutung von:<br>Aはちょっと…",
+                                "Eine höfliche Absage:<br><br>A ist für mich ein bisschen schwierig/viel..."
+                            ],
+                            "guid": "j14ve~bE8w",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Wann wird いただきます verwendet?",
+                                "<ul><li>Bei Erhalt eines Geschenks/Essen (\"Ich nehme es mit Dank an\")</li><li>Zu Beginn einer Mahlzeit (\"Guten Appetit\")</li></ul>"
+                            ],
+                            "guid": "c(]j2ga=q$",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sagt man zu Beginn einer Mahlzeit?",
+                                "いただきます"
+                            ],
+                            "guid": "Lb#$;;d<?m",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Bedeutung von ～はにがてです?",
+                                "Dass man in etwas nicht so gut ist."
+                            ],
+                            "guid": "gJb2dQX~l7",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -5166,6 +5466,36 @@
                                 "むり&nbsp;ist ein な-Adjektiv."
                             ],
                             "guid": "KkCy6Nx46$",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was sind mögliche Verwendungen von だいじょうぶ?",
+                                "<ul><li>Gerichtはだいじょうぶですか - Ist ein Gericht&nbsp;okay für Sie?<br></li><li>Personはだいじょうぶですか - Geht es der Person gut? (finanziell, geseundheitlich, ...)<br></li></ul>"
+                            ],
+                            "guid": "K37_$FJDML",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was wäre eine Negative Antwort auf \"Personはだいじょうぶですか\"?",
+                                "Keine direkte Antwort, dies wäre unhöflich.<br>Personはちょっと…"
+                            ],
+                            "guid": "r/Q9-#L%V&",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was ist die Bedeutung von また(こんど)?",
+                                "Wörtlich \"Wieder\", aber eher so \"irgendwann mal wieder\" - wie eine höfliche Absage."
+                            ],
+                            "guid": "Ej=Te!^/iI",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
@@ -10431,16 +10761,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was drückt die Partikel に aus?",
-                                "Die Partikel drückt den Zeitpunkt aus, zu dem man etwas tut oder zu dem etwas geschieht."
-                            ],
-                            "guid": "so[m_0Ii`h",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "Wie drückt man aus, dass man sich mit einer bestimmten Person X trifft?",
                                 "～さんにあいます: Bei あいます verwendet man die Partikel に für die Person, die man trifft. Im Deutschen handelt es sich hierbei um ein Akkusativobjekt (jemanden treffen).<br>"
                             ],
@@ -14398,8 +14718,56 @@
         }
     ],
     "crowdanki_uuid": "24b84e18-7ab1-11ec-989e-0c7a15ee466f",
-    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+    "deck_config_uuid": "80611dfa-8d1c-11ec-8c0b-0c7a15ee466f",
     "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "80611dfa-8d1c-11ec-8c0b-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 90
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 900
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
         {
             "__type__": "DeckConfig",
             "autoplay": true,

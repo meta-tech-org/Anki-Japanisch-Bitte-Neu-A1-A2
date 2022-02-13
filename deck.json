@@ -6301,6 +6301,46 @@
                             "guid": "f@6HzySngs",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>ドイツ人：日本のかたは何人きますか。それから中国のかたは？</b><br>日本人：日本人は5人です。中国のかたは6人です。ドイツのかたは？<br>ドイツ人：ドイツ人は8人です。",
+                                "<b>Deutscher: Wie viele Personen aus Japan kommen?&nbsp;Außerdem, wie viele Personen aus China?</b><br>Japaner: Es gibt 5 Japaner.&nbsp;Es gibt 6 Chinesen.&nbsp;Und die Deutschen?<br>Deutscher: Die Deutschen sind acht Personen."
+                            ],
+                            "guid": "pL$Rw|GJ?q",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツ人：日本のかたは何人きますか。それから中国のかたは？<br><b>日本人：日本人は5人です。中国のかたは6人です。ドイツのかたは？</b><br>ドイツ人：ドイツ人は8人です。",
+                                "Deutscher: Wie viele Personen aus Japan kommen?&nbsp;Außerdem, wie viele Personen aus China?<br><b>Japaner: Es gibt 5 Japaner.&nbsp;Es gibt 6 Chinesen.&nbsp;Und die Deutschen?</b><br>Deutscher: Die Deutschen sind acht Personen."
+                            ],
+                            "guid": "t~QO$AsyI;",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "ドイツ人：日本のかたは何人きますか。それから中国のかたは？<br>日本人：日本人は5人です。中国のかたは6人です。ドイツのかたは？<br><b>ドイツ人：ドイツ人は8人です。</b>",
+                                "Deutscher: Wie viele Personen aus Japan kommen?&nbsp;Außerdem, wie viele Personen aus China?<br>Japaner: Es gibt 5 Japaner.&nbsp;Es gibt 6 Chinesen.&nbsp;Und die Deutschen?<br><b>Deutscher: Die Deutschen sind acht Personen.</b>"
+                            ],
+                            "guid": "h;F^62,WBh",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何人ですか。",
+                                "Wie viele Personen sind es?"
+                            ],
+                            "guid": "MX*Sw,mNjZ",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },

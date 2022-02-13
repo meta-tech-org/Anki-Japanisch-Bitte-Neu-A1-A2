@@ -1282,6 +1282,56 @@
                             "guid": "E=IBGZ.<4e",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: はじめまして。Meyerです。Lufthansaのかたですか<br>B: いいえ、JALのBergです。",
+                                "A: Freut mich Sie kennenzulernen! Ich heiße Meyer. Sind Sie von der Lufthansa?<br>B: Nein, ich bin Herr Berg von JAL."
+                            ],
+                            "guid": "cnW:RYG*iq",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: Panasonicはドイツのかいしゃですか。<br>B: いいえ、ドイツじゃないです。 日本[にほん]です。",
+                                "A: Ist Panasonic eine deutsche Firma?<br>B: Nein, sie kommt nicht aus Deutschland. Aus Japan."
+                            ],
+                            "guid": "nzJq*Oh8R<",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いしいさんはかいしゃいんです。かいしゃは 日本[にほん]のかいしゃです。",
+                                "Frau Ishii ist Firmenangestellte. Ihre Firma kommt aus Japan."
+                            ],
+                            "guid": "K`(_FTHioR",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いでさんはせんせいです。こうこうのせんせいです。",
+                                "&nbsp;Frau Ide ist Lehrerin. Lehrerin an einer weiterführenden Schule."
+                            ],
+                            "guid": "C7V[Dyy4n(",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さのさんはかいしゃいんではないです。めいしゃさんです。",
+                                "Frau Sano ist keine Firmenangestellte. Sie ist Augenärztin."
+                            ],
+                            "guid": "i^x>}F7EA:",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -1298,7 +1348,8 @@
                         "do.gif",
                         "mi.gif",
                         "to.gif",
-                        "yu.gif"
+                        "yu.gif",
+                        "屋.PNG"
                     ],
                     "name": "C",
                     "notes": [
@@ -1389,6 +1440,260 @@
                             "guid": "A);@M8M/uI",
                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すみません",
+                                "Entschuldigen Sie, bitte! (Darf ich Sie etwas fragen/ kurz stören?)／Es tut mir leid.",
+                                ""
+                            ],
+                            "guid": "K!Z|qP#TLG",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "お",
+                                "Hoflichkeitspräfix/Vorsilbe"
+                            ],
+                            "guid": "Ej5O9Bx3pX",
+                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "なまえ",
+                                "Name",
+                                ""
+                            ],
+                            "guid": "B&yQQxh8HX",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おなまえ",
+                                "(Ihr) Name",
+                                ""
+                            ],
+                            "guid": "d`K&v}*(PF",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "しごと",
+                                "Beruf, Arbeit",
+                                ""
+                            ],
+                            "guid": "o(W${/#yPD",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おしごと",
+                                "(Ihr) Beruf, (lhre) Arbeit",
+                                ""
+                            ],
+                            "guid": "BFpY}29VC|",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "屋[や]",
+                                "(mit einem vorangestellten Substantiv) Laden,Geschäft, Restaurant u.a.",
+                                "<img src=\"屋.PNG\">"
+                            ],
+                            "guid": "f~Xm~_p3.*",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さかな屋",
+                                "Fischgeschäft, lnhaber(-in) eines Fischgeschäftes;",
+                                "<img src=\"屋.PNG\">"
+                            ],
+                            "guid": "PEaK?P](8_",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さかな",
+                                "Fisch",
+                                ""
+                            ],
+                            "guid": "f8mnV=qP$?",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はな 屋[や]",
+                                "Blumenladen, Blumenhändler(-in)",
+                                ""
+                            ],
+                            "guid": "hB+xM=LlJM",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "はな",
+                                "Blume",
+                                ""
+                            ],
+                            "guid": "%wCUz-yzA",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すし 屋[や]/（お）すし 屋[や]さん",
+                                "Sushi-Restaurant oder lnhaber(-in)",
+                                ""
+                            ],
+                            "guid": "iyzV1U1ggH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "すし",
+                                "Sushi",
+                                ""
+                            ],
+                            "guid": "u0UC|(2Ujk",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "パン 屋[や]",
+                                "Bäckerei, Bäcker(-in)",
+                                ""
+                            ],
+                            "guid": "OHM7D{.YXz",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "パン&nbsp;",
+                                "Brot",
+                                ""
+                            ],
+                            "guid": "f,6l3$ToOH",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おなまえは…。",
+                                "Wie lautet ihr Name?"
+                            ],
+                            "guid": "njBhI&0eU@",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おしごとは…。",
+                                "Was sind Sie von Beruf?"
+                            ],
+                            "guid": "s<Y>kq!2?]",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was stellt ein Satz ohne Verb, der auf die Partikel は endet dar?",
+                                "Ein Satz ohne Verb, der auf die Themapartikel は endet,stellt eine verkürzte Frage dar. Was dabei tatsachlich gefragt wird, lässt sich aus dem Zusammenhang schließen. Anders als bei einem normalen Fragesatz wird hier am Satzende die Stimme nicht gehoben, damit es nicht zu direkt oder zu unhölflich klingt."
+                            ],
+                            "guid": "s52rzXCQ23",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was muss ergänzt wewrden, um umgangssprachlich von einem Ladenbesitzer zu sprechen?",
+                                "Wenn man von den Besitzern spricht, hängt man in der Umgangssprache oft さん an, zum Beispiel （お）さかな屋さん"
+                            ],
+                            "guid": "OT%fPxC!WU",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: すみません、おなまえは…。<br>B: やまだです。",
+                                "A: Entschuldigung, (wie lautet) Ihr Name (bitte)?<br>B: Ich heiße Yamada."
+                            ],
+                            "guid": "hc*QaZ{2x3",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A:すみません、おしごとは…。<br>B:はな 屋[や]です。",
+                                "A: Entschuldigung, und (was ist) Ihr Beruf (bitte)?<br>B: Ich bin <b>Blumenhändler</b>."
+                            ],
+                            "guid": "i/<UwaD<|7",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いしいさん、たなかさんです。<br>B: たなかです。はじめまして。",
+                                "A: Herr Ishii, das ist Frau Tanaka.<br>B: Ich heiße Tanaka. Ich freue mich, Sie kennen zu lernen."
+                            ],
+                            "guid": "O|cB2@&.}5",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: はじめまして。いしいです。<br>B: たなかさんは、おいしゃさんです",
+                                "A: Sehr erfreut! Ich heiße Ishii.<br>B:&nbsp;Frau Tanaka ist Ärztin."
+                            ],
+                            "guid": "pr8A*viUx~",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: はじめまして。いいです。すみません、おなまえは…。<br>B: たかいです。はじめまして。",
+                                "A: Freut mich Sie kennenzulernen. Ich heiße Ii. Entschuldigung, wie heißen Sie?<br>B: Ich heiße Tanaka. Freut mich Sie kennenzulernen."
+                            ],
+                            "guid": "nP%gG9@Tq@",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -1439,6 +1744,125 @@
                             "guid": "vs0{,jY7jA",
                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "では",
+                                "nun, bis dann, also dann (beim Abschied) (förmlich)",
+                                ""
+                            ],
+                            "guid": "o72m<uS^oc",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "じゃ",
+                                "nun, bis dann, also dann (beim Abschied) (informell)",
+                                ""
+                            ],
+                            "guid": "I)Minp}$O9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "また",
+                                "wieder, hier etwa: Auf Wiedersehen! Wir sehen uns wieder.",
+                                ""
+                            ],
+                            "guid": "B^fMRC`3?V",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "あした",
+                                "morgen",
+                                ""
+                            ],
+                            "guid": "D98CF:6.x%",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "らいしゅう",
+                                "nächste Woche",
+                                ""
+                            ],
+                            "guid": "QJKuh=VHAS",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "またらいしゅっ",
+                                "Bis nächste Woche.",
+                                ""
+                            ],
+                            "guid": "p;>Jr-z`P1",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "さようなら",
+                                "Auf Wiedersehen!",
+                                ""
+                            ],
+                            "guid": "eJd&S5mpOD",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おやすみなさい",
+                                "Gute Nacht!/Schlaf gut!",
+                                ""
+                            ],
+                            "guid": "lU}$Nv42{t",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "バイバイ",
+                                "etwa: Tschüs, Bye bye (sehr informeller Abschiedsgrufs, ausschließlich unter Kindern und sehr engen Freunden.)&nbsp;",
+                                ""
+                            ],
+                            "guid": "G-G=btYp&2",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: こんばんは。<br>B: Sonyのかたですか。<br>A: はし。",
+                                "A: Guten Abend!<br>B: Arbeiten Sie bei Sony?<br>A. Ja."
+                            ],
+                            "guid": "y?WA.S~e*H",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: SiemensのKellerです。すみません、おなまえは…。<br>B: さのです。はじめまして。",
+                                "A: Ich bin Herr Keller von Siemens. Entschuldigung, Ihr Name war...?<br>B. Ich bin Sano. Freut mich Sie kennenzulernen."
+                            ],
+                            "guid": "Jd.gC<*0^_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 }
@@ -1450,6 +1874,7 @@
             "extendNew": 0,
             "extendRev": 0,
             "media_files": [],
+            "mid": 1642764953999,
             "name": "Kapitel 03",
             "notes": []
         },
@@ -4138,17 +4563,6 @@
                             ],
                             "guid": "m_^YD-Wv0",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "すみません",
-                                "Es tut mir leid.",
-                                ""
-                            ],
-                            "guid": "G^>#KfT|$P",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
                         {

@@ -2577,7 +2577,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "大[だい]",
-                                "groß",
+                                "<b>groß</b>",
                                 "<img src=\"大.png\">"
                             ],
                             "guid": "y5VfKr4Qlh",
@@ -2599,7 +2599,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "生[せい]",
-                                "Leben",
+                                "<b>Leben</b>",
                                 "<img src=\"生.PNG\">"
                             ],
                             "guid": "AgJTvp+hY",
@@ -2731,7 +2731,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "大学生[だいがくせい]",
-                                "Hochschulstudent",
+                                "<b>Hochschulstudent</b>",
                                 "<img src=\"大学生.PNG\">"
                             ],
                             "guid": "j,Lu&]V*_/",
@@ -6575,7 +6575,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "何[なん] 人[にん]",
-                                "Wie viele Personen?",
+                                "<b>Wie viele Personen?</b>",
                                 "<img src=\"何人.png\">"
                             ],
                             "guid": "C>R<1}%`II",
@@ -6784,7 +6784,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "先[せん]",
-                                "Führung, Spitze, vorher",
+                                "<b>Führung, Spitze, vorher</b>",
                                 "<img src=\"先.png\">"
                             ],
                             "guid": "G`2qZeCnC{",
@@ -12822,9 +12822,9 @@
                     "media_files": [
                         "何日.png",
                         "何月.png",
+                        "大.png",
                         "日.png",
-                        "月.png",
-                        "木.png"
+                        "月.png"
                     ],
                     "name": "A",
                     "notes": [
@@ -12919,7 +12919,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "何[なん]月[がつ]",
-                                "Welcher Monat",
+                                "<b>Welcher Monat</b>",
                                 "<img src=\"何月.png\">"
                             ],
                             "guid": "jr<Q2n;HLL",
@@ -12930,7 +12930,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "何[なん]日[にち]",
-                                "Welcher Tag",
+                                "<b>Welcher Tag</b>",
                                 "<img src=\"何日.png\">"
                             ],
                             "guid": "uhKh:B>!X1",
@@ -13029,7 +13029,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "9月[くがつ]",
-                                "September",
+                                "<b>September</b>",
                                 "<img src=\"月.png\">"
                             ],
                             "guid": "uitw55m2yf",
@@ -13040,7 +13040,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "10月[じゅうがつ]",
-                                "Oktober",
+                                "<b>Oktober</b>",
                                 "<img src=\"月.png\">"
                             ],
                             "guid": "u6X|Okqb0Z",
@@ -13062,7 +13062,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "12月[じゅうにがつ]",
-                                "Dezember",
+                                "<b>Dezember</b>",
                                 "<img src=\"月.png\">"
                             ],
                             "guid": "lL5O@cl[Z{",
@@ -13084,7 +13084,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "2日[ふつか]",
-                                "2 Tage",
+                                "2 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "ILU#7BVzkw",
@@ -13106,7 +13106,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "4日[よっか]",
-                                "4 Tage",
+                                "4 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "e%!y?P|&n",
@@ -13139,7 +13139,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "7日[なのか]",
-                                "7 Tage",
+                                "7 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "N2<fK!_lt9",
@@ -13161,7 +13161,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "9日[ここのか]",
-                                "9 Tage",
+                                "9 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "tcXfJC|#4;",
@@ -13183,7 +13183,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "11日[じゅういちにち]",
-                                "11 Tage",
+                                "11 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "J,jQ3]sc[;",
@@ -13194,7 +13194,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "12日[じゅうににち]",
-                                "12 Tage",
+                                "12 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "o(>,0%8v%5",
@@ -13227,7 +13227,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "15日[じゅうごにち]",
-                                "15 Tage",
+                                "15 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "Bb_e=665=i",
@@ -13238,7 +13238,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "16日[じゅうろくにち]",
-                                "16 Tage",
+                                "16 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "jKs&Xi|%37",
@@ -13403,7 +13403,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "31日[さんじゅういちにち]",
-                                "31 Tage",
+                                "31 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "NE;T}[!u)b",
@@ -13444,7 +13444,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "何[なに]がすきですか。",
-                                "Was mögen Sie?"
+                                "<b>Was</b> mögen Sie?"
                             ],
                             "guid": "yVv7.U/;D0",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -13529,8 +13529,8 @@
                             "__type__": "Note",
                             "fields": [
                                 "大[おお]みそか",
-                                "Silvester",
-                                "<img src=\"木.png\">"
+                                "<b>Silvester</b>",
+                                "<img src=\"大.png\">"
                             ],
                             "guid": "g}@C!LkV/L",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -13919,7 +13919,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "水[すい]",
-                                "Wasser",
+                                "<b>Wasser</b>",
                                 "<img src=\"水.png\">"
                             ],
                             "guid": "bHr>+#}vwf",
@@ -13952,7 +13952,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "こん週[こ んしゅつ]",
-                                "diese Woche",
+                                "diese <b>Woche</b>",
                                 "<img src=\"週.png\">"
                             ],
                             "guid": "n};T4:TFxf",
@@ -13963,7 +13963,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "月曜日[げつようび]",
-                                "Montag",
+                                "<b>Montag</b>",
                                 "<img src=\"月曜日.png\">"
                             ],
                             "guid": "k81q?k4<>X",
@@ -13974,7 +13974,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "火曜日[かようび]",
-                                "Dienstag",
+                                "<b>Dienstag</b>",
                                 "<img src=\"火曜日.png\">"
                             ],
                             "guid": "KAVl[FljNN",
@@ -13985,7 +13985,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "水曜日[すいようび]",
-                                "Mittwoch",
+                                "<b>Mittwoch</b>",
                                 "<img src=\"水曜日.png\">"
                             ],
                             "guid": "q=(fxf8n@=",
@@ -13996,7 +13996,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "木曜日[もくようび]",
-                                "Donnerstag",
+                                "<b>Donnerstag</b>",
                                 "<img src=\"木曜日.png\">"
                             ],
                             "guid": "bLoWaM=L`9",
@@ -14007,7 +14007,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "こん週の土曜日",
-                                "Samstag dieser Woche",
+                                "<b>Samstag </b>dieser <b>Woche</b>",
                                 "<img src=\"週.png\"><img src=\"土曜日.png\">"
                             ],
                             "guid": "A)2w?kp*gr",
@@ -14060,7 +14060,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A:こん 週[しゅう]の 土曜日[どようび]にえいがにいきませんか。<br>B:いいですね。",
-                                "A: Wollen wir nicht am Samstag dieser Woche ins Kino gehen?<br>B: Das ist eine gute Idee!"
+                                "A: Wollen wir nicht am <b>Samstag </b>dieser <b>Woche</b> ins Kino gehen?<br>B: Das ist eine gute Idee!"
                             ],
                             "guid": "hktup^N.:5",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14079,7 +14079,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>月曜日{{c1::は::は・を・に・には}}ドイツ語のじゅぎょう{{c1::を::は・を・に・には}}{{c2::いきました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>月曜日{{c1::に::は・を・に・には}}ドイツ語のじゅぎょう{{c1::に::は・を・に・には}}{{c2::いきました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
                                 ""
                             ],
                             "guid": "vn@@K%`dwF",
@@ -14089,7 +14089,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>火曜日{{c1::は::は・を・に・には}}ともだち{{c1::に::は・を・に・には}}{{c2::あいました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>火曜日{{c1::に::は・を・に・には}}ともだち{{c1::に::は・を・に・には}}{{c2::あいました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
                                 ""
                             ],
                             "guid": "A0m_sjVEV2",
@@ -14099,7 +14099,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>水曜日{{c1::は::は・を・に・には}}バッハのコンサート{{c1::を::は・を・に・には}}{{c2::ききました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>水曜日{{c1::に::は・を・に・には}}バッハのコンサート{{c1::を::は・を・に・には}}{{c2::ききました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
                                 ""
                             ],
                             "guid": "w:Mqq/O`G%",
@@ -14109,7 +14109,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>木曜日{{c1::は::は・を・に・には}}フランスのえいが{{c1::を::は・を・に・には}}{{c2::みました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>木曜日{{c1::に::は・を・に・には}}フランスのえいが{{c1::を::は・を・に・には}}{{c2::みました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
                                 ""
                             ],
                             "guid": "FdFaV$ZA`A",
@@ -14119,7 +14119,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>金曜日{{c1::は::は・を・に・には}}本{{c1::を::は・を・に・には}}{{c2::よみました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>金曜日{{c1::に::は・を・に・には}}本{{c1::を::は・を・に・には}}{{c2::よみました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
                                 ""
                             ],
                             "guid": "h;Uw)}uZeJ",
@@ -14129,7 +14129,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>土曜日{{c1::は::は・を・に・には}}ドイツリょうリ{{c2::たべました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>土曜日{{c1::に::は・を・に・には}}ドイツりょうりを{{c2::たべました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
                                 ""
                             ],
                             "guid": "EJB^Su.ju,",
@@ -14140,7 +14140,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "金曜日[きんようび]",
-                                "Freitag",
+                                "<b>Freitag</b>",
                                 "<img src=\"金曜日.png\">"
                             ],
                             "guid": "cTkowK&6ps",
@@ -14151,7 +14151,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日曜日[にちようび]",
-                                "Sonntag",
+                                "<b>Sonntag</b>",
                                 "<img src=\"日曜日.png\">"
                             ],
                             "guid": "s_mqiJ2I.6",
@@ -14222,7 +14222,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "英[えい]かいわ",
-                                "englische Konversation",
+                                "<b>englische </b>Konversation",
                                 "<img src=\"英.png\">"
                             ],
                             "guid": "N8vl7i@_m0",
@@ -14348,8 +14348,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: 英語はどこでべんきょうしましたか。<br>B: じつは英かいわがっこうでべんきょうしました。",
-                                "A: Wo haben Sie Englisch gelernt?<br>B: Offen gesagt, an einer Sprachenschule für Englisch."
+                                "A: 英語[えいご]はどこでべんきょうしましたか。<br>B: じつは 英[えい]かいわがっこうでべんきょうしました。",
+                                "A: Wo haben Sie <b>Englisch </b>gelernt?<br>B: Offen gesagt, an einer Sprachenschule für <b>Englisch</b>."
                             ],
                             "guid": "d-W4}s3d3e",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14389,7 +14389,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: いつもどこでともだちにあいますか。<br>B: ともだちのうちであいます。",
-                                "A: Wo treffen Sie immer Ihre Freunde?<br>B: Im Haus meiner Freunde."
+                                "A: Wo treffen Sie immer Ihre Freunde?<br>B: Im Haus meiner Freunde treffen wir uns."
                             ],
                             "guid": "n+o:}_9b4f",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14549,7 +14549,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "12日、木曜日はどうですか。",
-                                "Wie wäre es mit dem 12., Donnerstag?"
+                                "Wie wäre es mit dem <b>12.</b>, <b>Donnerstag</b>?"
                             ],
                             "guid": "o{k<LBfECg",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14568,8 +14568,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "じゃ、7時にレストラン東京であいましょう。",
-                                "Dann lass uns um 7 Uhr am Restaurant Tokio treffen."
+                                "じゃ、 7時[しちじ]にレストラン 東京[とうきょう]であいましょう。",
+                                "Dann lass uns um 7 <b>Uhr </b>am Restaurant <b>Tokio </b>treffen."
                             ],
                             "guid": "HQ0Hm].5Ng",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14578,8 +14578,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "はい。わかりました。木曜日にレストラン東京で。じゃ、お休みなさい。",
-                                "Ja. Habe verstanden. Am Donnerstag im Restaurant Tokio. Dann, eine gute Nacht."
+                                "はい。わかりました。 木曜日[もくようび]にレストラン 東京[とうきょう]で。じゃ、お 休[やす]みなさい。",
+                                "Ja. Habe verstanden. Am <b>Donnerstag </b>im Restaurant <b>Tokio</b>. Dann, eine <b>gute Nacht</b>."
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14603,7 +14603,7 @@
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
-            "extendNew": 0,
+            "extendNew": 20,
             "extendRev": 0,
             "media_files": [],
             "mid": 1642764953999,
@@ -14760,7 +14760,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 90
+                "perDay": 20
             },
             "newGatherPriority": 0,
             "newMix": 0,

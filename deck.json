@@ -6395,7 +6395,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Partikel ist richtig?<br><br>たなかさんのうち{{c1::に/へ::に/へ}}しよくじ{{c2::に::に/へ}}いきました。",
+                                "Welche Partikel ist richtig?<br><br>たなかさんのうち{{c1::に/へ::に/へ}}しょくじ{{c2::に::に/へ}}いきました。",
                                 ""
                             ],
                             "guid": "vHNi8/{HB*",
@@ -6525,7 +6525,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "きのうだれがえいがかんいいきましたか。",
+                                "きのうだれがえいがかんにいきましたか。",
                                 "Wer ist gestern ins Kino gegangen?"
                             ],
                             "guid": "MweKE?PKf",
@@ -7422,7 +7422,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "英語[えいご]がてきません。",
+                                "英語[えいご]ができません。",
                                 "Ich kann nicht <b>Englisch</b>."
                             ],
                             "guid": "H=CcVdOmPl",
@@ -9038,7 +9038,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "わかリません",
+                                "わかりません",
                                 "Ich weiß es nicht",
                                 ""
                             ],

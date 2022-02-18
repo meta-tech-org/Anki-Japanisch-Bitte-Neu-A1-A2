@@ -6110,7 +6110,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "だれが",
-                                "wer",
+                                "wer (mit Partikel?)",
                                 ""
                             ],
                             "guid": "jt^?^gKdhT",
@@ -6121,7 +6121,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "だれも",
-                                "keiner, niemand (mit Verneinung)",
+                                "keiner, niemand",
                                 ""
                             ],
                             "guid": "Fc_~t-@p|c",
@@ -7941,7 +7941,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie drückt man die Frage: <i>Wie ist das?&nbsp;</i>aus?",
+                                "Wie drückt man die Frage: <i>Wie ist das?&nbsp;</i>aus? (informell)",
                                 "どうですか"
                             ],
                             "guid": "Kdu=GVB[@A",
@@ -9236,7 +9236,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "グラス",
+                                "グラス (Name)",
                                 "Grass",
                                 ""
                             ],

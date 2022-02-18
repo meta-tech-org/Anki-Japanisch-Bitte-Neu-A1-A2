@@ -5826,76 +5826,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いっしょにおひるごはんをたべませんか。<br><b>B: ええ、たべましょう。</b><br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
-                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br><b>B: Ja, lasst uns (Mittag) essen.</b><br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
-                            ],
-                            "guid": "jB{A/USSO",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br><b>C: 何をたべましょうか。</b><br>D: フランスりょうりをたべましょう。",
-                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br><b>C: Was wollen wir essen?</b><br>D: Lasst uns französische Küche essen."
-                            ],
-                            "guid": "GM)/r&kGP=",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br><b>D: フランスりょう</b><b>り</b><b>をたべましょう。</b>",
-                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br><b>D: Lasst uns französische Küche essen.</b>"
-                            ],
-                            "guid": "CRPRibxOy<",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "こんどの土曜日に日本語クラスのパーティーをしましょうか。",
-                                "Wollen wir nächsten Samstag zur Party der Japanischklasse?"
-                            ],
-                            "guid": "q}VyR3-3E&",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "こんどぜひいっしょに日本りょこうをしましょう。",
-                                "Nächstes Mal machen wir zusammen sicherlich eine Japan-Reise."
-                            ],
-                            "guid": "BL[Xn>FZZ%",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いいてすね。ぜひいきましょう。どこにいきましょうか。",
-                                "Gut. Sicherlich gehen wir (zusammen, auf Reise). Wohin sollen wir gehen?"
-                            ],
-                            "guid": "Kpqy$/Ovb>",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "おんせんにいきましょう。",
-                                "Lass uns zu den heißen Quellen gehen."
-                            ],
-                            "guid": "EmnR(3(gzG",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "A: おちゃをのみましょうか。<br>B: そうですね。のみましょう。",
                                 "A: Wollen wir Tee trinken?<br>B: Hm. Lass uns trinken."
                             ],
@@ -5960,6 +5890,76 @@
                                 "<b>A: Wollen wir (nicht) zusammen zu Mittag essen?</b><br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
                             ],
                             "guid": "CJ;&qI9VK_",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いっしょにおひるごはんをたべませんか。<br><b>B: ええ、たべましょう。</b><br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
+                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br><b>B: Ja, lasst uns (Mittag) essen.</b><br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
+                            ],
+                            "guid": "jB{A/USSO",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br><b>C: 何をたべましょうか。</b><br>D: フランスりょうりをたべましょう。",
+                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br><b>C: Was wollen wir essen?</b><br>D: Lasst uns französische Küche essen."
+                            ],
+                            "guid": "GM)/r&kGP=",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br><b>D: フランスりょう</b><b>り</b><b>をたべましょう。</b>",
+                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br><b>D: Lasst uns französische Küche essen.</b>"
+                            ],
+                            "guid": "CRPRibxOy<",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんどの土曜日に日本語クラスのパーティーをしましょうか。",
+                                "Wollen wir nächsten Samstag zur Party der Japanischklasse?"
+                            ],
+                            "guid": "q}VyR3-3E&",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんどぜひいっしょに日本りょこうをしましょう。",
+                                "Nächstes Mal machen wir zusammen sicherlich eine Japan-Reise."
+                            ],
+                            "guid": "BL[Xn>FZZ%",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いいてすね。ぜひいきましょう。どこにいきましょうか。",
+                                "Gut. Sicherlich gehen wir (zusammen, auf Reise). Wohin sollen wir gehen?"
+                            ],
+                            "guid": "Kpqy$/Ovb>",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "おんせんにいきましょう。",
+                                "Lass uns zu den heißen Quellen gehen."
+                            ],
+                            "guid": "EmnR(3(gzG",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
@@ -10673,6 +10673,17 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "そう",
+                                "so",
+                                ""
+                            ],
+                            "guid": "J!*cB?<}+3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "そうします",
                                 "(Ich) tue es so",
                                 ""
@@ -10745,16 +10756,6 @@
                             ],
                             "guid": "ys2({tok};",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Was drückt die Partikel に aus?",
-                                "Die Partikel drückt den Zeitpunkt aus, zu dem man etwas tut oder zu dem etwas geschieht."
-                            ],
-                            "guid": "so[m_0Ii`h",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         },
                         {
@@ -10930,12 +10931,11 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "そう",
-                                "so",
-                                ""
+                                "Was drückt die Partikel に aus?",
+                                "Die Partikel drückt den Zeitpunkt aus, zu dem man etwas tut oder zu dem etwas geschieht."
                             ],
-                            "guid": "J!*cB?<}+3",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "guid": "so[m_0Ii`h",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -13453,17 +13453,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "何[なに]と 何[なに]をかいますか。",
-                                "Was und was kaufen Sie?"
-                            ],
-                            "guid": "lp;>.2vWc",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "A:すみません、きょうは 何[なん] 日[にち]ですか。<br>B:2 月[つき]13 日[にち]、 金曜日[きんようび]です。",
+                                "A:すみません、きょうは 何[なん] 日[にち]ですか。<br>B: 2月[にがつ]13日[じゅうさんにち]、 金曜日[きんようび]です。",
                                 "A: Entschuldigung! Der Wieviete (des Monats) ist heute?<br>B: Der 13. Februar, Freitag."
                             ],
                             "guid": "tDKb5[]K@j",
@@ -13962,6 +13952,17 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "日曜日[にちようび]",
+                                "<b>Sonntag</b>",
+                                "<img src=\"日曜日.png\">"
+                            ],
+                            "guid": "s_mqiJ2I.6",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "月曜日[げつようび]",
                                 "<b>Montag</b>",
                                 "<img src=\"月曜日.png\">"
@@ -14000,6 +14001,17 @@
                                 "<img src=\"木曜日.png\">"
                             ],
                             "guid": "bLoWaM=L`9",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "<b>Freitag</b>",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -14135,28 +14147,6 @@
                             "guid": "EJB^Su.ju,",
                             "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
                             "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "金曜日[きんようび]",
-                                "<b>Freitag</b>",
-                                "<img src=\"金曜日.png\">"
-                            ],
-                            "guid": "cTkowK&6ps",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "日曜日[にちようび]",
-                                "<b>Sonntag</b>",
-                                "<img src=\"日曜日.png\">"
-                            ],
-                            "guid": "s_mqiJ2I.6",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
                         }
                     ]
                 },
@@ -14193,6 +14183,17 @@
                                 ""
                             ],
                             "guid": "H!b,B6Hs^>",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -14583,17 +14584,6 @@
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつも",
-                                "immer, gewöhnlich",
-                                ""
-                            ],
-                            "guid": "wzYnt>/~uU",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

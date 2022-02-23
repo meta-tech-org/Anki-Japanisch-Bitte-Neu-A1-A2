@@ -15263,7 +15263,7 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Antwort}}",
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Antwort}}",
                     "bafmt": "",
                     "bfont": "",
                     "bqfmt": "",
@@ -15271,7 +15271,7 @@
                     "did": null,
                     "name": "Grammatikfrage",
                     "ord": 0,
-                    "qfmt": "{{Frage}}"
+                    "qfmt": "{{furigana:Frage}}"
                 }
             ],
             "type": 0

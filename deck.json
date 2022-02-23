@@ -562,7 +562,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本[にほん]",
-                                "Japan",
+                                "<b>Japan</b>",
                                 "<img src=\"日本.png\">"
                             ],
                             "guid": "f_$?:LS]Hb",
@@ -743,7 +743,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本人[にほんじん]",
-                                "Japaner/-in",
+                                "<b>Japaner/-in</b>",
                                 "<img src=\"日本人.png\">"
                             ],
                             "guid": "w)l$FZR~)>",
@@ -2846,7 +2846,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "はい、いまはHamburg 大学[だいがく]の学生[がくせい]です。でもまえは日本[にほん]の 大学[だいがく]の 学生[がくせい]でした。",
-                                "Ja, jetzt bin ich Student an der Universität Hamburg. Aber früher war ich Student an einer japanischen Universität."
+                                "Ja, jetzt bin ich <b>Student </b>an der <b>Universität </b><i>Hamburg</i>. Aber früher war ich <b>Student </b>an einer <b>japanischen Universität</b>."
                             ],
                             "guid": "hvDgrx#tjk",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2866,7 +2866,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: 学生[がくせい]さんですか。<br>B: いいえ。 日本[にほん]のかいしゃのひしょです。",
-                                "A: Sind Sie Student?<br>B: Nein. ich bin Sekretärin einer japanischen Firma."
+                                "A: Sind Sie <b>Student</b>?<br>B: Nein. ich bin Sekretärin einer <b>japanischen </b>Firma."
                             ],
                             "guid": "e9Jwkp$RF$",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2886,7 +2886,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: すみません。 日本[にほん]のかたですか。<br>B: いいえ。でもははは 日本人[にほんじん]です。",
-                                "A: Entschuldigung. Sind Sie Japanerin?<br>B: Nein, aber meine Mutter ist Japanerin."
+                                "A: Entschuldigung. Sind Sie <b>Japanerin</b>?<br>B: Nein, aber meine Mutter ist <b>Japanerin</b>."
                             ],
                             "guid": "pJnEEj.a).",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -4982,7 +4982,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本[にほん]ちゃ",
-                                "grüner Tee (<b>japanischer</b> Tee)",
+                                "Grüner Tee (<b>japanischer</b> Tee)",
                                 ""
                             ],
                             "guid": "tG[`Dte.-_",
@@ -5421,7 +5421,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日曜日[にちようび]",
-                                "Sonntag",
+                                "<b>Sonntag</b>",
                                 "<img src=\"日曜日.png\">"
                             ],
                             "guid": "dT>CR<zQlz",
@@ -5867,7 +5867,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "そうですねぇ…。オペラもいいですが、こんどは日本のおんがくはどうですか。",
-                                "Naja... Oper ist auch gut, (aber) wie wäre es nächstes Mal mit japanischer Musik?"
+                                "Naja... Oper ist auch gut, (aber) wie wäre es nächstes Mal mit <b>japanischer </b>Musik?"
                             ],
                             "guid": "n,&k9)@lo[",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -5877,7 +5877,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "そうですねぇ…。じゃ、こんどは日本のおんがくをききましょうか。",
-                                "Naja... Wollen wir dann nächstes Mal japanische Musik hören?"
+                                "Naja... Wollen wir dann nächstes Mal <b>japanische </b>Musik hören?"
                             ],
                             "guid": "NZ4$m}4ee6",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -5927,7 +5927,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "こんどの土曜日に日本語クラスのパーティーをしましょうか。",
-                                "Wollen wir nächsten Samstag zur Party der Japanischklasse?"
+                                "Wollen wir nächsten <b>Samstag </b>zur Party der <b>Japanisch</b>klasse?"
                             ],
                             "guid": "q}VyR3-3E&",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -5937,7 +5937,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "こんどぜひいっしょに日本りょこうをしましょう。",
-                                "Nächstes Mal machen wir zusammen sicherlich eine Japan-Reise."
+                                "Nächstes Mal machen wir zusammen sicherlich eine <b>Japan</b>-Reise."
                             ],
                             "guid": "BL[Xn>FZZ%",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -6446,7 +6446,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "やまださんはらいしゅう中国にいきます。",
-                                "Herr Yamada geht nächste Woche nach China."
+                                "Herr Yamada geht nächste Woche nach <b>China</b>."
                             ],
                             "guid": "DJX`aLy8A8",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -6506,7 +6506,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "だれがよくイギリスにいきますか。",
-                                "Wer ist oft nach England gegangen?"
+                                "Wer geht oft nach England?"
                             ],
                             "guid": "kV/?Fzz4Qq",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -6597,7 +6597,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ドイツの 人[ひと]",
-                                "Deutscher",
+                                "<b>Mensch </b>aus Deutschland",
                                 "<img src=\"人.png\">"
                             ],
                             "guid": "es^^)KQU(9",
@@ -6618,7 +6618,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "5[ご]&nbsp;人[にん]",
-                                "5 Personen",
+                                "5 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "on!F*F&a~g",
@@ -6629,7 +6629,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "6[ろく]&nbsp;人[にん]",
-                                "6 Personen",
+                                "6 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "RD$0V3=I*",
@@ -6640,7 +6640,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "7[しち]&nbsp;人[にん]",
-                                "7 Personen",
+                                "7 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "oju*|qdN]*",
@@ -6651,7 +6651,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "8[はち]&nbsp;人[にん]",
-                                "8 Personen",
+                                "8 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "Aw}jn2[&+P",
@@ -6662,7 +6662,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "9[きゅう]&nbsp;人[にん]",
-                                "9 Personen",
+                                "9 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "oH~nS?s^;z",
@@ -6673,7 +6673,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "10[じゅう]&nbsp;人[にん]",
-                                "10 Personen",
+                                "10 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "Hq3F](JX,^",
@@ -6684,7 +6684,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "11[じゅういち]&nbsp;人[にん]",
-                                "11 Personen",
+                                "11 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "E?{(Uzz>(E",
@@ -6695,7 +6695,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "12[じゅうに]&nbsp;人[にん]",
-                                "12 Personen",
+                                "12 <b>Personen</b>",
                                 ""
                             ],
                             "guid": "f@6HzySngs",
@@ -6736,7 +6736,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "何人ですか。",
-                                "Wie viele Personen sind es?"
+                                "<b>Wie viele Personen</b> sind es?"
                             ],
                             "guid": "MX*Sw,mNjZ",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -7025,8 +7025,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: きよう、何をか いますか。<br>B:&nbsp;パンをかいます。",
-                                "A: Was haben Sie heute gekauft?<br>B: (Ich habe) Brot gekauft."
+                                "A:きよう、 何[なに]をかいますか。<br>B:パンをかいます。",
+                                "A: <b>Was </b>kaufen Sie heute?<br>B: Ich kaufe Brot."
                             ],
                             "guid": "A/B-9>e_m6",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -7035,8 +7035,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: きよう何をしますか。<br>B:&nbsp;ゴルフをします。",
-                                "A: Was hast du heute gemacht?<br>B: Golf gespielt."
+                                "A:きよう 何[なに]をしますか。<br>B:ゴルフをします。",
+                                "A: Was machst du heute?<br>B: Ich spiele Golf."
                             ],
                             "guid": "is%JYU0im,",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -7045,7 +7045,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: むかしはいつもおひるはたべましたか。<br>B:&nbsp;ごはんとたまごたをべました。",
+                                "A: むかしはいつもおひるはたべましたか。<br>B:&nbsp;ごはんとたまごをたべました。",
                                 "A: Was hast du früher immer zum Mittag gegessen?<br>B: Ich habe gekochten Reis und Eier gegessen."
                             ],
                             "guid": "QM:1%>Mjg,",
@@ -7106,7 +7106,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "いで:&nbsp;らいしゅう、パーティーをしましようか。<br>日本語コースの人:&nbsp;しましよう。しましよう。",
-                                "Ide: Nächste Woche, wollen wir da eine Party machen?<br>Japanischkurs-Leute: Wollen wir! Wollen wir!"
+                                "Ide: Nächste Woche, wollen wir da eine Party machen?<br><b>Japanisch</b>kurs-<b>Leute</b>: Wollen wir! Wollen wir!"
                             ],
                             "guid": "k&Hgxbah:l",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -7176,7 +7176,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "先生、わたしは何をもってきましょうか。",
-                                "<b>Frau Lehrerin</b>, was soll ich mitbringen?"
+                                "<b>Frau Lehrerin</b>, <b>was </b>soll ich mitbringen?"
                             ],
                             "guid": "CHfUWVX87c",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -7627,7 +7627,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "車[くるま]",
-                                "Wagen, Auto",
+                                "<b>Wagen, Auto</b>",
                                 "<img src=\"車.png\">"
                             ],
                             "guid": "K_Q)V|MMBx",
@@ -7841,7 +7841,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "国[くに]",
-                                "Staat, Land",
+                                "<b>Staat, Land</b>",
                                 "<img src=\"国.png\">"
                             ],
                             "guid": "cs%OnN`F2}",
@@ -7871,7 +7871,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie stehen い-Adjektive von einem Substantiv?",
+                                "Wie stehen い-Adjektive vor einem Substantiv?",
                                 "い-Adjektive&nbsp;stehen als Attribute unverändert vor einem Substantiv.<br>Beispiel: いいおてんき"
                             ],
                             "guid": "s||EaL=tp/",
@@ -7891,8 +7891,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was verwendet man, um eine Aussage, oder Frage zu widersprechen oder sie zu verneinen?",
-                                "Um der Aussage oder Frage des Gesprächspartners zu widersprechen oder sie zu verneinen, verwendet man im Japanischen いいえ. Das gilt auch dann, wenn die Aussage oder Frage negativ formuliert wird."
+                                "Was verwendet man, um einer Aussage, oder Frage zu widersprechen oder sie zu verneinen?",
+                                "Man verwendet いいえ.<br>Das gilt auch dann, wenn die Aussage oder Frage negativ formuliert wird."
                             ],
                             "guid": "gbKR3WzNz,",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -8021,7 +8021,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: 東京[とうきょう]]は 大[おお]きい]まちですね。<br>B: そうですね。 大[おお]きいまちですね。 大阪[おおさか]も 大[おお]きいまちですね。",
+                                "A: 東京[とうきょう]は 大[おお]きいまちですね。<br>B: そうですね。 大[おお]きいまちですね。 大阪[おおさか]も 大[おお]きいまちですね。",
                                 "A: Tokio ist eine große Stadt, nicht wahr?<br>B: So ist es. (Tokio) Sie ist groß. Osaka ist auch eine große Stadt, nicht wahr?"
                             ],
                             "guid": "jE~UoH/PXD",
@@ -9258,7 +9258,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Mit welcher Partikel wird das deutsche Akkusativobjektiv bei すきです markiert?",
-                                "Das deutsche Akkusativobjekt wird wie bei できます mit der Partikel が markiert.<br>わたしは本がすきです。"
+                                "Mit der Partikel が.<br>わたしは本がすきです。"
                             ],
                             "guid": "zPNUMhPu${",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -9267,8 +9267,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "わたしは本がすきです。",
-                                "Ich mag Bücher/lch lese gerne Bücher."
+                                "わたしは 本[ほん]がすきです。",
+                                "Ich mag <b>Bücher</b>."
                             ],
                             "guid": "Lwo>b~)3az",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -9338,7 +9338,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Können Wörter hinter der Partikel の weggelassen werden?",
-                                "Die Worter hinter der Partikel の für Zugehörigkeit, Produzent, Herkunft (nicht fur Besitz) werden oft nicht mehr erwähnt, wenn durch den Kontext klar wird, worum es sich handelt."
+                                "Die Wörter für Zugehörigkeit, Produzent, Herkunft (nicht für Besitz) werden oft nicht mehr erwähnt, wenn durch den Kontext klar wird, worum es sich handelt."
                             ],
                             "guid": "Q>nh6=3qeW",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -9418,7 +9418,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: (Ein Portmonee hochaltend) だれのですか。<br>B: わたしのです。<br>C: いいえ、わたしのさいふです。",
-                                "A: Wem gehört dieses Portmonee hier (Hält es hoch)?&nbsp;<br>B: Mir.<br>C: Nein, das ist mein Portmonee."
+                                "A: Wem gehört das hier (Ein Portmonee hochaltend)?&nbsp;<br>B: Meins.<br>C: Nein, das ist mein Portmonee."
                             ],
                             "guid": "s3d$7{:vv0",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -9507,7 +9507,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "一[いち]",
-                                "1",
+                                "<b>1</b>",
                                 "<img src=\"一.png\">"
                             ],
                             "guid": "h,I<>TP4!4",
@@ -9518,7 +9518,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "二[に]",
-                                "2",
+                                "<b>2</b>",
                                 "<img src=\"二.png\">"
                             ],
                             "guid": "NKQWfxI!->",
@@ -9551,7 +9551,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "時[じ]",
-                                "Zeit, Uhr",
+                                "<b>Zeit, Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "P4lO?i5NRQ",
@@ -9562,7 +9562,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "半[はん]",
-                                "halb",
+                                "<b>halb</b>",
                                 "<img src=\"半.png\">"
                             ],
                             "guid": "B3p,.Do&&}",
@@ -9759,8 +9759,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "1時[いちじ]",
-                                "1 Uhr",
+                                "1[いち] 時[じ]",
+                                "1 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "dX2C@@ac4M",
@@ -9770,8 +9770,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "2時[にじ]",
-                                "2 Uhr",
+                                "2[に] 時[じ]",
+                                "2 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "j;!MEXy=OM",
@@ -9781,8 +9781,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "1時半[いちじはん]",
-                                "halb zwei (Uhr)",
+                                "1[いち] 時[じ] 半[はん]",
+                                "<b>halb </b>zwei (<b>Uhr</b>)",
                                 "<img src=\"時半.png\">"
                             ],
                             "guid": "m*+s8d;&Z@",
@@ -9792,8 +9792,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "2時半[にじはん]",
-                                "halb drei (Uhr)",
+                                "2[に] 時[じ] 半[はん]",
+                                "<b>halb </b>drei (<b>Uhr</b>)",
                                 "<img src=\"時半.png\">"
                             ],
                             "guid": "pYM]Fxsb/6",
@@ -9803,8 +9803,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "3時",
-                                "3 Uhr",
+                                "3[さん] 時[じ]",
+                                "3 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "kkk?Qeb4h!",
@@ -9814,8 +9814,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "4時[よじ]",
-                                "4 Uhr",
+                                "4[よ] 時[じ]",
+                                "4 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "Q(!:stAU?d",
@@ -9825,8 +9825,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "5時",
-                                "5 Uhr",
+                                "5[ご] 時[じ]",
+                                "5 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "cv1itV9~Y`",
@@ -9836,8 +9836,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "6時",
-                                "6 Uhr",
+                                "6[ろく] 時[じ]",
+                                "6 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "w$Gb3NG<gC",
@@ -9847,8 +9847,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "7時",
-                                "7 Uhr",
+                                "7[しち] 時[じ]",
+                                "7 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "f!v<XkiL|E",
@@ -9858,8 +9858,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "8時",
-                                "8 Uhr",
+                                "8[はち] 時[じ]",
+                                "8 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "N:a`D/:mdJ",
@@ -9869,8 +9869,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "9時",
-                                "9 Uhr",
+                                "9[く] 時[じ]",
+                                "9 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "p(7{yF~l#l",
@@ -9880,8 +9880,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "10時",
-                                "10 Uhr",
+                                "10[じゅう] 時[じ]",
+                                "10 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "gkv9+|n3-8",
@@ -9891,8 +9891,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "11時",
-                                "11 Uhr",
+                                "11[じゅういち] 時[じ]",
+                                "11 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "y-4?]3+c4R",
@@ -9902,8 +9902,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "12時",
-                                "12 Uhr",
+                                "12[じゅうに] 時[じ]",
+                                "12 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "rxPt/K$:*T",
@@ -9913,8 +9913,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "14時",
-                                "14 Uhr",
+                                "14[じゅうよ] 時[じ]",
+                                "14 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "BkHhDw#$4l",
@@ -9924,8 +9924,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "17時",
-                                "17 Uhr",
+                                "17[じゅうしち] 時[じ]",
+                                "17 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "h-~h_oXD)X",
@@ -9935,8 +9935,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "19時",
-                                "19 Uhr",
+                                "19[じゅうく] 時[じ]",
+                                "19 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "j/&IR@O=+b",
@@ -9946,8 +9946,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "24時",
-                                "24 Uhr",
+                                "24[にじゅうよ] 時[じ]",
+                                "24 <b>Uhr</b>",
                                 "<img src=\"時.png\">"
                             ],
                             "guid": "DOgm$%X|8d",
@@ -9979,8 +9979,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いま何時[なんじ]ですか。<br>B: 11時[じゅういちじ]です。",
-                                "A: <b>Wie spät</b> ist es jetzt, bitte?<br>B: 11 <b>Uhr</b>."
+                                "A: いま 何時[なんじ]ですか。<br>B: 11[じゅういち] 時[じ]です。",
+                                "A: <b>Wie spät</b> ist es jetzt?<br>B: 11 <b>Uhr</b>."
                             ],
                             "guid": "A9n8&V?`]%",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -10029,7 +10029,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "あした二 時[にじ]にきます。",
+                                "あした 二[に] 時[じ]にきます。",
                                 "Ich komme morgen um <b>zwei Uhr</b>."
                             ],
                             "guid": "JjqS)L,Q*T",
@@ -10557,7 +10557,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: 三時[さんじ]から 何[なに]をしますか。<br>B: わたしは 三時[さんじ]から 日本語[にほんご]のじゅぎょうです。",
-                                "A: <b>Was </b>machen Sie heute ab/nach <b>3 Uhr</b>?<br>B: Ich gebe von <b>3 Uhr</b> an <b>Japanisch</b>-Unterricht."
+                                "A: <b>Was </b>machen Sie heute ab/nach <b>3 Uhr</b>?<br>B: Ich habe von <b>3 Uhr</b> an <b>Japanisch</b>-Unterricht."
                             ],
                             "guid": "bn23d4%uuQ",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -10902,7 +10902,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: じゃ、7 時半[じはん]にオデオンにいきましょうか。<br>B: そうしましょう。",
-                                "A: Dann, wollen wir um halb 8 Uhr zum Odeon gehen?<br>B: Lass uns (dann) gehen."
+                                "A: Dann, wollen wir um <b>halb </b>8 <b>Uhr </b>zum Odeon gehen?<br>B: Lass uns (dann) gehen."
                             ],
                             "guid": "j7i.[,A3f[",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -10912,7 +10912,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: じゃ、あした7 時半[じはん]に。<br>B: はい。じゃ、またあした。",
-                                "A: Dann, bis morgen um halb 8 Uhr.<br>B: Ja. Dann, bis morgen."
+                                "A: Dann, bis morgen um <b>halb </b>8 <b>Uhr</b>.<br>B: Ja. Dann, bis morgen."
                             ],
                             "guid": "N_kL/d;>$S",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11084,7 +11084,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "あたらし",
+                                "あたらしい",
                                 "neu",
                                 ""
                             ],
@@ -11117,8 +11117,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was für ein Adjektiv-Typ ist あたらし?",
-                                "あたらし ist ein い-Adjektiv."
+                                "Was für ein Adjektiv-Typ ist あたらしい?",
+                                "あたらしい&nbsp;ist ein い-Adjektiv."
                             ],
                             "guid": "peRk^1{iIU",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -11280,7 +11280,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "何[なん]という 本[ほん]ですか",
-                                "Wie heißt das Buch?",
+                                "<b>Wie </b>heißt das <b>Buch</b>?",
                                 ""
                             ],
                             "guid": "o`0]-cT=3`",
@@ -11291,7 +11291,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "先週の金曜日にえいがをみました。",
-                                "Letzte Woche Freitag habe ich einen Film gesehen."
+                                "<b>Letzte Woche Freitag</b> habe ich einen Film gesehen."
                             ],
                             "guid": "J|pkpU=ukE",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11330,8 +11330,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "何というミュージカルですか。",
-                                "Wie heißt das Musical?"
+                                "何[なん]というミュージカルですか。",
+                                "<b>Wie </b>heißt das Musical?"
                             ],
                             "guid": "BW]:IPkB@E",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11351,7 +11351,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: 先週えいがをみました。<br>B:&nbsp;何というえいがですか。",
-                                "A: Ich habe letzte Woche einen Film gesehen.<br>B: Wie heißt der Film?"
+                                "A: Ich habe l<b>etzte Woche</b> einen Film gesehen.<br>B: <b>Wie </b>heißt der Film?"
                             ],
                             "guid": "C.ajCs#dzC",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11371,7 +11371,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: おととい本をかいました。<br>B:&nbsp;何という本ですか。",
-                                "A: Vorgestern habe ich ein Buch gekauft.<br>B: Wie heißt das Buch?"
+                                "A: Vorgestern habe ich ein <b>Buch </b>gekauft.<br>B: <b>Wie </b>heißt das <b>Buch</b>?"
                             ],
                             "guid": "IMMs!eu82h",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11381,7 +11381,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: 先週の金曜日にDVDをかいました。<br>B: 何というDVDですか。",
-                                "A: Letzte Woche Freitage habe ich eine DVD gekauft.<br>B: Wie heißt die DVD?"
+                                "A: <b>Letzte Woche Freitag</b> habe ich eine <i>DVD </i>gekauft.<br>B: <b>Wie </b>heißt die <i>DVD</i>?"
                             ],
                             "guid": "Ow]oG_6kmw",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11712,7 +11712,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ゆうめいな本",
-                                "(ein) berühmtes Buch"
+                                "(ein) berühmtes <b>Buch</b>"
                             ],
                             "guid": "e)7b]^VHDH",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11761,8 +11761,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Ausnahme gibt bei der Vergangenheitsform von い-Adjektiven?",
-                                "Die Ausnahme bildet die Vergangenheit von いい"
+                                "Für welche い-Adjektive&nbsp;gibt es Ausnahmen bei der Vergangenheitsbildung?",
+                                "Die Ausnahme bildet die Vergangenheit von いい."
                             ],
                             "guid": "iQLOl~f&Wa",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -11812,7 +11812,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本語はむずかしいですが、おもしろいです。",
-                                "Japanisch ist schwierig, aber (es) ist interssant."
+                                "<b>Japanisch </b>ist schwierig, aber (es) ist interssant."
                             ],
                             "guid": "d7k%M$_ymO",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11882,7 +11882,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本語はちょっとむずかしかったですが、はなしはおもしろかったです。",
-                                "Das Japanisch war ein bisschen schwer, aber die Story war interessant."
+                                "Das <b>Japanisch </b>war ein bisschen schwer, aber die Story war interessant."
                             ],
                             "guid": "l}:?nK8`OU",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11891,8 +11891,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "何がむずかしかったですか",
-                                "Was war schwierig?"
+                                "何[なに]がむずかしかったですか",
+                                "<b>Was </b>war schwierig?"
                             ],
                             "guid": "sfXqK#m51O",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11911,7 +11911,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Vergangenheitsform von&nbsp;大き<b>い</b>です?",
+                                "Was ist die Vergangenheitsform von&nbsp;大きいです?",
                                 "大きかったです"
                             ],
                             "guid": "f@&c$k#9[*",
@@ -11921,7 +11921,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Vergangenheitsform von おもしろ<b>い</b>です?",
+                                "Was ist die Vergangenheitsform von おもしろいです?",
                                 "おもしろかったです"
                             ],
                             "guid": "m4*FoS+.mW",
@@ -11931,7 +11931,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Vergangenheitsform von 小さ<b>い</b>です?",
+                                "Was ist die Vergangenheitsform von 小さいです?",
                                 "&nbsp;小さかったです"
                             ],
                             "guid": "A^V#J`&w@x",
@@ -11941,7 +11941,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Vergangenheitsform von むずかし<b>い</b>です?",
+                                "Was ist die Vergangenheitsform von むずかしいです?",
                                 "むずかしかったです"
                             ],
                             "guid": "L1Uaq2tP!9",
@@ -11951,7 +11951,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Vergangenheitsform von ふる<b>い</b>です?",
+                                "Was ist die Vergangenheitsform von ふるいです?",
                                 "ふるかったです"
                             ],
                             "guid": "zA}Q|0/g(m",
@@ -11961,7 +11961,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Vergangenheitsform von あたらし<b>い</b>です?",
+                                "Was ist die Vergangenheitsform von あたらしいです?",
                                 "あたらしかったです"
                             ],
                             "guid": "F(M+0,u]Dh",
@@ -11971,7 +11971,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Vergangenheitsform von たのし<b>い</b>です?",
+                                "Was ist die Vergangenheitsform von たのしいです?",
                                 "たのしかったです"
                             ],
                             "guid": "z=|S)&!$=>",
@@ -12012,7 +12012,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: 日本語のじゅぎょうはどうでしたか。<br>B:&nbsp;むずかしかったです.",
-                                "A: Wie war der Japanischunterricht?<br>B: Er war schwierig."
+                                "A: Wie war der <b>Japanisch</b>unterricht?<br>B: Er war schwierig."
                             ],
                             "guid": "yr5N/H*JT4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12115,7 +12115,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "あの本",
-                                "jenes <b>Buch </b>(dort)"
+                                "Jenes <b>Buch </b>(dort)"
                             ],
                             "guid": "HSpwR<CjAk",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12125,7 +12125,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "どの本",
-                                "welches <b>Buch</b>"
+                                "Welches <b>Buch</b>"
                             ],
                             "guid": "bm!BmqGYHY",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12255,7 +12255,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: あの本はどうでしたか。<br>B: あまりおもしろくなかったです。",
-                                "A: Wie war dieses buch?<br>B: Es war nicht sehr interessant."
+                                "A: Wie war dieses <b>Buch</b>?<br>B: Es war nicht sehr interessant."
                             ],
                             "guid": "z!{*P!<oKX",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12275,7 +12275,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: あの日本のアニメはどうでしたか。<br>B: あまりたのしくなかったです。",
-                                "A: Wie war der Japanische Anime?<br>B: Er war nicht so lustig."
+                                "A: Wie war der <b>japanische </b>Anime?<br>B: Er war nicht so lustig."
                             ],
                             "guid": "n#+g.pOI1q",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12384,7 +12384,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本のしよくじ",
-                                "<b>japanisches </b>Essen"
+                                "<b>Japanisches </b>Essen"
                             ],
                             "guid": "nw*lqBKMkm",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12655,7 +12655,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "英語はわかります。ても日本語はよくわかりません。それでさのさんと英語ではなしました。",
+                                "英語はわかります。でも日本語はよくわかりません。それでさのさんと英語ではなしました。",
                                 "<b>Englisch </b>verstehe ich. Aber <b>Japanisch </b>verstehe ich nicht so gut. Deshalb habe ich mich mit Frau Sano auf <b>Englisch </b>unterhalten."
                             ],
                             "guid": "C.@LpmlL>0",
@@ -12716,7 +12716,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本から来週ともだちが来ます。それでいっしょにりよこうします。",
-                                "Meine Freunde <b>kommen nächste Woche</b> aus <b>Japan</b>. Deshlab machen wir zusammen eine Reise."
+                                "Meine Freunde <b>kommen nächste Woche</b> aus <b>Japan</b>. Deshalb machen wir zusammen eine Reise."
                             ],
                             "guid": "pAsvJ~^.Rm",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12736,7 +12736,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "日本語はたいへんでしたが、はなしはわかりました。",
-                                "Das Japanisch war kompliziert, aber ich konnte die Geschichte verstehen."
+                                "Das <b>Japanisch </b>war kompliziert, aber ich habe die Geschichte verstanden."
                             ],
                             "guid": "hcoX<T>@|d",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12831,7 +12831,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "きょうは5月11日です。",
+                                "きょうは 5[ご] 月[がつ] 11[じゅういち] 日[にち]です。",
                                 "Heute ist der 11. Mai."
                             ],
                             "guid": "GEL3iz_)_(",
@@ -13095,7 +13095,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "3日[みっか]",
-                                "3 Tage",
+                                "3 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "t|2DkymGr6",
@@ -13117,7 +13117,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "5日[いつか]",
-                                "5 Tage",
+                                "5 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "L[UKImCTUu",
@@ -13128,7 +13128,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "6日[むいか]",
-                                "6 Tage",
+                                "6 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "k]1@+2%v68",
@@ -13150,7 +13150,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "8日[ようか]",
-                                "8 Tage",
+                                "8 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "G;xS:v`8VE",
@@ -13172,7 +13172,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "10日[とうか]",
-                                "10 Tage",
+                                "10 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "kN`1lcNqCh",
@@ -13205,7 +13205,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "13日[じゅうさんにち]",
-                                "13 Tage",
+                                "13 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "GN0JyMcq$&",
@@ -13216,7 +13216,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "14日[じゅうよっか]",
-                                "14 Tage",
+                                "14 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "wy{+f5^Wn.",
@@ -13249,7 +13249,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "17日[じゅうしちにち]",
-                                "17 Tage",
+                                "17 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "Ia&^@Q=hP[",
@@ -13260,7 +13260,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "18日[じゅうはちにち]",
-                                "18 Tage",
+                                "18 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "7)>0o02/.",
@@ -13271,7 +13271,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "19日[じゅうくにち]",
-                                "19 Tage",
+                                "19 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "F5,~C2;mJm",
@@ -13282,7 +13282,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "20日[はつか]",
-                                "20 Tage",
+                                "20 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "ke*{YN1~@l",
@@ -13293,7 +13293,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "21日[にじゅういちにち]",
-                                "21 Tage",
+                                "21 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "P}[l8v:A*N",
@@ -13304,7 +13304,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "22日[にじゅうににち]",
-                                "22 Tage",
+                                "22 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "uf%9B)}g>o",
@@ -13315,7 +13315,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "23日[にじゅうさんにち]",
-                                "23 Tage",
+                                "23 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "x4^2ho*=m~",
@@ -13326,7 +13326,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "24日[にじゅうよっか]",
-                                "24 Tage",
+                                "24 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "o=vFOfD@dv",
@@ -13337,7 +13337,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "25日[にじゅうごにち]",
-                                "25 Tage",
+                                "25 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "jp;XNX@`J)",
@@ -13348,7 +13348,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "26日[にじゅうろくにち]",
-                                "26 Tage",
+                                "26 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "IE/gGFBy,>",
@@ -13359,7 +13359,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "27日[にじゅうしちにち]",
-                                "27 Tage",
+                                "27 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "peA*bpO.fU",
@@ -13370,7 +13370,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "28日[にじゅうはちにち]",
-                                "28 Tage",
+                                "28 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "d-<n6Vk8E`",
@@ -13381,7 +13381,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "29日[にじゅうくにち]",
-                                "29 Tage",
+                                "29 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "`1f:;~t.4",
@@ -13392,7 +13392,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "30日[さんじゅうにち]",
-                                "30 Tage",
+                                "30 <b>Tage</b>",
                                 "<img src=\"日.png\">"
                             ],
                             "guid": "wP0^}TZSC9",
@@ -13841,7 +13841,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A:なつ 休[やす]みは 何[なん] 月[がつ] 何[なん] 日[にち]からですか。<br>B: 10月[じゅがつ] 15日[じゅうごにち]からです。",
-                                "A: Ab welchem <b>Datum </b>ist ihr Sommer<b>urlaub</b>? / Wann beginnen die Sommer<b>ferien</b>?<br>B: Ab dem <b>15.</b> <b>Oktober</b>."
+                                "A: Ab <b>welchem</b> <b>Datum </b>ist ihr Sommer<b>urlaub</b>? / Wann beginnen die Sommer<b>ferien</b>?<br>B: Ab dem <b>15.</b> <b>Oktober</b>."
                             ],
                             "guid": "n@{]cK!BX[",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -13891,7 +13891,6 @@
                     "media_files": [
                         "何曜日.png",
                         "土曜日.png",
-                        "日曜日.png",
                         "月曜日.png",
                         "木.png",
                         "木曜日.png",
@@ -13946,17 +13945,6 @@
                                 "<img src=\"週.png\">"
                             ],
                             "guid": "n};T4:TFxf",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "日曜日[にちようび]",
-                                "<b>Sonntag</b>",
-                                "<img src=\"日曜日.png\">"
-                            ],
-                            "guid": "s_mqiJ2I.6",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -14300,7 +14288,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: どこで日本語をべんきょうしましたか。<br>B:&nbsp;しみん大学です。",
-                                "A:&nbsp;Wo haben Sie Japanisch gelernt?<br>B: In der Volkshochschule."
+                                "A:&nbsp;Wo haben Sie <b>Japanisch </b>gelernt?<br>B: In der Volks<b>hochschule</b>."
                             ],
                             "guid": "Rhe}2M4gVO",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14460,7 +14448,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ええ、げんきです。…ベアマンさん、じつは、わたし、来月日本にかえります。",
-                                "Ja, mir geht es gut. Herr Behrmann, eigentlich kehre ich nächsten Monat nach Japan zurück."
+                                "Ja, mir geht es gut. Herr Behrmann, eigentlich kehre ich <b>nächsten Monat</b> nach <b>Japan </b>zurück."
                             ],
                             "guid": "L@F:M4z~iW",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",

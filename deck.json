@@ -2418,7 +2418,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ドイツ 語[ご]",
-                                "Deutsch",
+                                "<b>Deutsch</b>",
                                 "<img src=\"語.png\">"
                             ],
                             "guid": "e=5rB&yo)[",
@@ -11351,7 +11351,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: 先週[せんしゅう]えいがをみました。<br>B: 何[なん]というえいがですか。",
-                                "A: Ich habe l<b>etzte Woche</b> einen Film gesehen.<br>B: <b>Wie </b>heißt der Film?"
+                                "A: Ich habe <b>letzte Woche</b> einen Film gesehen.<br>B: <b>Wie </b>heißt der Film?"
                             ],
                             "guid": "C.ajCs#dzC",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11391,7 +11391,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A:ドイツレストランにいきませんか。<br>B: 何[なん]というレストランですか。",
-                                "A: Wollen wir in das deutsche Restaurant gehen?<br>B: <b>Wie </b>heißt das Restaurant?"
+                                "A: Wollen wir nicht in das deutsche Restaurant gehen?<br>B: <b>Wie </b>heißt das Restaurant?"
                             ],
                             "guid": "fV-CY;N4/-",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11438,7 +11438,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "山[やま]",
-                                "(als vollständiges Wort): Berg",
+                                "(als vollständiges Wort): <b>Berg</b>",
                                 "<img src=\"山.png\">"
                             ],
                             "guid": "G/6.6Uc)Lz",
@@ -11661,8 +11661,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "げんきな人",
-                                "(ein) gesunder/energischer Mensch"
+                                "げんきな 人[ひと]",
+                                "(ein) gesunder/energischer <b>Mensch</b>"
                             ],
                             "guid": "L:GKYh9T{5",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11721,8 +11721,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "きれいな山",
-                                "(ein) schöner Berg"
+                                "きれいな 山[やま]",
+                                "(ein) schöner <b>Berg</b>"
                             ],
                             "guid": "j3YD:`fOk0",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11771,7 +11771,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie werden zwei Sätze mit verschidenen, gleichwertigen Subjekten gegenübergestellt?",
+                                "Wie werden zwei Sätze mit verschiedenen, gleichwertigen Subjekten gegenübergestellt?",
                                 "Um zwei Sätze mit verschiedenen, gleichwertigen Subjekten gegenüber zu stellen, verwendet man für die beiden Subjekte die Partikel は: 日本語は～、はなしは～："
                             ],
                             "guid": "h]-bKJd|51",
@@ -11852,7 +11852,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "いつもげんきなかたですね。",
-                                "Ihr geht es immer gut."
+                                "Ihr geht es immer gut. (Sie ist immer ein gesunder Mensch)"
                             ],
                             "guid": "Jfi<xb8^N}",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11862,7 +11862,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: ゆうめいなカンヌにいきました。<br>B: どうでしたか。<br>A: とてもにぎやかなまちでした。",
-                                "A: Ich habe die berühmte (Stadt) Cannes besucht<br>B: Wie war's?<br>A: Sie war sehr gut besucht."
+                                "A: Ich habe die berühmte (Stadt) Cannes besucht<br>B: Wie war's?<br>A: Es war eine sehr lebhafte Stadt."
                             ],
                             "guid": "iQMO4nH_?U",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12022,7 +12022,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: ベルリンはあまりしずかじゃないですね。<br>B:&nbsp;そうですか。まえはとてもしずかでした。",
-                                "A: Berlin ist nicht ruhig, nicht wahr?<br>B: Ist das so? Früher war es sehr ruhig."
+                                "A: Berlin ist nicht sehr ruhig, nicht wahr?<br>B: Ist das so? Früher war es sehr ruhig."
                             ],
                             "guid": "Ip$2HivAE?",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12234,7 +12234,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was ist die Verneinungsform in der Vergangenheit von もずかしいです?",
+                                "Was ist die Verneinungsform in der Vergangenheit von むずかしいです?",
                                 "むずかしくなかったです"
                             ],
                             "guid": "v.3VqavG!E",
@@ -12800,7 +12800,7 @@
             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
             "desc": "",
             "dyn": 0,
-            "extendNew": 0,
+            "extendNew": 20,
             "extendRev": 0,
             "media_files": [],
             "mid": 1642764953999,
@@ -13736,7 +13736,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "カーネーショーン",
+                                "カーネーション",
                                 "Nelke (Blume)",
                                 ""
                             ],
@@ -13780,7 +13780,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "8 時[じ]にかいしゃにいきます。",
-                                "Um 8 Uhr fahre ich zur Firma."
+                                "Um 8 <b>Uhr </b>fahre ich zur Firma."
                             ],
                             "guid": "m*a&AZRBsq",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14067,8 +14067,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "いしいさんは日曜日は何をしますか。",
-                                "Was macht Frau Ishii am Sonntag?"
+                                "いしいさんは 日曜日[にちようび]は 何[なに]をしますか。",
+                                "<b>Was </b>macht Frau Ishii am <b>Sonntag</b>?"
                             ],
                             "guid": "J~U4sSivJD",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14366,7 +14366,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: いつもどこでおすしをたべますか。<br>B: レストラン 東京[とうきょう]でたべます。",
-                                "A: Wo essen Sie immer Sushi?<br>B: Im Restaurant <b>Tokio</b>."
+                                "A: Wo essen Sie immer Sushi?<br>B: Im Restaurant <b>Tokio </b>esse ich."
                             ],
                             "guid": "G|@%rqXM0[",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14486,7 +14486,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "レストラン 東京[とうきょう]で、おすしをたべませんか。",
-                                "Wollen wir im Restaurant <b>Tokio </b>Sushi essen?"
+                                "Wollen wir nicht im Restaurant <b>Tokio </b>Sushi essen?"
                             ],
                             "guid": "t~U4I^%,ZX",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14747,7 +14747,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 90
+                "perDay": 20
             },
             "newGatherPriority": 0,
             "newMix": 0,

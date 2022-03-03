@@ -12536,6 +12536,7 @@
                     "media_files": [
                         "韓国.png"
                     ],
+                    "mid": 1642765939199,
                     "name": "E",
                     "notes": [
                         {
@@ -12625,7 +12626,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ははは日本人です。それでよく日本にいきます。",
+                                "ははは 日本人[にほんじん]です。それでよく 日本[にほん]にいきます。",
                                 "Meine Mutter ist <b>Japanerin</b>. Deshalb reist/fliegt sie oft nach <b>Japan</b>."
                             ],
                             "guid": "jDx11%7<po",
@@ -12635,7 +12636,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ともだちは韓国人です。それでよく韓国に来ます。",
+                                "ともだちは 韓国[かんこく] 人[じん]です。それでよく 韓国[かんこく]に 来[き]ます。",
                                 "Mein Freund ist <b>Koreaner</b>. Daher <b>kommt </b>er&nbsp;oft nach <b>Korea</b>."
                             ],
                             "guid": "FfQvn:&!84",
@@ -12746,7 +12747,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "とてもおもしろかったです。でも、とてもふるいえいがでした。それで、いろはあまりきれいじゃなかったです。",
-                                "Er (der Film) war sehr interessant. Aber er war sehr alt. Deshalb waren die Farben auch nicht mehr schön."
+                                "Er (der Film) war sehr interessant. Es war ein sehr alter Film. Deshalb waren die Farben auch nicht mehr schön."
                             ],
                             "guid": "tmblii+N]z",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12791,6 +12792,16 @@
                             ],
                             "guid": "QGqPXL:}m?",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Bei welchen Wörtern wird das Objekt mit der Partikel が markiert?",
+                                "Bei わかる&nbsp;(wie auch bei できる oder すき)&nbsp;wird das Objekt mit が markiert. Im Deutschen hingegen handelt es sich hier um ein Akkusativobjekt.&nbsp;<br>英語がよくわかります&nbsp;bedeutet also&nbsp;<i>Ich verstehe Englisch gut</i>."
+                            ],
+                            "guid": "K_8/T@tnGb",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         }
                     ]

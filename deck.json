@@ -3001,7 +3001,102 @@
             "children": [
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "b7e60e69-9be0-11ec-adf4-3c58c2d0fe16",
+                            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Sätze",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: スポーツをしますか。<br>B: はい、します。",
+                                        "A: Treiben Sie Sport?<br>B: Ja, (ich) treibe (Sport)."
+                                    ],
+                                    "guid": "O@ekDxCui5",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: ばばさんはからてをしますか。<br>B: いいえ、しません。",
+                                        "A: Machen Sie Karate, Herr Baba?<br>B: Nein, (ich) mache nicht (Karate)."
+                                    ],
+                                    "guid": "pGJ(|4V%q-",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: せんせい、すみません。<i>Bergsteigen</i>は 日本語[にほんご]では…。<br>B: とざんです。",
+                                        "A: Herr Lehrer, entschuldigen Sie. Was heißt \"Bergsteigen\" auf <b>Japanisch</b>?<br>B: \"とざん\"."
+                                    ],
+                                    "guid": "A6YvY~!k}Y",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: <i>Kaiser</i>さんはとざんをしますか。<br>B: はい、します。",
+                                        "A: Herr Kaiser, machen Sie Bergsteigen?<br>B: Ja, tue ich."
+                                    ],
+                                    "guid": "Mmp/A3ROXE",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: <i>B</i>さんはすいえいをしますか。<br>B: いいえ、しません。",
+                                        "A: Herr B, machen Sie Schwimmen?<br>B: Nein, mache ich nicht."
+                                    ],
+                                    "guid": "xcnL``A(A:",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: 何[なに]をしますか。<br>B: からてととざんをします。<br>A: そうですか。",
+                                        "A: <b>Was</b> (welche Sportart) machen Sie?<br>B: Ich mache Karate und Bergsteigen.<br>A: Ich verstehe."
+                                    ],
+                                    "guid": "w2^})kTwL)",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "じゅうどうをします。",
+                                        "(Ich) mache Judo."
+                                    ],
+                                    "guid": "m2ZIm$m_xl",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "何[なに]をしますか。",
+                                        "<b>Was </b>treiben/machen Sie?"
+                                    ],
+                                    "guid": "EJXp@uyu(a",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "c5761bf3-838e-11ec-b765-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
@@ -3015,6 +3110,7 @@
                         "wo.gif",
                         "何.png"
                     ],
+                    "mid": 1642764953999,
                     "name": "A",
                     "notes": [
                         {
@@ -3278,7 +3374,102 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "b7e6d1d6-9be0-11ec-a450-3c58c2d0fe16",
+                            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Sätze",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: とざんをしますか。<br>B:いいえ、とざんはしません。でも、からてとすいえいをします。",
+                                        "A: Gehen Sie bergsteigen?<br>B: Nein, bergsteigen gehe ich nicht. Aber ich mache Karate und gehe schwimmen."
+                                    ],
+                                    "guid": "s)7<H]+vN=",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: スポーツをしますか。<br>B: いいえ、しません。でも、よくみます。",
+                                        "A: Treiben Sie Sport?<br>B: Nein, Sport treibe ich nicht, aber ich schaue oft zu."
+                                    ],
+                                    "guid": "Q}z]XBfeX=",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A:すいえいをしますか。<br>B: ええ、すいえいはときどきします。",
+                                        "A: Gehen Sie schwimmen?<br>B: Ja, schwimmen gehe ich ab und zu."
+                                    ],
+                                    "guid": "B[>vTp@Uj~",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: からてはしますか。<br>B: からてはしません。",
+                                        "A: Machen Sie Karate?<br>B: Karate mache ich nicht."
+                                    ],
+                                    "guid": "b5bQ]OPj=C",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: Bさんは サッカーをしますか。<br>B: いいえ、サッカーはしません。でもときどきみます。",
+                                        "A: Herr B, spielen Sie Fußball?<br>B: Nein, ich spiele kein Fußball. Aber ich schaue es mir manchmal an."
+                                    ],
+                                    "guid": "g)D[_~1jLH",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "<i>A</i>さんはサッカーとスキーをします。すいえいはしません。",
+                                        "Herr <i>A</i> spielt Fußball und fährt Ski. Schwimmen macht er nicht."
+                                    ],
+                                    "guid": "J=&T5!bjt3",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "いしいさんはからてをします。でもわたしはしません。",
+                                        "Herr Ishi macht Karate, aber ich (mache es) nich"
+                                    ],
+                                    "guid": "Ci/|R1uzzF",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "いしいさんはからてをよくします。",
+                                        "Herr Ishii macht oft Karate."
+                                    ],
+                                    "guid": "mJHIa*K]K@",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "c5772d69-838e-11ec-a481-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
@@ -3512,7 +3703,112 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "b7e7e340-9be0-11ec-ac30-3c58c2d0fe16",
+                            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "Sätze",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: ドイツ 人[じん]はよくやきゅうをしますか。<br>B: いいえ、あまりしません。",
+                                        "A: Spielen die <b>Deutschen </b>oft BasebaII?<br>B: Nein, (Baseball) spielen sie nicht so oft."
+                                    ],
+                                    "guid": "Oi{;_z)J>F",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: スイスの 子[こ]どもはよくスポーツをしますか。<br>B: いいえ、あまりしません。",
+                                        "A: Machen die <b>Kinder </b>in der Schweiz oft Sport?<br>B: Nein, nicht so oft."
+                                    ],
+                                    "guid": "oT)dUb%5]/",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: リサさん、リサさんはスポーツは 何[なに]をしますか。<br>B: わたしはスポーツはにがてです。",
+                                        "A: Lisa, <b>welchen </b>Sport treiben Sie?<br>B: Ich mache nicht gerne Sport."
+                                    ],
+                                    "guid": "dUQuUH<3qC",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: 日本[にほん]の 子[こ]どもはよくけんどうをしますか。<br>B: ええ、よくします。",
+                                        "A: Machen <b>japanische Kinder </b>oft Kendo?<br>B: Ja, machen sie oft."
+                                    ],
+                                    "guid": "y:LHy$h3lR",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: ドイツ学生はよくりょうりをしますか。<br>B: いいえ、あまりしません。",
+                                        "A: Kochen deutsche <b>Studenten</b> oft?<br>B: Nein, machen sie nicht so oft."
+                                    ],
+                                    "guid": "v$-R3.sz}#",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A:&nbsp;<i>B</i>さんはスポーツは 何[なに]をしますか。<br>B: わたしはスポーツはにがてです。",
+                                        "A: Herr B, <b>welchen </b>Sport machen Sie?<br>B: Ich bin nicht gut in Sport. (Sport ist mein Schwachpunkt)"
+                                    ],
+                                    "guid": "bKeR/rr!p[",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: いしいさんはスポーツをしますか。<br>B: はい、します。",
+                                        "A: Herr Ishii, machen Sie Sport?<br>B: Ja, mache ich"
+                                    ],
+                                    "guid": "ANomv}3d6=",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: 何[なに]をしますか。<br>B:すいえいをよくします。",
+                                        "A: <b>Was </b>(für Sport) machen Sie?<br>B: Ich gehe oft Schwimmen."
+                                    ],
+                                    "guid": "I$c;E[YE@X",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "わたしはすいえいはしません。からてととざんをします。",
+                                        "Ich gehe nicht Schwimmen. Ich mache Karate und Bergsteigen."
+                                    ],
+                                    "guid": "lVM=HW~)%z",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "c5783edc-838e-11ec-8395-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
@@ -14827,54 +15123,6 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "4e6c0c7e-88ed-11ec-b25b-704d7b2ee0df",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
             "crowdanki_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
             "dyn": false,
             "interdayLearningMix": 0,
@@ -14902,6 +15150,54 @@
                     0
                 ],
                 "order": 0,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "4e6c0c7e-88ed-11ec-b25b-704d7b2ee0df",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
                 "perDay": 20
             },
             "newGatherPriority": 0,

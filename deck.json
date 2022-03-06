@@ -765,7 +765,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "スイス人[じん]",
-                                "Schweizer/-in",
+                                "Schweiz<b>er/-in</b>",
                                 "<img src=\"人.png\">"
                             ],
                             "guid": "r-Y#Wv%v^A",
@@ -2836,7 +2836,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "学生[がくせい]さんですか。",
-                                "Sind Sie Student?"
+                                "Sind Sie <b>Student</b>?"
                             ],
                             "guid": "xMtXxfCJ2$",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2856,7 +2856,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: おしごとは…。<br>B: まだおん 大[だい]の 学生[がくせい]です。",
-                                "A: Was ist lhre Arbeit?<br>B: Ich bin noch Student an einer Musikhochschule."
+                                "A: Was ist lhre Arbeit?<br>B: Ich bin noch <b>Student </b>an einer Musik<b>hochschule</b>."
                             ],
                             "guid": "gQ6f(v.D0I",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2946,7 +2946,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "いいえ。まえはおん 大[だい]の 学生[がくせい]でした。でもいまはJALのStewardessです。",
-                                "Nein, früher war ich Student an einer Musikhochschule. Aber jetzt bin ich Stewardess bei JAL."
+                                "Nein, früher war ich <b>Student </b>an einer Musik<b>hochschule</b>. Aber jetzt bin ich Stewardess bei JAL."
                             ],
                             "guid": "MCt:CfnxL&",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -6667,8 +6667,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "こんどの土曜日",
-                                "kommender Samstag",
+                                "こんどの 土曜日[どようび]",
+                                "kommender <b>Samstag</b>",
                                 "<img src=\"土曜日.png\">"
                             ],
                             "guid": "r0{lnc$)z{",
@@ -8551,8 +8551,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "いしい: ベアマンさんはいいかたですね。<br>Keller: そうですね。いい 人[ひと]ですね。",
-                                "Ishii: Herr Behrmann ist eine netter Mensch, nicht wahr?<br>Keller: Das stimm. Er ist ein netter <b>Mensch</b>."
+                                "A: ベアマンさんはいいかたですね。<br>B: そうですね。いい 人[ひと]ですね。",
+                                "A: Herr Behrmann ist eine netter Mensch, nicht wahr?<br>B: Das stimmt. Er ist ein netter <b>Mensch</b>."
                             ],
                             "guid": "haJwwTnFXg",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12366,8 +12366,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ミュージカルにみませんか。",
-                                "Wollen wir nicht ein Musical anschauen?"
+                                "ミュージカルにいきませんか。",
+                                "Wollen wir nicht zu einem Musical gehen?"
                             ],
                             "guid": "HN!ggks`:G",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -13429,7 +13429,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "日本のしよくじ",
+                                "日本[にっぽん]のしょくじ",
                                 "<b>Japanisches </b>Essen"
                             ],
                             "guid": "nw*lqBKMkm",
@@ -13762,7 +13762,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "日本から来週ともだちが来ます。それでいっしょにりよこうします。",
+                                "日本[にっぽん]から 来週[らいしゅう]ともだちが 来[き]ます。それでいっしょにりょこうします。",
                                 "Meine Freunde <b>kommen nächste Woche</b> aus <b>Japan</b>. Deshalb machen wir zusammen eine Reise."
                             ],
                             "guid": "pAsvJ~^.Rm",
@@ -13793,7 +13793,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "とてもおもしろかったです。でも、とてもふるいえいがでした。それで、いろはあまりきれいじゃなかったです。",
-                                "Er (der Film) war sehr interessant. Es war ein sehr alter Film. Deshalb waren die Farben auch nicht mehr schön."
+                                "Er (der Film) war sehr interessant. Aber es war ein sehr alter Film. Deshalb waren die Farben auch nicht mehr schön."
                             ],
                             "guid": "tmblii+N]z",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",

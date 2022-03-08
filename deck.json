@@ -1521,7 +1521,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "さかな屋",
-                                "Fisch<b>geschäft</b>, lnhaber(-in) eines Fisch<b>geschäftes</b>;",
+                                "Fisch<b>geschäft</b>, lnhaber(-in) eines Fisch<b>geschäftes</b>",
                                 "<img src=\"屋.PNG\">"
                             ],
                             "guid": "PEaK?P](8_",
@@ -1629,7 +1629,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was stellt ein Satz ohne Verb, der auf die Partikel は endet dar?",
-                                "Ein Satz ohne Verb, der auf die Themapartikel は endet,stellt eine verkürzte Frage dar. Was dabei tatsachlich gefragt wird, lässt sich aus dem Zusammenhang schließen. Anders als bei einem normalen Fragesatz wird hier am Satzende die Stimme nicht gehoben, damit es nicht zu direkt oder zu unhölflich klingt."
+                                "Er stellt eine verkürzte Frage dar.<br>Was dabei tatsachlich gefragt wird, lässt sich aus dem Zusammenhang schließen.<br>Anders als bei einem normalen Fragesatz wird hier am Satzende die Stimme nicht gehoben, damit es nicht zu direkt oder zu unhölflich klingt."
                             ],
                             "guid": "s52rzXCQ23",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -1639,7 +1639,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was muss ergänzt werden, um umgangssprachlich von einem Ladenbesitzer zu sprechen?",
-                                "Wenn man von den Besitzern spricht, hängt man in der Umgangssprache oft さん an, zum Beispiel （お）さかな屋さん"
+                                "Man hängt oft さん an, zum Beispiel（お）さかな屋さん."
                             ],
                             "guid": "OT%fPxC!WU",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -1678,7 +1678,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: はじめまして。いしいです。<br>B: たなかさんは、おいしゃさんです",
+                                "A: はじめまして。いしいです。<br>B: たなかさんは、おいしゃさんです。",
                                 "A: Sehr erfreut! Ich heiße Ishii.<br>B:&nbsp;Frau Tanaka ist Ärztin."
                             ],
                             "guid": "pr8A*viUx~",
@@ -1760,7 +1760,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "じゃ",
-                                "nun, bis dann, also dann (beim Abschied) (informell)",
+                                "nun, bis dann, also dann (beim Abschied, informell)",
                                 ""
                             ],
                             "guid": "I)Minp}$O9",
@@ -1815,7 +1815,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "さようなら",
-                                "Auf Wiedersehen!",
+                                "Auf Wiedersehen! (Für eine lange Zeit)",
                                 ""
                             ],
                             "guid": "eJd&S5mpOD",
@@ -2113,7 +2113,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Wozu verwendet man mit manchen kurzen japanischen Nomen das Präfix お?",
-                                "In Verbindung mit manchen kurzen japanischen Nomen wie はし, すし usw. verwendet man häufig das Präfix お. Durch diese Ausdrucksweise erhält der gesamte Satz einen höflichen Ton."
+                                "Bei Nomen wie はし, すし usw. verwendet man häufig das Präfix お. Durch diese Ausdrucksweise erhält der gesamte Satz einen höflichen Ton."
                             ],
                             "guid": "AHmI5p|ln%",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -8856,7 +8856,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "大[おお]きい",
-                                "groß",
+                                "<b>groß</b>",
                                 "<img src=\"大.png\">"
                             ],
                             "guid": "F294xXlIym",
@@ -9577,7 +9577,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "おとう さんは おげんきですか。",
+                                "おとうさんはおげんきですか。",
                                 "Wie geht es Ihrem Vater?"
                             ],
                             "guid": "q+@:,BdoR`",
@@ -9667,7 +9667,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "じゃ、わたしが おたくに いきましようか。",
+                                "じゃ、わたしが おたくにいきましょうか。",
                                 "Soll ich dann zu deinem Haus gehen?"
                             ],
                             "guid": "w-TPp0pdMJ",
@@ -9707,7 +9707,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "ははは きません。",
+                                "はははきません。",
                                 "Meine Mutter kommt nicht."
                             ],
                             "guid": "Pl@8r::is4",
@@ -9747,8 +9747,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "それは&nbsp; いいですね。みましよう。",
-                                ""
+                                "それはいいですね。みましょう。",
+                                "Das ist gut. Lass uns (das) schauen."
                             ],
                             "guid": "of?[Y[.I+=",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -9856,7 +9856,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "どうも",
+                                "どうも (mit einem zögernden Ton)",
                                 "(mit einem zögernden Ton) hier etwa: Das tut mir sehr leid.",
                                 ""
                             ],
@@ -10576,7 +10576,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "三[さん]",
-                                "3",
+                                "<b>3</b>",
                                 "<img src=\"三.png\">"
                             ],
                             "guid": "inkW*D,.`X",
@@ -10587,7 +10587,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "四[よん]",
-                                "4",
+                                "<b>4</b>",
                                 "<img src=\"四.png\">"
                             ],
                             "guid": "i=0Ew[)]dv",
@@ -12458,7 +12458,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ドイツレストランはあまりよくないですよ。フランスレストランにいきませんか。",
-                                "Das deutsche Restaurant passt mir nicht so gut. Wollen wir nicht in ein französisches Restaurant gehen?"
+                                "Das deutsche Restaurant ist nicht so gut. Wollen wir nicht in ein französisches Restaurant gehen?"
                             ],
                             "guid": "OM0HEfsI}{",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12909,7 +12909,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: ゆうめいなカンヌにいきました。<br>B: どうでしたか。<br>A: とてもにぎやかなまちでした。",
-                                "A: Ich habe die berühmte (Stadt) Cannes besucht<br>B: Wie war's?<br>A: Es war eine sehr lebhafte Stadt."
+                                "A: Ich habe das berühmte Cannes besucht<br>B: Wie war's?<br>A: Es war eine sehr lebhafte Stadt."
                             ],
                             "guid": "iQMO4nH_?U",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -13151,8 +13151,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Wie kann man einen (entfernten) Gegenstand/Geschehnisse bezichnen?",
-                                "Um einen (entfernten) Gegenstand zu bezeichnen, kann man das Wort あの dem Substantiv voransetzen. Dies gilt auch für Gegenstände oder Geschehnisse, die nur gedanklich vom Sprecher entfernt sind - zum Beispiel, weil er sich aus der Vergangenheit an sie erinnert."
+                                "Wie kann man einen (entfernten) Gegenstand/Geschehnisse bezeichnen?",
+                                "Man kann das Wort あの dem Substantiv voransetzen.<br>Dies gilt auch für Gegenstände oder Geschehnisse, die nur gedanklich vom Sprecher entfernt sind - zum Beispiel, weil er sich aus der Vergangenheit an sie erinnert."
                             ],
                             "guid": "En@y%YkNxV",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -13222,7 +13222,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "あまりむずかしくなかったです。",
-                                "Es (das Buch) war nicht so schwer."
+                                "Es war nicht so schwer."
                             ],
                             "guid": "CE)-AWfuY,",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -13563,7 +13563,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: ホテルはどうでしたか。<br>B: しずかでしたが、あまりきれいじゃなかったです。",
-                                "A: Wie war das Hotel?<br>B: Es war ruhig, aber nicht sehr sauber/schön."
+                                "A: Wie war das Hotel?<br>B: Es war ruhig, aber nicht sehr schön."
                             ],
                             "guid": "EDvwR=3G&e",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",

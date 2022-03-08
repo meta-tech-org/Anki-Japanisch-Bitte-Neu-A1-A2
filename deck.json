@@ -6166,7 +6166,7 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "A: あしたしよくじをしませんか。<br>B: すみません。あしたはちょっと…",
+                                        "A: あしたしょくじをしませんか。<br>B: すみません。あしたはちょっと…",
                                         "A: Wollen wir morgen nicht essen (gehen)?<br>B: Es tut mir leid. Morgen passt es mir nicht."
                                     ],
                                     "guid": "te2Ld2Lk/@",
@@ -6993,7 +6993,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "いいてすね。ぜひいきましょう。どこにいきましょうか。",
+                                "いいですね。ぜひいきましょう。どこにいきましょうか。",
                                 "Gut. Sicherlich gehen wir (zusammen, auf Reise). Wohin sollen wir gehen?"
                             ],
                             "guid": "Kpqy$/Ovb>",
@@ -8142,7 +8142,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "パーティーにおさけをもってきましようか。",
+                                "パーティーにおさけをもってきましょうか。",
                                 "Wollen wir Sake zur Party mitnehmen?"
                             ],
                             "guid": "MG9iHPa$+#",
@@ -8152,7 +8152,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "いで:&nbsp;らいしゅう、パーティーをしましようか。<br>日本語コースの人:&nbsp;しましよう。しましよう。",
+                                "いで:&nbsp;らいしゅう、パーティーをしましょうか。<br>日本語コースの人:&nbsp;しましょう。しましょう。",
                                 "Ide: Nächste Woche, wollen wir da eine Party machen?<br><b>Japanisch</b>kurs-<b>Leute</b>: Wollen wir! Wollen wir!"
                             ],
                             "guid": "k&Hgxbah:l",
@@ -8162,7 +8162,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "いで:&nbsp;何をつくりましようか。<br>ヨアヒム・ライヒ:&nbsp;先生、おすしはどうですか。",
+                                "いで:&nbsp;何をつくりましょうか。<br>ヨアヒム・ライヒ:&nbsp;先生、おすしはどうですか。",
                                 "Ide: Was sollen wir machen (produzieren)?<br>Joachim Reich: <b>Frau Lehrerin</b>, wie wäre es mit Sushi?"
                             ],
                             "guid": "JPlbCRH_?b",
@@ -9597,8 +9597,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "そうですか。それはどうも…。どうぞ、おだしヽじに。",
-                                "Ist das wahr? Das ist aber ... (nicht schön). / Es tut mir leid. <br>Gute Besserung! / Bitte sagen Sie ihr gute Besserung!"
+                                "そうですか。それはどうも…。どうぞ、おだいじに。",
+                                "Ist das wahr? Das ist aber ... (nicht schön). Gute Besserung!"
                             ],
                             "guid": "r&|%&z<D?v",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -9879,7 +9879,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "Was sagt man oft anstelle einer vollständigen Fomulierung wie \"Vielen Dank (Danke sehr)\")",
-                                "とうも"
+                                "どうも"
                             ],
                             "guid": "FJi2Q$w0K!",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -9918,7 +9918,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Welche Antwort passt auf dem folgenden Satz?<br>おげんきてすか。Anwort: {{c1::c}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                "Welche Antwort passt auf dem folgenden Satz?<br>おげんきですか。Anwort: {{c1::c}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
                                 ""
                             ],
                             "guid": "Kt`x7uL.oz",
@@ -10394,7 +10394,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: バッハはすきですか。<br>B: はい。でもべーとーべもすきです。",
+                                "A: バッハはすきですか。<br>B: はい。でもべートーべもすきです。",
                                 "A: Mögen Sie Bach?<br>B: Ja. Aber Beethoven mag ich auch."
                             ],
                             "guid": "klVK&4(I+2",
@@ -11868,7 +11868,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: あしたケラーさんにあいませんか。<br>B: ええ、そうしましよう。",
+                                "A: あしたケラーさんにあいませんか。<br>B: ええ、そうしましょう。",
                                 "A:&nbsp;Wollen wir(nicht) morgen Frau Keller treffen?<br>B: Ja, lass uns das so machen!"
                             ],
                             "guid": "Q2?<l?yGpU",
@@ -11878,7 +11878,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: 何[なん] 時[じ]にあいましようか。<br>B: 8 時半[じはん]にあいましよう。",
+                                "A: 何[なん] 時[じ]にあいましょうか。<br>B: 8 時半[じはん]にあいましょう。",
                                 "A: Um <b>wie viel Uhr</b> wollen wir uns treffen?<br>B: Lass uns um <b>halb </b>9&nbsp;<b>Uhr&nbsp;</b>treffen."
                             ],
                             "guid": "x{Gskn#o!#",
@@ -11928,7 +11928,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いいですね。みましよう。 何[なん] 時[じ]からですか。<br>B: 8 時[じ]からです。",
+                                "A: いいですね。みましょう。 何[なん] 時[じ]からですか。<br>B: 8 時[じ]からです。",
                                 "A. Hört sich gut an! Lass uns (den Film) schauen. Ab <b>wann </b>läuft er?<br>B: Ab 8 <b>Uhr</b>."
                             ],
                             "guid": "lQ5$W|Mnup",
@@ -13823,7 +13823,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: じゃ、いきましよう。<br>B: じゃ、来週、でんわします。<br>A: わかりました。",
+                                "A: じゃ、いきましょう。<br>B: じゃ、来週、でんわします。<br>A: わかりました。",
                                 "A: Dann lass uns hingehen! (In den Film gehen)<br>B: Dann, rufe ich dich nächste Woche an.<br>A: Alles klar! (Verstanden)"
                             ],
                             "guid": "b^EAnFBKgk",

@@ -6325,11 +6325,12 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "が (am Ende des Satzes)",
-                                "aber, jedoch"
+                                "が (Am Ende des Satzes)",
+                                "aber, jedoch",
+                                ""
                             ],
                             "guid": "l|S?Reb9ai",
-                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
                         {

@@ -764,7 +764,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "スイス人[じん]",
+                                "スイス 人[じん]",
                                 "Schweiz<b>er/-in</b>",
                                 "<img src=\"人.png\">"
                             ],
@@ -8662,8 +8662,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "小さい[ちいさい]",
-                                "klein",
+                                "小[ちい]さい",
+                                "<b>klein</b>",
                                 "<img src=\"小.png\">"
                             ],
                             "guid": "g;oW348pq_",
@@ -11066,8 +11066,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: Bさん、ローマはいま 何[なん] 時[じ]ですか。<br>B: ごぜん一 時[じ]です。",
-                                "A: Herr B, wie spät ist es gerade in Rom?<br>B: Es ist 1 Uhr vormittags."
+                                "A: Bさん、ローマはいま 何[なん] 時[じ]ですか。<br>B: ごぜん一[いち]&nbsp;時[じ]です。",
+                                "A: Herr B, <b>wie viel Uhr</b>&nbsp;ist es gerade in Rom?<br>B: Es ist <b>1 Uhr</b> vormittags."
                             ],
                             "guid": "G$*NBnFEBE",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11483,7 +11483,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "9時から",
+                                "9[く] 時[じ]から",
                                 "ab/von 9 <b>Uhr</b>"
                             ],
                             "guid": "i~!&([<GnM",
@@ -11613,7 +11613,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: あしたのてんらんかいは 何[なん] 時[じ]からですか。<br>B: アール・ヌーボーのてんらんかいですね。10 時[じ]からごご6 時[じ]まで、17ユーロです。",
+                                "A: あしたのてんらんかいは 何[なん] 時[じ]からですか。<br>B: アール・ヌーボーのてんらんかいですね。&nbsp;10[じゅう]&nbsp;時[じ]からごご&nbsp;6[ろく]&nbsp;時[じ]まで、&nbsp;17[じゅうなな]ユーロです。",
                                 "A: Die morgige Ausstellung, ab <b>wie viel</b> <b>Uhr</b> ist sie geöffnet?<br>B: Die Art-nouveau-Ausstellung meinen Sie, nicht wahr? Sie ist von 10 <b>Uhr </b>bis 18 <b>Uhr </b>geöffnet, (und kostet) 17 Euro."
                             ],
                             "guid": "D>!HQkO^p!",
@@ -13430,7 +13430,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "日本[にっぽん]のしょくじ",
+                                "日本[にほん]のしょくじ",
                                 "<b>Japanisches </b>Essen"
                             ],
                             "guid": "nw*lqBKMkm",
@@ -14718,7 +14718,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "休み[やすみ]",
+                                "休[やす]み",
                                 "<b>Pause, Ferien</b>",
                                 "<img src=\"休.png\">"
                             ],
@@ -14837,7 +14837,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "8 時[じ]にかいしゃにいきます。",
+                                "8[はち]&nbsp;時[じ]にかいしゃにいきます。",
                                 "Um 8 <b>Uhr </b>fahre ich zur Firma."
                             ],
                             "guid": "m*a&AZRBsq",
@@ -14937,7 +14937,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: バッハのコンサートは 何[なん] 月[がつ] 何[なん] 日[にち]ですか。<br>B: 3月[さんがつ] 14日[じゅうじょっか]です。",
+                                "A: バッハのコンサートは 何[なん] 月[がつ] 何[なん] 日[にち]ですか。<br>B: 3[さん]&nbsp;月[がつ] 14日[じゅうじょっか]です。",
                                 "A: <b>An welchem Tag&nbsp;</b>findet das Bach-Konzert statt?<br>B: Am <b>14. März</b>."
                             ],
                             "guid": "eRmZQUC6Wm",

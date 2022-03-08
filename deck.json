@@ -174,53 +174,68 @@
                 },
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "49863e55-9ed4-11ec-89c4-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "n.gif",
+                                "sa.gif",
+                                "za.gif"
+                            ],
+                            "name": "01 Kana",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "さ",
+                                        "sa",
+                                        "<img src=\"sa.gif\">"
+                                    ],
+                                    "guid": "Cu}F|?^>R>",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ざ",
+                                        "za",
+                                        "<img src=\"za.gif\">"
+                                    ],
+                                    "guid": "ysaKAjRB}~",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ん",
+                                        "n",
+                                        "<img src=\"n.gif\">"
+                                    ],
+                                    "guid": "B~gdcbuU4-",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "24bb3441-7ab1-11ec-9b66-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [
-                        "n.gif",
-                        "sa.gif",
-                        "za.gif"
-                    ],
+                    "media_files": [],
                     "name": "B",
                     "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "さ",
-                                "sa",
-                                "<img src=\"sa.gif\">"
-                            ],
-                            "guid": "Cu}F|?^>R>",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ざ",
-                                "za",
-                                "<img src=\"za.gif\">"
-                            ],
-                            "guid": "ysaKAjRB}~",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ん",
-                                "n",
-                                "<img src=\"n.gif\">"
-                            ],
-                            "guid": "B~gdcbuU4-",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
                         {
                             "__type__": "Note",
                             "fields": [

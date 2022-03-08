@@ -6,129 +6,171 @@
             "children": [
                 {
                     "__type__": "Deck",
-                    "children": [],
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "eed0c68e-9ed3-11ec-89c8-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "de.gif",
+                                "i.gif",
+                                "su.gif",
+                                "te.gif",
+                                "zu.gif"
+                            ],
+                            "name": "01 Kana",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "い",
+                                        "i",
+                                        "<img src=\"i.gif\">"
+                                    ],
+                                    "guid": "Lk8Ig6}<Yc",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "て",
+                                        "te",
+                                        "<img src=\"te.gif\">"
+                                    ],
+                                    "guid": "dtC9utKmBR",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "で",
+                                        "de",
+                                        "<img src=\"de.gif\">"
+                                    ],
+                                    "guid": "czry>wyy+h",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "す",
+                                        "su",
+                                        "<img src=\"su.gif\">"
+                                    ],
+                                    "guid": "Nc{+z^LnO[",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ず",
+                                        "zu",
+                                        "<img src=\"zu.gif\">"
+                                    ],
+                                    "guid": "rKE^Ch9H;}",
+                                    "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "eed1ff18-9ed3-11ec-b537-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "02 Vokabeln",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "です",
+                                        "sein (Verb), für alle Personen, Singular und Plural",
+                                        ""
+                                    ],
+                                    "guid": "H$,{3WM>{G",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "eed3107f-9ed3-11ec-8c30-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "04 Sätze",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "いでです。",
+                                        "(Mein Name) ist Ide."
+                                    ],
+                                    "guid": "yaC;KuN%H6",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "Behrmannです。",
+                                        "(Mein Name) ist <i>Behrmann</i>."
+                                    ],
+                                    "guid": "N!Iyx0G|di",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "いすずです。pilotです。",
+                                        "Ich heiße Isuzu. Ich bin <i>Pilot</i>."
+                                    ],
+                                    "guid": "L,r+OJ<}OH",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "いいです。programmerです。",
+                                        "Ich heiße ii. Ich bin <i>Programmierer</i>."
+                                    ],
+                                    "guid": "P?9xRtU$J`",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
                     "crowdanki_uuid": "24ba49f3-7ab1-11ec-a9dd-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
                     "extendRev": 0,
-                    "media_files": [
-                        "de.gif",
-                        "i.gif",
-                        "su.gif",
-                        "te.gif",
-                        "zu.gif"
-                    ],
+                    "media_files": [],
                     "name": "A",
-                    "notes": [
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "い",
-                                "i",
-                                "<img src=\"i.gif\">"
-                            ],
-                            "guid": "Lk8Ig6}<Yc",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "て",
-                                "te",
-                                "<img src=\"te.gif\">"
-                            ],
-                            "guid": "dtC9utKmBR",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "で",
-                                "de",
-                                "<img src=\"de.gif\">"
-                            ],
-                            "guid": "czry>wyy+h",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "す",
-                                "su",
-                                "<img src=\"su.gif\">"
-                            ],
-                            "guid": "Nc{+z^LnO[",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "ず",
-                                "zu",
-                                "<img src=\"zu.gif\">"
-                            ],
-                            "guid": "rKE^Ch9H;}",
-                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "です",
-                                "sein (Verb), für alle Personen, Singular und Plural",
-                                ""
-                            ],
-                            "guid": "H$,{3WM>{G",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いでです。",
-                                "(Mein Name) ist Ide."
-                            ],
-                            "guid": "yaC;KuN%H6",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "Behrmannです。",
-                                "(Mein Name) ist <i>Behrmann</i>."
-                            ],
-                            "guid": "N!Iyx0G|di",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いすずです。pilotです。",
-                                "Ich heiße Isuzu. Ich bin <i>Pilot</i>."
-                            ],
-                            "guid": "L,r+OJ<}OH",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いいです。programmerです。",
-                                "Ich heiße ii. Ich bin <i>Programmierer</i>."
-                            ],
-                            "guid": "P?9xRtU$J`",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        }
-                    ]
+                    "notes": []
                 },
                 {
                     "__type__": "Deck",

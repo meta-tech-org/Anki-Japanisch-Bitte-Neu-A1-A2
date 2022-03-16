@@ -15743,6 +15743,341 @@
             "children": [
                 {
                     "__type__": "Deck",
+                    "children": [
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c3f1e61d-a566-11ec-a00e-3c58c2d0fe16",
+                            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [
+                                "一人.png",
+                                "一名.png",
+                                "七.png",
+                                "七人.png",
+                                "七名.png",
+                                "三人.png",
+                                "三名.png",
+                                "二人.png",
+                                "二名.png",
+                                "五.png",
+                                "五人.png",
+                                "五名.png",
+                                "何名.png",
+                                "六.png",
+                                "六人.png",
+                                "六名.png",
+                                "名.png",
+                                "四人.png",
+                                "四名.png"
+                            ],
+                            "name": "01 Vokabeln",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "名[めい]",
+                                        "(mit vorausgehenden Zahlen) formelles Zählwort für Menschen",
+                                        "<img src=\"名.png\">"
+                                    ],
+                                    "guid": "H=X%E=`O?K",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "名[な]まえ",
+                                        "<b>Name</b>",
+                                        "<img src=\"名.png\">"
+                                    ],
+                                    "guid": "x>(iZc31N]",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "五[ご]",
+                                        "5",
+                                        "<img src=\"五.png\">"
+                                    ],
+                                    "guid": "C6tKxHYMuV",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "六[ろく]",
+                                        "6",
+                                        "<img src=\"六.png\">"
+                                    ],
+                                    "guid": "H8@jhgW]|.",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "七[しち/なな]",
+                                        "7",
+                                        "<img src=\"七.png\">"
+                                    ],
+                                    "guid": "yf2)IE-|:g",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "いらっしゃいませ",
+                                        "Begrüßungsformel von Bedienungen,Verkäufern und offiziellen Gastgebern: etwa <i>Herzlich willkommen</i>!",
+                                        ""
+                                    ],
+                                    "guid": "FgBU](*!|o",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "いらっしゃい",
+                                        "<i>Herzlich willkommen! </i>(Unter guten Bekannten)",
+                                        ""
+                                    ],
+                                    "guid": "b(X:PikX0q",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "さま",
+                                        "<i>Herr, Frau</i> bei sehr höflicher, formeller Anrede",
+                                        ""
+                                    ],
+                                    "guid": "C61}RP[IHB",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "何[なん] 名[めい]",
+                                        "<b>formelle Bezeichnung für 何人</b>",
+                                        "<img src=\"何名.png\">"
+                                    ],
+                                    "guid": "xCKTN<{IF)",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "一人[ひとり]",
+                                        "<b>eine Person</b>",
+                                        "<img src=\"一人.png\">"
+                                    ],
+                                    "guid": "zWgGJ,A981",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "二人[ふたり]",
+                                        "<b>zwei Personen</b>",
+                                        "<img src=\"二人.png\">"
+                                    ],
+                                    "guid": "k~s,WXm?LE",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "三人[さんにん]",
+                                        "<b>drei Personen</b>",
+                                        "<img src=\"三人.png\">"
+                                    ],
+                                    "guid": "Kp0tp&nKNK",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "四人[よにん]",
+                                        "<b>vier Personen</b>",
+                                        "<img src=\"四人.png\">"
+                                    ],
+                                    "guid": "LS[#VTYe_^",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "五人[ごにん]",
+                                        "<b>fünf Personen</b>",
+                                        "<img src=\"五人.png\">"
+                                    ],
+                                    "guid": "LJvK9eT+A{",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "六人[ろくにん]",
+                                        "<b>sechs Personen</b>",
+                                        "<img src=\"六人.png\">"
+                                    ],
+                                    "guid": "GfU@{Z>dI2",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "七人[しちにん / ななにん]",
+                                        "<b>sieben Personen</b>",
+                                        "<img src=\"七人.png\">"
+                                    ],
+                                    "guid": "x#Vv9zfU;F",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "一名[いちめい]",
+                                        "<b>eine Person</b> (höflich)",
+                                        "<img src=\"一名.png\">"
+                                    ],
+                                    "guid": "nvDDgd$]Cx",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "二名[にめい]",
+                                        "<b>zwei Personen </b>(höflich)",
+                                        "<img src=\"二名.png\">"
+                                    ],
+                                    "guid": "AMOzH@!YZ@",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "三名[さんめい]",
+                                        "<b>drei Personen</b> (höflich)",
+                                        "<img src=\"三名.png\">"
+                                    ],
+                                    "guid": "kELzsKM`ke",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "四名[よんめい]",
+                                        "<b>vier Personen </b>(höflich)",
+                                        "<img src=\"四名.png\">"
+                                    ],
+                                    "guid": "O6u+]vpw~U",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "五名[ごめい]",
+                                        "<b>fünf Personen</b> (höflich)",
+                                        "<img src=\"五名.png\">"
+                                    ],
+                                    "guid": "iDL6_MZSIH",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "六名[ろくめい]",
+                                        "<b>sechs Personen</b> (höflich)",
+                                        "<img src=\"六名.png\">"
+                                    ],
+                                    "guid": "qUruHpk/Ao",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "七名[しちめい / ななめい]",
+                                        "<b>sieben Personen</b> (höflich)",
+                                        "<img src=\"七名.png\">"
+                                    ],
+                                    "guid": "q5`.(8t}P)",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [],
+                            "crowdanki_uuid": "c3f2825c-a566-11ec-85f7-3c58c2d0fe16",
+                            "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "04 Sätze und Phrasen",
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: いらっしゃいませ。 何[なに] 名[めい]さまてすか。<br>B: 五[ご] 人[にん]てす。<br>A: 五[ご]&nbsp;名[めい]さまてすね。どうぞ。",
+                                        "A: Herzlich willkommen. <b>Wie viele</b> sind Sie?<br>B: Wie sind <b>fünf</b>/ zu <b>fünft</b>.<br>A. <b>Fünf Personen</b>. Bitte (hierher)!"
+                                    ],
+                                    "guid": "nD^En^S8AD",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "A: 何[なん] 名[めい]さまですか。<br>B: 二[さん] 人[にん]てす。<br>A: 二[さん]&nbsp;名[めい]さまですね。",
+                                        "A: <b>Wie viele Personen</b> sind Sie? (höflich)<br>B: Wir sind zu <b>zweit</b>.<br>A: <b>Zwei Personen</b> (, nicht wahr). (höflich)"
+                                    ],
+                                    "guid": "q88+5aM|$~",
+                                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
+                        }
+                    ],
+                    "crowdanki_uuid": "c3f1bf17-a566-11ec-90f9-3c58c2d0fe16",
+                    "deck_config_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
+                    "desc": "",
+                    "dyn": 0,
+                    "extendNew": 0,
+                    "extendRev": 0,
+                    "media_files": [],
+                    "name": "A",
+                    "notes": []
+                },
+                {
+                    "__type__": "Deck",
                     "children": [],
                     "crowdanki_uuid": "63cd11d6-8395-11ec-be31-0c7a15ee466f",
                     "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
@@ -15751,6 +16086,7 @@
                     "extendNew": 0,
                     "extendRev": 0,
                     "media_files": [],
+                    "mid": 1642764953999,
                     "name": "B",
                     "notes": [
                         {

@@ -792,7 +792,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "人[じん]",
-                                "Mensch",
+                                "<b>Mensch</b>",
                                 "<img src=\"人.png\">"
                             ],
                             "guid": "b#0P78h7N,",
@@ -825,7 +825,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "ドイツ 人[じん]",
-                                "Deutsche/r",
+                                "Deutsch<b>e/r</b>",
                                 "<img src=\"人.png\">"
                             ],
                             "guid": "p@@0&X]jb}",
@@ -1358,7 +1358,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: はじめまして。Meyerです。Lufthansaのかたですか<br>B: いいえ、JALのBergです。",
-                                "A: Freut mich Sie kennenzulernen! Ich heiße Meyer. Sind Sie von der Lufthansa?<br>B: Nein, ich bin Herr Berg von JAL."
+                                "A: Freut mich Sie kennenzulernen! Ich heiße <i>Meyer</i>. Sind Sie von der <i>Lufthansa</i>?<br>B: Nein, ich bin Herr <i>Berg</i> von <i>JAL</i>."
                             ],
                             "guid": "cnW:RYG*iq",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2214,7 +2214,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "In was für Texten werden Frage- und Ausrufezeichen häufiger benutzt?",
-                                "In einem umgangssprachlichen Text oder bei der Wiedergabe von gesprochener Sprache kommen sie aber sehr häufig vor. überall dort, wo eine Frage nicht komplett ausformuliert und das Fragewort weggelassen wird, vervollständigt das Fragezeichen den Satz."
+                                "In einem umgangssprachlichen Text oder bei der Wiedergabe von gesprochener Sprache kommen sie sehr häufig vor. Überall dort, wo eine Frage nicht komplett ausformuliert und das Fragewort weggelassen wird, vervollständigt das Fragezeichen den Satz."
                             ],
                             "guid": "pgb7q7WkC=",
                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -2937,7 +2937,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: 学生[がくせい]さんですか。<br>B: いいえ。 日本[にほん]のかいしゃのひしょです。",
-                                "A: Sind Sie <b>Student</b>?<br>B: Nein. ich bin Sekretärin einer <b>japanischen </b>Firma."
+                                "A: Sind Sie <b>Student</b>?<br>B: Nein. ich bin Sekretärin bei einer Firma aus <b>Japan</b>."
                             ],
                             "guid": "e9Jwkp$RF$",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2957,7 +2957,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: すみません。 日本[にほん]のかたですか。<br>B: いいえ。でもははは 日本人[にほんじん]です。",
-                                "A: Entschuldigung. Sind Sie <b>Japanerin</b>?<br>B: Nein, aber meine Mutter ist <b>Japanerin</b>."
+                                "A: Entschuldigung. Sind Sie <b>Japaner</b>in?<br>B: Nein, aber meine Mutter ist <b>Japanerin</b>."
                             ],
                             "guid": "pJnEEj.a).",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2977,7 +2977,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: Behrmannさん、Tokyo Evening News のいしいさんです。<br>B: はじめまして。いしいです。",
-                                "A: Herr Behrmann, das ist Frau Ishii von den Tokio Evening News.<br>B: Freut mich Sie kennenzulernen!. Ich bin Frau Ishii."
+                                "A: Herr <i>Behrmann</i>, das ist Frau Ishii von den <i>Tokio Evening News</i>.<br>B: Freut mich Sie kennenzulernen!. Ich bin Frau Ishii."
                             ],
                             "guid": "w,!rNSz.#`",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2987,7 +2987,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: Behrmannです。はじめまして。<br>B: BehrmannさんはBerlinのかたですか。",
-                                "A: Ich bin Behrmann. Freut mich Sie kennenzulernen.<br>B: Herr Behrmann, kommen Sie aus Berlin?"
+                                "A: Ich bin <i>Behrmann</i>. Freut mich Sie kennenzulernen.<br>B: Herr <i>Behrmann</i>, kommen Sie aus <i>Berlin</i>?"
                             ],
                             "guid": "ji+/E^:LuK",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3007,7 +3007,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "はじめまして。Kellerです。さかいさんは 学生[がくせい]さんですか。",
-                                "Freut mich SIe kennenzulernen! Ich heiße Keller. Frau Sakai, sind Sie Studentin?"
+                                "Freut mich SIe kennenzulernen! Ich heiße <i>Keller</i>. Frau Sakai, sind Sie <b>Studentin</b>?"
                             ],
                             "guid": "EivWVPRZ.0",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3027,7 +3027,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: …すみません、これは 何[なん]ですか。<br>B: それはしょうがです。",
-                                "A: ... Entschuldigung, was ist das hier?<br>B: Das dort ist Ingwer."
+                                "A: ... Entschuldigung, <b>was </b>ist das hier?<br>B: Das dort ist Ingwer."
                             ],
                             "guid": "G:sD>#%]Zd",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3048,7 +3048,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: すみません。「しょうが」はドイツ 語[ご]で 何[なん]ですか。<br>B: ドイツ 語[ご]で「lngwer」です。",
-                                "A: Entschuldigung. Was heißt \"しょうが\" auf Deutsch?<br>B: Auf Deutsch heißt es \"Ingwer\"."
+                                "A: Entschuldigung. <b>Was </b>heißt \"しょうが\" auf <b>Deutsch</b>?<br>B: Auf <b>Deutsch </b>heißt es \"Ingwer\"."
                             ],
                             "guid": "B``k[}nf6C",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3522,7 +3522,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "いしいさんはからてをします。でもわたしはしません。",
-                                        "Herr Ishi macht Karate, aber ich (mache es) nich"
+                                        "Herr Ishi macht Karate, aber ich (mache es) nicht."
                                     ],
                                     "guid": "Ci/|R1uzzF",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3973,7 +3973,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "子[こ]",
-                                "Kind (kurze Schreibweise)",
+                                "<b>Kind </b>(kurze Schreibweise)",
                                 "<img src=\"子.PNG\">"
                             ],
                             "guid": "N(bZ/F|V8<",
@@ -3984,7 +3984,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "子[こ]ども",
-                                "Kind (lange Schreibweise)",
+                                "<b>Kind </b>(lange Schreibweise)",
                                 "<img src=\"子.PNG\">"
                             ],
                             "guid": "llUtr@oN88",
@@ -4058,8 +4058,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "スポーツは何をしますか。",
-                                "Was Sport angeht, was treiben Sie?"
+                                "スポーツは 何[なに]をしますか。",
+                                "Was Sport angeht, <b>was </b>treiben Sie?"
                             ],
                             "guid": "y_K+]+5=^O",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -4150,7 +4150,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "A: きのう 何[なに]をしましたか。<br>B: きのうですか。きのうはえいがをみました。",
-                                        "A: <b>Was </b>haben Sie gestern gemacht?<br>B: Gestern ... Gestern habe ich einen Film gesehen."
+                                        "A: <b>Was </b>haben Sie gestern gemacht?<br>B: Gestern? Gestern habe ich einen Film gesehen."
                                     ],
                                     "guid": "p0kFM@$qOa",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -4169,8 +4169,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "A: いでせんせいはきのう 何[なに]をみましたか。<br>B: 日本[にっぽん]のえいがをみました。でも<i>News</i>はみませんでした。",
-                                        "A: <b>Was </b>hat Lehrerin Ide gestern gesehen?<br>B: Sie hat einen <b>japnischen </b>Film gesehen. Aber Sie hat keine <i>Nachrichten geschaut.</i>"
+                                        "A: いでせんせいはきのう 何[なに]をみましたか。<br>B: 日本[にほん]のえいがをみました。でもNewsはみませんでした。",
+                                        "A: <b>Was </b>hat Lehrerin Ide gestern gesehen?<br>B: Sie hat einen <b>japanischen </b>Film gesehen. Aber Sie hat keine <i>Nachrichten geschaut.</i>"
                                     ],
                                     "guid": "v~h<psN&X#",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -4180,7 +4180,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "A: ボリスさんはおととい 何[なに]をしましたか。<br>B: ボリスさんはサッカーをしました。",
-                                        "A: <b>Was </b>hat Herr Boris vorgestern gemacht?<br>B: Herr Boirs hat Fußball gespielt."
+                                        "A: <b>Was </b>hat Herr Boris vorgestern gemacht?<br>B: Herr Boris hat Fußball gespielt."
                                     ],
                                     "guid": "otQpUP(>8&",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -4478,7 +4478,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "A: いとうさんはりょうりをしますか。<br>B: はい、します。",
-                                        "A: Kochen Sie (selbst), Herr Ito?<br>B: Ja, ich koche."
+                                        "A: Kochen Sie (selbst), Herr Ito?<br>B: Ja, mache ich."
                                     ],
                                     "guid": "M)dzwNEpRk",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -6944,76 +6944,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: おちゃをのみましょうか。<br>B: そうですね。のみましょう。",
-                                "A: Wollen wir Tee trinken?<br>B: Hm. Lass uns trinken."
-                            ],
-                            "guid": "A3XZ/=<<U<",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "何をのみましょうか。",
-                                "Was wollen wir trinken? (gemeinsam)"
-                            ],
-                            "guid": "knY2,8&+Ar",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "コーヒーをのみましょう。",
-                                "Lass uns Kaffee trinken. (gemeinsam)"
-                            ],
-                            "guid": "dmPMu#w|kr",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "こんどはいっしょにオペラをききましょう。",
-                                "Lass uns nächstes Mal gemeinsam eine Oper hören."
-                            ],
-                            "guid": "jyb3bMki3?",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "そうですねぇ…。オペラもいいですが、こんどは日本のおんがくはどうですか。",
-                                "Naja... Oper ist auch gut, (aber) wie wäre es nächstes Mal mit <b>japanischer </b>Musik?"
-                            ],
-                            "guid": "n,&k9)@lo[",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "そうですねぇ…。じゃ、こんどは日本のおんがくをききましょうか。",
-                                "Naja... Wollen wir dann nächstes Mal <b>japanische </b>Musik hören?"
-                            ],
-                            "guid": "NZ4$m}4ee6",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "<b>A: いっしょにおひるごはんをたべませんか。</b><br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
-                                "<b>A: Wollen wir (nicht) zusammen zu Mittag essen?</b><br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
-                            ],
-                            "guid": "CJ;&qI9VK_",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "A: いっしょにおひるごはんをたべませんか。<br><b>B: ええ、たべましょう。</b><br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
                                 "A: Wollen wir (nicht) zusammen zu Mittag essen?<br><b>B: Ja, lasst uns (Mittag) essen.</b><br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
                             ],
@@ -7078,6 +7008,76 @@
                                 "Lass uns zu den heißen Quellen gehen."
                             ],
                             "guid": "EmnR(3(gzG",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "A: おちゃをのみましょうか。<br>B: そうですね。のみましょう。",
+                                "A: Wollen wir Tee trinken?<br>B: Hm. Lass uns trinken."
+                            ],
+                            "guid": "A3XZ/=<<U<",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "何をのみましょうか。",
+                                "Was wollen wir trinken? (gemeinsam)"
+                            ],
+                            "guid": "knY2,8&+Ar",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "コーヒーをのみましょう。",
+                                "Lass uns Kaffee trinken. (gemeinsam)"
+                            ],
+                            "guid": "dmPMu#w|kr",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "こんどはいっしょにオペラをききましょう。",
+                                "Lass uns nächstes Mal gemeinsam eine Oper hören."
+                            ],
+                            "guid": "jyb3bMki3?",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですねぇ…。オペラもいいですが、こんどは日本のおんがくはどうですか。",
+                                "Naja... Oper ist auch gut, (aber) wie wäre es nächstes Mal mit <b>japanischer </b>Musik?"
+                            ],
+                            "guid": "n,&k9)@lo[",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "そうですねぇ…。じゃ、こんどは日本のおんがくをききましょうか。",
+                                "Naja... Wollen wir dann nächstes Mal <b>japanische </b>Musik hören?"
+                            ],
+                            "guid": "NZ4$m}4ee6",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "<b>A: いっしょにおひるごはんをたべませんか。</b><br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
+                                "<b>A: Wollen wir (nicht) zusammen zu Mittag essen?</b><br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen."
+                            ],
+                            "guid": "CJ;&qI9VK_",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
@@ -11791,17 +11791,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "そう",
-                                "so",
-                                ""
-                            ],
-                            "guid": "J!*cB?<}+3",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "そうします",
                                 "(Ich) tue es so",
                                 ""
@@ -11874,6 +11863,16 @@
                             ],
                             "guid": "ys2({tok};",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "Was drückt die Partikel に aus?",
+                                "Die Partikel drückt den Zeitpunkt aus, zu dem man etwas tut oder zu dem etwas geschieht."
+                            ],
+                            "guid": "so[m_0Ii`h",
+                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                             "tags": []
                         },
                         {
@@ -12049,11 +12048,12 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "Was drückt die Partikel に aus?",
-                                "Die Partikel drückt den Zeitpunkt aus, zu dem man etwas tut oder zu dem etwas geschieht."
+                                "そう",
+                                "so",
+                                ""
                             ],
-                            "guid": "so[m_0Ii`h",
-                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                            "guid": "J!*cB?<}+3",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]
@@ -13392,7 +13392,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: あの日本のアニメはどうでしたか。<br>B: あまりたのしくなかったです。",
+                                "A: あの 日本[にほん]のアニメはどうでしたか。<br>B: あまりたのしくなかったです。",
                                 "A: Wie war der <b>japanische </b>Anime?<br>B: Er war nicht so lustig."
                             ],
                             "guid": "n#+g.pOI1q",
@@ -13960,8 +13960,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "きょうは 5[ご] 月[がつ] 11[じゅういち] 日[にち]です。",
-                                "Heute ist der 11. Mai."
+                                "きょうは 5 月[がつ] 11[じゅういち] 日[にち]です。",
+                                "Heute ist der <b>11.</b> <b>Mai</b>."
                             ],
                             "guid": "GEL3iz_)_(",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14582,6 +14582,16 @@
                         {
                             "__type__": "Note",
                             "fields": [
+                                "何[なに]と 何[なに]をかいますか。",
+                                "Was und was kaufen Sie?"
+                            ],
+                            "guid": "lp;>.2vWc",
+                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
                                 "A:すみません、きょうは 何[なん] 日[にち]ですか。<br>B: 2月[にがつ]13日[じゅうさんにち]、 金曜日[きんようび]です。",
                                 "A: Entschuldigung! Der Wieviete (des Monats) ist heute?<br>B: Der 13. Februar, Freitag."
                             ],
@@ -14722,16 +14732,6 @@
                                 "A: Herzlichen Glückwunsch zum Geburtstag!<br>B: Vielen Dank!"
                             ],
                             "guid": "e3nS4G%]zY",
-                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "何[なに]と 何[なに]をかいますか。",
-                                "Was und was kaufen Sie?"
-                            ],
-                            "guid": "lp;>.2vWc",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                             "tags": []
                         }
@@ -15134,17 +15134,6 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "金曜日[きんようび]",
-                                "<b>Freitag</b>",
-                                "<img src=\"金曜日.png\">"
-                            ],
-                            "guid": "cTkowK&6ps",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
                                 "こん週の土曜日",
                                 "<b>Samstag </b>dieser <b>Woche</b>",
                                 "<img src=\"週.png\"><img src=\"土曜日.png\">"
@@ -15285,6 +15274,17 @@
                             "guid": "s_mqiJ2I.6",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "金曜日[きんようび]",
+                                "<b>Freitag</b>",
+                                "<img src=\"金曜日.png\">"
+                            ],
+                            "guid": "cTkowK&6ps",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                            "tags": []
                         }
                     ]
                 },
@@ -15321,17 +15321,6 @@
                                 ""
                             ],
                             "guid": "H!b,B6Hs^>",
-                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                            "tags": []
-                        },
-                        {
-                            "__type__": "Note",
-                            "fields": [
-                                "いつも",
-                                "immer, gewöhnlich",
-                                ""
-                            ],
-                            "guid": "wzYnt>/~uU",
                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         },
@@ -15497,8 +15486,8 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "A: いつもどこでかいものをしますか。<br>B: スーパーでかします。",
-                                "A: Wo kaufen Sie immer ein?<br>B: Im Supermarkt kaufe ich ein."
+                                "A: いつもどこでかいものをしますか。<br>B: スーパーでかいます。",
+                                "A: Wo machen Sie immer Ihre Einkäufe?<br>B: Im Supermarkt kaufe ich ein."
                             ],
                             "guid": "Bs38,a1c3;",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -15687,7 +15676,7 @@
                         {
                             "__type__": "Note",
                             "fields": [
-                                "12日、木曜日はどうですか。",
+                                "12 日[にち]、 木曜日[もくようび]はどうですか。",
                                 "Wie wäre es mit dem <b>12.</b>, <b>Donnerstag</b>?"
                             ],
                             "guid": "o{k<LBfECg",
@@ -15722,6 +15711,17 @@
                             ],
                             "guid": "tGCQ*RJGn4",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                            "tags": []
+                        },
+                        {
+                            "__type__": "Note",
+                            "fields": [
+                                "いつも",
+                                "immer, gewöhnlich",
+                                ""
+                            ],
+                            "guid": "wzYnt>/~uU",
+                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                             "tags": []
                         }
                     ]

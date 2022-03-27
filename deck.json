@@ -3118,8 +3118,8 @@
                                 {
                                     "__type__": "Note",
                                     "fields": [
-                                        "A: <i>Kaiser</i>さんはとざんをしますか。<br>B: はい、します。",
-                                        "A: Herr Kaiser, machen Sie Bergsteigen?<br>B: Ja, tue ich."
+                                        "A: Kaiserさんはとざんをしますか。<br>B: はい、します。",
+                                        "A: Herr <i>Kaiser</i>, machen Sie Bergsteigen?<br>B: Ja, tue ich."
                                     ],
                                     "guid": "Mmp/A3ROXE",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",

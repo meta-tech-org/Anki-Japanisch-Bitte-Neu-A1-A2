@@ -2987,7 +2987,7 @@
                             "__type__": "Note",
                             "fields": [
                                 "A: Behrmannです。はじめまして。<br>B: BehrmannさんはBerlinのかたですか。",
-                                "A: Ich bin <i>Behrmann</i>. Freut mich Sie kennenzulernen.<br>B: Herr <i>Behrmann</i>, kommen Sie aus <i>Berlin</i>?"
+                                "A: Ich bin <i>Behrmann</i>. Freut mich Sie kennenzulernen.<br>B: Herr <i>Behrmann</i>, sind Sie&nbsp;<i>Berliner</i>?"
                             ],
                             "guid": "ji+/E^:LuK",
                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3089,7 +3089,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "A: スポーツをしますか。<br>B: はい、します。",
-                                        "A: Treiben Sie Sport?<br>B: Ja, (ich) treibe (Sport)."
+                                        "A: Treiben Sie Sport?<br>B: Ja, treibe (ich)."
                                     ],
                                     "guid": "O@ekDxCui5",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3099,7 +3099,7 @@
                                     "__type__": "Note",
                                     "fields": [
                                         "A: ばばさんはからてをしますか。<br>B: いいえ、しません。",
-                                        "A: Machen Sie Karate, Herr Baba?<br>B: Nein, (ich) mache nicht (Karate)."
+                                        "A: Machen Sie Karate, Herr Baba?<br>B: Nein, mache (ich) nicht."
                                     ],
                                     "guid": "pGJ(|4V%q-",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",

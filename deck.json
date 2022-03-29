@@ -16109,7 +16109,231 @@
                         },
                         {
                             "__type__": "Deck",
-                            "children": [],
+                            "children": [
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "07a80c5a-afa2-11ec-84e1-0c7a15ee466f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "01 Vokabeln",
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "にく",
+                                                "Fleisch",
+                                                ""
+                                            ],
+                                            "guid": "gwTBoGQquC",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "とり",
+                                                "Huhn, Geflügel",
+                                                ""
+                                            ],
+                                            "guid": "Q1k:Z[PQ=J",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "てんぷら",
+                                                "Tempura, frittiertes Gemüse, Fisch und Meeresfrüchte japanischer Art",
+                                                ""
+                                            ],
+                                            "guid": "wIO?<Mgp~w",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "とんかつ",
+                                                "Schweineschnitzel",
+                                                ""
+                                            ],
+                                            "guid": "Q-fr^|sWCS",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "トンカツ",
+                                                "Schweineschnitzel (andere Schreibweise)",
+                                                ""
+                                            ],
+                                            "guid": "A]ka)/unLC",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "カツ",
+                                                "Schweineschnitzel (kurz)",
+                                                ""
+                                            ],
+                                            "guid": "sn{DY:n=Q!",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "やき～",
+                                                "gebratenes, gegrilltes (mit einem anderen Wort)",
+                                                ""
+                                            ],
+                                            "guid": "H!Dc`P<MN",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "のみもの",
+                                                "Getränk",
+                                                ""
+                                            ],
+                                            "guid": "M2S5t_(KZX",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "えき",
+                                                "Bahnhof",
+                                                ""
+                                            ],
+                                            "guid": "gglAmaM}tS",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "エビ",
+                                                "Shrimps, Riesengarnelen",
+                                                ""
+                                            ],
+                                            "guid": "gTN4,1)afa",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "フライ",
+                                                "Frittiertes",
+                                                ""
+                                            ],
+                                            "guid": "lU}Fz+=oVI",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "エビフライ",
+                                                "Frittierte Shrimps/Riesengarnelen",
+                                                ""
+                                            ],
+                                            "guid": "oLD.rZl<zr",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ラーメン",
+                                                "Nudelsuppe nach chinesischer Art",
+                                                ""
+                                            ],
+                                            "guid": "B^]8pRVHwC",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "サラダ",
+                                                "Salat",
+                                                ""
+                                            ],
+                                            "guid": "NP.1AL@k/h",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ビール",
+                                                "Bier",
+                                                ""
+                                            ],
+                                            "guid": "I]dhBU1B/{",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ジュース",
+                                                "Saft",
+                                                ""
+                                            ],
+                                            "guid": "r*0{5;2=Vj",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ミネラルウォーター",
+                                                "Mineralwasser",
+                                                ""
+                                            ],
+                                            "guid": "Rgwcs1g&$p",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "エリカ",
+                                                "Erika (Name)",
+                                                ""
+                                            ],
+                                            "guid": "oq/=]u(x)@",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ツナ",
+                                                "Thunfisch (in Dose, gekocht)",
+                                                ""
+                                            ],
+                                            "guid": "p4:y(-%4rQ",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
+                                }
+                            ],
                             "crowdanki_uuid": "63cd11d6-8395-11ec-be31-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -16135,7 +16359,176 @@
                         },
                         {
                             "__type__": "Deck",
-                            "children": [],
+                            "children": [
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "07aaa46b-afa2-11ec-9d85-0c7a15ee466f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ていしょく",
+                                                "Menü, Gedeck",
+                                                ""
+                                            ],
+                                            "guid": "P(pc3fy]T2",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "こうちゃ",
+                                                "Schwarzer Tee",
+                                                ""
+                                            ],
+                                            "guid": "AC#@RShmB^",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "そば",
+                                                "Buchweizennudeln",
+                                                ""
+                                            ],
+                                            "guid": "s%Gdu`5W{k",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "やきそば",
+                                                "Gebratene Chinesische Nudeln aus Mehl",
+                                                ""
+                                            ],
+                                            "guid": "NT6ZA//coH",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "なさいます",
+                                                "Höflichere Form von shimasu",
+                                                ""
+                                            ],
+                                            "guid": "BOBu*HeVJa",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "（お）みせ",
+                                                "Laden, Geschäft, Restaurant",
+                                                ""
+                                            ],
+                                            "guid": "bqeC>4+,$U",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "みせの人",
+                                                "Ladenanstellung, Bedienung",
+                                                ""
+                                            ],
+                                            "guid": "JP$7aS|k8t",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "（お）みず",
+                                                "Wasser",
+                                                ""
+                                            ],
+                                            "guid": "GUd/zc@hxF",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "（お）かんじょう",
+                                                "Rechnung (im Restaurant)",
+                                                ""
+                                            ],
+                                            "guid": "exvy[#+AYw",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "日本[にほん] 酒[しゅ]",
+                                                "<b>Japanischer Reiswein</b>",
+                                                ""
+                                            ],
+                                            "guid": "ilx|>xeNsg",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "お 酒[さけ]",
+                                                "<b>Sake</b>",
+                                                ""
+                                            ],
+                                            "guid": "A>hFA-g!uU",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ワイン",
+                                                "Wein",
+                                                ""
+                                            ],
+                                            "guid": "(Z9^JXCjs",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "レモン",
+                                                "Zitrone",
+                                                ""
+                                            ],
+                                            "guid": "E<-,=HX^e=",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "レモンティー",
+                                                "Zitronentee",
+                                                ""
+                                            ],
+                                            "guid": "EWju!T.FwF",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
+                                }
+                            ],
                             "crowdanki_uuid": "63ce234a-8395-11ec-8ace-0c7a15ee466f",
                             "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
                             "desc": "",
@@ -16157,6 +16550,199 @@
                                     "tags": []
                                 }
                             ]
+                        },
+                        {
+                            "__type__": "Deck",
+                            "children": [
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "07ad3c83-afa2-11ec-84c2-0c7a15ee466f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "カップヌードル",
+                                                "Nudelsuppe im Becher",
+                                                ""
+                                            ],
+                                            "guid": "QGFMwAzHth",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ハムサンド",
+                                                "Schinken-Sandwich",
+                                                ""
+                                            ],
+                                            "guid": "hTzg3u2LeU",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "チーズバーガー",
+                                                "Cheeseburger",
+                                                ""
+                                            ],
+                                            "guid": "eyTd]cl>#j",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "アイスクリーム",
+                                                "Eiscreme",
+                                                ""
+                                            ],
+                                            "guid": "F-=wzZ+7/D",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "一[ひと]つ",
+                                                "<b>1</b> (Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "y:$wy2EfQ2",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "二[ふた]つ",
+                                                "<b>2</b> (Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "QGSMH,mRW,",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "三[みっ]つ",
+                                                "<b>3</b>&nbsp;(Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "hhL-uF%mMg",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "四[よっ]つ",
+                                                "<b>4</b>&nbsp;(Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "e~_I|iE5M5",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "五[いつ]つ",
+                                                "<b>5</b>&nbsp;(Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "u|3in_dSZz",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "六[むっ]つ",
+                                                "<b>6</b>&nbsp;(Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "z7Sx(bTfqY",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "七[なな]つ",
+                                                "<b>7</b>&nbsp;(Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "AE/uF{2TK@",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "やっつ",
+                                                "8 (Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "IoWyqFVFey",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ここのつ",
+                                                "9 (Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "pP[eu2Xx%.",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "とお",
+                                                "10 (Zählwort)",
+                                                ""
+                                            ],
+                                            "guid": "C+:pVTkSbl",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "いくつ",
+                                                "Wie viel?",
+                                                ""
+                                            ],
+                                            "guid": "f;&,d0j31J",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "crowdanki_uuid": "07ac03f8-afa2-11ec-b6f6-0c7a15ee466f",
+                            "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                            "desc": "",
+                            "dyn": 0,
+                            "extendNew": 0,
+                            "extendRev": 0,
+                            "media_files": [],
+                            "name": "D",
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "63cc2775-8395-11ec-a065-0c7a15ee466f",

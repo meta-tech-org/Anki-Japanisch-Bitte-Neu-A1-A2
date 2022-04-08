@@ -16274,7 +16274,18 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "05 Trivia",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie wird die Ära des Kaisers, die 1989 bekann, genannt?",
+                                                "Die 平成[へいせい] Ära."
+                                            ],
+                                            "guid": "uy,t,F6Uky",
+                                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -16299,18 +16310,7 @@
                             "media_files": [],
                             "mid": 1643907910759,
                             "name": "D",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Wie wird die Ära des Kaisers, die 1989 bekann, genannt?",
-                                        "Die 平成[へいせい] Ära."
-                                    ],
-                                    "guid": "uy,t,F6Uky",
-                                    "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "c584e905-838e-11ec-8db2-0c7a15ee466f",
@@ -19717,7 +19717,48 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "05 Trivia",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "An welchen Tagen findet das Puppenfest statt?",
+                                                "3月[さんがつ]3日[みっか]"
+                                            ],
+                                            "guid": "Q_x2e)fugK",
+                                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "An welchen Tagen findet das Kinderfest statt?",
+                                                "5月[ごがつ]5日[いつか]"
+                                            ],
+                                            "guid": "pPMg_/+k!=",
+                                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "An welchen Tagen findet das Tanabata-Fest statt?",
+                                                "7月[しちがつ]7日[なのか]"
+                                            ],
+                                            "guid": "zoFBRJZ.P&",
+                                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "An welchen Tagen findet das Obon-Fest statt?",
+                                                "8月[はちがつ]13日[じゅうさんにち]&nbsp; ~ 15日[じゅうごにち]"
+                                            ],
+                                            "guid": "tzDp,ThnC0",
+                                            "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -19741,48 +19782,7 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "A",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "An welchen Tagen findet das Puppenfest statt?",
-                                        "3月[さんがつ]3日[みっか]"
-                                    ],
-                                    "guid": "Q_x2e)fugK",
-                                    "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "An welchen Tagen findet das Kinderfest statt?",
-                                        "5月[ごがつ]5日[いつか]"
-                                    ],
-                                    "guid": "pPMg_/+k!=",
-                                    "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "An welchen Tagen findet das Tanabata-Fest statt?",
-                                        "7月[しちがつ]7日[なのか]"
-                                    ],
-                                    "guid": "zoFBRJZ.P&",
-                                    "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "An welchen Tagen findet das Obon-Fest statt?",
-                                        "8月[はちがつ]13日[じゅうさんにち]&nbsp; ~ 15日[じゅうごにち]"
-                                    ],
-                                    "guid": "tzDp,ThnC0",
-                                    "note_model_uuid": "35d3e520-8515-11ec-a736-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",

@@ -2543,6 +2543,16 @@
                                             "guid": "OT%fPxC!WU",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "お",
+                                                "Hoflichkeitspräfix/Vorsilbe"
+                                            ],
+                                            "guid": "Ej5O9Bx3pX",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -2582,16 +2592,6 @@
                             "media_files": [],
                             "name": "C",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "お",
-                                        "Hoflichkeitspräfix/Vorsilbe"
-                                    ],
-                                    "guid": "Ej5O9Bx3pX",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -3709,6 +3709,16 @@
                                             "guid": "L=&}3M=hZ%",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "で (+ Sprache)",
+                                                "(Partikel für Methode und Mittel) hier: auf, in (einer Sprache)"
+                                            ],
+                                            "guid": "w2kk}ZCM_c",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -3748,16 +3758,6 @@
                             "media_files": [],
                             "name": "B",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "で (+ Sprache)",
-                                        "(Partikel für Methode und Mittel) hier: auf, in (einer Sprache)"
-                                    ],
-                                    "guid": "w2kk}ZCM_c",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -4737,6 +4737,26 @@
                                             "guid": "bu|I5x/lO|",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "を",
+                                                "Objektpartikel, die das direkte Objekt der Handlung (in vielen Fällen das deutsche Akkusativobjekt was oder wen) anzeigt"
+                                            ],
+                                            "guid": "l9,EsFA7iy",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "と",
+                                                "und"
+                                            ],
+                                            "guid": "FODfrf2yPm",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -4865,28 +4885,7 @@
                             "media_files": [],
                             "mid": 1642764953999,
                             "name": "A",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "を",
-                                        "Objektpartikel, die das direkte Objekt der Handlung (in vielen Fällen das deutsche Akkusativobjekt was oder wen) anzeigt"
-                                    ],
-                                    "guid": "l9,EsFA7iy",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "と",
-                                        "und"
-                                    ],
-                                    "guid": "FODfrf2yPm",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -6044,6 +6043,16 @@
                                             "guid": "g}m87;s<gM",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "に (Richtung)",
+                                                "(Partikel für Richtung und Zweck) <i>zu, nach</i>"
+                                            ],
+                                            "guid": "iNLhB$g!)0",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -6183,18 +6192,7 @@
                             "media_files": [],
                             "mid": 1642764953999,
                             "name": "A",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "に (Richtung)",
-                                        "(Partikel für Richtung und Zweck) <i>zu, nach</i>"
-                                    ],
-                                    "guid": "iNLhB$g!)0",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -6512,6 +6510,16 @@
                                             "guid": "Gmk,gM.#D-",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "も",
+                                                "auch"
+                                            ],
+                                            "guid": "hw^TZ1baOF",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -6706,18 +6714,7 @@
                             "media_files": [],
                             "mid": 1642764739085,
                             "name": "B",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "も",
-                                        "auch"
-                                    ],
-                                    "guid": "hw^TZ1baOF",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -7624,6 +7621,16 @@
                                             "guid": "Dh~,{u-T>$",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ね",
+                                                "entspricht im Deutschen Wörtern wie <i>doch, wirklich, nicht wahr </i>usw."
+                                            ],
+                                            "guid": "O.}zo_QH1a",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -7791,18 +7798,7 @@
                             "media_files": [],
                             "mid": 1642764953999,
                             "name": "A",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ね",
-                                        "entspricht im Deutschen Wörtern wie <i>doch, wirklich, nicht wahr </i>usw."
-                                    ],
-                                    "guid": "O.}zo_QH1a",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -8719,6 +8715,16 @@
                                             "guid": "Ej=Te!^/iI",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "に (Zeit)",
+                                                "<i>an, in, um</i> <br>(nicht mit きのう，きょう，あした, あさって wo sie als zeitliche Adverbien verwendet werden)"
+                                            ],
+                                            "guid": "gH8dcj8FSi",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -8880,18 +8886,7 @@
                             "media_files": [],
                             "mid": 1642765939199,
                             "name": "C",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "に (Zeit)",
-                                        "<i>an, in, um</i> <br>(nicht mit きのう，きょう，あした, あさって wo sie als zeitliche Adverbien verwendet werden)"
-                                    ],
-                                    "guid": "gH8dcj8FSi",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "c57d20de-838e-11ec-b8a5-0c7a15ee466f",
@@ -9971,6 +9966,26 @@
                                             "guid": "gCgE>NZCR6",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "が",
+                                                "Subjektpartikel"
+                                            ],
+                                            "guid": "Hq<e&B8`>4",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ヘ",
+                                                "Partikel für Richtung und Ziel"
+                                            ],
+                                            "guid": "iD2RCt~O[8",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -10010,26 +10025,6 @@
                             "media_files": [],
                             "name": "B",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "が",
-                                        "Subjektpartikel"
-                                    ],
-                                    "guid": "Hq<e&B8`>4",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ヘ",
-                                        "Partikel für Richtung und Ziel"
-                                    ],
-                                    "guid": "iD2RCt~O[8",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -11943,6 +11938,16 @@
                                             "guid": "b`Xxj*8$4X",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "よ",
+                                                "Partikel zur Betonung"
+                                            ],
+                                            "guid": "Ini)[/LEwE",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -12113,16 +12118,6 @@
                                     ],
                                     "guid": "pNY75uo?Z#",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "よ",
-                                        "Partikel zur Betonung"
-                                    ],
-                                    "guid": "Ini)[/LEwE",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                     "tags": []
                                 },
                                 {
@@ -12441,6 +12436,16 @@
                                             "guid": "P6<cm6|tUx",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "から",
+                                                "aus, von (örtlich), ab, von (zeitlich)"
+                                            ],
+                                            "guid": "F[A9)yGoEc",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -12666,16 +12671,6 @@
                                     ],
                                     "guid": "L-D3X+=mem",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "から",
-                                        "aus, von (örtlich), ab, von (zeitlich)"
-                                    ],
-                                    "guid": "F[A9)yGoEc",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                     "tags": []
                                 },
                                 {
@@ -15642,6 +15637,16 @@
                                             "guid": "so[m_0Ii`h",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "に (in Verbindung mit 時)",
+                                                "um (Uhrzeit)"
+                                            ],
+                                            "guid": "x*YA/-*%cr",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -15682,16 +15687,6 @@
                             "mid": 1643907910759,
                             "name": "D",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "に (in Verbindung mit 時)",
-                                        "um (Uhrzeit)"
-                                    ],
-                                    "guid": "x*YA/-*%cr",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -16896,6 +16891,16 @@
                                             "guid": "z=|S)&!$=>",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "が (Am Ende des Satzes)",
+                                                "Konjunktionspartikel"
+                                            ],
+                                            "guid": "M27:+)8N9$",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -17011,16 +17016,6 @@
                                     ],
                                     "guid": "j3YD:`fOk0",
                                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "が (Am Ende des Satzes)",
-                                        "Konjunktionspartikel"
-                                    ],
-                                    "guid": "M27:+)8N9$",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                     "tags": []
                                 },
                                 {
@@ -17997,6 +17992,16 @@
                                             "guid": "K_8/T@tnGb",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "~<b>と&nbsp;</b>はなします",
+                                                "mit (jemandem);&nbsp;mit jemandem sprechen"
+                                            ],
+                                            "guid": "IBIVHNmVuw",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -18037,16 +18042,6 @@
                             "mid": 1642765939199,
                             "name": "E",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "~<b>と&nbsp;</b>はなします",
-                                        "mit (jemandem);&nbsp;mit jemandem sprechen"
-                                    ],
-                                    "guid": "IBIVHNmVuw",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -19482,6 +19477,16 @@
                                             "guid": "P459.4QDb@",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "に",
+                                                "(Partikel) für Zeitangabe: an (dem Tag),<br>in (dem Monat/ dem Jahr etc.)"
+                                            ],
+                                            "guid": "d8Z,F52a}G",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -19525,16 +19530,6 @@
                             "mid": 1644425084653,
                             "name": "B",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "に",
-                                        "(Partikel) für Zeitangabe: an (dem Tag),<br>in (dem Monat/ dem Jahr etc.)"
-                                    ],
-                                    "guid": "d8Z,F52a}G",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [
@@ -20201,6 +20196,16 @@
                                             "guid": "JA>TYx;kv(",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "で",
+                                                "(Partikel für Handlungsort) in, an, auf"
+                                            ],
+                                            "guid": "G^7]SCxlNc",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -20241,16 +20246,6 @@
                             "mid": 1642764953999,
                             "name": "D",
                             "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "で",
-                                        "(Partikel für Handlungsort) in, an, auf"
-                                    ],
-                                    "guid": "G^7]SCxlNc",
-                                    "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                    "tags": []
-                                },
                                 {
                                     "__type__": "Note",
                                     "fields": [

@@ -2657,6 +2657,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "お",
+                                                "Hoflichkeitspräfix/Vorsilbe"
+                                            ],
+                                            "guid": "Ej5O9Bx3pX",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was stellt ein Satz ohne Verb, der auf die Partikel は endet dar?",
                                                 "Er stellt eine verkürzte Frage dar.<br>Was dabei tatsachlich gefragt wird, lässt sich aus dem Zusammenhang schließen.<br>Anders als bei einem normalen Fragesatz wird hier am Satzende die Stimme nicht gehoben, damit es nicht zu direkt oder zu unhölflich klingt."
                                             ],
@@ -2672,16 +2682,6 @@
                                             ],
                                             "guid": "OT%fPxC!WU",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "お",
-                                                "Hoflichkeitspräfix/Vorsilbe"
-                                            ],
-                                            "guid": "Ej5O9Bx3pX",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -3832,6 +3832,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "で (+ Sprache)",
+                                                "(Partikel für Methode und Mittel) hier: auf, in (einer Sprache)"
+                                            ],
+                                            "guid": "w2kk}ZCM_c",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was beschreibt die Partikel で?",
                                                 "で ist eine Partikel, die beschreibt, mit welchem Mittel, welcher Methode oder welchem Werkzeug man etwas tut. Auch Sprachen als Kommunikationsmittel werden mit で&nbsp;angezeigt."
                                             ],
@@ -3877,16 +3887,6 @@
                                             ],
                                             "guid": "L=&}3M=hZ%",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "で (+ Sprache)",
-                                                "(Partikel für Methode und Mittel) hier: auf, in (einer Sprache)"
-                                            ],
-                                            "guid": "w2kk}ZCM_c",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -4886,6 +4886,26 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "を",
+                                                "Objektpartikel, die das direkte Objekt der Handlung (in vielen Fällen das deutsche Akkusativobjekt was oder wen) anzeigt"
+                                            ],
+                                            "guid": "l9,EsFA7iy",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "と",
+                                                "und"
+                                            ],
+                                            "guid": "FODfrf2yPm",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was ist die deutsche Äquivalente zu&nbsp;します?",
                                                 "Das Wort \"tun\"."
                                             ],
@@ -4931,26 +4951,6 @@
                                             ],
                                             "guid": "bu|I5x/lO|",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "を",
-                                                "Objektpartikel, die das direkte Objekt der Handlung (in vielen Fällen das deutsche Akkusativobjekt was oder wen) anzeigt"
-                                            ],
-                                            "guid": "l9,EsFA7iy",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "と",
-                                                "und"
-                                            ],
-                                            "guid": "FODfrf2yPm",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -5786,6 +5786,28 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "スポーツは 何[なに]をしますか。",
+                                                "Was Sport angeht, <b>was </b>treiben Sie?",
+                                                ""
+                                            ],
+                                            "guid": "y_K+]+5=^O",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スポーツは にがてです。",
+                                                "(Ich) bin nicht gut im Sport.",
+                                                ""
+                                            ],
+                                            "guid": "P!jv&D^GB/",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "A: ドイツ 人[じん]はよくやきゅうをしますか。<br>B: いいえ、あまりしません。",
                                                 "A: Spielen die <b>Deutschen </b>oft BasebaII?<br>B: Nein, (Baseball) spielen sie nicht so oft.",
                                                 ""
@@ -5879,28 +5901,6 @@
                                                 ""
                                             ],
                                             "guid": "lVM=HW~)%z",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "スポーツは 何[なに]をしますか。",
-                                                "Was Sport angeht, <b>was </b>treiben Sie?",
-                                                ""
-                                            ],
-                                            "guid": "y_K+]+5=^O",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "スポーツは にがてです。",
-                                                "(Ich) bin nicht gut im Sport.",
-                                                ""
-                                            ],
-                                            "guid": "P!jv&D^GB/",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                                             "tags": []
                                         }
@@ -6240,6 +6240,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "に (Richtung)",
+                                                "(Partikel für Richtung und Zweck) <i>zu, nach</i>"
+                                            ],
+                                            "guid": "iNLhB$g!)0",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Wie lautet die Vergangenheitsform von ～ます?",
                                                 "～ました"
                                             ],
@@ -6275,16 +6285,6 @@
                                             ],
                                             "guid": "g}m87;s<gM",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "に (Richtung)",
-                                                "(Partikel für Richtung und Zweck) <i>zu, nach</i>"
-                                            ],
-                                            "guid": "iNLhB$g!)0",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -6750,21 +6750,21 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die Bedeutung der Partikel も?",
-                                                "\"Auch\"."
-                                            ],
-                                            "guid": "Gmk,gM.#D-",
-                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
                                                 "も",
                                                 "auch"
                                             ],
                                             "guid": "hw^TZ1baOF",
                                             "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Bedeutung der Partikel も?",
+                                                "\"Auch\"."
+                                            ],
+                                            "guid": "Gmk,gM.#D-",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
                                         }
                                     ]
@@ -7847,6 +7847,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "ね",
+                                                "entspricht im Deutschen Wörtern wie <i>doch, wirklich, nicht wahr </i>usw."
+                                            ],
+                                            "guid": "O.}zo_QH1a",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was ist die elegante Entsprechung von&nbsp;ごはんをたべます?",
                                                 "しょくじをします"
                                             ],
@@ -7892,16 +7902,6 @@
                                             ],
                                             "guid": "Dh~,{u-T>$",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "ね",
-                                                "entspricht im Deutschen Wörtern wie <i>doch, wirklich, nicht wahr </i>usw."
-                                            ],
-                                            "guid": "O.}zo_QH1a",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -7994,7 +7994,34 @@
                                             "guid": "zd>iCg6LiI",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                                             "tags": []
-                                        },
+                                        }
+                                    ]
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5623a950-88b0-4cc4-a1af-499a38f0c73d",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "a06206b7-a282-4ebd-9ebf-cae5c8f0070a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "06 Aufgaben",
+                                    "notes": [
                                         {
                                             "__type__": "Note",
                                             "fields": [
@@ -8046,32 +8073,6 @@
                                             "tags": []
                                         }
                                     ]
-                                },
-                                {
-                                    "__type__": "Deck",
-                                    "children": [],
-                                    "crowdanki_uuid": "5623a950-88b0-4cc4-a1af-499a38f0c73d",
-                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                                    "desc": "",
-                                    "dyn": 0,
-                                    "extendNew": 0,
-                                    "extendRev": 0,
-                                    "media_files": [],
-                                    "name": "05 Trivia",
-                                    "notes": []
-                                },
-                                {
-                                    "__type__": "Deck",
-                                    "children": [],
-                                    "crowdanki_uuid": "a06206b7-a282-4ebd-9ebf-cae5c8f0070a",
-                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-                                    "desc": "",
-                                    "dyn": 0,
-                                    "extendNew": 0,
-                                    "extendRev": 0,
-                                    "media_files": [],
-                                    "name": "06 Aufgaben",
-                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c57e324d-838e-11ec-8046-0c7a15ee466f",
@@ -8957,6 +8958,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "に (Zeit)",
+                                                "<i>an, in, um</i> <br>(nicht mit きのう，きょう，あした, あさって wo sie als zeitliche Adverbien verwendet werden)"
+                                            ],
+                                            "guid": "gH8dcj8FSi",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was für ein Adjektiv-Typ ist ざんねん?",
                                                 "ざんねん&nbsp;ist ein な-Adjektiv."
                                             ],
@@ -9012,16 +9023,6 @@
                                             ],
                                             "guid": "Ej=Te!^/iI",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "に (Zeit)",
-                                                "<i>an, in, um</i> <br>(nicht mit きのう，きょう，あした, あさって wo sie als zeitliche Adverbien verwendet werden)"
-                                            ],
-                                            "guid": "gH8dcj8FSi",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -10214,6 +10215,26 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "が",
+                                                "Subjektpartikel"
+                                            ],
+                                            "guid": "Hq<e&B8`>4",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ヘ",
+                                                "Partikel für Richtung und Ziel"
+                                            ],
+                                            "guid": "iD2RCt~O[8",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Mit welchen Schriftzeichen wird die Chinesische Lesung von Kanji oft aufgeschrieben?",
                                                 "Mit Katakana."
                                             ],
@@ -10289,26 +10310,6 @@
                                             ],
                                             "guid": "gCgE>NZCR6",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "が",
-                                                "Subjektpartikel"
-                                            ],
-                                            "guid": "Hq<e&B8`>4",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "ヘ",
-                                                "Partikel für Richtung und Ziel"
-                                            ],
-                                            "guid": "iD2RCt~O[8",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -12099,6 +12100,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "よ",
+                                                "Partikel zur Betonung"
+                                            ],
+                                            "guid": "Ini)[/LEwE",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was ist die Verneinungsform des Adjektivs いい?",
                                                 "よくない"
                                             ],
@@ -12314,16 +12325,6 @@
                                             ],
                                             "guid": "b`Xxj*8$4X",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "よ",
-                                                "Partikel zur Betonung"
-                                            ],
-                                            "guid": "Ini)[/LEwE",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -12800,6 +12801,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "から",
+                                                "aus, von (örtlich), ab, von (zeitlich)"
+                                            ],
+                                            "guid": "F[A9)yGoEc",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was bedeutet&nbsp;おげんきですか?",
                                                 "<i>Geht es Ihnen gut?</i> Es ist auch eine häufig gebrauchte Redewendung."
                                             ],
@@ -12825,16 +12836,6 @@
                                             ],
                                             "guid": "P6<cm6|tUx",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "から",
-                                                "aus, von (örtlich), ab, von (zeitlich)"
-                                            ],
-                                            "guid": "F[A9)yGoEc",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -16057,6 +16058,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "に (in Verbindung mit 時)",
+                                                "um (Uhrzeit)"
+                                            ],
+                                            "guid": "x*YA/-*%cr",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Wie drückt man aus, dass man sich mit einer bestimmten Person X trifft?",
                                                 "～さんにあいます: Bei あいます verwendet man die Partikel に für die Person, die man trifft. Im Deutschen handelt es sich hierbei um ein Akkusativobjekt (jemanden treffen).<br>"
                                             ],
@@ -16092,16 +16103,6 @@
                                             ],
                                             "guid": "so[m_0Ii`h",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "に (in Verbindung mit 時)",
-                                                "um (Uhrzeit)"
-                                            ],
-                                            "guid": "x*YA/-*%cr",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -17288,6 +17289,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "が (Am Ende des Satzes)",
+                                                "Konjunktionspartikel"
+                                            ],
+                                            "guid": "M27:+)8N9$",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was sagt die Konjunktionspartikel が aus?",
                                                 "Die Konjunktionspartikel が entspricht etwa dem deutschen aber/ doch, steht aber am Ende des ersten Satzes und verbindet die beiden Sätze zu einem Satzgefüge.<br>日本語はむずかしいですが、おもしろいです。"
                                             ],
@@ -17373,16 +17384,6 @@
                                             ],
                                             "guid": "z=|S)&!$=>",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "が (Am Ende des Satzes)",
-                                                "Konjunktionspartikel"
-                                            ],
-                                            "guid": "M27:+)8N9$",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -18488,6 +18489,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "~<b>と&nbsp;</b>はなします",
+                                                "mit (jemandem);&nbsp;mit jemandem sprechen"
+                                            ],
+                                            "guid": "IBIVHNmVuw",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Mit welcher Partikel wird bei&nbsp;わかる (wie auch bei できる oder すき）das Objekt markiert?",
                                                 "Bei わかる&nbsp; wird das Objekt mit が markiert. Im Deutschen hingegen handelt es sich hier um ein Akkusativobjekt. <br>英語がよくわかります&nbsp;bedeutet also <i>Ich verstehe Englisch gut</i>."
                                             ],
@@ -18513,16 +18524,6 @@
                                             ],
                                             "guid": "K_8/T@tnGb",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "~<b>と&nbsp;</b>はなします",
-                                                "mit (jemandem);&nbsp;mit jemandem sprechen"
-                                            ],
-                                            "guid": "IBIVHNmVuw",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -19990,6 +19991,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "に",
+                                                "(Partikel) für Zeitangabe: an (dem Tag),<br>in (dem Monat/ dem Jahr etc.)"
+                                            ],
+                                            "guid": "d8Z,F52a}G",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Was bezeichnet die Partikel ～に?",
                                                 "Eine Zeitangabe mit der Partikel に bezeichnet den Zeitpunkt oder die Zeitspanne eines Ereignisses oder einer Handlung."
                                             ],
@@ -20025,16 +20036,6 @@
                                             ],
                                             "guid": "P459.4QDb@",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "に",
-                                                "(Partikel) für Zeitangabe: an (dem Tag),<br>in (dem Monat/ dem Jahr etc.)"
-                                            ],
-                                            "guid": "d8Z,F52a}G",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -20756,6 +20757,16 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "で",
+                                                "(Partikel für Handlungsort) in, an, auf"
+                                            ],
+                                            "guid": "G^7]SCxlNc",
+                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "Antwortet man auf eine Frage, in der で bereits verwendet wird, kann dieses in der Antwort weggelassen werden?",
                                                 "Antwortet man auf eine Frage, in der で bereits verwendet wird, so kann man in der Antwort auf die Wiederholung der Partikel verzichten."
                                             ],
@@ -20771,16 +20782,6 @@
                                             ],
                                             "guid": "JA>TYx;kv(",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "で",
-                                                "(Partikel für Handlungsort) in, an, auf"
-                                            ],
-                                            "guid": "G^7]SCxlNc",
-                                            "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
                                             "tags": []
                                         }
                                     ]
@@ -22537,7 +22538,7 @@
                         }
                     ],
                     "crowdanki_uuid": "63cc2775-8395-11ec-a065-0c7a15ee466f",
-                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                    "deck_config_uuid": "a7c5debf-b78e-11ec-963f-0c7a15ee466f",
                     "desc": "",
                     "dyn": 0,
                     "extendNew": 0,
@@ -23116,6 +23117,54 @@
             },
             "reviewOrder": 0,
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "a7c5debf-b78e-11ec-963f-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch::Kapitel",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
         }
     ],
     "desc": "",
@@ -23387,60 +23436,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Frage",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Antwort",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Japanisch::Grammatik",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Antwort}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Grammatikfrage",
-                    "ord": 0,
-                    "qfmt": "{{furigana:Frage}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large {\n  font-size: 40px;\n}\n",
             "flds": [
@@ -23523,6 +23518,60 @@
                     "name": "Katakana: Schreibweise",
                     "ord": 1,
                     "qfmt": "Wie wird dieses Katakana-Zeichen geschrieben?\n<p class=\"p-large\">{{Aussprache}}</p>"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Frage",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Antwort",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Grammatik",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Antwort}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Grammatikfrage",
+                    "ord": 0,
+                    "qfmt": "{{furigana:Frage}}"
                 }
             ],
             "type": 0

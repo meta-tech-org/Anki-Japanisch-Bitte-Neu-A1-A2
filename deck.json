@@ -193,6 +193,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "c51829d9-6be3-4deb-bb3a-34bd03cfd805",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "24ba49f3-7ab1-11ec-a9dd-0c7a15ee466f",
@@ -303,6 +316,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "eaf52a82-4589-4ee7-9633-962890b4ff01",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "24bb3441-7ab1-11ec-9b66-0c7a15ee466f",
@@ -405,6 +431,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8332efa7-c46b-4aa5-bc71-857b88c5b8d1",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -631,6 +670,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "45d5c538-d3a1-4382-a73c-c58b8cc2d6e3",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "f12acd4f-7b99-11ec-92b0-0c7a15ee466f",
@@ -831,6 +883,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d72b5922-2262-4e99-bb9a-6439f7fea5c4",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "bd9e5675-af9d-11ec-8545-0c7a15ee466f",
@@ -1002,6 +1067,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "c0a8759a-a5dd-40cb-83dc-7a777e0489a1",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -1320,6 +1398,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "85f6adc6-385d-48e2-8e58-8f5f4ea78034",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "afc7071d-81cf-11ec-81af-0c7a15ee466f",
@@ -1486,6 +1577,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8088131b-0c1c-4f7c-9007-a59b24fffa8e",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c56af858-838e-11ec-8c6a-0c7a15ee466f",
@@ -1595,6 +1699,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "6e211973-0be0-4936-ace6-91ab9cc9ab6f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -1863,6 +1980,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "e88226bb-55b7-4cbc-ae95-56372915e4bc",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "afca1fa5-81cf-11ec-9276-0c7a15ee466f",
@@ -2089,6 +2219,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5823a7f1-663e-4123-9279-1940bae1db22",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -2556,6 +2699,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "1150c2bd-e84c-4885-aac7-30daf55bffd0",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5700188-838e-11ec-b45f-0c7a15ee466f",
@@ -2818,6 +2974,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "f2f8d0fe-f2a7-4e6c-abac-0011a3281184",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -3266,6 +3435,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d9328b78-b660-4a5b-8464-ad063f34658b",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5730eb3-838e-11ec-b55b-0c7a15ee466f",
@@ -3638,6 +3820,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "bb9e9867-cbb6-4f44-a4aa-2327c09d3c90",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -4324,6 +4519,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b708b238-7248-4f35-a375-3e2454d45b1c",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5761bf3-838e-11ec-b765-0c7a15ee466f",
@@ -4778,6 +4986,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "861d5e15-6947-405c-9aad-a36b4b1ad477",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5772d69-838e-11ec-a481-0c7a15ee466f",
@@ -5199,6 +5420,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "6ff068ba-5265-44c0-9aa9-0fbda71739e3",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5783edc-838e-11ec-8395-0c7a15ee466f",
@@ -5593,6 +5827,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "3de0656f-2245-4a3d-a44b-90153e5ee4c0",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -6102,6 +6349,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "51cf6b96-ab6f-436c-adc2-6e228033f9ad",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c57b2503-838e-11ec-a191-0c7a15ee466f",
@@ -6585,6 +6845,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5a762255-f1c8-4103-be49-5a07895c7355",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -7114,6 +7387,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5623a950-88b0-4cc4-a1af-499a38f0c73d",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c57e324d-838e-11ec-8046-0c7a15ee466f",
@@ -7593,6 +7879,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "7b6e9ee2-0f7e-44ad-8055-a99bdedfc614",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -8199,6 +8498,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "6ca5effe-d2eb-49aa-951f-004fc339613a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5802e17-838e-11ec-913e-0c7a15ee466f",
@@ -8588,6 +8900,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8fba09c7-4b1b-46fb-a81c-71f7486ab270",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -9151,6 +9476,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "40b74254-b40e-4ecf-8896-8e84ba2f31c0",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -9838,6 +10176,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8a440737-d190-4ddd-98b1-30c109557a51",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "dc1cae39-88ed-11ec-a41e-0c7a15ee466f",
@@ -10130,6 +10481,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "bc277505-bfdf-4fbe-bedd-7f8c6156e1f9",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -10736,6 +11100,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "c5f19648-379e-4fe5-8ee7-29b5918b4d2b",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "4e6be57d-88ed-11ec-b014-704d7b2ee0df",
@@ -11026,6 +11403,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "17146de2-695e-46c8-b418-3f299e1205aa",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -11719,6 +12109,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "711c488c-8f42-430e-a1f9-42179dc113bf",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63c1ee44-8395-11ec-84ae-0c7a15ee466f",
@@ -12243,6 +12646,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "99d05da4-d662-49c7-a3f4-352e68fd53c5",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -12815,6 +13231,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "89e837de-dcc1-4315-8c56-9b0f7d34888e",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -13439,6 +13868,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "ddb5ec5b-0a76-47c2-809f-f95c3904c913",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -14206,6 +14648,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "e9e04052-4ec6-4712-8b8e-5c1b34377d25",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63c71e64-8395-11ec-a8bd-0c7a15ee466f",
@@ -14916,6 +15371,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "712fe245-6d34-4088-b78a-ec246c29f66f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "8bfdd5c1-8b59-11ec-9ead-0c7a15ee466f",
@@ -15331,6 +15799,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b6f286f7-660e-4bb5-9b5d-41a228e67beb",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -15914,6 +16395,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d3488512-4cb5-4caa-bb44-22cd1198c507",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -16629,6 +17123,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "bdd0463a-1a01-4af8-bff1-c2e7052daf03",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "1cdec8ef-8c02-11ec-8bdf-3c58c2d0fe16",
@@ -16954,6 +17461,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "4bc8be73-2e96-402c-a3a0-ff6cf7dfef83",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "e30d07fe-8c05-11ec-818c-3c58c2d0fe16",
@@ -17267,6 +17787,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "f57d15da-5eca-4302-a533-c0808897da33",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -17644,6 +18177,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "4ba19c41-0692-42f5-a9d9-da91bf028609",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -18619,6 +19165,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d9c7c60a-06bd-45b6-b9dd-d34755c13cbd",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63cb1606-8395-11ec-a1a8-0c7a15ee466f",
@@ -18986,6 +19545,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "485ad41d-20ae-4ce2-9ccf-97fe907fd592",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c7da47c7-89c9-11ec-8c22-3c58c2d0fe16",
@@ -19339,6 +19911,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "0b6c1710-54dd-4ca5-aa6a-103e29961c55",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -20252,6 +20837,19 @@
                                     "media_files": [],
                                     "name": "03 Grammatik",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "a2a8a29c-cb30-430a-aa4b-6a6698802754",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c3f1bf17-a566-11ec-90f9-3c58c2d0fe16",
@@ -20567,6 +21165,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "905ab8a3-7955-4ffd-a73f-3b643bdff912",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63cd11d6-8395-11ec-be31-0c7a15ee466f",
@@ -20832,6 +21443,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8b6d01b6-0303-4afe-96be-4401772271e4",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],
@@ -21111,6 +21735,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5933c541-e641-4eb2-8738-ffaadb14f469",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "07ac03f8-afa2-11ec-b6f6-0c7a15ee466f",
@@ -21191,6 +21828,19 @@
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "07da6c29-55a2-47ab-8e9b-1217a69404cd",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63d01f13-8395-11ec-bc29-0c7a15ee466f",
@@ -21256,6 +21906,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "59912422-0626-4e34-9e8a-cf1d089fa1fa",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "05 Trivia",
                                     "notes": []
                                 }
                             ],

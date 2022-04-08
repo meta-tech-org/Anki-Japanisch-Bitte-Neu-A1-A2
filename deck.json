@@ -180,6 +180,19 @@
                                             "tags": []
                                         }
                                     ]
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "69bd9a3d-e613-4ba2-9204-e523b4b07351",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "24ba49f3-7ab1-11ec-a9dd-0c7a15ee466f",
@@ -264,6 +277,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "0c8c80f4-06d4-4846-b89a-a324b69c642b",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "24bb3441-7ab1-11ec-9b66-0c7a15ee466f",
@@ -340,6 +366,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "68aec23c-b157-4402-9f29-6f47b7f980e2",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -540,6 +579,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b0ab4ad4-bdd1-4401-9bb3-6d8b282cbca8",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "f12acd4f-7b99-11ec-92b0-0c7a15ee466f",
@@ -714,6 +766,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "621b0ca0-3df2-46cc-b561-45b7c736c5c5",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "bd9e5675-af9d-11ec-8545-0c7a15ee466f",
@@ -859,6 +924,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "593c35ef-4f83-435f-8842-ecbf041ca5db",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -1151,6 +1229,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "ac099699-1ccf-405e-89d3-f8fb7ea6d0d3",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "afc7071d-81cf-11ec-81af-0c7a15ee466f",
@@ -1291,6 +1382,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "229e9ec8-ecbc-45d4-85d0-ada424158fa5",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c56af858-838e-11ec-8c6a-0c7a15ee466f",
@@ -1374,6 +1478,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "58ca0558-75c2-45d7-9734-5bfa1cb85cdb",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -1616,6 +1733,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5151091e-2399-4db5-9798-942ecdfd33f9",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "afca1fa5-81cf-11ec-9276-0c7a15ee466f",
@@ -1816,6 +1946,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8acb0bde-9a56-484a-80c3-12abf8867b7a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -2257,6 +2400,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "73f142f4-2ac2-4151-9836-5332c4b56f8e",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5700188-838e-11ec-b45f-0c7a15ee466f",
@@ -2493,6 +2649,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "6c9884f1-ad21-4674-a351-483b88df3ce9",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -2915,6 +3084,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "978e39cd-ec54-4dd0-8c0f-aa29ad88061d",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5730eb3-838e-11ec-b55b-0c7a15ee466f",
@@ -3261,6 +3443,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b8547314-1d6e-4712-99ad-04c15f9e1439",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -3934,6 +4129,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "23ea47b6-e064-4c0f-a7c3-e63afd63a526",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5761bf3-838e-11ec-b765-0c7a15ee466f",
@@ -4375,6 +4583,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "ad43638b-f0b3-4bc1-9282-e759f603852d",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5772d69-838e-11ec-a481-0c7a15ee466f",
@@ -4783,6 +5004,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "4a359a2f-d713-4681-b4e4-895fc3a54189",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5783edc-838e-11ec-8395-0c7a15ee466f",
@@ -5164,6 +5398,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d8d42df8-a875-4b46-afef-ef2b6d2abc3a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -5660,6 +5907,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "60ce2da2-ba38-4632-aab2-f7089c37b21a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c57b2503-838e-11ec-a191-0c7a15ee466f",
@@ -6130,6 +6390,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "a232f3d7-87a9-4ed5-8fab-c825a743aae1",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -6646,6 +6919,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "f5f06cbe-4f80-4c22-95a5-153bf167ed94",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c57e324d-838e-11ec-8046-0c7a15ee466f",
@@ -7112,6 +7398,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "2a9a3c8b-914d-48d7-bc25-12b952a32bc4",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -7705,6 +8004,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5bf98932-4d82-480a-aab5-d017817217ec",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5802e17-838e-11ec-913e-0c7a15ee466f",
@@ -8068,6 +8380,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d2a9a89d-bf20-418d-829e-42bde81db2c9",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -8605,6 +8930,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d83b6d6c-c5b6-49ff-b1ce-5ed2928e1f10",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -9266,6 +9604,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "87b601fe-166e-4ee8-a666-c620bd7d335e",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "dc1cae39-88ed-11ec-a41e-0c7a15ee466f",
@@ -9532,6 +9883,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "e1c73596-81c0-41a2-968d-171466e513bf",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -10112,6 +10476,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "0647e0ae-8efe-4c85-a78d-97e98daebf72",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "4e6be57d-88ed-11ec-b014-704d7b2ee0df",
@@ -10376,6 +10753,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "29cb31f1-afb8-493d-b960-23364f02147c",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -11043,6 +11433,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "20e77c39-c613-4679-8a6e-97892d90ca0b",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63c1ee44-8395-11ec-84ae-0c7a15ee466f",
@@ -11541,6 +11944,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b747971e-9ec8-4732-b984-cf842a4634e3",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -12087,6 +12503,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "eef8c835-2f2d-44cd-9786-5ce5af025ecf",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -12685,6 +13114,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "7d229821-d98c-4b46-9593-b55f5f2ac45f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -13426,6 +13868,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "f28d2b3f-c7ab-4bd5-a721-0b9f968f22b4",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63c71e64-8395-11ec-a8bd-0c7a15ee466f",
@@ -14110,6 +14565,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "7796e16d-a117-4dd1-94b1-fa677de0e3f1",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "8bfdd5c1-8b59-11ec-9ead-0c7a15ee466f",
@@ -14499,6 +14967,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "dc38e3b3-886e-4411-9f1a-3d30cb182f56",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -15056,6 +15537,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "4338ec38-81e2-4027-bafe-6f8534912eb0",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -15745,6 +16239,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "75a73d72-745d-46dd-b16a-2ec590c33137",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "1cdec8ef-8c02-11ec-8bdf-3c58c2d0fe16",
@@ -16044,6 +16551,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "6aec52f5-e6fa-421f-b07d-6eff89993193",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "e30d07fe-8c05-11ec-818c-3c58c2d0fe16",
@@ -16331,6 +16851,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "cdaa2c08-98b8-4f75-aec1-eb912e2b8907",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -16682,6 +17215,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d2c70bf0-355c-43b7-8d1a-241aa3477cf3",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -17631,6 +18177,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b02812b7-0397-4234-8526-36a5e16df681",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63cb1606-8395-11ec-a1a8-0c7a15ee466f",
@@ -17972,6 +18531,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "352c1d2a-778d-481c-8874-6033e59e0501",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c7da47c7-89c9-11ec-8c22-3c58c2d0fe16",
@@ -18299,6 +18871,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "11f1c545-d1c4-4924-aa9c-4be507114fde",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -19199,6 +19784,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "dc0a22ad-586b-44be-8a33-104e99fc8002",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c3f1bf17-a566-11ec-90f9-3c58c2d0fe16",
@@ -19488,6 +20086,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "86d68fb4-31d8-443b-8760-73672c363c41",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63cd11d6-8395-11ec-be31-0c7a15ee466f",
@@ -19727,6 +20338,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "be96f524-1264-4009-94e7-991d43cd6681",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],
@@ -19980,6 +20604,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "01c5d761-7235-4810-90a0-b880254d6402",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "07ac03f8-afa2-11ec-b6f6-0c7a15ee466f",
@@ -20034,6 +20671,19 @@
                                     "media_files": [],
                                     "name": "02 Vokabeln",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "572592fd-7ffc-4289-9afc-9958ff95bbb4",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63d01f13-8395-11ec-bc29-0c7a15ee466f",
@@ -20073,6 +20723,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "84cc6d25-542e-4513-be42-5a696bdc8518",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "03 Grammatik",
                                     "notes": []
                                 }
                             ],

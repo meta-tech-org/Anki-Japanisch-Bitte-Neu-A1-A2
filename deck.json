@@ -10483,7 +10483,48 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "06 Aufgaben",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Partikel ist richtig?<br><br>たなかさん{{c1::が::が/は}}きます。",
+                                                ""
+                                            ],
+                                            "guid": "edb$6E(vi!",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Partikel ist richtig?<br><br>たなかさん{{c1::は::が/は}}あしたきます。",
+                                                ""
+                                            ],
+                                            "guid": "MGQ:5DWf_y",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Partikel ist richtig?<br><br>たなかさんのうち{{c1::に/へ::に/へ}}しょくじ{{c2::に::に/へ}}いきました。",
+                                                ""
+                                            ],
+                                            "guid": "vHNi8/{HB*",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Partikel ist richtig?<br><br>先生{{c1::に::に/へ}}てがみをかきました。",
+                                                ""
+                                            ],
+                                            "guid": "g#/+}KUt%@",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        }
+                                    ]
                                 }
                             ],
                             "crowdanki_uuid": "c58202d2-838e-11ec-95f5-0c7a15ee466f",
@@ -10494,48 +10535,7 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "B",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Partikel ist richtig?<br><br>たなかさん{{c1::が::が/は}}きます。",
-                                        ""
-                                    ],
-                                    "guid": "edb$6E(vi!",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Partikel ist richtig?<br><br>たなかさん{{c1::は::が/は}}あしたきます。",
-                                        ""
-                                    ],
-                                    "guid": "MGQ:5DWf_y",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Partikel ist richtig?<br><br>たなかさんのうち{{c1::に/へ::に/へ}}しょくじ{{c2::に::に/へ}}いきました。",
-                                        ""
-                                    ],
-                                    "guid": "vHNi8/{HB*",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Partikel ist richtig?<br><br>先生{{c1::に::に/へ}}てがみをかきました。",
-                                        ""
-                                    ],
-                                    "guid": "g#/+}KUt%@",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -13613,7 +13613,58 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "06 Aufgaben",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Antwort passt auf dem folgenden Satz?<br>おげんきですか。Anwort: {{c1::c}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                                ""
+                                            ],
+                                            "guid": "Kt`x7uL.oz",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Antwort passt auf dem folgenden Satz?<br>どうぞおげんきで。Anwort: {{c1::e}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                                ""
+                                            ],
+                                            "guid": "sXai6T~O3w",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Antwort passt auf dem folgenden Satz?<br>ではしつれいします。Anwort: {{c1::a}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                                ""
+                                            ],
+                                            "guid": "ReBVCFTUR7",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Antwort passt auf dem folgenden Satz?<br>またあした。Anwort: {{c1::d}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                                ""
+                                            ],
+                                            "guid": "B_)[#dSEK5",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Antwort passt auf dem folgenden Satz?<br>ちちがちょっとびょうきです。Anwort: {{c1::b}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
+                                                ""
+                                            ],
+                                            "guid": "q^l~OW)Y))",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        }
+                                    ]
                                 }
                             ],
                             "crowdanki_uuid": "c583fea6-838e-11ec-a681-0c7a15ee466f",
@@ -13625,58 +13676,7 @@
                             "media_files": [],
                             "mid": 1644425084653,
                             "name": "D",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Antwort passt auf dem folgenden Satz?<br>おげんきですか。Anwort: {{c1::c}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
-                                        ""
-                                    ],
-                                    "guid": "Kt`x7uL.oz",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Antwort passt auf dem folgenden Satz?<br>どうぞおげんきで。Anwort: {{c1::e}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
-                                        ""
-                                    ],
-                                    "guid": "sXai6T~O3w",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Antwort passt auf dem folgenden Satz?<br>ではしつれいします。Anwort: {{c1::a}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
-                                        ""
-                                    ],
-                                    "guid": "ReBVCFTUR7",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Antwort passt auf dem folgenden Satz?<br>またあした。Anwort: {{c1::d}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
-                                        ""
-                                    ],
-                                    "guid": "B_)[#dSEK5",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Welche Antwort passt auf dem folgenden Satz?<br>ちちがちょっとびょうきです。Anwort: {{c1::b}}<br><br>a. さようなら。<br>b. それはどうも・・・<br>c. はい、ありがとうございます。<br>d. では、またあした。<br>e. ありがとうございます。どうぞ、おげんきで。",
-                                        ""
-                                    ],
-                                    "guid": "q^l~OW)Y))",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "c582ed33-838e-11ec-b84f-0c7a15ee466f",
@@ -20492,7 +20492,68 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "06 Aufgaben",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>月曜日{{c1::に::は・を・に・には}}ドイツ語のじゅぎょう{{c1::に::は・を・に・には}}{{c2::いきました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                                ""
+                                            ],
+                                            "guid": "vn@@K%`dwF",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>火曜日{{c1::に::は・を・に・には}}ともだち{{c1::に::は・を・に・には}}{{c2::あいました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                                ""
+                                            ],
+                                            "guid": "A0m_sjVEV2",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>水曜日{{c1::に::は・を・に・には}}バッハのコンサート{{c1::を::は・を・に・には}}{{c2::ききました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                                ""
+                                            ],
+                                            "guid": "w:Mqq/O`G%",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>木曜日{{c1::に::は・を・に・には}}フランスのえいが{{c1::を::は・を・に・には}}{{c2::みました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                                ""
+                                            ],
+                                            "guid": "FdFaV$ZA`A",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>金曜日{{c1::に::は・を・に・には}}本{{c1::を::は・を・に・には}}{{c2::よみました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                                ""
+                                            ],
+                                            "guid": "h;Uw)}uZeJ",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>土曜日{{c1::に::は・を・に・には}}ドイツりょうりを{{c2::たべました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
+                                                ""
+                                            ],
+                                            "guid": "EJB^Su.ju,",
+                                            "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
+                                            "tags": []
+                                        }
+                                    ]
                                 }
                             ],
                             "crowdanki_uuid": "c7da47c7-89c9-11ec-8c22-3c58c2d0fe16",
@@ -20503,68 +20564,7 @@
                             "extendRev": 0,
                             "media_files": [],
                             "name": "C",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>月曜日{{c1::に::は・を・に・には}}ドイツ語のじゅぎょう{{c1::に::は・を・に・には}}{{c2::いきました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
-                                        ""
-                                    ],
-                                    "guid": "vn@@K%`dwF",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>火曜日{{c1::に::は・を・に・には}}ともだち{{c1::に::は・を・に・には}}{{c2::あいました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
-                                        ""
-                                    ],
-                                    "guid": "A0m_sjVEV2",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>水曜日{{c1::に::は・を・に・には}}バッハのコンサート{{c1::を::は・を・に・には}}{{c2::ききました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
-                                        ""
-                                    ],
-                                    "guid": "w:Mqq/O`G%",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>木曜日{{c1::に::は・を・に・には}}フランスのえいが{{c1::を::は・を・に・には}}{{c2::みました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
-                                        ""
-                                    ],
-                                    "guid": "FdFaV$ZA`A",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>金曜日{{c1::に::は・を・に・には}}本{{c1::を::は・を・に・には}}{{c2::よみました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
-                                        ""
-                                    ],
-                                    "guid": "h;Uw)}uZeJ",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "Füllen Sie Partikel und Verb wie im Beispiel ein:<br>ひのさん<u>は</u>月曜日<u>に</u>ドイツ語のじゅぎょう<u>に</u>いきました。火曜日<u>には</u>いきませんでした。<br><br>土曜日{{c1::に::は・を・に・には}}ドイツりょうりを{{c2::たべました::あいました• いきました・ききました・たべました・よみました・かいました・みました}}",
-                                        ""
-                                    ],
-                                    "guid": "EJB^Su.ju,",
-                                    "note_model_uuid": "c7da95f8-89c9-11ec-9683-3c58c2d0fe16",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",

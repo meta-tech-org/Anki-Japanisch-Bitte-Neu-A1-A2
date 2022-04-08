@@ -251,6 +251,19 @@
                                             "tags": []
                                         }
                                     ]
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "85f67501-af8f-4ed9-b15d-825a2617b677",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "24bb3441-7ab1-11ec-9b66-0c7a15ee466f",
@@ -314,6 +327,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d4c74b7c-c90f-44b2-9b81-446907b03ac1",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -501,6 +527,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "90f8fe91-24d1-4dba-a62d-033ac6d5d34b",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "f12acd4f-7b99-11ec-92b0-0c7a15ee466f",
@@ -662,6 +701,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "ef7c7dfe-edde-4f3c-8db8-8ba6a5a27aee",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "bd9e5675-af9d-11ec-8545-0c7a15ee466f",
@@ -794,6 +846,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "52b931d0-380f-4242-b302-f560c53b774c",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -1073,6 +1138,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "0f2f6f69-6262-4bb1-ac69-67049c220409",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "afc7071d-81cf-11ec-81af-0c7a15ee466f",
@@ -1200,6 +1278,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "6c8a899d-dfd7-46dc-b2cb-4da6f60570f5",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c56af858-838e-11ec-8c6a-0c7a15ee466f",
@@ -1270,6 +1361,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "04da56a7-aecd-4c25-a9ed-7687df276fdb",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -1499,6 +1603,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "ada2d8d5-11e4-4c4c-b58a-1e24dcc77d8b",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "afca1fa5-81cf-11ec-9276-0c7a15ee466f",
@@ -1686,6 +1803,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "55cafd33-30fb-48ac-954e-4103f7b2c36a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -2114,6 +2244,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "fff51da8-2e36-403e-a408-7f11a2ec5224",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5700188-838e-11ec-b45f-0c7a15ee466f",
@@ -2337,6 +2480,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d32c7564-85c7-4c99-a6cb-662493f115d5",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -2746,6 +2902,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "fa711f44-60a9-4414-bd19-6cf653d557bb",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5730eb3-838e-11ec-b55b-0c7a15ee466f",
@@ -3079,6 +3248,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "9e74ffe8-ed78-4f9f-84f8-1c4f60b2addf",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -3739,6 +3921,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8dda4c7a-292a-4258-bb24-6506a6aefc5e",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5761bf3-838e-11ec-b765-0c7a15ee466f",
@@ -4167,6 +4362,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "daba5a74-339a-4425-93d6-497a8c075ec0",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5772d69-838e-11ec-a481-0c7a15ee466f",
@@ -4562,6 +4770,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "2833eaea-0b60-4421-8c13-28e642a62c7f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5783edc-838e-11ec-8395-0c7a15ee466f",
@@ -4930,6 +5151,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b101ee33-6766-48d7-bcb3-491c604403d8",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -5413,6 +5647,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "5ce37967-89d3-4442-8aa1-eea69e7e6baa",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c57b2503-838e-11ec-a191-0c7a15ee466f",
@@ -5870,6 +6117,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "4c0d331a-7341-4a2c-b9ae-da04fb31ada6",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -6373,6 +6633,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "772ce765-91e3-4c62-8e1a-ccc943f5db7d",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c57e324d-838e-11ec-8046-0c7a15ee466f",
@@ -6826,6 +7099,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "b2a09001-7581-4b26-996f-c46c73bed72a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -7406,6 +7692,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "61aad1f3-96e2-4a73-803a-21913446ed56",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c5802e17-838e-11ec-913e-0c7a15ee466f",
@@ -7756,6 +8055,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "f6eff99e-5c3d-4762-b6fa-8d9698323cd8",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -8280,6 +8592,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "19ed3022-793d-41fd-a5ac-02b508916f2f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -8928,6 +9253,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "8a461797-d8d0-48b5-8827-d6c4b9c322eb",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "dc1cae39-88ed-11ec-a41e-0c7a15ee466f",
@@ -9181,6 +9519,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "4baf304e-d1c4-4c6b-b45c-aff84b34ec10",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -9748,6 +10099,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "541abbf8-7475-4090-9f19-a4f3fa8e4d39",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "4e6be57d-88ed-11ec-b014-704d7b2ee0df",
@@ -9999,6 +10363,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "34fcff05-e727-4494-bb59-9537c4611a82",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -10653,6 +11030,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "acd867f0-a6be-4530-b5a8-39f58d7a1ab6",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63c1ee44-8395-11ec-84ae-0c7a15ee466f",
@@ -11138,6 +11528,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d154c717-f02e-4801-8842-b8ea452cdb03",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -11671,6 +12074,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "244387f8-a66a-4c00-9893-f232eabba015",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -12256,6 +12672,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "a39dc286-242e-48da-a749-ccc7e293d4f1",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -12984,6 +13413,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "171bccd9-0c04-4f7a-8862-9c10a426b788",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63c71e64-8395-11ec-a8bd-0c7a15ee466f",
@@ -13655,6 +14097,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "38aeff22-e82f-4fc7-82fa-5c0d17db1cf4",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "8bfdd5c1-8b59-11ec-9ead-0c7a15ee466f",
@@ -14031,6 +14486,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "6b232c85-bd49-41ce-8bc0-de476c1e2950",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -14575,6 +15043,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "7c9cf126-3a46-423a-9f58-80ed05290bd7",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -15251,6 +15732,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "c718af65-7886-4335-8ae7-b4421a20b2ef",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "1cdec8ef-8c02-11ec-8bdf-3c58c2d0fe16",
@@ -15537,6 +16031,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "076d0f15-ced0-41f6-bf53-5ad76edc27a8",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "e30d07fe-8c05-11ec-818c-3c58c2d0fe16",
@@ -15811,6 +16318,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "7b186d4c-6161-4623-b0e7-8208d042599d",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -16149,6 +16669,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "4f819a3b-1889-4943-b916-9af659a744ae",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -17085,6 +17618,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "e5b88faf-5c90-4dd4-9de9-199b28bd52af",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63cb1606-8395-11ec-a1a8-0c7a15ee466f",
@@ -17413,6 +17959,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "dc36ca23-e107-4f96-adf3-57e9ee3bc0aa",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "c7da47c7-89c9-11ec-8c22-3c58c2d0fe16",
@@ -17727,6 +18286,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "ed980693-939d-498e-a2ea-919552a21748",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],
@@ -19449,6 +20021,19 @@
                                     "media_files": [],
                                     "name": "01 Kana",
                                     "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "d11401ec-38cb-47f0-b318-8d5fbdf16a2f",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
+                                    "notes": []
                                 }
                             ],
                             "crowdanki_uuid": "63d01f13-8395-11ec-bc29-0c7a15ee466f",
@@ -19475,6 +20060,19 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
+                                    "notes": []
+                                },
+                                {
+                                    "__type__": "Deck",
+                                    "children": [],
+                                    "crowdanki_uuid": "ce4efb56-fd8d-4f27-bcc9-152c02bebd4a",
+                                    "deck_config_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
+                                    "desc": "",
+                                    "dyn": 0,
+                                    "extendNew": 0,
+                                    "extendRev": 0,
+                                    "media_files": [],
+                                    "name": "02 Vokabeln",
                                     "notes": []
                                 }
                             ],

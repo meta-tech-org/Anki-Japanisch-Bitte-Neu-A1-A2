@@ -5786,28 +5786,6 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "スポーツは 何[なに]をしますか。",
-                                                "Was Sport angeht, <b>was </b>treiben Sie?",
-                                                ""
-                                            ],
-                                            "guid": "y_K+]+5=^O",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "スポーツは にがてです。",
-                                                "(Ich) bin nicht gut im Sport.",
-                                                ""
-                                            ],
-                                            "guid": "P!jv&D^GB/",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
                                                 "A: ドイツ 人[じん]はよくやきゅうをしますか。<br>B: いいえ、あまりしません。",
                                                 "A: Spielen die <b>Deutschen </b>oft BasebaII?<br>B: Nein, (Baseball) spielen sie nicht so oft.",
                                                 ""
@@ -5901,6 +5879,28 @@
                                                 ""
                                             ],
                                             "guid": "lVM=HW~)%z",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スポーツは 何[なに]をしますか。",
+                                                "Was Sport angeht, <b>was </b>treiben Sie?",
+                                                ""
+                                            ],
+                                            "guid": "y_K+]+5=^O",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スポーツは にがてです。",
+                                                "(Ich) bin nicht gut im Sport.",
+                                                ""
+                                            ],
+                                            "guid": "P!jv&D^GB/",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                                             "tags": []
                                         }
@@ -22638,9 +22638,120 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "paste-75e47c8c95e0f0c0c1ea5c14d98aa2d58f1e33b0.jpg"
+                            ],
                             "name": "A",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "好き",
+                                        "<b>mögen, lieben</b>",
+                                        "<img src=\"paste-75e47c8c95e0f0c0c1ea5c14d98aa2d58f1e33b0.jpg\">",
+                                        ""
+                                    ],
+                                    "guid": "l}|O2-m3Cj",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "たべもの",
+                                        "Essen, Lebensmittel",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "o!kt%B|gi}",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ところで",
+                                        "Übrigens",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "x=C6[Qxm)@",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "オレンジ",
+                                        "Orange",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "QXgI*zcZsq",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ジャム",
+                                        "Marmelade",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "M@Q{-haL~(",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "スープ",
+                                        "Suppe",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "omoN~PX:r>",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ヨーグルト",
+                                        "Joghurt",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "t+.mI0!cP*",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ハーブ",
+                                        "Kräuter",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Fqf.a<y-<w",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ハーブティー",
+                                        "Kräutertee",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "QH_c:h(hjI",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         },
                         {
                             "__type__": "Deck",
@@ -22745,9 +22856,241 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [],
+                            "media_files": [
+                                "paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg",
+                                "番.png"
+                            ],
                             "name": "B",
-                            "notes": []
+                            "notes": [
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "デユ",
+                                        "Due",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "ccuE5=_qWz",
+                                    "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "番",
+                                        "<b>Nummer</b>",
+                                        "<img src=\"paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg\">",
+                                        ""
+                                    ],
+                                    "guid": "zs|&sN4kZQ",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "おいしい",
+                                        "schmackhaft, lecker",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "M+%|aLwcy/",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "きょねん",
+                                        "letztes Jahr",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "cX8nI+swec",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "アメリカンフットボール",
+                                        "amerikanischer Football",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "O@2g)6XY|H",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "スケート",
+                                        "Schlittschuhlaufen",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "tR(3r*7VST",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "サイクリング",
+                                        "Radfahren,Radtour",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Ew0T_y>^7`",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "クラシック",
+                                        "klassische Musik",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "Jep2BaOG.v",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ロック",
+                                        "Rockmusik",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "tdLy[rH1+^",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ポップ",
+                                        "Popmusik",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "sy{&Xu&6|",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ジャズ",
+                                        "Jazz",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "L`ItctZT0X",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ブルース",
+                                        "Blues",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "v3-r|0NuZe",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "シャンソン",
+                                        "Chanson",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "mHZOgb-=Sx",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "テレビ",
+                                        "Fernseher",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "vTL-H})swm",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "ソーセージ",
+                                        "Wurst",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "ik236YD5=/",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "チーム",
+                                        "Mannschaft",
+                                        "",
+                                        ""
+                                    ],
+                                    "guid": "I){ubyKo5P",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "一番",
+                                        "Am <b>besten</b>, bzw. am <b>liebsten</b>",
+                                        "<img src=\"番.png\">",
+                                        ""
+                                    ],
+                                    "guid": "tp%o^LO(dC",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "番ぐみ",
+                                        "<b>Sendung</b>",
+                                        "<img src=\"番.png\">",
+                                        ""
+                                    ],
+                                    "guid": "ia0E71_E,A",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                },
+                                {
+                                    "__type__": "Note",
+                                    "fields": [
+                                        "テレビ番ぐみ，ラジオ番ぐみ",
+                                        "<b>Fernseh-Radioprogramm</b>",
+                                        "<img src=\"番.png\">",
+                                        ""
+                                    ],
+                                    "guid": "q<h6t<_Lh?",
+                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                    "tags": []
+                                }
+                            ]
                         }
                     ],
                     "crowdanki_uuid": "63cf34bc-8395-11ec-a8c1-0c7a15ee466f",
@@ -22869,251 +23212,6 @@
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
                 "perDay": 50
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": false,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "268c3ebf-2d30-11ec-b5f4-0c7a15ee466f",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": true,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": false,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "a3685ff6-81d0-11ec-ab30-3c58c2d0fe16",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 0,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "2a3c29ae-af9e-11ec-b077-0c7a15ee466f",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Japanisch::A1.2",
-            "new": {
-                "bury": true,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 5
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 50
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "4e6c0c7e-88ed-11ec-b25b-704d7b2ee0df",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Default",
-            "new": {
-                "bury": false,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": false,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
-            },
-            "reviewOrder": 0,
-            "timer": 0
-        },
-        {
-            "__type__": "DeckConfig",
-            "autoplay": true,
-            "buryInterdayLearning": false,
-            "crowdanki_uuid": "2a63d764-af9e-11ec-98dd-0c7a15ee466f",
-            "dyn": false,
-            "interdayLearningMix": 0,
-            "lapse": {
-                "delays": [
-                    10.0
-                ],
-                "leechAction": 1,
-                "leechFails": 8,
-                "minInt": 1,
-                "mult": 0.0
-            },
-            "maxTaken": 60,
-            "name": "Japanisch::A2.1",
-            "new": {
-                "bury": true,
-                "delays": [
-                    1.0,
-                    10.0
-                ],
-                "initialFactor": 2500,
-                "ints": [
-                    1,
-                    4,
-                    0
-                ],
-                "order": 1,
-                "perDay": 20
-            },
-            "newGatherPriority": 0,
-            "newMix": 0,
-            "newPerDayMinimum": 0,
-            "newSortOrder": 0,
-            "replayq": true,
-            "rev": {
-                "bury": true,
-                "ease4": 1.3,
-                "hardFactor": 1.2,
-                "ivlFct": 1.0,
-                "maxIvl": 36500,
-                "perDay": 200
             },
             "reviewOrder": 0,
             "timer": 0
@@ -23445,6 +23543,104 @@
             "replayq": true,
             "rev": {
                 "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "2a3c29ae-af9e-11ec-b077-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch::A1.2",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 5
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 50
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "2a63d764-af9e-11ec-98dd-0c7a15ee466f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Japanisch::A2.1",
+            "new": {
+                "bury": true,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": true,
                 "ease4": 1.3,
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,

@@ -22575,9 +22575,120 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "paste-75e47c8c95e0f0c0c1ea5c14d98aa2d58f1e33b0.jpg"
+                                    ],
                                     "name": "02 Vokabeln",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "好き",
+                                                "<b>mögen, lieben</b>",
+                                                "<img src=\"paste-75e47c8c95e0f0c0c1ea5c14d98aa2d58f1e33b0.jpg\">",
+                                                ""
+                                            ],
+                                            "guid": "l}|O2-m3Cj",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "たべもの",
+                                                "Essen, Lebensmittel",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "o!kt%B|gi}",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ところで",
+                                                "Übrigens",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "x=C6[Qxm)@",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "オレンジ",
+                                                "Orange",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "QXgI*zcZsq",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ジャム",
+                                                "Marmelade",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "M@Q{-haL~(",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スープ",
+                                                "Suppe",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "omoN~PX:r>",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ヨーグルト",
+                                                "Joghurt",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "t+.mI0!cP*",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ハーブ",
+                                                "Kräuter",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Fqf.a<y-<w",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ハーブティー",
+                                                "Kräutertee",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "QH_c:h(hjI",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -22638,120 +22749,9 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [
-                                "paste-75e47c8c95e0f0c0c1ea5c14d98aa2d58f1e33b0.jpg"
-                            ],
+                            "media_files": [],
                             "name": "A",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "好き",
-                                        "<b>mögen, lieben</b>",
-                                        "<img src=\"paste-75e47c8c95e0f0c0c1ea5c14d98aa2d58f1e33b0.jpg\">",
-                                        ""
-                                    ],
-                                    "guid": "l}|O2-m3Cj",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "たべもの",
-                                        "Essen, Lebensmittel",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "o!kt%B|gi}",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ところで",
-                                        "Übrigens",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "x=C6[Qxm)@",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "オレンジ",
-                                        "Orange",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "QXgI*zcZsq",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ジャム",
-                                        "Marmelade",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "M@Q{-haL~(",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "スープ",
-                                        "Suppe",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "omoN~PX:r>",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ヨーグルト",
-                                        "Joghurt",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "t+.mI0!cP*",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ハーブ",
-                                        "Kräuter",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "Fqf.a<y-<w",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ハーブティー",
-                                        "Kräutertee",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "QH_c:h(hjI",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         },
                         {
                             "__type__": "Deck",
@@ -22793,9 +22793,241 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg",
+                                        "番.png"
+                                    ],
                                     "name": "02 Vokabeln",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "デユ",
+                                                "Due",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "ccuE5=_qWz",
+                                            "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "番",
+                                                "<b>Nummer</b>",
+                                                "<img src=\"paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg\">",
+                                                ""
+                                            ],
+                                            "guid": "zs|&sN4kZQ",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おいしい",
+                                                "schmackhaft, lecker",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "M+%|aLwcy/",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "きょねん",
+                                                "letztes Jahr",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "cX8nI+swec",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "アメリカンフットボール",
+                                                "amerikanischer Football",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "O@2g)6XY|H",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スケート",
+                                                "Schlittschuhlaufen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "tR(3r*7VST",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "サイクリング",
+                                                "Radfahren,Radtour",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Ew0T_y>^7`",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "クラシック",
+                                                "klassische Musik",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Jep2BaOG.v",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ロック",
+                                                "Rockmusik",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "tdLy[rH1+^",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ポップ",
+                                                "Popmusik",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "sy{&Xu&6|",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ジャズ",
+                                                "Jazz",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "L`ItctZT0X",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ブルース",
+                                                "Blues",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "v3-r|0NuZe",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "シャンソン",
+                                                "Chanson",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "mHZOgb-=Sx",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "テレビ",
+                                                "Fernseher",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "vTL-H})swm",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ソーセージ",
+                                                "Wurst",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "ik236YD5=/",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "チーム",
+                                                "Mannschaft",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "I){ubyKo5P",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "一番",
+                                                "Am <b>besten</b>, bzw. am <b>liebsten</b>",
+                                                "<img src=\"番.png\">",
+                                                ""
+                                            ],
+                                            "guid": "tp%o^LO(dC",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "番ぐみ",
+                                                "<b>Sendung</b>",
+                                                "<img src=\"番.png\">",
+                                                ""
+                                            ],
+                                            "guid": "ia0E71_E,A",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "テレビ番ぐみ，ラジオ番ぐみ",
+                                                "<b>Fernseh-Radioprogramm</b>",
+                                                "<img src=\"番.png\">",
+                                                ""
+                                            ],
+                                            "guid": "q<h6t<_Lh?",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -22856,241 +23088,9 @@
                             "dyn": 0,
                             "extendNew": 0,
                             "extendRev": 0,
-                            "media_files": [
-                                "paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg",
-                                "番.png"
-                            ],
+                            "media_files": [],
                             "name": "B",
-                            "notes": [
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "デユ",
-                                        "Due",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "ccuE5=_qWz",
-                                    "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "番",
-                                        "<b>Nummer</b>",
-                                        "<img src=\"paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg\">",
-                                        ""
-                                    ],
-                                    "guid": "zs|&sN4kZQ",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "おいしい",
-                                        "schmackhaft, lecker",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "M+%|aLwcy/",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "きょねん",
-                                        "letztes Jahr",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "cX8nI+swec",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "アメリカンフットボール",
-                                        "amerikanischer Football",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "O@2g)6XY|H",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "スケート",
-                                        "Schlittschuhlaufen",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "tR(3r*7VST",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "サイクリング",
-                                        "Radfahren,Radtour",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "Ew0T_y>^7`",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "クラシック",
-                                        "klassische Musik",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "Jep2BaOG.v",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ロック",
-                                        "Rockmusik",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "tdLy[rH1+^",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ポップ",
-                                        "Popmusik",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "sy{&Xu&6|",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ジャズ",
-                                        "Jazz",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "L`ItctZT0X",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ブルース",
-                                        "Blues",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "v3-r|0NuZe",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "シャンソン",
-                                        "Chanson",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "mHZOgb-=Sx",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "テレビ",
-                                        "Fernseher",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "vTL-H})swm",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "ソーセージ",
-                                        "Wurst",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "ik236YD5=/",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "チーム",
-                                        "Mannschaft",
-                                        "",
-                                        ""
-                                    ],
-                                    "guid": "I){ubyKo5P",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "一番",
-                                        "Am <b>besten</b>, bzw. am <b>liebsten</b>",
-                                        "<img src=\"番.png\">",
-                                        ""
-                                    ],
-                                    "guid": "tp%o^LO(dC",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "番ぐみ",
-                                        "<b>Sendung</b>",
-                                        "<img src=\"番.png\">",
-                                        ""
-                                    ],
-                                    "guid": "ia0E71_E,A",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                },
-                                {
-                                    "__type__": "Note",
-                                    "fields": [
-                                        "テレビ番ぐみ，ラジオ番ぐみ",
-                                        "<b>Fernseh-Radioprogramm</b>",
-                                        "<img src=\"番.png\">",
-                                        ""
-                                    ],
-                                    "guid": "q<h6t<_Lh?",
-                                    "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                    "tags": []
-                                }
-                            ]
+                            "notes": []
                         }
                     ],
                     "crowdanki_uuid": "63cf34bc-8395-11ec-a8c1-0c7a15ee466f",

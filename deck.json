@@ -1369,7 +1369,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "こんばんは。Behrmannです。ドイツ 人です。",
-                                                "Guten Abend! Mein Name ist <i>Behrmann</i>. Ich bin Deutsch<b>er</b>.",
+                                                "Guten Abend! Ich bin&nbsp;<i>Behrmann</i>. Ich bin Deutsch<b>er</b>.",
                                                 ""
                                             ],
                                             "guid": "ptT[Iu$Op-",
@@ -9742,7 +9742,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "こんどの土曜日に日本語クラスのパーティーをしましょうか。",
-                                                "Wollen wir nächsten <b>Samstag </b>zur Party der <b>Japanisch</b>klasse?",
+                                                "Wollen wir nächsten <b>Samstag die&nbsp;</b>Party der <b>Japanisch</b>klasse machen?",
                                                 ""
                                             ],
                                             "guid": "q}VyR3-3E&",
@@ -17514,7 +17514,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: げんきでしたか。<br>B: ええ、とてもげんきでした。",
-                                                "A: Ging es ihr gut?<br>B: Ja, ihr ging es sehr gut.",
+                                                "A: Ging es (ihr) gut?<br>B: Ja, (ihr) ging es sehr gut.",
                                                 ""
                                             ],
                                             "guid": "d@lSdhF%Vg",
@@ -21542,7 +21542,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: いらっしゃいませ。 何[なに] 名[めい]さまですか。<br>B: 五[ご] 人[にん]です。<br>A: 五[ご]&nbsp;名[めい]さまですね。どうぞ。",
-                                                "A: Herzlich willkommen. <b>Wie viele</b> sind Sie?<br>B: Wie sind <b>fünf</b>/ zu <b>fünft</b>.<br>A. <b>Fünf Personen</b>. Bitte (hierher)!",
+                                                "A: Herzlich willkommen. <b>Wie viele</b> sind Sie?<br>B: Wir sind <b>fünf</b>/ zu <b>fünft</b>.<br>A. <b>Fünf Personen</b>. Bitte (hierher)!",
                                                 ""
                                             ],
                                             "guid": "nD^En^S8AD",
@@ -22089,7 +22089,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "みせの人",
+                                                "みせの 人[ひと]",
                                                 "Ladenanstellung, Bedienung",
                                                 "",
                                                 " [sound:googletts-2ef040dd-491f22cc-82ba2ae0-25360d09-1bc2fa5f.mp3]"

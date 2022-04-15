@@ -5786,6 +5786,28 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "スポーツは 何[なに]をしますか。",
+                                                "Was Sport angeht, <b>was </b>treiben Sie?",
+                                                ""
+                                            ],
+                                            "guid": "y_K+]+5=^O",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スポーツは にがてです。",
+                                                "(Ich) bin nicht gut im Sport.",
+                                                ""
+                                            ],
+                                            "guid": "P!jv&D^GB/",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "A: ドイツ 人[じん]はよくやきゅうをしますか。<br>B: いいえ、あまりしません。",
                                                 "A: Spielen die <b>Deutschen </b>oft BasebaII?<br>B: Nein, (Baseball) spielen sie nicht so oft.",
                                                 ""
@@ -5879,28 +5901,6 @@
                                                 ""
                                             ],
                                             "guid": "lVM=HW~)%z",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "スポーツは 何[なに]をしますか。",
-                                                "Was Sport angeht, <b>was </b>treiben Sie?",
-                                                ""
-                                            ],
-                                            "guid": "y_K+]+5=^O",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "スポーツは にがてです。",
-                                                "(Ich) bin nicht gut im Sport.",
-                                                ""
-                                            ],
-                                            "guid": "P!jv&D^GB/",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
                                             "tags": []
                                         }

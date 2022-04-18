@@ -92,6 +92,17 @@
                                             "guid": "rKE^Ch9H;}",
                                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "さかなが　好きです。<br>ばばさんは　何が　好きですか。",
+                                                "Ich esse gerne Fisch.&nbsp;<br>Und sie Frau Baba, was mögen&nbsp; sie?",
+                                                ""
+                                            ],
+                                            "guid": "Inu2,>z::F",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -23036,7 +23047,20 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "好き",
+                                                "suki",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "J`cNs]n~R1",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23186,7 +23210,63 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "さかなが　好きです。<br>ばばさんは　何が　好きですか。",
+                                                "Ich esse gerne Fisch.&nbsp;<br>Und sie Frau Baba, was mögen&nbsp; sie?",
+                                                ""
+                                            ],
+                                            "guid": "Inu2,>z::F",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "わたしは　にくが　好きです。",
+                                                "Ich esse gerne Fleisch",
+                                                ""
+                                            ],
+                                            "guid": "H?sQ@<}{Ah",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "たべものは 何が好きですか。",
+                                                "Was für ein Gericht/Essen mögen Sie?",
+                                                ""
+                                            ],
+                                            "guid": "zC`G8rx~$c",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ワインが いいです",
+                                                "Ich hätte gerne Wein.",
+                                                ""
+                                            ],
+                                            "guid": "p`4ZP565v.",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ところで　のみものは 何が いいてすか",
+                                                "Übrigens, was möchten Sie als Getränk am liebsten?/ Was möchten sie trinken?",
+                                                ""
+                                            ],
+                                            "guid": "i&NM>YFJ:x",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23252,6 +23332,30 @@
                                             ],
                                             "guid": "f>wDq]zB_1",
                                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "デュ",
+                                                "due wie in Fondue",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "GIX^^O~$u9",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "番",
+                                                "Ban, ばん",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "i[BNJU:GOx",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                                             "tags": []
                                         }
                                     ]
@@ -23578,7 +23682,56 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "番",
+                                                "Ban, ばん",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "i[BNJU:GOx",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "くう",
+                                                "Langes ku",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "h=YH(0h,99",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "見ます",
+                                                "Mimasu, みます",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "fq`hqm}jQ|",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "行きます",
+                                                "いきます; Ikimasu",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Hi[[kL?ZXK",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23591,7 +23744,152 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "02 Vokabeln",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "見ます",
+                                                "sehen,anschauen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "M7$I8^ze>g",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "とリます",
+                                                "nehmen, (Fotos) aufnehmen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "hjGlB_s)1>",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "まちます",
+                                                "warten",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "zsaT|wl$2B",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "しゃしん",
+                                                "Foto",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "F6E_%=~[X&",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "くうこう",
+                                                "Flughafen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "wJi$(up%ct",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "この",
+                                                "dies (+ Substantiv)",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "p}yf5|s`0{",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "じゅうしょ",
+                                                "Adresse, Anschrif",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "bS/WkJKhA_",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "アドレス",
+                                                "E-MailAdress",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "f?XNFs*jJ^",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "（お）まつリ",
+                                                "Fest",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "N?IOEJ_>Yl",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ゃ",
+                                                "(Partikel zur Aufzahlung) und&nbsp;",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Q/?fVr[a@z",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "富士山",
+                                                "Fujiyama,Berg Fuji",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "DB>]^(`:2_",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "山車",
+                                                "geschmückter Festwagen<br>だし",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "GVv[]-t}p4",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23604,7 +23902,18 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wozu dient der Partikel や?",
+                                                "Die Partikel や dient der Verknüpfung oder Aufzahlung von Gegenstanden und Begriffen,<br>die exemplarisch aus einer größeren Menge herausgegriffen werden. Die Funktion der betreffenden Wörter im Satz wird durch die Partikel hinter dem letzten Aufzählungsglied bestimmt.<br>Beispiel: 東京や ベルリンは 大きい まちてす。Tokio und Berlin (beispielsweise) sind große Städte."
+                                            ],
+                                            "guid": "vz]$CD}4_B",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -25815,6 +26124,88 @@
         },
         {
             "__type__": "NoteModel",
+            "crowdanki_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Japanisch",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Deutsch",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "TTS",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Satz",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        2
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{furigana:Japanisch}}\n\n<hr id=answer>\n\n{{Deutsch}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Satz: Japanisch -> Deutsch",
+                    "ord": 0,
+                    "qfmt": "{{kanji:Japanisch}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Japanisch}}\n{{#TTS}}<br>{{TTS}}<br>{{/TTS}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Satz: Deutsch -> Japanisch",
+                    "ord": 1,
+                    "qfmt": "{{Deutsch}}"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
             "crowdanki_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large{\n\tfont-size:40px;\n}",
             "flds": [
@@ -25899,88 +26290,6 @@
                     "name": "Vokabel: Deutsch -> Japanisch",
                     "ord": 1,
                     "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Deutsch}}</p>"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
-            "crowdanki_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Japanisch",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Deutsch",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "TTS",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Japanisch::Satz",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0,
-                        2
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{furigana:Japanisch}}\n\n<hr id=answer>\n\n{{Deutsch}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Satz: Japanisch -> Deutsch",
-                    "ord": 0,
-                    "qfmt": "{{kanji:Japanisch}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Japanisch}}\n{{#TTS}}<br>{{TTS}}<br>{{/TTS}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Satz: Deutsch -> Japanisch",
-                    "ord": 1,
-                    "qfmt": "{{Deutsch}}"
                 }
             ],
             "type": 0

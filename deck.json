@@ -92,17 +92,6 @@
                                             "guid": "rKE^Ch9H;}",
                                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                                             "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "さかなが　好きです。<br>ばばさんは　何が　好きですか。",
-                                                "Ich esse gerne Fisch.&nbsp;<br>Und sie Frau Baba, was mögen&nbsp; sie?",
-                                                ""
-                                            ],
-                                            "guid": "Inu2,>z::F",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
                                         }
                                     ]
                                 },
@@ -23345,18 +23334,6 @@
                                             "guid": "GIX^^O~$u9",
                                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                                             "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "番",
-                                                "Ban, ばん",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "i[BNJU:GOx",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
                                         }
                                     ]
                                 },
@@ -23629,7 +23606,151 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ところで　おんがくは　何が　好きですか。",
+                                                "Übrigens, was Musik betrifft, <b>was mögen </b>Sie <b>am liebsten</b>?",
+                                                ""
+                                            ],
+                                            "guid": "q}BRtrox1M",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "クラシックが 一番 好きてす。",
+                                                "<b>Am liebsten </b>mag ich klassische Musik.",
+                                                ""
+                                            ],
+                                            "guid": "L<5|J~J=H]",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スポーツはやきゅうが 一番おもしろいてす。",
+                                                "Unter den Sportarten ist Baseball (für mich) <b>am interessantesten</b>.",
+                                                ""
+                                            ],
+                                            "guid": "v|Hy3@?Sa2",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "きょねん ドイツ に,いきました。",
+                                                "Letztes Jahr bin ich nach Deutschland gefahren.",
+                                                ""
+                                            ],
+                                            "guid": "AQ}F=}IIhm",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ドイツは 何が 一番 おいしかったですか。",
+                                                "<b>Was </b>ist in Deutschland am <b>leckersten</b>?",
+                                                ""
+                                            ],
+                                            "guid": "f[5kPK]6_/",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ビールと ソーセージが 一番 おいしかったてす。&nbsp;",
+                                                "Bier und Würstchen sind am <b>leckersten</b>.",
+                                                ""
+                                            ],
+                                            "guid": "d%]r|DSQ0^",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "スポーツは&nbsp;何が&nbsp;一番おもしろいですか",
+                                                "<b>Welcher </b>Sport ist am <b>Interessantesten</b>?",
+                                                ""
+                                            ],
+                                            "guid": "s=UfM/B98T",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おんがくは&nbsp;何が&nbsp;一番好きですか。",
+                                                "<b>Welche</b> Musik <b>magst </b>du am <b>liebsten</b>?",
+                                                ""
+                                            ],
+                                            "guid": "p$W.2PgK{F",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "どこの 車 が一番いいですか。",
+                                                "Welches <b>Auto </b>ist das <b>beste</b>?",
+                                                ""
+                                            ],
+                                            "guid": "LSSHkL}rH]",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ドイツ の車が 一番いいです。",
+                                                "Deutsche Autos sind am besten.",
+                                                ""
+                                            ],
+                                            "guid": "xF<6$4!A+O",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ドイツでは　何という大学が　一番ふるいてすか。",
+                                                "<b>Wie </b>heißt die älteste <b>Hochschule </b>in Deutschland?",
+                                                ""
+                                            ],
+                                            "guid": "xz++p30k!G",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ドイツではハイデルベルクが 一番ふるいてす。",
+                                                "Heidelberg ist die älteste Universität in Deutschland.",
+                                                ""
+                                            ],
+                                            "guid": "u3%&T7:5E1",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "そうてすか…。ハイデルベルク が一番ふるし‘てすよ。",
+                                                "Ist das so? Heidelberg ist wirklich die <b>älteste</b> Universität.",
+                                                ""
+                                            ],
+                                            "guid": "t{DF]CABo_",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -26124,88 +26245,6 @@
         },
         {
             "__type__": "NoteModel",
-            "crowdanki_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
-            "flds": [
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Japanisch",
-                    "ord": 0,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "Deutsch",
-                    "ord": 1,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                },
-                {
-                    "description": "",
-                    "font": "Arial",
-                    "name": "TTS",
-                    "ord": 2,
-                    "rtl": false,
-                    "size": 20,
-                    "sticky": false
-                }
-            ],
-            "latexPost": "\\end{document}",
-            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
-            "latexsvg": false,
-            "name": "Japanisch::Satz",
-            "req": [
-                [
-                    0,
-                    "any",
-                    [
-                        0,
-                        2
-                    ]
-                ],
-                [
-                    1,
-                    "any",
-                    [
-                        1
-                    ]
-                ]
-            ],
-            "sortf": 0,
-            "tags": [],
-            "tmpls": [
-                {
-                    "afmt": "{{furigana:Japanisch}}\n\n<hr id=answer>\n\n{{Deutsch}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Satz: Japanisch -> Deutsch",
-                    "ord": 0,
-                    "qfmt": "{{kanji:Japanisch}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}"
-                },
-                {
-                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Japanisch}}\n{{#TTS}}<br>{{TTS}}<br>{{/TTS}}",
-                    "bafmt": "",
-                    "bfont": "",
-                    "bqfmt": "",
-                    "bsize": 0,
-                    "did": null,
-                    "name": "Satz: Deutsch -> Japanisch",
-                    "ord": 1,
-                    "qfmt": "{{Deutsch}}"
-                }
-            ],
-            "type": 0
-        },
-        {
-            "__type__": "NoteModel",
             "crowdanki_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
             "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n\n.p-large{\n\tfont-size:40px;\n}",
             "flds": [
@@ -26290,6 +26329,88 @@
                     "name": "Vokabel: Deutsch -> Japanisch",
                     "ord": 1,
                     "qfmt": "Übersetze die Vokabel ins Japanische:<br>\n\n<p class=\"p-large\">{{Deutsch}}</p>"
+                }
+            ],
+            "type": 0
+        },
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+            "css": ".card {\n  font-family: arial;\n  font-size: 20px;\n  text-align: center;\n  color: black;\n  background-color: white;\n}\n",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Japanisch",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "Deutsch",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "name": "TTS",
+                    "ord": 2,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Japanisch::Satz",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0,
+                        2
+                    ]
+                ],
+                [
+                    1,
+                    "any",
+                    [
+                        1
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{furigana:Japanisch}}\n\n<hr id=answer>\n\n{{Deutsch}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Satz: Japanisch -> Deutsch",
+                    "ord": 0,
+                    "qfmt": "{{kanji:Japanisch}}\n{{#TTS}}<br>{{TTS}}{{/TTS}}"
+                },
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{furigana:Japanisch}}\n{{#TTS}}<br>{{TTS}}<br>{{/TTS}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "name": "Satz: Deutsch -> Japanisch",
+                    "ord": 1,
+                    "qfmt": "{{Deutsch}}"
                 }
             ],
             "type": 0

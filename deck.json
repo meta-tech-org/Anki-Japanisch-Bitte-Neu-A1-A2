@@ -24921,8 +24921,70 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642764739085,
                                     "name": "02 Vokabeln",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "あのう",
+                                                "Äh…, Hallo, Entschuldigung",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "kY<buypR)X",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おそい",
+                                                "spät, langsam, lange dauernd",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "gfdR<-M-uo",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ちょっと (zeitlich)",
+                                                "(zeitlich) ein bisschen, kurz",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "nF3SW.>2A%",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "まだ",
+                                                "noch, immer noch",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "oPTfu;B^q>",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "グラス",
+                                                "Glas (als Trinkgefäß, nicht als Material)",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "P8Ximx5_rk",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -24934,8 +24996,70 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642765939199,
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was drückt&nbsp;あのう aus?",
+                                                "あのう drückt zögern oder Zurückhaltung aus und wird unter anderem verwendet, um anzudeuten, dass man jemanden ansprechen möchte."
+                                            ],
+                                            "guid": "fA}*KUs]ge",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Gilt あのう als höflich, oder unhöflich?",
+                                                "Anders als das deutsche,,Äh...\" ist あのう ein höflicher Ausdruck."
+                                            ],
+                                            "guid": "jEW=]+K~,%",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was für ein Adjektiv-Typ ist おそい?",
+                                                "おそい ist ein い-Adjektiv"
+                                            ],
+                                            "guid": "I^c8}9E$|a",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie wird&nbsp;まだです häufig übersetzt?",
+                                                "まだです wird jedoch häufig im Sinne von <i>noch nicht</i> verwendet, wobei です in diesem Fall ein verneintes Verb ersetzt."
+                                            ],
+                                            "guid": "O?C+g@_^fY",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was bedeutet&nbsp;おすしはまだですか。",
+                                                "Sind die Sushi noch nicht fertig?"
+                                            ],
+                                            "guid": "g`!cNjfpI$",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was sind mögliche Antworten auf&nbsp;おすしはまだですか。",
+                                                "すみません、すぐ来ます／すぐです。Tut uns leid, sie kommen gleich / Sie sind gleich fertig"
+                                            ],
+                                            "guid": "OyVJ-3l^ge",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -24947,8 +25071,32 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642764953999,
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A:ビール、おそいですね。(Zum Kellner) あのう、ビールはまですか。<br>B: すみません。ちょっとまってください。",
+                                                "A: Mit dem Bier dauert es lange. (Zum Kellner) Entschuldigung! Kommt mein Bier noch nicht?<br>B: Es tut uns leid. Warten Sie bitte ein bisschen.",
+                                                ""
+                                            ],
+                                            "guid": "z=9_u#=S~8",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: あのう、 日本[にほん] 酒[しゅ]はまだですか。<br>B: すみません、すぐです。ちょっとまってください。",
+                                                "A: Ähm, Entschuldigung! Kommt unser<b> japanischer Sake</b> noch nicht?<br>B: Entschuldigung! Sie kommen gleich. Warten Sie bitte noch kurz.",
+                                                ""
+                                            ],
+                                            "guid": "ll-.4Gg`-b",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",

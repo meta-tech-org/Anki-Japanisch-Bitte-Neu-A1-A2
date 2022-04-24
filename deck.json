@@ -25077,7 +25077,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A:ビール、おそいですね。(Zum Kellner) あのう、ビールはまですか。<br>B: すみません。ちょっとまってください。",
+                                                "A:ビール、おそいですね。（おみせの人に)あのう、ビールはまですか。<br>B: すみません。ちょっとまってください。",
                                                 "A: Mit dem Bier dauert es lange. (Zum Kellner) Entschuldigung! Kommt mein Bier noch nicht?<br>B: Es tut uns leid. Warten Sie bitte ein bisschen.",
                                                 ""
                                             ],
@@ -25160,9 +25160,160 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "円.png",
+                                        "屋.PNG",
+                                        "日本円.png",
+                                        "金.png"
+                                    ],
+                                    "mid": 1642764739085,
                                     "name": "02 Vokabeln",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "円[えん]",
+                                                "<b>Yen </b>(japanische Währungseinheit)",
+                                                "<img src=\"円.png\">",
+                                                ""
+                                            ],
+                                            "guid": "QcAc1kW]=p",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おちょこ",
+                                                "kleiner Becher für Sake-Reiswein",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "e*RhO:ym=!",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "かさ",
+                                                "Regenschirm",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "l<7c.vN,p0",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "かんばい",
+                                                "Prost!",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "piW-224@p{",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "くすり",
+                                                "Medikamente",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "q0`[|W$;z}",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "くすり 屋[や]",
+                                                "<b>Apotheke, Apotheker</b>",
+                                                "<img src=\"屋.PNG\">",
+                                                ""
+                                            ],
+                                            "guid": "LDHkY,PbfS",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "はらいます",
+                                                "bezahlen, zahlen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "u6quLN1k:J",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ちず",
+                                                "Landkarte, Stadtplan",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "jLFM]R^*Dz",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "わりかん",
+                                                "gemeinsame Kasse (die gesamte Rechnungssumme wird gleichmaßig aufgeteilt)",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "vBhmgIcOIW",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "チョコレート",
+                                                "Schokolade",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "t-*xMHE`a*",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "日本円[にほんえん]",
+                                                "<b>japanischer Yen</b>",
+                                                "<img src=\"日本円.png\">",
+                                                ""
+                                            ],
+                                            "guid": "Epx)DN,O~K",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "(お)金[おかね]",
+                                                "<b>Geld</b>",
+                                                "<img src=\"金.png\">",
+                                                ""
+                                            ],
+                                            "guid": "AKM`/x!JVi",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -25174,8 +25325,40 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642765939199,
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die&nbsp;て-Form von&nbsp;はらいます?",
+                                                "はらって"
+                                            ],
+                                            "guid": "BF0~6IeXS_",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie werden die Sätze&nbsp;どうしますか und どうしましょうか übersetzt?",
+                                                "<i>Was machen Sie/wir nun?</i> oder <i>Was sollen wir tun?</i>"
+                                            ],
+                                            "guid": "NU*>(ScQOt",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was bedeutet ～ を/はどうしましょうか。",
+                                                "<i>Was sollen wir mit ～&nbsp;machen?</i>"
+                                            ],
+                                            "guid": "iIrlQu,dG",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -25187,8 +25370,164 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642764953999,
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "どうしましょう。お 金[かね]がありません。",
+                                                "Was soll ich / sollen wir machen? Ich habe/Wir haben kein <b>Geld</b>.",
+                                                ""
+                                            ],
+                                            "guid": "K&(+{7~>=L",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: おひるはどうしますか。<br>B: そうですねぇ…。うちてたべます。",
+                                                "A: Wie wollen Sie es mit dem Mittagessen machen?<br>B: Ja…Ich esse zu Hause.",
+                                                ""
+                                            ],
+                                            "guid": "G@.g8+-}+I",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "<b>A: あのう…、おかんじょうはどうしましょうか。</b><br>B: わたしがはらいます。<br>C: いいえ、わたしがはらいます。<br>D: じゃ、わりかんにしましょう。",
+                                                "<b>A: Entschuldigung, wie machen wir es mit dem Bezahlen?</b><br>B: ICH bezahle.<br>C: Nein, ICH bezahle.<br>D: Dann teilen wir eben.",
+                                                ""
+                                            ],
+                                            "guid": "Jvpz4nVW(r",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: あのう…、おかんじょうはどうしましょうか。<br><b>B: わたしがはらいます。</b><br>C: いいえ、わたしがはらいます。<br>D: じゃ、わりかんにしましょう。",
+                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br><b>B: ICH bezahle.</b><br>C: Nein, ICH bezahle.<br>D: Dann teilen wir eben.",
+                                                ""
+                                            ],
+                                            "guid": "fC{2T49{kg",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: あのう…、おかんじょうはどうしましょうか。<br>B: わたしがはらいます。<br><b>C: いいえ、わたしがはらいます。</b><br>D: じゃ、わりかんにしましょう。",
+                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br>B: ICH bezahle.<br><b>C: Nein, ICH bezahle.</b><br>D: Dann teilen wir eben.",
+                                                ""
+                                            ],
+                                            "guid": "K9.(h/BwGw",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: あのう…、おかんじょうはどうしましょうか。<br>B: わたしがはらいます。<br>C: いいえ、わたしがはらいます。<br><b>D: じゃ、わりかんにしましょう。</b>",
+                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br>B: ICH bezahle.<br>C: Nein, ICH bezahle.<br><b>D: Dann teilen wir eben.</b>",
+                                                ""
+                                            ],
+                                            "guid": "M~j=hjJM,?",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: おちょこはどうしましょうか。<br>B: 三[みっ]つください。",
+                                                "A: Was soll ich/sollen wir mit den Sakebechernmachen? /Wie viele Becher möchten Sie?<br>B: Geben Sie bitte <b>drei</b>!",
+                                                ""
+                                            ],
+                                            "guid": "yp%nr[&@/|",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: 日本語[にほんご]のじしょはどうしましょうか。<br>B: 日本[にほん]の 本屋[ほんや]さんでかいましょう。",
+                                                "A: Was sollen&nbsp;wir bezüglich des <b>Japanisch</b>-Lexikons machen?<br>B: Wir sollten es in einer <b>japanischen Buchhandlung </b>kaufen.",
+                                                ""
+                                            ],
+                                            "guid": "pFEYi<~e$9",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: 日本[にほん]のちずはどうしましょうか。<br>B: デパートでかいましょう。",
+                                                "A: Was sollten wir mit der <b>japanischen </b>Karte tun?<br>B: Wir sollten es in einem Kaufhaus kaufen.",
+                                                ""
+                                            ],
+                                            "guid": "ulZ)Cg&Z=9",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: あのう、すみません。 日本[にほん]のワインはありますか。<br>B: すみません。ドイツとフランスのワインはありますが、 日本[にほん]のワインはありません。",
+                                                "A: Ähm, Entschuldigung. Haben Sie <b>japanischen</b> Wein?<br>B: Entschuldigen Sie. Wir haben deutschen und französischen Wein, aber <b>japanischen </b>Wein haben wir nicht.",
+                                                ""
+                                            ],
+                                            "guid": "D@4Jdt4f21",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: ケラーさん、どうしましょうか。<br>B: じゃ、 日本[にほん]のお 酒[さけ]にしませんか。<br>A: そうてすね。そうしましょう。",
+                                                "A: Herr Keller, was sollen wir tun?<br>B: Und warum haben wir keinen <b>japanischen Sake</b>?<br>A: Ja, das ist richtig. Das sollten wir tun.",
+                                                ""
+                                            ],
+                                            "guid": "IJHp~-H/#z",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: じゃ、お 酒[さけ]を 二本[にほん]ください。グラスは 三[みっ]つおねがいします。<br>B: はい。お 酒[さけ] 二本[にほん]、それからおちょこを 三[みっ]つですね。",
+                                                "A: Dann, bitte <b>zwei Sake</b>. Bringen Sie bitte <b>drei </b>Gläser.<br>B: Ja. <b>Zwei Sake </b>und dann <b>drei </b>Sake-Gläschen.",
+                                                ""
+                                            ],
+                                            "guid": "Lse@~mRV%&",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: では、かんばい！<br>B: かんばい！",
+                                                "A: Dann, Prost!<br>B: Prost!",
+                                                ""
+                                            ],
+                                            "guid": "zL[Ng,L~h_",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: おすし、 来[き]ませんね…。（おみせの 人[ひと]に）すみません。おすし、まだですか。<br>B: あ、すぐです。すみません、ちょっとまってください。どうもすみませんでした。おすです。どうぞ。",
+                                                "A: Das Sushi <b>kommt</b> nicht... (Zum <b>Kellner</b>) Verzeihung. Ist das Sushi schon da?<br>B: Ah, bald. Entschuldigen Sie, bitte warten Sie einen Moment. Es tut mir sehr leid. Hier ist dein Sushi. Bitte.",
+                                                ""
+                                            ],
+                                            "guid": "e<GPmIbc6}",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",

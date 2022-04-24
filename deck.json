@@ -24446,9 +24446,137 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "九.png",
+                                        "何本.png",
+                                        "八.png",
+                                        "十.png",
+                                        "本.png"
+                                    ],
+                                    "mid": 1642764739085,
                                     "name": "02 Vokabeln",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "八[はち]",
+                                                "<b>8 </b>(Zahl)",
+                                                "<img src=\"八.png\">",
+                                                ""
+                                            ],
+                                            "guid": "rN2iOQzx3y",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "八[やっ]つ",
+                                                "<b>8 (Zählwort)</b>",
+                                                "<img src=\"八.png\">",
+                                                ""
+                                            ],
+                                            "guid": "G<WcLY67BZ",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "九[きょう/く]",
+                                                "<b>9 (Zahl)</b>",
+                                                "<img src=\"九.png\">",
+                                                ""
+                                            ],
+                                            "guid": "Isxh|uQj]h",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "九[ここの]つ",
+                                                "<b>9 (Zählwort)</b>",
+                                                "<img src=\"九.png\">",
+                                                ""
+                                            ],
+                                            "guid": "nXQb~F`,XE",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "十[じゅう/とお]",
+                                                "<b>10 (Zahl)</b>",
+                                                "<img src=\"十.png\">",
+                                                ""
+                                            ],
+                                            "guid": "v3;7lTv0f}",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "シャンペン",
+                                                "Champagner",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "LV>ep$t_A~",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "トマト",
+                                                "Tomate",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Cb2(}cHyG1",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ロゼ",
+                                                "Rosè-Wein",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "qRg1~4}2}r",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "~本[ほん/ぼん/ぽん]",
+                                                "<b>Zahlwort für längliche Gegenstände</b>",
+                                                "<img src=\"本.png\">",
+                                                ""
+                                            ],
+                                            "guid": "go/*QwtR=c",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "何[なん] 本[ぼん]",
+                                                "<b>Wie viele...</b>",
+                                                "<img src=\"何本.png\">",
+                                                ""
+                                            ],
+                                            "guid": "r-SD_;FeCg",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -24460,8 +24588,150 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642765939199,
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welches Zählwort wird für längliche Gegenstände wie Flaschen, Stifte, Bäume und Ähnliches verwendet?",
+                                                "～本(1本／2本／3本…）（一本／二本／三本…）"
+                                            ],
+                                            "guid": "y])d:CI>1p",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie wird ein Satz gebaut, in dem ein Gegenständ gezählt wird?",
+                                                "Dem zu zählenden Gegenstand folgt eine Partikel (z. B. か, を, は, も usw.), danach kommt die Menge mit Zählwort.<br>Beispiel:&nbsp;きのうビールを一本のみました。<i>Ich habe gestern eine Flasche Bier getrunken</i>"
+                                            ],
+                                            "guid": "dsk2FIn<1t",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 一本&nbsp;(1 länglicher Gegenstand)",
+                                                "一本[いっぽん]"
+                                            ],
+                                            "guid": "Ly1^:gQ+Yh",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 二本 (2 längliche Gegenstände)",
+                                                "二本[にほん]"
+                                            ],
+                                            "guid": "E~/O&@6jX[",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 三本 (3 längliche Gegenstände)",
+                                                "三本[さんぼん]"
+                                            ],
+                                            "guid": "lul$=mWqRf",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 四本 (4 längliche Gegenstände)",
+                                                "四本[よんほん]"
+                                            ],
+                                            "guid": "q4xqKp9%A8",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 五本 (5 längliche Gegenstände)",
+                                                "五本[ごほん]"
+                                            ],
+                                            "guid": "JGmOHv|jN@",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 六本 (6 längliche Gegenstände)",
+                                                "六本[ろっぽん]"
+                                            ],
+                                            "guid": "kEp[IaTVVf",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 七本 (7 längliche Gegenstände)",
+                                                "七本[ななほん]"
+                                            ],
+                                            "guid": "c3ITFFJai@",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von:八本 (8 längliche Gegenstände)",
+                                                "八本[はっぽん/はちほん]"
+                                            ],
+                                            "guid": "qX+w#e:S0s",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 九本 (9 längliche Gegenstände)",
+                                                "九本[きゅうほん]"
+                                            ],
+                                            "guid": "en)02+0d*w",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 十本 (10 längliche Gegenstände)",
+                                                "十本[じっぽん/じゅっぽん]"
+                                            ],
+                                            "guid": "LM%RL+?ePH",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 十一本 (11 längliche Gegenstände)",
+                                                "十一本[じゅういっぽん]"
+                                            ],
+                                            "guid": "m(d$MU0+e-",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie ist die Lesung von: 二十本 (12 längliche Gegenstände)",
+                                                "二十本[にじっぽん/にじゅっぽん]"
+                                            ],
+                                            "guid": "AcN2ju}5vm",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -24473,8 +24743,120 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642764953999,
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "きのうビールを 一本[いっぽん]のみました。",
+                                                "Ich habe gestern <b>eine </b>Flasche Bier getrunken.",
+                                                ""
+                                            ],
+                                            "guid": "G@jBWDG4)0",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ワインが 一本[いっぽん]あります。",
+                                                "Hier ist <b>eine </b>Flasche Wein.",
+                                                ""
+                                            ],
+                                            "guid": "DcVP$pK__2",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ビールも 一本[いっぽん]あります。",
+                                                "Auch <b>eine </b>Flasche Bier ist da.",
+                                                ""
+                                            ],
+                                            "guid": "jp>BZf+e|~",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: 赤[あか]ワイン、ありますか。<br>B: はい。フランスワインとイタりアワイン、それからオーストラリアのワインがあります。",
+                                                "A: Haben Sie <b>Rot</b>wein?<br>B: Ja. Wir haben französischen und italienischen Wein und außerdem australischen Wein.",
+                                                ""
+                                            ],
+                                            "guid": "gOF.5q6H@i",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: どのワインになさいますか。<br>B: フランスの 赤[あか]ワインをおねがいします。",
+                                                "A: Welchen Wein möchten Sie?<br>B: Ich möchte den französischen <b>Rot</b>wein.",
+                                                ""
+                                            ],
+                                            "guid": "QA0//&77XT",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: ビールは 何[なん] 本[ぼん]になさいますか。<br>B: 四本[よんほん]にします。",
+                                                "A: <b>Wie viele</b> Flaschen Bier mochten Sie?<br>B: <b>Vier </b>Flaschen (möchten wir).",
+                                                ""
+                                            ],
+                                            "guid": "z)T-Yf-(~L",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: コーラは 何本[なんぼん]ありますか。<br>B: コーラは 二本[にほん]あります。",
+                                                "A: <b>Wie viele</b> Cola(-flaschen) haben Sie?<br>B: Wir haben <b>2</b> Cola(-flaschen).",
+                                                ""
+                                            ],
+                                            "guid": "G([o?UyH5G",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: シャンペンは 何本[なんぼん]ありますか。<br>B: シャンペンは 八本[はっぽん]あります。",
+                                                "A: <b>Wie viele</b> Champagner(-flaschen) haben Sie?<br>B: Wir haben <b>8</b> Champagner(-flaschen).",
+                                                ""
+                                            ],
+                                            "guid": "C-XJzq>>W0",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: 日本[にほん] 酒[しゅは 何本[なにぼん]になさいますか。<br>B:&nbsp;日本[にほん] 酒[しゅは 十本[じっぽん]にしましょう。",
+                                                "A: <b>Wie viele</b> <b>Japanische Sake</b> möchten Sie haben?<br>B: Wir möchten <b>10 </b><b>Japanische Sake</b> (haben).",
+                                                ""
+                                            ],
+                                            "guid": "-yb`a3H]7",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A:トマトジュースは 何本[なにぼん]になさいますか。<br>B:トマトジュースは 六本[ろっぽん]おねがいします。",
+                                                "A: <b>Wie viele</b> Flaschen Tomatensaft möchten Sie haben?<br>B: Bringen Sie uns bitte <b>6</b> Flaschen Tomatensaft.",
+                                                ""
+                                            ],
+                                            "guid": "r:%ot@G1!P",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",

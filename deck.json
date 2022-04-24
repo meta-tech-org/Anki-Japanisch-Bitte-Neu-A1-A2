@@ -6491,7 +6491,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: いでせんせいはきのう 何[なに]をみましたか。<br>B: 日本[にほん]のえいがをみました。でもNewsはみませんでした。",
-                                                "A: <b>Was </b>hat Lehrerin Ide gestern gesehen?<br>B: Sie hat einen <b>japanischen </b>Film gesehen. Aber Sie hat keine <i>Nachrichten geschaut.</i>",
+                                                "A: <b>Was </b>hat Lehrerin Ide gestern gesehen?<br>B: Sie hat einen <b>japanischen </b>Film gesehen. Aber Sie hat keine <i>Nachrichten </i>geschaut<i>.</i>",
                                                 "[sound:googletts-47031a9a-350e6f35-c5305919-636baa9c-9f2255a5.mp3]"
                                             ],
                                             "guid": "v~h<psN&X#",
@@ -6974,8 +6974,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "アメリカの子どもはアイスホッケーもバスケットボールもします。",
-                                                "Amerikanische Kinder spielen auch Eishockey und Basketball.",
+                                                "アメリカの 子[こ]どもはアイスホッケーもバスケットボールもします。",
+                                                "Amerikanische <b>Kinder</b> spielen auch Eishockey und Basketball.",
                                                 "[sound:googletts-38e75c26-54342bef-39ec05c8-efaa4cb0-cb43a0d2.mp3]"
                                             ],
                                             "guid": "d8diQ(y%Nb",
@@ -7303,7 +7303,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "さんぽ",
-                                                "Sapziergang",
+                                                "Spaziergang",
                                                 "",
                                                 " [sound:googletts-0cf01b3f-b4ee0eda-292a228a-8bf29056-1b8db591.mp3]"
                                             ],
@@ -7363,7 +7363,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "CDをききま",
-                                                "CD hören",
+                                                "<i>CD</i> hören",
                                                 "",
                                                 " [sound:googletts-2ed929e2-91089ca1-548ddf9d-f6b44f72-1465ea30.mp3]"
                                             ],
@@ -7411,7 +7411,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "何[なに]も",
-                                                "nichts, gar nichts",
+                                                "<b>nichts, gar nichts</b>",
                                                 "<img src=\"何.png\">",
                                                 "[sound:googletts-26e1dff7-ef555bdb-2bb594a2-bc22ae4c-2a2d822c.mp3]"
                                             ],
@@ -8121,7 +8121,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: あしたテニスをしませんか<br>B: いいですね。ぜひしましょう。",
+                                                "A: あしたテニスをしませんか。<br>B: いいですね。ぜひしましょう。",
                                                 "A: Willst du morgen Tennis spielen?<br>B: Gute Idee. Lass uns das unbedingt machen!",
                                                 "[sound:googletts-bc5101e7-734a8162-79b9189e-d2ecfce4-4400b8e8.mp3]"
                                             ],
@@ -8750,7 +8750,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "&nbsp;A: おさしみはいかがですか。<br>B: すみません。おさしみはちょっと…。",
-                                                "A: Wie wärs mit rohen Fischfilets?<br>B: Es tut mir leid, aber (ich mag rohen Fisch nicht besonders)...",
+                                                "A: Wie wärs mit rohen Fischfilets?<br>B: Es tut mir leid, aber roher Fisch ist ein wenig...",
                                                 "[sound:googletts-54865b81-43d9f6e6-1217b3a3-8e2e95fc-44dfc653.mp3]"
                                             ],
                                             "guid": "t+Q~BE6KlM",
@@ -8929,7 +8929,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "ざんねんですか",
+                                                "ざんねんですが",
                                                 "leider",
                                                 "",
                                                 " [sound:googletts-47049c5d-823e1e30-50ec5a4b-760c8496-73360840.mp3]"
@@ -9026,7 +9026,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "日曜日に",
-                                                "am Sonntag",
+                                                "am <b>Sonntag</b>",
                                                 "",
                                                 " [sound:googletts-aa55d3a6-30de3de7-06642136-2d70da5c-cdeaf2d0.mp3]"
                                             ],
@@ -9098,7 +9098,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "曜日[ようび]",
-                                                "Wochentag",
+                                                "<b>Wochentag</b>",
                                                 "<img src=\"曜日.png\">",
                                                 "[sound:googletts-664219f7-155a5fd9-c232a045-ae7bb409-9ac10fa9.mp3]"
                                             ],
@@ -9864,7 +9864,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "こんどぜひいっしょに日本りょこうをしましょう。",
+                                                "こんどぜひいっしょに 日本[にっぽん]りょこうをしましょう。",
                                                 "Nächstes Mal machen wir zusammen sicherlich eine <b>Japan</b>-Reise.",
                                                 "[sound:googletts-90cec194-7113b6a2-3b0642f6-6ace041e-6ccfc741.mp3]"
                                             ],
@@ -10552,8 +10552,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "いで: だれがまいにちりようりをしますか。<br>カイザー: (in der Klasse herumschauend) だれもません。",
-                                                "Ide: Wer kocht jeden Tag?<br>Kaiza: Niemand (macht das jeden Tag).",
+                                                "A: だれがまいにちりょうりをしますか。<br>B: (in der Klasse herumschauend) だれもません。",
+                                                "A: Wer kocht jeden Tag?<br>B: Niemand (macht das jeden Tag).",
                                                 "[sound:googletts-903a5b52-4e45930f-eb34227a-555878fc-95ac8fd8.mp3]"
                                             ],
                                             "guid": "w|lPuCyP]",
@@ -18859,7 +18859,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "韓国[かんこく]",
-                                                "(Süd-)Korea",
+                                                "<b>(Süd-)Korea</b>",
                                                 "<img src=\"韓国.png\">",
                                                 "[sound:googletts-48c501d3-33e3b2f5-a7fb7b07-14ee55e9-8dcf6de9.mp3]"
                                             ],
@@ -20098,7 +20098,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A:すみません、きょうは 何[なん] 日[にち]ですか。<br>B: 2月[にがつ]13日[じゅうさんにち]、 金曜日[きんようび]です。",
-                                                "A: Entschuldigung! Der Wieviete (des Monats) ist heute?<br>B: Der 13. Februar, Freitag.",
+                                                "A: Entschuldigung! Der <b>Wievielte </b>(des Monats) ist heute?<br>B: Der <b>13. Februar, Freitag.</b>",
                                                 "[sound:googletts-a6728d56-08334848-d8b6c79c-84a63e21-52b5ff3e.mp3]"
                                             ],
                                             "guid": "tDKb5[]K@j",
@@ -22482,7 +22482,8 @@
                                         "googletts-cbad25d2-01cd6c2d-b5819fee-7960cd8a-9c04076c.mp3",
                                         "googletts-ecdd4f9f-a53fecb0-1186a534-e2a2a32a-51197cb5.mp3",
                                         "googletts-f750a354-5e989dd4-d82dd224-21c22e92-91251360.mp3",
-                                        "googletts-fb5f9a3d-635580fc-2dcad269-b6658ad8-2f5eb786.mp3"
+                                        "googletts-fb5f9a3d-635580fc-2dcad269-b6658ad8-2f5eb786.mp3",
+                                        "酒.png"
                                     ],
                                     "name": "02 Vokabeln",
                                     "notes": [
@@ -22538,7 +22539,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "なさいます",
-                                                "Höflichere Form von shimasu",
+                                                "Höflichere Form von します",
                                                 "",
                                                 " [sound:googletts-cbad25d2-01cd6c2d-b5819fee-7960cd8a-9c04076c.mp3]"
                                             ],
@@ -22562,7 +22563,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "みせの 人[ひと]",
-                                                "Ladenanstellung, Bedienung",
+                                                "Laden<b>anstellung, Bedienung</b>",
                                                 "",
                                                 " [sound:googletts-2ef040dd-491f22cc-82ba2ae0-25360d09-1bc2fa5f.mp3]"
                                             ],
@@ -22611,7 +22612,7 @@
                                             "fields": [
                                                 "お 酒[さけ]",
                                                 "<b>Sake</b>",
-                                                "",
+                                                "<img src=\"酒.png\">",
                                                 "[sound:googletts-aab567fd-81e15088-613deed6-7cc55760-d268a3ac.mp3]"
                                             ],
                                             "guid": "A>hFA-g!uU",
@@ -23352,18 +23353,6 @@
                                     ],
                                     "name": "02 Vokabeln",
                                     "notes": [
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "デユ",
-                                                "Due",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "ccuE5=_qWz",
-                                            "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
-                                            "tags": []
-                                        },
                                         {
                                             "__type__": "Note",
                                             "fields": [

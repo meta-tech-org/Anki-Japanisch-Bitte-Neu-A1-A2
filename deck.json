@@ -28102,7 +28102,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "description": "",
@@ -28111,7 +28111,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -28156,7 +28156,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "description": "",
@@ -28165,7 +28165,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",

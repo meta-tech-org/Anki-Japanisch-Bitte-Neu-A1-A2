@@ -21993,7 +21993,38 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Begrüßung wird von Bedienungen/Verkäufern etc. verwendet?",
+                                                "いらっしゃいませ"
+                                            ],
+                                            "guid": "J:R$^{3NVA",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Begrüßung wird unter guten Bekannten etc. verwendet?",
+                                                "いらっしゃい"
+                                            ],
+                                            "guid": "KnZa[WS#]=",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A:いらっしゃいませ。何名さまですか。<br>B:五人です。<br><br>Warum verwendet A 名 und B 人?",
+                                                "A ist eine Bedienung und redet von der Gruppe in der höflichen Form. B redet über die eigene Gruppe, kann also eine informelle Form verwenden."
+                                            ],
+                                            "guid": "Pc3LybtTc:",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",

@@ -23936,18 +23936,6 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "見ます",
-                                                "Mimasu, みます",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "fq`hqm}jQ|",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
                                                 "行きます",
                                                 "いきます; Ikimasu",
                                                 "",
@@ -23987,8 +23975,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "見ます",
-                                                "sehen,anschauen",
+                                                "見[み]ます",
+                                                "<b>sehen, anschauen</b>",
                                                 "",
                                                 "[sound:googletts-71062bbb-7058de6f-ee60ca8f-c8c14898-35733d19.mp3]"
                                             ],
@@ -24266,7 +24254,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Was sind Beispiele für Gruppe 2 Verben?",
-                                                "たべます　-&gt; たべて<br>見ます -&gt; 見て"
+                                                "たべます　-&gt; たべて<br>見[み]ます -&gt;&nbsp; 見[み]て"
                                             ],
                                             "guid": "x3Y10~Z3.p",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -26201,7 +26189,38 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist der Unterschied zwischen&nbsp;もう (schon) und&nbsp;もう (noch)?",
+                                                "Die Intonation: Bei <i>noch </i>bleibt die Stimme oben, bei <i>schon</i><b> </b>fällt sie ab."
+                                            ],
+                                            "guid": "D,33$R{,`c",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was wird mit dem Zählwort はい gezählt?",
+                                                "Dinge wie:<br><ul><li>Tassen</li><li>Gläser</li><li>Schalen</li><li>etc.</li></ul>"
+                                            ],
+                                            "guid": "e?:tO+->v3",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welches Zählwort gilt für Tassen, Gläser, Schalen etc.?",
+                                                "はい"
+                                            ],
+                                            "guid": "gV|+-!zqq>",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -26597,7 +26616,68 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die&nbsp;て-Form von&nbsp;あけます?",
+                                                "あけて"
+                                            ],
+                                            "guid": "I%.*_-]>dM",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die&nbsp;て-Form von&nbsp;ききます?",
+                                                "きいて"
+                                            ],
+                                            "guid": "yA#48r%Twm",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die&nbsp;て-Form von&nbsp;はいります?",
+                                                "はいって"
+                                            ],
+                                            "guid": "If6>5;EX<F",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie kann gefragt werden, ob man etwas bestimmtes tun darf?",
+                                                "Mit Verb in て-Form + もいいですか.&nbsp;"
+                                            ],
+                                            "guid": "d:L{HZN{;f",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie kann auf ～てもいいですか bejahend geantwortet werden?",
+                                                "いいですよ"
+                                            ],
+                                            "guid": "QP=10nN1i~",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist der Unterschied zwischen&nbsp;この,&nbsp;その und&nbsp;あの?",
+                                                "<ul><li>この: Dieses (hier)<br></li><li>その: Jenes<br></li><li>あの: Jenes (mit Abstand zum Sprecher)<br></li></ul>"
+                                            ],
+                                            "guid": "c.h0_sO)7f",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -26795,7 +26875,528 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die て-Form von がんばります?",
+                                                "がんばって"
+                                            ],
+                                            "guid": "DGdJED;6EN",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche 3 Gruppen an Verben gibt es?",
+                                                "<ul><li><span style=\"color: rgb(55, 58, 60);\">う-Verben (Gruppe I)</span><br></li><li><span style=\"color: rgb(55, 58, 60);\">る-Verben (Gruppe II)<br></span></li><li><span style=\"color: rgb(55, 58, 60);\">Ausnahmen</span></li></ul>"
+                                            ],
+                                            "guid": "Qpi~=m(]$D",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Verben gehören in die Ausnahmegruppe?",
+                                                "きます und&nbsp;します"
+                                            ],
+                                            "guid": "v&ZQVBdz=(",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie wird die einfache Verneinungsform bei Verben der Gruppe I (<span style=\"color: rgb(55, 58, 60);\">う) gebildet?</span>",
+                                                "Der letzte u-Laut wird durch einen a-Laut ersetzt und ein nai angehangen:<br>よむ wird zu よまない"
+                                            ],
+                                            "guid": "b;oobtdM6n",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie wird die einfache Verneinungsform bei Verben der Gruppe II (<span style=\"color: rgb(55, 58, 60);\">る</span><span style=\"color: rgb(55, 58, 60);\">) gebildet?</span>",
+                                                "Das&nbsp;<span style=\"color: rgb(55, 58, 60);\">る wird zu einem&nbsp;</span>ない:<br>みる wird zu みない"
+                                            ],
+                                            "guid": "LC|OqvH(LR",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von 来[き]ます?",
+                                                "来[こ]ない"
+                                            ],
+                                            "guid": "A~^neh_pLI",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von します?",
+                                                "しない"
+                                            ],
+                                            "guid": "yOML&zt.4w",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wie kann man jemanden auffordern, etwas nicht zu tun?",
+                                                "Verb in einfacher Verneinungs (ない)-Form + でください"
+                                            ],
+                                            "guid": "J*M-W~!j@{",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört あいます&nbsp;an?",
+                                                "Gruppe I -&nbsp;<span style=\"color: rgb(55, 58, 60);\">う</span>"
+                                            ],
+                                            "guid": "l:4D=]DXRc",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört かいます&nbsp;an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "C0|M,@*spC",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört&nbsp; 行[い]きます&nbsp;an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "P]/~CX=lc3",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört かきます an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "r>Dh9;M?BY",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört ききます an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "NXA#|?z^K8",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört かえります an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "ihc:y9QG(*",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört がんばります an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "pK6mM*h,*y",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört わかります an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "GLNW]35w%V",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört のみます an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "u8Mp7T}sN#",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört はなします an?",
+                                                "Gruppe I - う"
+                                            ],
+                                            "guid": "f1>;q`cOSC",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört&nbsp; 見[み]ます an?",
+                                                "Gruppe II - る"
+                                            ],
+                                            "guid": "kaBaW[n*Zn",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört たべます an?",
+                                                "Gruppe II - る"
+                                            ],
+                                            "guid": "v_P6V_]{#9",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört あけます an?",
+                                                "Gruppe II - る"
+                                            ],
+                                            "guid": "N>]x33c1WS",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welcher Verbgruppe gehört わすれます an?",
+                                                "Gruppe II - る"
+                                            ],
+                                            "guid": "J:r>S0yCVU",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von わすれます?",
+                                                "わすれる"
+                                            ],
+                                            "guid": "f0!z,R2C=3",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von あけます?",
+                                                "あける"
+                                            ],
+                                            "guid": "AS;NHq1[Q(",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von たべます?",
+                                                "たべる"
+                                            ],
+                                            "guid": "w:cKx1Lb1/",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von&nbsp; 見[み]ます?",
+                                                "見[み]る"
+                                            ],
+                                            "guid": "b@dZ7CLXEY",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von はなします?",
+                                                "はなす"
+                                            ],
+                                            "guid": "GauL{BYN;A",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von のみます?",
+                                                "のむ"
+                                            ],
+                                            "guid": "jcVxq_~Uk/",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von わかります?",
+                                                "わかる"
+                                            ],
+                                            "guid": "b}gtiY7WZ$",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von がんばります?",
+                                                "がんばる"
+                                            ],
+                                            "guid": "cu4VX)DVam",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von かえります?",
+                                                "かえる"
+                                            ],
+                                            "guid": "G1Yc=$@!}H",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von ききます?",
+                                                "きく"
+                                            ],
+                                            "guid": "Ob(5E($if]",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von かきます?",
+                                                "かく"
+                                            ],
+                                            "guid": "Q)j(?v,Gg~",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von&nbsp; 行[い]きます?",
+                                                "行[い]く"
+                                            ],
+                                            "guid": "IMdA`@Sc(^",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von かいます?",
+                                                "かう"
+                                            ],
+                                            "guid": "b5]Fp_*=mP",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von あいます?",
+                                                "あう"
+                                            ],
+                                            "guid": "B|&b.]:a9n",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von します?",
+                                                "する"
+                                            ],
+                                            "guid": "bGO7?,<Q,V",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die Wörterbuchform von 来[き]ます?",
+                                                "来[く]る"
+                                            ],
+                                            "guid": "N564.mElvm",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von あいます?",
+                                                "あわない"
+                                            ],
+                                            "guid": "CSGg*RzT~e",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von かいます?",
+                                                "かわない"
+                                            ],
+                                            "guid": "j`[Y4~A#{B",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von 行[い]きます?",
+                                                "行[い]かない"
+                                            ],
+                                            "guid": "pBz2O/](${",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von かきます?",
+                                                "かかない"
+                                            ],
+                                            "guid": "QM|2WV)q-<",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von ききます?",
+                                                "きかない"
+                                            ],
+                                            "guid": "xmQT9mm|F~",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von かえります?",
+                                                "かえらない"
+                                            ],
+                                            "guid": "h(A>IXGa*;",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von がんばります?",
+                                                "かんばらない"
+                                            ],
+                                            "guid": "BlLoxV$kp0",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von わかります?",
+                                                "わからない"
+                                            ],
+                                            "guid": "vBsecj5j8~",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von のみます?",
+                                                "のまない"
+                                            ],
+                                            "guid": "hx>pyBd/CF",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von はなします?",
+                                                "はなさない"
+                                            ],
+                                            "guid": "JTy9*%7uq4",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von&nbsp; 見[み]ます?",
+                                                "見[み]ない"
+                                            ],
+                                            "guid": "fBSs5+JR4}",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von たべます?",
+                                                "たべない"
+                                            ],
+                                            "guid": "GRQ47.F^$K",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von あけます?",
+                                                "あけない"
+                                            ],
+                                            "guid": "vw(HQpZM[q",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Verneinungsform von わすれます?",
+                                                "わすれない"
+                                            ],
+                                            "guid": "HIX$AB,b_h",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -26987,7 +27588,248 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was passiert mit&nbsp;です bei Nomen und な-Adjektiven in der höflichkeitsneutralen Redeweise?",
+                                                "Es wird zu&nbsp;だ."
+                                            ],
+                                            "guid": "z9BKDtqo?S",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Kann auf die höflichkeitsneutrale Endung&nbsp;だ eine Fragepartikel&nbsp;か folgen?",
+                                                "Häufig wird die Partikel weggelassen und nur die Stimme angehoben."
+                                            ],
+                                            "guid": "dVGJhKUv3T",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was passiert mit&nbsp;です bei い-Adjektiven in der höflichkeitsneutralen Redeweise?",
+                                                "Es fällt einfach weg."
+                                            ],
+                                            "guid": "A_(?XL`7X>",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was verwendet man statt&nbsp;ます in der höflichkeitsneutralen Redeweise?",
+                                                "Die Wörterbuchform."
+                                            ],
+                                            "guid": "c{|}SFUr:-",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was verwendet man statt&nbsp;ません in der höflichkeitsneutralen Redeweise?",
+                                                "Die einfache Verneinungs (ない)-Form."
+                                            ],
+                                            "guid": "nJK[e5AtXv",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was passiert mit Bitten (て-Form+ください) in der höflichkeitsneutralen Redeweise?",
+                                                "Das ください fällt weg."
+                                            ],
+                                            "guid": "KTuY%6}=Ro",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Welche Partikel können in der höflichkeitsneutralen Redewendung oft weggelassen werden?",
+                                                "は,&nbsp;を,&nbsp;に"
+                                            ],
+                                            "guid": "kOezha-iz~",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von わたしからです?",
+                                                "わたしから(だ)"
+                                            ],
+                                            "guid": "k<8WyU^}Qq",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von 日本人です?",
+                                                "日本人(だ)"
+                                            ],
+                                            "guid": "v!ECEYSyo<",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von がんばります?",
+                                                "がんばる"
+                                            ],
+                                            "guid": "wMbA+Gsy|T",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von わすれません?",
+                                                "わすれない"
+                                            ],
+                                            "guid": "dU+tGqrfZQ",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von おいしいですよ?",
+                                                "おいしいよ"
+                                            ],
+                                            "guid": "up5X/6N#{Q",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von げんきです?",
+                                                "げんき(だ)"
+                                            ],
+                                            "guid": "OL#$p4DLm?",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von げんきじゃないです?",
+                                                "げんきじゃない"
+                                            ],
+                                            "guid": "h~xkr5pmyx",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von けっこうです?",
+                                                "いい"
+                                            ],
+                                            "guid": "P1U)-_0x60",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von いいです?",
+                                                "いい"
+                                            ],
+                                            "guid": "GQ.Roq0sQT",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von おげんきで?",
+                                                "げんきで"
+                                            ],
+                                            "guid": "JT~:ANNeE",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von&nbsp; 来[き]てください?",
+                                                "来[き]て"
+                                            ],
+                                            "guid": "EBSX?tb&(b",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von&nbsp;わすれないでください?",
+                                                "わすれないで"
+                                            ],
+                                            "guid": "BT*ckh#P>:",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von&nbsp;あけても いいですか?",
+                                                "あけても いい？"
+                                            ],
+                                            "guid": "uH9e)5o8WG",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von&nbsp;いかがですか?",
+                                                "どう？"
+                                            ],
+                                            "guid": "C4%E1.<$2o",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von&nbsp; 何[なに]をたべますか?",
+                                                "何[なに](を)たべる？"
+                                            ],
+                                            "guid": "i;cf:ZaWSL",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von すみません?",
+                                                "ごめん"
+                                            ],
+                                            "guid": "DVcx]9h+~y",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist die einfache Form von ごめんなさい?",
+                                                "ごめん"
+                                            ],
+                                            "guid": "o+{50s;zno",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -27976,7 +28818,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 },
                 {
                     "description": "",
@@ -27985,7 +28827,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": false
+                    "sticky": true
                 }
             ],
             "latexPost": "\\end{document}",
@@ -28102,7 +28944,7 @@
                     "ord": 0,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 },
                 {
                     "description": "",
@@ -28111,7 +28953,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",

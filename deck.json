@@ -26976,7 +26976,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 100
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -26989,7 +26989,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 1000
             },
             "reviewOrder": 0,
             "timer": 0
@@ -27123,7 +27123,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 5
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -27136,7 +27136,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 50
             },
             "reviewOrder": 0,
             "timer": 0
@@ -27172,7 +27172,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 5
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -27185,7 +27185,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 50
             },
             "reviewOrder": 0,
             "timer": 0
@@ -27221,7 +27221,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 5
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -27234,7 +27234,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 50
             },
             "reviewOrder": 0,
             "timer": 0
@@ -27270,7 +27270,7 @@
                     0
                 ],
                 "order": 1,
-                "perDay": 20
+                "perDay": 5
             },
             "newGatherPriority": 0,
             "newMix": 0,
@@ -27283,7 +27283,7 @@
                 "hardFactor": 1.2,
                 "ivlFct": 1.0,
                 "maxIvl": 36500,
-                "perDay": 200
+                "perDay": 50
             },
             "reviewOrder": 0,
             "timer": 0

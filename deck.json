@@ -23068,20 +23068,7 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
-                                    "notes": [
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "好き",
-                                                "suki",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "J`cNs]n~R1",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
-                                        }
-                                    ]
+                                    "notes": []
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23394,18 +23381,6 @@
                                             ],
                                             "guid": "f>wDq]zB_1",
                                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "デュ",
-                                                "due wie in Fondue",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "GIX^^O~$u9",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                                             "tags": []
                                         }
                                     ]
@@ -23912,18 +23887,6 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "番",
-                                                "Ban, ばん",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "i[BNJU:GOx",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
                                                 "くう",
                                                 "Langes ku",
                                                 "",
@@ -23937,12 +23900,12 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "行きます",
-                                                "いきます; Ikimasu",
+                                                "Gehen",
                                                 "",
                                                 ""
                                             ],
                                             "guid": "Hi[[kL?ZXK",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
                                         }
                                     ]
@@ -23972,18 +23935,6 @@
                                     ],
                                     "name": "02 Vokabeln",
                                     "notes": [
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "見[み]ます",
-                                                "<b>sehen, anschauen</b>",
-                                                "",
-                                                "[sound:googletts-71062bbb-7058de6f-ee60ca8f-c8c14898-35733d19.mp3]"
-                                            ],
-                                            "guid": "M7$I8^ze>g",
-                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                            "tags": []
-                                        },
                                         {
                                             "__type__": "Note",
                                             "fields": [
@@ -24095,6 +24046,30 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "見ます",
+                                                "Sehen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "fq`hqm}jQ|",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "行きます",
+                                                "Gehen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Hi[[kL?ZXK",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "富士山",
                                                 "Fujiyama,Berg Fuji",
                                                 "",
@@ -24113,6 +24088,18 @@
                                                 "[sound:googletts-d500904b-5bd8d87d-deca2164-e35f1c4f-56963488.mp3]"
                                             ],
                                             "guid": "GVv[]-t}p4",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "見[み]ます",
+                                                "<b>sehen, anschauen</b>",
+                                                "",
+                                                "[sound:googletts-71062bbb-7058de6f-ee60ca8f-c8c14898-35733d19.mp3]"
+                                            ],
+                                            "guid": "M7$I8^ze>g",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
                                         }

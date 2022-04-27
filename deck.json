@@ -24260,7 +24260,129 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: こんど ぜひ うちに来てください。<br>B: あリがとうございます。",
+                                                "A: Kommen Sie nachstes Mal unbedingt zu uns!／Sie<br>mussen uns unbedingt mal besuchen!<br>B: Ich bedanke mich fur die Einladung./Vielen Dank!",
+                                                ""
+                                            ],
+                                            "guid": "mc5GyNxG[K",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: 日本語で どうぞ.<br>B: そうてすね。ぜひ日本語てはなしてください。<br>C:&nbsp;わかリました。",
+                                                "A: (Sagen sie es) bitte auf Japanisch!<br>B: Genau. Sprechen Sie bitte unbedingt japanisch!<br>C: Gut!/Einverstanden!",
+                                                ""
+                                            ],
+                                            "guid": "wk*Bhjit;{",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: あしたうちにてんわしてください。<br>B:&nbsp;わかリました。あした でんわします。",
+                                                "A: Rufen sie mich bitte morgen zu Hause an!<br>B: Gut. Ich rufe sie morgen an!",
+                                                ""
+                                            ],
+                                            "guid": "BM_USg;f.r",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: すみません。しゃしんを とってください。<br>B:&nbsp;はい。ちょっと　まってください。",
+                                                "A: Entschuldigen sie! Machen sie bitte ein Foto (von uns)!<br>B: Ja, warten Sie einen kleinen Moment, bitte!",
+                                                ""
+                                            ],
+                                            "guid": "C]y:m-yd3Q",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "この じゅうしょに 行ってください.",
+                                                "Fahren sie bitte zu dieser Adresse!",
+                                                ""
+                                            ],
+                                            "guid": "u75u+jSEg`",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "東京えき まて 行ってください。",
+                                                "Fahren sie mich bitte zum Bahnhof von Tokyo.",
+                                                ""
+                                            ],
+                                            "guid": "6$yx1PAfd",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: Bさん、あした このレストランに 来てください。<br>B: わかリました。じゃ、［あした］ 行きます。",
+                                                "A: Herr B, Gehen sie bitte mit mir morgen ins Restaurant.<br>B: Alles klar/verstanden. Dann lass uns morgen gehen.",
+                                                ""
+                                            ],
+                                            "guid": "I:$o/2eM*n",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "日本人は おまつリが とても好きてす。",
+                                                "Japaner mögen Feste sehr gerne.",
+                                                ""
+                                            ],
+                                            "guid": "J)%~]v!{48",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "都（きょうと）や、奈良（なら）、鎌倉（かまくら）や、高山（たかやま）のおまつリは とても ふるい おまつリ です。",
+                                                "Die Feste von Kyoto, Hara, Kamakura und takayama sind sehr alte Feste.",
+                                                ""
+                                            ],
+                                            "guid": "CeyG:Vo!e}",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "きれいな きものや 山車（だし）や ふるい おんがくは とても&nbsp; いいてすよ。",
+                                                "Schöne Kimonos, Festwagen und alte Musik sind sehr gut.",
+                                                ""
+                                            ],
+                                            "guid": "Qs`l,ePBvJ",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ぜひ　日本で　日本のまつリを　見てください。",
+                                                "Schauen sie sich bitte unbedingt japanische Feste in Japan an.",
+                                                ""
+                                            ],
+                                            "guid": "JY!KXuU.Ex",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",

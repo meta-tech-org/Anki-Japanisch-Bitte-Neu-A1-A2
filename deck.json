@@ -22505,7 +22505,6 @@
                                         "googletts-19c72806-209a2efe-afde701b-0f657fbc-f54a9353-5659a0851bb02528fd8f59f3db053221a6d187d6.mp3",
                                         "googletts-502621fb-a74600d7-5ac93477-56c67ece-f8fcd3e7-f02d5b7be789accc83c4552e5d32afc19983e100.mp3",
                                         "googletts-5f9f959b-cdb48e91-8aa89e49-52756d21-57be892b-61ebed52e9ce378a8afb5845fc4937b4bf4722fa.mp3",
-                                        "googletts-76b34113-6a08f489-a6e46bb7-cb11abbe-05a5deb6-b26d6c0203f6fd12dcc8c7809386b660600dbc7b.mp3",
                                         "googletts-871d5158-e03de4aa-121c7025-b272a5ce-adb59239-b88d91d60cb3501cd3f2afc4e0c83ed2fc8f05db.mp3",
                                         "googletts-8b1af1d0-1e19241b-9577f55c-65d004b6-44c109d5-404a967b21da8ddf79acf2750e945b909cbcbad6.mp3",
                                         "googletts-a834ea6f-05148ff6-2ec4b8c7-d4822c2b-a4b63ba7-0fbd98fa2a69569b29e714dcb26324ced2d30487.mp3",
@@ -22518,18 +22517,6 @@
                                     ],
                                     "name": "02 Vokabeln",
                                     "notes": [
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "ていしょく",
-                                                "Menü, Gedeck",
-                                                "",
-                                                "[sound:googletts-76b34113-6a08f489-a6e46bb7-cb11abbe-05a5deb6-b26d6c0203f6fd12dcc8c7809386b660600dbc7b.mp3]"
-                                            ],
-                                            "guid": "P(pc3fy]T2",
-                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                            "tags": []
-                                        },
                                         {
                                             "__type__": "Note",
                                             "fields": [
@@ -22685,6 +22672,18 @@
                                             "guid": "EWju!T.FwF",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ていしょく",
+                                                "Menü, Gedeck",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "A0k}@P{{Kc",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -22712,7 +22711,118 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: いらっしゃいませ。どうぞ。<br>B: どうも。",
+                                                "A: Herzlich willkommen! (Das ist Tee fur Sie.) Bitte schon!<br>B: Danke schön!",
+                                                ""
+                                            ],
+                                            "guid": "Eo1Y7fFIsD",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "わたしは おすしに します。",
+                                                "Ich nehme Sushi.",
+                                                ""
+                                            ],
+                                            "guid": "cL8)Jc!Ncx",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "わたしは てんぷらてす。",
+                                                "Ich nehme Tempura.",
+                                                ""
+                                            ],
+                                            "guid": "Q)7f1a!yU=",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "何に なさいますか。",
+                                                "Was möchten sie? (im Restaurant)",
+                                                ""
+                                            ],
+                                            "guid": "bZ@!3#,fNG",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "わたしは おさしみていしよくです。",
+                                                "Ich nehme das Sashimi-Menü",
+                                                ""
+                                            ],
+                                            "guid": "k3D.8ct=a7",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "すみません。おみずおねがいします。",
+                                                "Entschuldigung! Bitte bringen Sie mir ein Glas Wasser!",
+                                                ""
+                                            ],
+                                            "guid": "pzgJQ2DAE4",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おかんじょう おねがいします。",
+                                                "Bitte bringen Sie mir die Rechnung!",
+                                                ""
+                                            ],
+                                            "guid": "m3Ml%=z`7}",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "いらっしゃいませ。何になさいますか。",
+                                                "Herzlich Wilkommen. Was nehmen sie?",
+                                                ""
+                                            ],
+                                            "guid": "Qm_($@M8.v",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おのみものは 何に なさいますか。",
+                                                "Was möchten sie trinken?",
+                                                ""
+                                            ],
+                                            "guid": "lK]i/Lx$#7",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: ビールてす、どうぞ。<br>B:&nbsp;どうも。",
+                                                "A: Hier ist ihr Bier. Bitte.<br>B: Danke!",
+                                                ""
+                                            ],
+                                            "guid": "Gt~o+}?}+&",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -22988,7 +23098,108 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Eins?",
+                                                "ひとつ（一つ）"
+                                            ],
+                                            "guid": "J.wsB09Xrx",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Zwei?",
+                                                "ふたつ（二つ）"
+                                            ],
+                                            "guid": "NNYC~B|DS2",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Drei?",
+                                                "みっつ（三つ）"
+                                            ],
+                                            "guid": "C]PgDkMq8V",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Vier?",
+                                                "よっつ（四つ）"
+                                            ],
+                                            "guid": "r=*5abhR`E",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Fünf?",
+                                                "いつつ（五つ）"
+                                            ],
+                                            "guid": "QbT]+]ZcX*",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Sechs?",
+                                                "むっつ（六つ）"
+                                            ],
+                                            "guid": "ugJ~`H$KS@",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Sieben?",
+                                                "ななつ（七つ）"
+                                            ],
+                                            "guid": "e;,=b&[{?n",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Acht?",
+                                                "やっつ"
+                                            ],
+                                            "guid": "bK_9Lu/i|k",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für Neun?",
+                                                "ここのつ"
+                                            ],
+                                            "guid": "m=<|U%ZRjY",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was ist das Zählwort für 10?",
+                                                "とお"
+                                            ],
+                                            "guid": "Lh`PiU6,m2",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23001,7 +23212,85 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A:すみません、ハムサンド おねがいします。<br>B: いくつてすか。<br>A:六つおねがいします。",
+                                                "A: Entschuldigung, ich hätte gerne Sandwiches mit Schinken!<br>B: Wie viele möchten Sie?<br>A: Sechs, bitte!",
+                                                ""
+                                            ],
+                                            "guid": "EEzFTa(<yu",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "きのう アイスクリームを 二つ たべました。",
+                                                "Gestern habe ich zwei Eis gegessen.",
+                                                ""
+                                            ],
+                                            "guid": "s|/U?*;l71",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "てんぷら ひとつ おねがいします。",
+                                                "Ich hätte gerne ein mal Tempura!",
+                                                ""
+                                            ],
+                                            "guid": "b@p8CU+eQ?",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "いしいさんは 何に しますか。",
+                                                "Herr Ishi, was nehmen Sie?",
+                                                ""
+                                            ],
+                                            "guid": "gaw}<fY0h:",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "わたしはおすしにします。",
+                                                "Ich nehme Sushi.",
+                                                ""
+                                            ],
+                                            "guid": "dX2f-BlQX.",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おすし二つと、てんぷらていしよく一つ、おねがいします。",
+                                                "Zwei mal sushi und ein mal das Tempura-Menü bitte!",
+                                                ""
+                                            ],
+                                            "guid": "MXI<Y4EtW_",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "わたしは おちゃを おねがいします。",
+                                                "Ich hätte gerne einen Tee.",
+                                                ""
+                                            ],
+                                            "guid": "D!.h7w)B.q",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -28010,7 +28299,19 @@
             "extendRev": 0,
             "media_files": [],
             "name": "A2.1",
-            "notes": []
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "A: いらっしゃいませ。どうぞ。<br>B: どうも。",
+                        "A: Herzlich willkommen! (Das ist Tee fur Sie.) Bitte schon!<br>B: Danke schön!",
+                        ""
+                    ],
+                    "guid": "Eo1Y7fFIsD",
+                    "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                    "tags": []
+                }
+            ]
         }
     ],
     "crowdanki_uuid": "24b84e18-7ab1-11ec-989e-0c7a15ee466f",
@@ -28936,7 +29237,7 @@
                     "ord": 1,
                     "rtl": false,
                     "size": 20,
-                    "sticky": true
+                    "sticky": false
                 }
             ],
             "latexPost": "\\end{document}",

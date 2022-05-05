@@ -22505,6 +22505,7 @@
                                         "googletts-19c72806-209a2efe-afde701b-0f657fbc-f54a9353-5659a0851bb02528fd8f59f3db053221a6d187d6.mp3",
                                         "googletts-502621fb-a74600d7-5ac93477-56c67ece-f8fcd3e7-f02d5b7be789accc83c4552e5d32afc19983e100.mp3",
                                         "googletts-5f9f959b-cdb48e91-8aa89e49-52756d21-57be892b-61ebed52e9ce378a8afb5845fc4937b4bf4722fa.mp3",
+                                        "googletts-76b34113-6a08f489-a6e46bb7-cb11abbe-05a5deb6-b26d6c0203f6fd12dcc8c7809386b660600dbc7b.mp3",
                                         "googletts-871d5158-e03de4aa-121c7025-b272a5ce-adb59239-b88d91d60cb3501cd3f2afc4e0c83ed2fc8f05db.mp3",
                                         "googletts-8b1af1d0-1e19241b-9577f55c-65d004b6-44c109d5-404a967b21da8ddf79acf2750e945b909cbcbad6.mp3",
                                         "googletts-a834ea6f-05148ff6-2ec4b8c7-d4822c2b-a4b63ba7-0fbd98fa2a69569b29e714dcb26324ced2d30487.mp3",
@@ -22517,6 +22518,18 @@
                                     ],
                                     "name": "02 Vokabeln",
                                     "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ていしょく",
+                                                "Menü, Gedeck",
+                                                "",
+                                                "[sound:googletts-76b34113-6a08f489-a6e46bb7-cb11abbe-05a5deb6-b26d6c0203f6fd12dcc8c7809386b660600dbc7b.mp3]"
+                                            ],
+                                            "guid": "P(pc3fy]T2",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
                                         {
                                             "__type__": "Note",
                                             "fields": [
@@ -22709,26 +22722,25 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "googletts-1e9dfb38-4f75df8d-19603ca4-cbdd5eb5-600082b5.mp3",
+                                        "googletts-6c493b58-e840c723-3cf0524d-82eb43d3-136a5b7b.mp3",
+                                        "googletts-89e19d3d-771a60d9-b0a327ee-ee3fa566-7eac33e2.mp3",
+                                        "googletts-a9482c27-0c6f3605-130da388-98f2848b-1cf090ba.mp3",
+                                        "googletts-c4c9aea7-eb9d8134-13b978d6-da22dc6e-ff77520a.mp3",
+                                        "googletts-dcf7b93f-680b1cf6-980a47ae-780ab5f7-4294a282.mp3",
+                                        "googletts-ea3d0086-f281598c-1b9ad5e1-ace8a2c4-98625dab.mp3",
+                                        "googletts-ed1876fb-bca1e988-8466ca77-b881c37c-1b03a899.mp3",
+                                        "googletts-f320cbbd-52b553db-0bf520f1-e4f71484-31ec09fc.mp3"
+                                    ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: いらっしゃいませ。どうぞ。<br>B: どうも。",
-                                                "A: Herzlich willkommen! (Das ist Tee fur Sie.) Bitte schon!<br>B: Danke schön!",
-                                                ""
-                                            ],
-                                            "guid": "Eo1Y7fFIsD",
-                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
                                                 "わたしは おすしに します。",
                                                 "Ich nehme Sushi.",
-                                                ""
+                                                "[sound:googletts-f320cbbd-52b553db-0bf520f1-e4f71484-31ec09fc.mp3]"
                                             ],
                                             "guid": "cL8)Jc!Ncx",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22739,7 +22751,7 @@
                                             "fields": [
                                                 "わたしは てんぷらてす。",
                                                 "Ich nehme Tempura.",
-                                                ""
+                                                "[sound:googletts-c4c9aea7-eb9d8134-13b978d6-da22dc6e-ff77520a.mp3]"
                                             ],
                                             "guid": "Q)7f1a!yU=",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22750,7 +22762,7 @@
                                             "fields": [
                                                 "何に なさいますか。",
                                                 "Was möchten sie? (im Restaurant)",
-                                                ""
+                                                "[sound:googletts-dcf7b93f-680b1cf6-980a47ae-780ab5f7-4294a282.mp3]"
                                             ],
                                             "guid": "bZ@!3#,fNG",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22761,7 +22773,7 @@
                                             "fields": [
                                                 "わたしは おさしみていしよくです。",
                                                 "Ich nehme das Sashimi-Menü",
-                                                ""
+                                                "[sound:googletts-a9482c27-0c6f3605-130da388-98f2848b-1cf090ba.mp3]"
                                             ],
                                             "guid": "k3D.8ct=a7",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22772,7 +22784,7 @@
                                             "fields": [
                                                 "すみません。おみずおねがいします。",
                                                 "Entschuldigung! Bitte bringen Sie mir ein Glas Wasser!",
-                                                ""
+                                                "[sound:googletts-ed1876fb-bca1e988-8466ca77-b881c37c-1b03a899.mp3]"
                                             ],
                                             "guid": "pzgJQ2DAE4",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22783,7 +22795,7 @@
                                             "fields": [
                                                 "おかんじょう おねがいします。",
                                                 "Bitte bringen Sie mir die Rechnung!",
-                                                ""
+                                                "[sound:googletts-1e9dfb38-4f75df8d-19603ca4-cbdd5eb5-600082b5.mp3]"
                                             ],
                                             "guid": "m3Ml%=z`7}",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22794,7 +22806,7 @@
                                             "fields": [
                                                 "いらっしゃいませ。何になさいますか。",
                                                 "Herzlich Wilkommen. Was nehmen sie?",
-                                                ""
+                                                "[sound:googletts-ea3d0086-f281598c-1b9ad5e1-ace8a2c4-98625dab.mp3]"
                                             ],
                                             "guid": "Qm_($@M8.v",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22805,7 +22817,7 @@
                                             "fields": [
                                                 "おのみものは 何に なさいますか。",
                                                 "Was möchten sie trinken?",
-                                                ""
+                                                "[sound:googletts-89e19d3d-771a60d9-b0a327ee-ee3fa566-7eac33e2.mp3]"
                                             ],
                                             "guid": "lK]i/Lx$#7",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22816,7 +22828,7 @@
                                             "fields": [
                                                 "A: ビールてす、どうぞ。<br>B:&nbsp;どうも。",
                                                 "A: Hier ist ihr Bier. Bitte.<br>B: Danke!",
-                                                ""
+                                                "[sound:googletts-6c493b58-e840c723-3cf0524d-82eb43d3-136a5b7b.mp3]"
                                             ],
                                             "guid": "Gt~o+}?}+&",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23210,7 +23222,15 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "googletts-18909ba9-37a1375e-2900a157-732c1f18-7e8ea0c0.mp3",
+                                        "googletts-366e1e31-5bf03d4b-5d4a96f1-f24b51a1-d248697d.mp3",
+                                        "googletts-6ffc9b67-ca239300-6ad745af-aed7c670-f345e629.mp3",
+                                        "googletts-7ec9a6c6-d1bd7cf2-8ae74207-334a8594-3ed63a93.mp3",
+                                        "googletts-9f891efb-10b1faff-8abe8279-daeb39fe-7265183c.mp3",
+                                        "googletts-b68120b0-1eb1fde5-c90abbe5-a9257431-e141ec53.mp3",
+                                        "googletts-fe78d8a6-ff552d85-42035b12-8763f04e-92603075.mp3"
+                                    ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
                                         {
@@ -23218,7 +23238,7 @@
                                             "fields": [
                                                 "A:すみません、ハムサンド おねがいします。<br>B: いくつてすか。<br>A:六つおねがいします。",
                                                 "A: Entschuldigung, ich hätte gerne Sandwiches mit Schinken!<br>B: Wie viele möchten Sie?<br>A: Sechs, bitte!",
-                                                ""
+                                                "[sound:googletts-9f891efb-10b1faff-8abe8279-daeb39fe-7265183c.mp3]"
                                             ],
                                             "guid": "EEzFTa(<yu",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23229,7 +23249,7 @@
                                             "fields": [
                                                 "きのう アイスクリームを 二つ たべました。",
                                                 "Gestern habe ich zwei Eis gegessen.",
-                                                ""
+                                                "[sound:googletts-6ffc9b67-ca239300-6ad745af-aed7c670-f345e629.mp3]"
                                             ],
                                             "guid": "s|/U?*;l71",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23240,7 +23260,7 @@
                                             "fields": [
                                                 "てんぷら ひとつ おねがいします。",
                                                 "Ich hätte gerne ein mal Tempura!",
-                                                ""
+                                                "[sound:googletts-18909ba9-37a1375e-2900a157-732c1f18-7e8ea0c0.mp3]"
                                             ],
                                             "guid": "b@p8CU+eQ?",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23251,7 +23271,7 @@
                                             "fields": [
                                                 "いしいさんは 何に しますか。",
                                                 "Herr Ishi, was nehmen Sie?",
-                                                ""
+                                                "[sound:googletts-7ec9a6c6-d1bd7cf2-8ae74207-334a8594-3ed63a93.mp3]"
                                             ],
                                             "guid": "gaw}<fY0h:",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23262,7 +23282,7 @@
                                             "fields": [
                                                 "わたしはおすしにします。",
                                                 "Ich nehme Sushi.",
-                                                ""
+                                                "[sound:googletts-fe78d8a6-ff552d85-42035b12-8763f04e-92603075.mp3]"
                                             ],
                                             "guid": "dX2f-BlQX.",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23273,7 +23293,7 @@
                                             "fields": [
                                                 "おすし二つと、てんぷらていしよく一つ、おねがいします。",
                                                 "Zwei mal sushi und ein mal das Tempura-Menü bitte!",
-                                                ""
+                                                "[sound:googletts-366e1e31-5bf03d4b-5d4a96f1-f24b51a1-d248697d.mp3]"
                                             ],
                                             "guid": "MXI<Y4EtW_",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23284,7 +23304,7 @@
                                             "fields": [
                                                 "わたしは おちゃを おねがいします。",
                                                 "Ich hätte gerne einen Tee.",
-                                                ""
+                                                "[sound:googletts-b68120b0-1eb1fde5-c90abbe5-a9257431-e141ec53.mp3]"
                                             ],
                                             "guid": "D!.h7w)B.q",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23357,7 +23377,20 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "好き",
+                                                "suki",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "J`cNs]n~R1",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23670,6 +23703,18 @@
                                             ],
                                             "guid": "f>wDq]zB_1",
                                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "デュ",
+                                                "due wie in Fondue",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "GIX^^O~$u9",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                                             "tags": []
                                         }
                                     ]
@@ -24176,6 +24221,18 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
+                                                "番",
+                                                "Ban, ばん",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "i[BNJU:GOx",
+                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
                                                 "くう",
                                                 "Langes ku",
                                                 "",
@@ -24183,18 +24240,6 @@
                                             ],
                                             "guid": "h=YH(0h,99",
                                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "行きます",
-                                                "Gehen",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "Hi[[kL?ZXK",
-                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
                                         }
                                     ]
@@ -24224,6 +24269,30 @@
                                     ],
                                     "name": "02 Vokabeln",
                                     "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "行きます",
+                                                "Gehen",
+                                                "",
+                                                ""
+                                            ],
+                                            "guid": "Hi[[kL?ZXK",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "見[み]ます",
+                                                "<b>sehen, anschauen</b>",
+                                                "",
+                                                "[sound:googletts-71062bbb-7058de6f-ee60ca8f-c8c14898-35733d19.mp3]"
+                                            ],
+                                            "guid": "M7$I8^ze>g",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
                                         {
                                             "__type__": "Note",
                                             "fields": [
@@ -24335,30 +24404,6 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "見ます",
-                                                "Sehen",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "fq`hqm}jQ|",
-                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "行きます",
-                                                "Gehen",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "Hi[[kL?ZXK",
-                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
                                                 "富士山",
                                                 "Fujiyama,Berg Fuji",
                                                 "",
@@ -24383,12 +24428,12 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "見[み]ます",
-                                                "<b>sehen, anschauen</b>",
+                                                "見ます",
+                                                "Sehen",
                                                 "",
-                                                "[sound:googletts-71062bbb-7058de6f-ee60ca8f-c8c14898-35733d19.mp3]"
+                                                ""
                                             ],
-                                            "guid": "M7$I8^ze>g",
+                                            "guid": "fq`hqm}jQ|",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
                                         }
@@ -24547,7 +24592,19 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "googletts-1448ca1a-1ff3c2f7-4b5f4769-89535fad-d88c907e.mp3",
+                                        "googletts-3becf35c-c6957a6e-a5dc58ca-4e5412e8-c4909178.mp3",
+                                        "googletts-47ae254f-4fb66e51-eb199fd7-a753b5ee-af4e2325.mp3",
+                                        "googletts-589f30cb-4ae77b1b-25c35ce1-aa7ddb37-9c555914.mp3",
+                                        "googletts-74348649-65a608a4-dfe259b2-daeab846-5fac6fa9.mp3",
+                                        "googletts-86229922-72e30d9d-50a5ac45-0310be3f-7f750b3a.mp3",
+                                        "googletts-9596bdbd-ad956cab-5247c5d8-d6f3d36d-3429db44.mp3",
+                                        "googletts-a524b58a-e5afc41a-2f3781c2-8f290a55-eb7e0f8a.mp3",
+                                        "googletts-bcd0d1f5-7e0407ce-93fef8f6-b34c848d-d2437b7c.mp3",
+                                        "googletts-efdf929b-ec9db36a-372a74f8-f2894cc4-947c4d5a.mp3",
+                                        "googletts-f39bb85c-40a24d17-2ba64697-33dff442-76c0a74d.mp3"
+                                    ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
                                         {
@@ -24555,7 +24612,7 @@
                                             "fields": [
                                                 "A: こんど ぜひ うちに来てください。<br>B: あリがとうございます。",
                                                 "A: Kommen Sie nachstes Mal unbedingt zu uns!／Sie<br>mussen uns unbedingt mal besuchen!<br>B: Ich bedanke mich fur die Einladung./Vielen Dank!",
-                                                ""
+                                                "[sound:googletts-3becf35c-c6957a6e-a5dc58ca-4e5412e8-c4909178.mp3]"
                                             ],
                                             "guid": "mc5GyNxG[K",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24566,7 +24623,7 @@
                                             "fields": [
                                                 "A: 日本語で どうぞ.<br>B: そうてすね。ぜひ日本語てはなしてください。<br>C:&nbsp;わかリました。",
                                                 "A: (Sagen sie es) bitte auf Japanisch!<br>B: Genau. Sprechen Sie bitte unbedingt japanisch!<br>C: Gut!/Einverstanden!",
-                                                ""
+                                                "[sound:googletts-74348649-65a608a4-dfe259b2-daeab846-5fac6fa9.mp3]"
                                             ],
                                             "guid": "wk*Bhjit;{",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24577,7 +24634,7 @@
                                             "fields": [
                                                 "A: あしたうちにてんわしてください。<br>B:&nbsp;わかリました。あした でんわします。",
                                                 "A: Rufen sie mich bitte morgen zu Hause an!<br>B: Gut. Ich rufe sie morgen an!",
-                                                ""
+                                                "[sound:googletts-47ae254f-4fb66e51-eb199fd7-a753b5ee-af4e2325.mp3]"
                                             ],
                                             "guid": "BM_USg;f.r",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24588,7 +24645,7 @@
                                             "fields": [
                                                 "A: すみません。しゃしんを とってください。<br>B:&nbsp;はい。ちょっと　まってください。",
                                                 "A: Entschuldigen sie! Machen sie bitte ein Foto (von uns)!<br>B: Ja, warten Sie einen kleinen Moment, bitte!",
-                                                ""
+                                                "[sound:googletts-efdf929b-ec9db36a-372a74f8-f2894cc4-947c4d5a.mp3]"
                                             ],
                                             "guid": "C]y:m-yd3Q",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24599,7 +24656,7 @@
                                             "fields": [
                                                 "この じゅうしょに 行ってください.",
                                                 "Fahren sie bitte zu dieser Adresse!",
-                                                ""
+                                                "[sound:googletts-a524b58a-e5afc41a-2f3781c2-8f290a55-eb7e0f8a.mp3]"
                                             ],
                                             "guid": "u75u+jSEg`",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24610,7 +24667,7 @@
                                             "fields": [
                                                 "東京えき まて 行ってください。",
                                                 "Fahren sie mich bitte zum Bahnhof von Tokyo.",
-                                                ""
+                                                "[sound:googletts-bcd0d1f5-7e0407ce-93fef8f6-b34c848d-d2437b7c.mp3]"
                                             ],
                                             "guid": "6$yx1PAfd",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24621,7 +24678,7 @@
                                             "fields": [
                                                 "A: Bさん、あした このレストランに 来てください。<br>B: わかリました。じゃ、［あした］ 行きます。",
                                                 "A: Herr B, Gehen sie bitte mit mir morgen ins Restaurant.<br>B: Alles klar/verstanden. Dann lass uns morgen gehen.",
-                                                ""
+                                                "[sound:googletts-9596bdbd-ad956cab-5247c5d8-d6f3d36d-3429db44.mp3]"
                                             ],
                                             "guid": "I:$o/2eM*n",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24632,7 +24689,7 @@
                                             "fields": [
                                                 "日本人は おまつリが とても好きてす。",
                                                 "Japaner mögen Feste sehr gerne.",
-                                                ""
+                                                "[sound:googletts-f39bb85c-40a24d17-2ba64697-33dff442-76c0a74d.mp3]"
                                             ],
                                             "guid": "J)%~]v!{48",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24643,7 +24700,7 @@
                                             "fields": [
                                                 "都（きょうと）や、奈良（なら）、鎌倉（かまくら）や、高山（たかやま）のおまつリは とても ふるい おまつリ です。",
                                                 "Die Feste von Kyoto, Hara, Kamakura und takayama sind sehr alte Feste.",
-                                                ""
+                                                "[sound:googletts-589f30cb-4ae77b1b-25c35ce1-aa7ddb37-9c555914.mp3]"
                                             ],
                                             "guid": "CeyG:Vo!e}",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24654,7 +24711,7 @@
                                             "fields": [
                                                 "きれいな きものや 山車（だし）や ふるい おんがくは とても&nbsp; いいてすよ。",
                                                 "Schöne Kimonos, Festwagen und alte Musik sind sehr gut.",
-                                                ""
+                                                "[sound:googletts-1448ca1a-1ff3c2f7-4b5f4769-89535fad-d88c907e.mp3]"
                                             ],
                                             "guid": "Qs`l,ePBvJ",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24665,7 +24722,7 @@
                                             "fields": [
                                                 "ぜひ　日本で　日本のまつリを　見てください。",
                                                 "Schauen sie sich bitte unbedingt japanische Feste in Japan an.",
-                                                ""
+                                                "[sound:googletts-86229922-72e30d9d-50a5ac45-0310be3f-7f750b3a.mp3]"
                                             ],
                                             "guid": "JY!KXuU.Ex",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -28297,7 +28354,9 @@
             "dyn": 0,
             "extendNew": 0,
             "extendRev": 0,
-            "media_files": [],
+            "media_files": [
+                "googletts-aada8f3d-b3145787-dfc93ec5-56ea233e-2cb90f66.mp3"
+            ],
             "name": "A2.1",
             "notes": [
                 {
@@ -28305,7 +28364,7 @@
                     "fields": [
                         "A: いらっしゃいませ。どうぞ。<br>B: どうも。",
                         "A: Herzlich willkommen! (Das ist Tee fur Sie.) Bitte schon!<br>B: Danke schön!",
-                        ""
+                        "[sound:googletts-aada8f3d-b3145787-dfc93ec5-56ea233e-2cb90f66.mp3]"
                     ],
                     "guid": "Eo1Y7fFIsD",
                     "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -28862,7 +28921,7 @@
     "extendNew": 20,
     "extendRev": 0,
     "media_files": [],
-    "mid": 1642764739085,
+    "mid": 1642764332045,
     "name": "Japanisch, bitte! Neu",
     "note_models": [
         {

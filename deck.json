@@ -26600,7 +26600,38 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "コーヒーいっぱいいかがてすか。",
+                                                "Wie wäre es mit einer Tasse Kaffee?"
+                                            ],
+                                            "guid": "E=K*v_bEcy",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "もういっぱいいかがてすか。",
+                                                "Wie wäre es mit noch einer (Tasse Kaffee)?"
+                                            ],
+                                            "guid": "OoZ9LtA>J:",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "いいえ、もうけっこうてす。",
+                                                "Nein, ist schon gut."
+                                            ],
+                                            "guid": "q[8j-WXc!]",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -26796,9 +26827,47 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "googletts-64fcd357-0c2f6a41-d8128097-cebdefff-08720e89.mp3",
+                                        "googletts-c0b33c91-b36d8fb9-78c4aaae-ae5812f8-af98ade7.mp3",
+                                        "googletts-ed696441-6c5bbac2-4630d9de-2e0cd8cb-38f1570a.mp3"
+                                    ],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "きょう は すてきなえ を どうも ありがとうございました。",
+                                                "Vielen Dank für Ihre Wunderbarkeit heute.<br>(WTF? Steht keine Übersetzung dran)",
+                                                "[sound:googletts-c0b33c91-b36d8fb9-78c4aaae-ae5812f8-af98ade7.mp3]"
+                                            ],
+                                            "guid": "HX[!y@8?L|",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "いいえ、どういたしまして。",
+                                                "Nein, nichts zu danken.",
+                                                "[sound:googletts-ed696441-6c5bbac2-4630d9de-2e0cd8cb-38f1570a.mp3]"
+                                            ],
+                                            "guid": "y2JFX`z*I$",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おくさんにもどうぞよろしく。",
+                                                "Auch an Ihre Frau schöne Grüße.",
+                                                "[sound:googletts-64fcd357-0c2f6a41-d8128097-cebdefff-08720e89.mp3]"
+                                            ],
+                                            "guid": "M+Sj9<Up[l",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -27055,9 +27124,191 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "googletts-06bd4e79-373c19f6-ea51f2a9-a65081b7-804413a1.mp3",
+                                        "googletts-08820b2a-66c8b775-f9fb4a20-ef7c0a81-d98ef61d.mp3",
+                                        "googletts-1cf33a45-66fb89ce-552dac1e-2e8fbc26-c8de32db.mp3",
+                                        "googletts-3de2b3c4-ade98b65-4725e69c-6e9ae693-2938c36b.mp3",
+                                        "googletts-44be497c-616f7cf6-a557c508-11e6ee62-48758a6c.mp3",
+                                        "googletts-5bce6b04-2a546e7f-c60ca20e-d17354bd-1b8ab451.mp3",
+                                        "googletts-7841d177-a6cb66c1-bc17722f-f2af5ac0-2ec1e3ff.mp3",
+                                        "googletts-78aa9492-089e1086-ed10e9c1-8e219349-4d5cfc8b.mp3",
+                                        "googletts-8f3be6a5-03a69fb4-11b21fd6-0676a107-4191279d.mp3",
+                                        "googletts-94bf55e0-8d4bb4e9-4311df02-6bf53405-f2d38c78.mp3",
+                                        "googletts-a7968dea-2d981995-ea39b43c-98a7fdd6-a7758094.mp3",
+                                        "googletts-af158560-49bf8fd7-8c68242d-934418ad-8b5798ec.mp3",
+                                        "googletts-aff5fa8c-405f04a4-6a78256b-5fb1298c-79876633.mp3",
+                                        "googletts-b4614792-f37a414f-f8065a32-c2168afe-4ac91b32.mp3",
+                                        "googletts-d15a17c1-a4d63a1d-90771963-5fcb1f91-ec143ca5.mp3"
+                                    ],
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: あけてもいいですか。<br>B: どうぞ。",
+                                                "A: Darf ich aufmachen?<br>B: Bitte.",
+                                                "[sound:googletts-d15a17c1-a4d63a1d-90771963-5fcb1f91-ec143ca5.mp3]"
+                                            ],
+                                            "guid": "P:KOMR<Ol^",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "すみません。ちょっと でんわしてもいいですか。",
+                                                "Entschuldigung. Darf ich kurz telefonieren?",
+                                                "[sound:googletts-94bf55e0-8d4bb4e9-4311df02-6bf53405-f2d38c78.mp3]"
+                                            ],
+                                            "guid": "H?(EOk/tZ!",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "はいってもいいですか。",
+                                                "Darf ich hereinkommen?",
+                                                "[sound:googletts-a7968dea-2d981995-ea39b43c-98a7fdd6-a7758094.mp3]"
+                                            ],
+                                            "guid": "H;Ar`b|c[N",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "いまはちょっとだめです。",
+                                                "Gerade passt es nicht gut.",
+                                                "[sound:googletts-7841d177-a6cb66c1-bc17722f-f2af5ac0-2ec1e3ff.mp3]"
+                                            ],
+                                            "guid": "q1qBf;@B.|",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "このでんわはちょっと…。そのでんわておねがいします。",
+                                                "Dieses Telefon (können Sie nicht benutzen)... Bitte nehmen Sie jenes Telefon.",
+                                                "[sound:googletts-8f3be6a5-03a69fb4-11b21fd6-0676a107-4191279d.mp3]"
+                                            ],
+                                            "guid": "p*h>$]&%;(",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "しゃしんをとってもいいですか。",
+                                                "Darf ich ein Foto machen?",
+                                                "[sound:googletts-78aa9492-089e1086-ed10e9c1-8e219349-4d5cfc8b.mp3]"
+                                            ],
+                                            "guid": "Nf4IyV&KpV",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "あけてもいいですか。",
+                                                "Darf ich es öffnen?",
+                                                "[sound:googletts-1cf33a45-66fb89ce-552dac1e-2e8fbc26-c8de32db.mp3]"
+                                            ],
+                                            "guid": "i=#3qt)WNh",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "でんわしてもいいですか。",
+                                                "Darf ich telefonieren?",
+                                                "[sound:googletts-08820b2a-66c8b775-f9fb4a20-ef7c0a81-d98ef61d.mp3]"
+                                            ],
+                                            "guid": "J(y60AD8pQ",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "いまはだめです。",
+                                                "Gerade passt es nicht.",
+                                                "[sound:googletts-b4614792-f37a414f-f8065a32-c2168afe-4ac91b32.mp3]"
+                                            ],
+                                            "guid": "I{6d#6/)Q}",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "3時[さんじ]からはいってもいいです。",
+                                                "Ab <b>3 Uhr</b> können Sie rein kommen.",
+                                                "[sound:googletts-af158560-49bf8fd7-8c68242d-934418ad-8b5798ec.mp3]"
+                                            ],
+                                            "guid": "blwR|U1:mS",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "あのでんわはだいじょうぶです。",
+                                                "Das Telefon dort ist in Ordnung.",
+                                                "[sound:googletts-3de2b3c4-ade98b65-4725e69c-6e9ae693-2938c36b.mp3]"
+                                            ],
+                                            "guid": "k32a>P=tc[",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "しゃしんはだめです。",
+                                                "Fotos machen geht (hier) nicht.",
+                                                "[sound:googletts-44be497c-616f7cf6-a557c508-11e6ee62-48758a6c.mp3]"
+                                            ],
+                                            "guid": "t(+9<;cYYE",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "うちであけてください。",
+                                                "Bitte öffnen Sie es zu Hause.",
+                                                "[sound:googletts-5bce6b04-2a546e7f-c60ca20e-d17354bd-1b8ab451.mp3]"
+                                            ],
+                                            "guid": "I*A3^qfV]I",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "じしょを見[み]ても いいですか。",
+                                                "Darf ich ins Wörterbuch <b>schauen</b>?",
+                                                "[sound:googletts-aff5fa8c-405f04a4-6a78256b-5fb1298c-79876633.mp3]"
+                                            ],
+                                            "guid": "GRjdOf)6s*",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "どうぞ、見[み]てください。",
+                                                "Bitte, schau ruhig (ins Wörterbuch).",
+                                                "[sound:googletts-06bd4e79-373c19f6-ea51f2a9-a65081b7-804413a1.mp3]"
+                                            ],
+                                            "guid": "fQ[,4jf?vK",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",

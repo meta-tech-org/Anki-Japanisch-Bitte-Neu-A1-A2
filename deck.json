@@ -23639,13 +23639,14 @@
                                         "googletts-8a1d01e6-03f6128e-d15a33fd-a95686e3-d4b3ea6a.mp3",
                                         "googletts-8cccef0c-16f957a4-da0aee27-b79efff2-c715df5e.mp3",
                                         "googletts-a63acbab-36b8c48c-eb38826c-8d77256f-e5156f7e.mp3",
-                                        "googletts-b13961dd-08cb391d-b73e5dfe-b9bf0596-4cfc00e8.mp3",
                                         "googletts-c341fb5e-72424cc3-dec3f7a3-0004538a-62a02455.mp3",
                                         "googletts-d64b1daa-ca7ab6a7-abc9b11d-7ab7847b-2503fa17.mp3",
                                         "googletts-d82613cf-836235ab-66bb27c3-96349972-7dcb92db.mp3",
                                         "googletts-e25090d6-2cc5633d-a5595032-eddf28db-cc415a4b.mp3",
                                         "googletts-e95f2fc4-aed1776c-73e55c30-d8a5cb0e-9b90b639.mp3",
                                         "googletts-f736309a-6133f82d-0e2e6007-c40bd53f-27d9285c.mp3",
+                                        "googletts-f825e022-4ca4c546-5b0cd527-db8415a3-bf8c4fa3.mp3",
+                                        "googletts-f8297bad-4e4e66c0-da896118-81e452f7-044bd9fd.mp3",
                                         "paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg",
                                         "番.png"
                                     ],
@@ -23870,12 +23871,24 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "テレビ番ぐみ，ラジオ番ぐみ",
-                                                "<b>Fernseh-Radioprogramm</b>",
+                                                "テレビ 番[ばん]ぐみ",
+                                                "Fernseh<b>programm</b>",
                                                 "<img src=\"番.png\">",
-                                                "[sound:googletts-b13961dd-08cb391d-b73e5dfe-b9bf0596-4cfc00e8.mp3]"
+                                                "[sound:googletts-f825e022-4ca4c546-5b0cd527-db8415a3-bf8c4fa3.mp3]"
                                             ],
                                             "guid": "q<h6t<_Lh?",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "ラジオ&nbsp;番[ばん]ぐみ",
+                                                "Radio<b>programm</b>",
+                                                "<img src=\"番.png\">",
+                                                "[sound:googletts-f8297bad-4e4e66c0-da896118-81e452f7-044bd9fd.mp3]"
+                                            ],
+                                            "guid": "D4_V<.{u_q",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
                                         }

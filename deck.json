@@ -2289,7 +2289,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "いしいさんはかいしゃいんです。かいしゃは 日本[にほん]のかいしゃです。",
-                                                "Frau Ishii ist Firmenangestellte. Ihre Firma kommt aus <b>Japan</b>.",
+                                                "Frau Ishii ist Firmenangestellte. Die Firma ist eine Firma aus <b>Japan</b>.",
                                                 "[sound:googletts-323c8286-8037efc0-1ce88a4c-1c9fc586-d8bc97b0.mp3]"
                                             ],
                                             "guid": "K`(_FTHioR",
@@ -22045,7 +22045,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: いらっしゃいませ。 何[なに] 名[めい]さまですか。<br>B: 五[ご] 人[にん]です。<br>A: 五[ご]&nbsp;名[めい]さまですね。どうぞ。",
-                                                "A: Herzlich willkommen. <b>Wie viele</b> sind Sie?<br>B: Wir sind <b>fünf</b>/ zu <b>fünft</b>.<br>A. <b>Fünf Personen</b>. Bitte (hierher)!",
+                                                "A: Herzlich willkommen. <b>Wie viele Personen</b> sind Sie?<br>B: Wir sind <b>fünf Personen</b>.<br>A. <b>Fünf Personen</b>. Bitte (hierher)!",
                                                 "[sound:googletts-0e6b6d2f-316e79c2-8c3b33eb-6a12dd9b-b9cdbdef.mp3]"
                                             ],
                                             "guid": "nD^En^S8AD",
@@ -22056,7 +22056,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: 何[なん] 名[めい]さまですか。<br>B: 二[さん] 人[にん]です。<br>A: 二[さん]&nbsp;名[めい]さまですね。",
-                                                "A: <b>Wie viele Personen</b> sind Sie? (höflich)<br>B: Wir sind zu <b>zweit</b>.<br>A: <b>Zwei Personen</b> (, nicht wahr). (höflich)",
+                                                "A: <b>Wie viele Personen</b> sind Sie? (höflich)<br>B: (Wir sind)&nbsp;<b>zwei Personen</b>.<br>A: <b>Zwei Personen</b> also. (höflich)",
                                                 "[sound:googletts-44f7c86c-40017a47-205a6442-e523a0ee-75b2fc48.mp3]"
                                             ],
                                             "guid": "q88+5aM|$~",
@@ -24281,7 +24281,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "アドレス",
-                                                "E-MailAdress",
+                                                "E-Mail Adresse",
                                                 "",
                                                 "[sound:googletts-f8015613-3e3dd495-eeabcc93-e4533fb2-65d795d7.mp3]"
                                             ],

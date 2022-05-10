@@ -24396,8 +24396,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て Form von lesen?",
-                                                "よ<b>み</b>ます -&gt;よ<b>ん</b>で"
+                                                "Was ist die&nbsp;て-Form&nbsp;von よみます?",
+                                                "よんで"
                                             ],
                                             "guid": "bT3a2+5ltn",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24406,8 +24406,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て　Form von trinken?",
-                                                "の<b>み</b>ます -&gt; の<b>ん</b>で"
+                                                "Was ist die&nbsp;て-Form&nbsp;von のみます?",
+                                                "のんで"
                                             ],
                                             "guid": "PO`^Nk->+U",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24416,8 +24416,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て　Form von hören?",
-                                                "き<b>き</b>ます -&gt; き<b>い</b>て"
+                                                "Was ist die&nbsp;て-Form&nbsp;von ききます?",
+                                                "きいて"
                                             ],
                                             "guid": "K79KD$,c.6",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24426,8 +24426,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て　Form von treffen?",
-                                                "あ<b>い</b>ます　-&gt; あ<b>っ</b>て"
+                                                "Was ist die&nbsp;て-Form&nbsp;von あいます?",
+                                                "あって"
                                             ],
                                             "guid": "kQSo(sb+ss",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24436,8 +24436,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て　Form von gehen?",
-                                                "行<b>き</b>ます -&gt; 行<b>つ</b>て"
+                                                "Was ist die&nbsp;て-Form&nbsp;von&nbsp; 行[い]きます?",
+                                                "行[い]って"
                                             ],
                                             "guid": "BTtwpPP`cw",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24446,8 +24446,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て　Form von nehmen?",
-                                                "と<b>リ</b>ます -&gt;&nbsp;と<b>っ</b>て"
+                                                "Was ist die&nbsp;て-Form&nbsp;von とります?",
+                                                "とって"
                                             ],
                                             "guid": "NhtPsvm1]}",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24456,8 +24456,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て　Form von warten?",
-                                                "ま<b>ち</b>ます -&gt;&nbsp;ま<b>っ</b>て"
+                                                "Was ist die&nbsp;て-Form&nbsp;von まちます?",
+                                                "まって"
                                             ],
                                             "guid": "m~K22!#na1",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24466,8 +24466,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was ist die て　Form von sprechen?",
-                                                "はな<b>し</b>ます -&gt; はな<b>し</b>て"
+                                                "Was ist die&nbsp;て-Form&nbsp;von はなします?",
+                                                "はなして"
                                             ],
                                             "guid": "O@1V&#C^gp",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -27060,16 +27060,6 @@
                                                 "あけて"
                                             ],
                                             "guid": "I%.*_-]>dM",
-                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "Was ist die&nbsp;て-Form von&nbsp;ききます?",
-                                                "きいて"
-                                            ],
-                                            "guid": "yA#48r%Twm",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
                                             "tags": []
                                         },

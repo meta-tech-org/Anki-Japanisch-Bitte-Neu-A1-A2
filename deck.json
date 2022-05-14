@@ -9820,8 +9820,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: いっしょにおひるごはんをたべませんか。<br><b>B: ええ、たべましょう。</b><br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
-                                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br><b>B: Ja, lasst uns (Mittag) essen.</b><br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen.",
+                                                "A: いっしょにおひるごはんをたべませんか。<br><u>B: ええ、たべましょう。</u><br>C: 何[なに]をたべましょうか。<br>D: フラン ス[す]りょうりをたべましょう。",
+                                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br><u>B: Ja, lasst uns (Mittag) essen.</u><br>C: <b>Was</b> wollen wir essen?<br>D: Lasst uns französische Küche essen.",
                                                 "[sound:googletts-6ece3167-484a8db5-a83c9bf1-40800af9-ffe125ce.mp3]"
                                             ],
                                             "guid": "jB{A/USSO",
@@ -9831,8 +9831,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br><b>C: 何をたべましょうか。</b><br>D: フランスりょうりをたべましょう。",
-                                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br><b>C: Was wollen wir essen?</b><br>D: Lasst uns französische Küche essen.",
+                                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br><u style=\"\">C: 何[なに]をたべましょうか。</u><br>D: フラン ス[す]りょうりをたべましょう。",
+                                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br><u>C: <b>Was </b>wollen wir essen?</u><br>D: Lasst uns französische Küche essen.",
                                                 "[sound:googletts-6ece3167-484a8db5-a83c9bf1-40800af9-ffe125ce.mp3]"
                                             ],
                                             "guid": "GM)/r&kGP=",
@@ -9842,8 +9842,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br><b>D: フランスりょう</b><b>り</b><b>をたべましょう。</b>",
-                                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br><b>D: Lasst uns französische Küche essen.</b>",
+                                                "A: いっしょにおひるごはんをたべませんか。<br>B: ええ、たべましょう。<br>C: 何[なに]をたべましょうか。<br><u>D: フラン ス[す]りょうりをたべましょう。</u>",
+                                                "A: Wollen wir (nicht) zusammen zu Mittag essen?<br>B: Ja, lasst uns (Mittag) essen.<br>C: <b>Was</b> wollen wir essen?<br><u>D: Lasst uns französische Küche essen.</u>",
                                                 "[sound:googletts-6ece3167-484a8db5-a83c9bf1-40800af9-ffe125ce.mp3]"
                                             ],
                                             "guid": "CRPRibxOy<",
@@ -9963,8 +9963,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<b>A: いっしょにおひるごはんをたべませんか。</b><br>B: ええ、たべましょう。<br>C: 何をたべましょうか。<br>D: フランスりょうりをたべましょう。",
-                                                "<b>A: Wollen wir (nicht) zusammen zu Mittag essen?</b><br>B: Ja, lasst uns (Mittag) essen.<br>C: Was wollen wir essen?<br>D: Lasst uns französische Küche essen.",
+                                                "<u>A: いっしょにおひるごはんをたべませんか。</u><br>B: ええ、たべましょう。<br>C: 何[なに]をたべましょうか。<br>D: フラン ス[す]りょうりをたべましょう。",
+                                                "<u>A: Wollen wir (nicht) zusammen zu Mittag essen?</u><br>B: Ja, lasst uns (Mittag) essen.<br>C: <b>Was</b> wollen wir essen?<br>D: Lasst uns französische Küche essen.",
                                                 "[sound:googletts-6ece3167-484a8db5-a83c9bf1-40800af9-ffe125ce.mp3]"
                                             ],
                                             "guid": "CJ;&qI9VK_",
@@ -10530,8 +10530,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<b>いで：パーティーにはだれがきますか。</b><br>ウーテ：いしいさんがきます。",
-                                                "<b>Ide: Wer kommt zur Party?</b><br>Ute: Herr Ishii kommt.",
+                                                "<u>A: パーティーにはだれがきますか。</u><br>B: いしいさんがきます。",
+                                                "<u>A: Wer kommt zur Party?</u><br>B: Herr Ishii kommt.",
                                                 "[sound:googletts-126f0cf3-8cc0ca5b-7e233be8-1c3fe9da-d559cb5e.mp3]"
                                             ],
                                             "guid": "FwR/MMaLZ4",
@@ -10541,8 +10541,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "いで：パーティーにはだれがきますか。<br><b>ウーテ：いしいさんがきます。</b>",
-                                                "Ide: Wer kommt zur Party?<br><b>Ute: Herr Ishii kommt.</b>",
+                                                "A: パーティーにはだれがきますか。<br><u>B: いしいさんがきます。</u>",
+                                                "A: Wer kommt zur Party?<br><u>B: Herr Ishii kommt.</u>",
                                                 "[sound:googletts-126f0cf3-8cc0ca5b-7e233be8-1c3fe9da-d559cb5e.mp3]"
                                             ],
                                             "guid": "KF(cT+{pwt",
@@ -10975,6 +10975,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
+                                        "googletts-f10fc9a6-61522007-51d549e5-ddcd88a1-1fb9a942.mp3",
                                         "googletts-f422f0ff-edb73f12-19f3db5a-0439302c-4218570d.mp3",
                                         "googletts-f7c6c861-36079f0d-ddbf2b7c-713e03b0-4d2eaa05.mp3"
                                     ],
@@ -10983,9 +10984,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<b>ドイツ人：日本のかたは何人きますか。それから中国のかたは？</b><br>日本人：日本人は5人です。中国のかたは6人です。ドイツのかたは？<br>ドイツ人：ドイツ人は8人です。",
-                                                "<b>Deutscher: Wie viele Personen aus Japan kommen?&nbsp;Außerdem, wie viele Personen aus China?</b><br>Japaner: Es gibt 5 Japaner.&nbsp;Es gibt 6 Chinesen.&nbsp;Und die Deutschen?<br>Deutscher: Die Deutschen sind acht Personen.",
-                                                "[sound:googletts-f422f0ff-edb73f12-19f3db5a-0439302c-4218570d.mp3]"
+                                                "A: 日本[にっぽん]のかたは 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかたは？<br><u>B: 日本人[にっぽんじん]は5 人[にん]です。 中国[ちゅうごく]のかたは6 人[にん]です。ドイツのかたは？</u><br>A:ドイツ 人[じん]は8 人[にん]です。",
+                                                "<u>A: <b>Wie viele</b> Personen aus <b>Japan </b>kommen?&nbsp;Außerdem, wie viele Personen aus <b>China</b>?</u><br>B: Es gibt 5 <b>Japaner</b>.&nbsp;Es gibt 6 <b>Chinesen</b>.&nbsp;Und die Deutschen?<br>A: Die Deutsch<b>en</b> sind acht <b>Personen</b>.",
+                                                "[sound:googletts-f10fc9a6-61522007-51d549e5-ddcd88a1-1fb9a942.mp3]"
                                             ],
                                             "guid": "pL$Rw|GJ?q",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -10994,8 +10995,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "ドイツ人：日本のかたは何人きますか。それから中国のかたは？<br><b>日本人：日本人は5人です。中国のかたは6人です。ドイツのかたは？</b><br>ドイツ人：ドイツ人は8人です。",
-                                                "Deutscher: Wie viele Personen aus Japan kommen?&nbsp;Außerdem, wie viele Personen aus China?<br><b>Japaner: Es gibt 5 Japaner.&nbsp;Es gibt 6 Chinesen.&nbsp;Und die Deutschen?</b><br>Deutscher: Die Deutschen sind acht Personen.",
+                                                "A: 日本[にっぽん]のかたは 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかたは？<br><u>B: 日本人[にっぽんじん]は5 人[にん]です。 中国[ちゅうごく]のかたは6 人[にん]です。ドイツのかたは？</u><br>A:ドイツ 人[じん]は8 人[にん]です。",
+                                                "A:&nbsp;<b style=\"\">Wie viele</b>&nbsp;Personen aus&nbsp;<b style=\"\">Japan&nbsp;</b>kommen?&nbsp;Außerdem, wie viele Personen aus&nbsp;<b style=\"\">China</b>?<br><u>B: Es gibt 5&nbsp;<b>Japaner</b>.&nbsp;Es gibt 6&nbsp;<b>Chinesen</b>.&nbsp;Und die Deutschen?</u><br>A: Die Deutsch<b>en</b>&nbsp;sind acht&nbsp;<b>Personen</b>.",
                                                 "[sound:googletts-f422f0ff-edb73f12-19f3db5a-0439302c-4218570d.mp3]"
                                             ],
                                             "guid": "t~QO$AsyI;",
@@ -11005,8 +11006,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "ドイツ人：日本のかたは何人きますか。それから中国のかたは？<br>日本人：日本人は5人です。中国のかたは6人です。ドイツのかたは？<br><b>ドイツ人：ドイツ人は8人です。</b>",
-                                                "Deutscher: Wie viele Personen aus Japan kommen?&nbsp;Außerdem, wie viele Personen aus China?<br>Japaner: Es gibt 5 Japaner.&nbsp;Es gibt 6 Chinesen.&nbsp;Und die Deutschen?<br><b>Deutscher: Die Deutschen sind acht Personen.</b>",
+                                                "A: 日本[にっぽん]のかたは 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかたは？<br>B: 日本人[にっぽんじん]は5 人[にん]です。 中国[ちゅうごく]のかたは6 人[にん]です。ドイツのかたは？<br><u>A:ドイツ 人[じん]は8 人[にん]です。</u>",
+                                                "A:&nbsp;<b style=\"\">Wie viele</b>&nbsp;Personen aus&nbsp;<b style=\"\">Japan&nbsp;</b>kommen?&nbsp;Außerdem, wie viele Personen aus&nbsp;<b style=\"\">China</b>?<br>B: Es gibt 5&nbsp;<b>Japaner</b>.&nbsp;Es gibt 6&nbsp;<b>Chinesen</b>.&nbsp;Und die Deutschen?<br><u>A: Die Deutsch<b>en</b>&nbsp;sind acht&nbsp;<b>Personen</b>.</u>",
                                                 "[sound:googletts-f422f0ff-edb73f12-19f3db5a-0439302c-4218570d.mp3]"
                                             ],
                                             "guid": "h;F^62,WBh",
@@ -26232,8 +26233,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "<b>A: あのう…、おかんじょうはどうしましょうか。</b><br>B: わたしがはらいます。<br>C: いいえ、わたしがはらいます。<br>D: じゃ、わりかんにしましょう。",
-                                                "<b>A: Entschuldigung, wie machen wir es mit dem Bezahlen?</b><br>B: ICH bezahle.<br>C: Nein, ICH bezahle.<br>D: Dann teilen wir eben.",
+                                                "<u>A: あのう…、おかんじょうはどうしましょうか。</u><br>B: わたしがはらいます。<br>C: いいえ、わたしがはらいます。<br>D: じゃ、わりかんにしましょう。",
+                                                "<u>A: Entschuldigung, wie machen wir es mit dem Bezahlen?</u><br>B: ICH bezahle.<br>C: Nein, ICH bezahle.<br>D: Dann teilen wir eben.",
                                                 "[sound:googletts-6f60602e-7ae0a85f-28113bf9-da8a320a-e1afe79c.mp3]"
                                             ],
                                             "guid": "Jvpz4nVW(r",
@@ -26243,8 +26244,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: あのう…、おかんじょうはどうしましょうか。<br><b>B: わたしがはらいます。</b><br>C: いいえ、わたしがはらいます。<br>D: じゃ、わりかんにしましょう。",
-                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br><b>B: ICH bezahle.</b><br>C: Nein, ICH bezahle.<br>D: Dann teilen wir eben.",
+                                                "A: あのう…、おかんじょうはどうしましょうか。<br><u>B: わたしがはらいます。</u><br>C: いいえ、わたしがはらいます。<br>D: じゃ、わりかんにしましょう。",
+                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br><u>B: ICH bezahle.</u><br>C: Nein, ICH bezahle.<br>D: Dann teilen wir eben.",
                                                 "[sound:googletts-6f60602e-7ae0a85f-28113bf9-da8a320a-e1afe79c.mp3]"
                                             ],
                                             "guid": "fC{2T49{kg",
@@ -26254,8 +26255,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: あのう…、おかんじょうはどうしましょうか。<br>B: わたしがはらいます。<br><b>C: いいえ、わたしがはらいます。</b><br>D: じゃ、わりかんにしましょう。",
-                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br>B: ICH bezahle.<br><b>C: Nein, ICH bezahle.</b><br>D: Dann teilen wir eben.",
+                                                "A: あのう…、おかんじょうはどうしましょうか。<br>B: わたしがはらいます。<br><u>C: いいえ、わたしがはらいます。</u><br>D: じゃ、わりかんにしましょう。",
+                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br>B: ICH bezahle.<br><u>C: Nein, ICH bezahle.</u><br>D: Dann teilen wir eben.",
                                                 "[sound:googletts-6f60602e-7ae0a85f-28113bf9-da8a320a-e1afe79c.mp3]"
                                             ],
                                             "guid": "K9.(h/BwGw",
@@ -26265,8 +26266,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: あのう…、おかんじょうはどうしましょうか。<br>B: わたしがはらいます。<br>C: いいえ、わたしがはらいます。<br><b>D: じゃ、わりかんにしましょう。</b>",
-                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br>B: ICH bezahle.<br>C: Nein, ICH bezahle.<br><b>D: Dann teilen wir eben.</b>",
+                                                "A: あのう…、おかんじょうはどうしましょうか。<br>B: わたしがはらいます。<br>C: いいえ、わたしがはらいます。<br><u>D: じゃ、わりかんにしましょう。</u>",
+                                                "A: Entschuldigung, wie machen wir es mit dem Bezahlen?<br>B: ICH bezahle.<br>C: Nein, ICH bezahle.<br><u>D: Dann teilen wir eben.</u>",
                                                 "[sound:googletts-6f60602e-7ae0a85f-28113bf9-da8a320a-e1afe79c.mp3]"
                                             ],
                                             "guid": "M~j=hjJM,?",

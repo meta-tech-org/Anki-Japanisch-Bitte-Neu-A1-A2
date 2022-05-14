@@ -22145,6 +22145,7 @@
                                     "media_files": [
                                         "googletts-012f29b6-31a26638-d8606209-91c28c37-a0125eab-c3b14d1b1efd591ae00a31c8edd92dddaacf05ca.mp3",
                                         "googletts-07e71707-9e11f924-d449bd87-c366b17f-396532d1-149a08b9482b7c589fbaaffa69f433f24e9753b2.mp3",
+                                        "googletts-0db7eaa6-ee980e95-ab770a6b-d83e9039-0f8f7084.mp3",
                                         "googletts-0e598d89-a27bded7-37429adc-1e00dc53-f6c55ac3-0022c7fd6b6ea6d20dd84724251cf3dd6a048695.mp3",
                                         "googletts-1ce9d959-17b26b42-25494d48-e48ba40e-0ce65d73-cc2b2e271fa55f18e921eb1e28934d89e2e026d4.mp3",
                                         "googletts-23fc5966-93ab1224-720c4c51-771bb863-a2acabfc-515118baf26161838e5bef1e1dd1ed492744ebe0.mp3",
@@ -22161,8 +22162,11 @@
                                         "googletts-9532bc45-6d4c0852-facb3edc-2b5a56f0-e2d4f033-f6e639e6a92fc7c2370147a2ac92c4d04366ed95.mp3",
                                         "googletts-a0b5677b-9c66e22c-8b22da23-9e031490-66f1b696-cb37e2c59f83444846155d4c602c3afc3a6ca4a6.mp3",
                                         "googletts-ab30043d-0d6a3bd8-86ffe463-163e170f-45f1fe69-b5f583c1d40d4be45b169dbaf3f66c72e3c309df.mp3",
+                                        "googletts-b02b8879-899ac852-b68fb82c-4d1c6393-db49b987.mp3",
+                                        "googletts-d82e5c4f-905d6126-1724024a-8d34b0f0-6cb0af76.mp3",
                                         "googletts-eda6724e-e34d9e1c-62007b90-a8aa9279-6afd2abe-317081c33d99d2a7c3345f13484576bd22ddeee6.mp3"
                                     ],
+                                    "mid": 1642764739085,
                                     "name": "02 Vokabeln",
                                     "notes": [
                                         {
@@ -22217,7 +22221,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "トンカツ",
-                                                "Schweineschnitzel (andere Schreibweise)",
+                                                "Schweineschnitzel (alternative Schreibweise)",
                                                 "",
                                                 "[sound:googletts-702aed31-bdc3498d-2bb87ff5-2fda50bf-d6b845a4-ea18d91cc26773f5d5ceee270808e8af215570ac.mp3]"
                                             ],
@@ -22392,6 +22396,42 @@
                                             "guid": "p4:y(-%4rQ",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "やきにく",
+                                                "gegrilltes/gebratenes Fleisch",
+                                                "",
+                                                "[sound:googletts-d82e5c4f-905d6126-1724024a-8d34b0f0-6cb0af76.mp3]"
+                                            ],
+                                            "guid": "lR(ZT53k~j",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "やきとり",
+                                                "gegrillte Hähnchenspieße",
+                                                "",
+                                                "[sound:googletts-0db7eaa6-ee980e95-ab770a6b-d83e9039-0f8f7084.mp3]"
+                                            ],
+                                            "guid": "v5H2QBYT{^",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "やきざかな",
+                                                "gegrillter Fisch",
+                                                "",
+                                                "[sound:googletts-b02b8879-899ac852-b68fb82c-4d1c6393-db49b987.mp3]"
+                                            ],
+                                            "guid": "h$kC(~wwGJ",
+                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
+                                            "tags": []
                                         }
                                     ]
                                 },
@@ -22405,8 +22445,30 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [],
+                                    "mid": 1642765939199,
                                     "name": "03 Grammatik",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Was bedeutet:&nbsp;～に します?",
+                                                "Es bedeutet: Ich entscheide mich für.../Ich nehme..."
+                                            ],
+                                            "guid": "fr6XH6QIlb",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "Wofür verwendet man&nbsp;～に します?",
+                                                "Man verwendet diesen Ausdruck bei der Wahl zwischen Waren oder Personen, bei der Entscheidung für einen Ort, einen Termin, eine Uhrzeit und Ähnliches"
+                                            ],
+                                            "guid": "mDgEM}8yl+",
+                                            "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",
@@ -22417,9 +22479,139 @@
                                     "dyn": 0,
                                     "extendNew": 0,
                                     "extendRev": 0,
-                                    "media_files": [],
+                                    "media_files": [
+                                        "googletts-0298f3d7-87ff23bb-67febbfd-99e50501-d76d31db.mp3",
+                                        "googletts-0d4d4e38-5a9bb193-27bcf68f-e2d21df0-ce5922d8.mp3",
+                                        "googletts-50d37297-75d142da-95aa2eaa-024f0d28-5a209e68.mp3",
+                                        "googletts-7bb6b399-469942a4-bf9c26dc-f6dbb26c-c1a69a6e.mp3",
+                                        "googletts-90fc618b-46e4a924-ac8bb790-1b33484b-dd196f51.mp3",
+                                        "googletts-e4eb861d-56ae4c0a-581b1750-d398a202-6356c8e1.mp3"
+                                    ],
+                                    "mid": 1642764953999,
                                     "name": "04 Sätze und Phrasen",
-                                    "notes": []
+                                    "notes": [
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "おひるは 何[なに]にしますか。",
+                                                "Was essen Sie zu Mittag?",
+                                                "[sound:googletts-0298f3d7-87ff23bb-67febbfd-99e50501-d76d31db.mp3]"
+                                            ],
+                                            "guid": "z+dA_Bzb}T",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "しょくじは何時からにしましょうか。",
+                                                "(Ab) wann wollen wir essen?",
+                                                "[sound:googletts-90fc618b-46e4a924-ac8bb790-1b33484b-dd196f51.mp3]"
+                                            ],
+                                            "guid": "M70aKB>O9K",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: エリカさんは 何[なに]にしますか。<br>B: てんぷらにします。<br>A: のみものは。<br>B: ビールにします。",
+                                                "A: <b>Was </b>nehmen Sie Erika?<br>B: Ich nehme Tempura.<br>A: Und (was nehmen Sie) zu trinken?<br>B: Ich nehme ein Bier.",
+                                                "[sound:googletts-0d4d4e38-5a9bb193-27bcf68f-e2d21df0-ce5922d8.mp3]"
+                                            ],
+                                            "guid": "KrNUyN?Bz}",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: トーマスさんは 何[なに]にしますか。<br>B: エビフライにします。",
+                                                "A: Herr Thomas, <b>was </b>nehmen Sie?<br>B: Ich nehme fritierte Shrimps.",
+                                                "[sound:googletts-50d37297-75d142da-95aa2eaa-024f0d28-5a209e68.mp3]"
+                                            ],
+                                            "guid": "KE3~4a~pe<",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: のみものは。<br>B: ジュースにします。",
+                                                "A: Und zu trinken?<br>B: Ich nehme (einen) Saft.",
+                                                "[sound:googletts-e4eb861d-56ae4c0a-581b1750-d398a202-6356c8e1.mp3]"
+                                            ],
+                                            "guid": "kBJ)<zOc6H",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "<u>A: こんどいっしょにおひるごはんをたべませんか。</u><br>B: いいですね。いつにしましょうか。<br>C: こん 週[しゅう]の 土曜日[どようび]にしましょう。 何時[なんじ]にしましょうか。<br>D: 12 時[じ]にしましょう。<br>B: どこであいましょうか。<br>E: 大阪[おおさか]えきにしましょう。",
+                                                "<u>A: Wollen wir nicht nächstes mal zusammen zu Mittag essen?</u><br>B: Hört sich gut an. Wann wollen er es machen?<br>C: Lass es uns diese <b>Woche Samstag</b> machen. Um <b>wie viel Uhr</b> wollen wir (uns treffen)?<br>D: Lass uns 12 <b>Uhr </b>machen.<br>B: Wo wollen wir uns treffen?<br>E: Lass uns am Bahnhof von <b>Osaka </b>(treffen).&nbsp;",
+                                                "[sound:googletts-7bb6b399-469942a4-bf9c26dc-f6dbb26c-c1a69a6e.mp3]"
+                                            ],
+                                            "guid": "AFNXDy9Y|F",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: こんどいっしょにおひるごはんをたべませんか。<br><u>B: いいですね。いつにしましょうか。</u><br>C: こん 週[しゅう]の 土曜日[どようび]にしましょう。 何時[なんじ]にしましょうか。<br>D: 12 時[じ]にしましょう。<br>B: どこであいましょうか。<br>E: 大阪[おおさか]えきにしましょう。",
+                                                "A: Wollen wir nicht nächstes mal zusammen zu Mittag essen?<br><u>B: Hört sich gut an. Wann wollen er es machen?</u><br>C: Lass es uns diese&nbsp;<b>Woche Samstag</b>&nbsp;machen. Um&nbsp;<b>wie viel Uhr</b>&nbsp;wollen wir (uns treffen)?<br>D: Lass uns 12&nbsp;<b>Uhr&nbsp;</b>machen.<br>B: Wo wollen wir uns treffen?<br>E: Lass uns am Bahnhof von&nbsp;<b>Osaka&nbsp;</b>(treffen).&nbsp;",
+                                                "[sound:googletts-7bb6b399-469942a4-bf9c26dc-f6dbb26c-c1a69a6e.mp3]"
+                                            ],
+                                            "guid": "y==z?P(<Vn",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: こんどいっしょにおひるごはんをたべませんか。<br>B: いいですね。いつにしましょうか。<br><u>C: こん 週[しゅう]の 土曜日[どようび]にしましょう。 何時[なんじ]にしましょうか。</u><br>D: 12 時[じ]にしましょう。<br>B: どこであいましょうか。<br>E: 大阪[おおさか]えきにしましょう。",
+                                                "A: Wollen wir nicht nächstes mal zusammen zu Mittag essen?<br>B: Hört sich gut an. Wann wollen er es machen?<br><u>C: Lass es uns diese&nbsp;<b>Woche Samstag</b>&nbsp;machen. Um&nbsp;<b>wie viel Uhr</b>&nbsp;wollen wir (uns treffen)?</u><br>D: Lass uns 12&nbsp;<b>Uhr&nbsp;</b>machen.<br>B: Wo wollen wir uns treffen?<br>E: Lass uns am Bahnhof von&nbsp;<b>Osaka&nbsp;</b>(treffen).&nbsp;",
+                                                "[sound:googletts-7bb6b399-469942a4-bf9c26dc-f6dbb26c-c1a69a6e.mp3]"
+                                            ],
+                                            "guid": "r*z5.1ufk|",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: こんどいっしょにおひるごはんをたべませんか。<br>B: いいですね。いつにしましょうか。<br>C: こん 週[しゅう]の 土曜日[どようび]にしましょう。 何時[なんじ]にしましょうか。<br><u>D: 12 時[じ]にしましょう。</u><br>B: どこであいましょうか。<br>E: 大阪[おおさか]えきにしましょう。",
+                                                "A: Wollen wir nicht nächstes mal zusammen zu Mittag essen?<br>B: Hört sich gut an. Wann wollen er es machen?<br>C: Lass es uns diese&nbsp;<b>Woche Samstag</b>&nbsp;machen. Um&nbsp;<b>wie viel Uhr</b>&nbsp;wollen wir (uns treffen)?<br><u>D: Lass uns 12&nbsp;<b>Uhr&nbsp;</b>machen.</u><br>B: Wo wollen wir uns treffen?<br>E: Lass uns am Bahnhof von&nbsp;<b>Osaka&nbsp;</b>(treffen).&nbsp;",
+                                                "[sound:googletts-7bb6b399-469942a4-bf9c26dc-f6dbb26c-c1a69a6e.mp3]"
+                                            ],
+                                            "guid": "e]ao6SH91B",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: こんどいっしょにおひるごはんをたべませんか。<br>B: いいですね。いつにしましょうか。<br>C: こん 週[しゅう]の 土曜日[どようび]にしましょう。 何時[なんじ]にしましょうか。<br>D: 12 時[じ]にしましょう。<br><u>B: どこであいましょうか。</u><br>E: 大阪[おおさか]えきにしましょう。",
+                                                "A: Wollen wir nicht nächstes mal zusammen zu Mittag essen?<br>B: Hört sich gut an. Wann wollen er es machen?<br>C: Lass es uns diese&nbsp;<b>Woche Samstag</b>&nbsp;machen. Um&nbsp;<b>wie viel Uhr</b>&nbsp;wollen wir (uns treffen)?<br>D: Lass uns 12&nbsp;<b>Uhr&nbsp;</b>machen.<br><u>B: Wo wollen wir uns treffen?</u><br>E: Lass uns am Bahnhof von&nbsp;<b>Osaka&nbsp;</b>(treffen).&nbsp;",
+                                                "[sound:googletts-7bb6b399-469942a4-bf9c26dc-f6dbb26c-c1a69a6e.mp3]"
+                                            ],
+                                            "guid": "PgG^L*iDWk",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        },
+                                        {
+                                            "__type__": "Note",
+                                            "fields": [
+                                                "A: こんどいっしょにおひるごはんをたべませんか。<br>B: いいですね。いつにしましょうか。<br>C: こん 週[しゅう]の 土曜日[どようび]にしましょう。 何時[なんじ]にしましょうか。<br>D: 12 時[じ]にしましょう。<br>B: どこであいましょうか。<br><u>E: 大阪[おおさか]えきにしましょう。</u>",
+                                                "A: Wollen wir nicht nächstes mal zusammen zu Mittag essen?<br>B: Hört sich gut an. Wann wollen er es machen?<br>C: Lass es uns diese&nbsp;<b>Woche Samstag</b>&nbsp;machen. Um&nbsp;<b>wie viel Uhr</b>&nbsp;wollen wir (uns treffen)?<br>D: Lass uns 12&nbsp;<b>Uhr&nbsp;</b>machen.<br>B: Wo wollen wir uns treffen?<br><u>E: Lass uns am Bahnhof von&nbsp;<b>Osaka&nbsp;</b>(treffen).&nbsp;</u>",
+                                                "[sound:googletts-7bb6b399-469942a4-bf9c26dc-f6dbb26c-c1a69a6e.mp3]"
+                                            ],
+                                            "guid": "I+{-i}|$x>",
+                                            "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
+                                            "tags": []
+                                        }
+                                    ]
                                 },
                                 {
                                     "__type__": "Deck",

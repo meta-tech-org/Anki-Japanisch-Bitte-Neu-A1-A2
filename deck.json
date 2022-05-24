@@ -4821,7 +4821,7 @@
                                         "googletts-39f01e13-521c558d-8255a6ac-cdf32d02-21abd0d6-e17ebaa33b3bc276fdf3dcdde71ffd9170a2db6d.mp3",
                                         "googletts-4d59471b-60f544c3-cc28b424-97f7d95a-bf5d059f-27f1edd3f6bb30a5ead4a0a1b4521eabb68d8110.mp3",
                                         "googletts-536ced8d-d63b8654-13fd29d8-fd35c327-8a004d07-4ec8acbe16e1832a010f843f8ab6e9cadf53d9f6.mp3",
-                                        "googletts-58092a45-0ab2c2ea-dc29fabb-9f5ba223-c241e4d4-fbb5a7abe43da819e0ed66e2e08fc51fccad93d4.mp3",
+                                        "googletts-63d2aa2f-53ef87fa-6f7217fa-ae142786-36e988ee.mp3",
                                         "googletts-80e2c8d3-5f09fb18-281dee04-c5fa3f99-3e03a39b-b0ff5a6b75c489139d48ea30a657135bc57d5b89.mp3",
                                         "googletts-8d912ad9-3c6cacd4-6838ce75-f0ea4c67-4679db33-ac9db395bdc134b12748de6b8d9631363ae81dc5.mp3",
                                         "googletts-f85e7caa-514d3118-d334bad3-12b265f4-45b7c054-9df5a8867fdd4c600c2a4ee3c0d920f5c4c48a6b.mp3",
@@ -4904,10 +4904,10 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "すいえいをします",
+                                                "すいえい を します",
                                                 "schwimmen gehen",
                                                 "",
-                                                "[sound:googletts-58092a45-0ab2c2ea-dc29fabb-9f5ba223-c241e4d4-fbb5a7abe43da819e0ed66e2e08fc51fccad93d4.mp3]"
+                                                "[sound:googletts-63d2aa2f-53ef87fa-6f7217fa-ae142786-36e988ee.mp3]"
                                             ],
                                             "guid": "m]xGIzuy&",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -6413,8 +6413,8 @@
                                         "googletts-29139bb2-2e1fd561-a8e0b39a-4751e1b3-ea385fbe.mp3",
                                         "googletts-47031a9a-350e6f35-c5305919-636baa9c-9f2255a5.mp3",
                                         "googletts-55e26d23-029e0ffe-2ea0e307-52259732-78d4ec54.mp3",
-                                        "googletts-57e417f0-cb155e71-aa89be38-8901bd19-c2f0af05.mp3",
                                         "googletts-b91ae2c0-a3948c47-9c030248-88285096-6cd5f679.mp3",
+                                        "googletts-d049d5c7-196f06de-795e116a-4e64a743-b1b6e9cd.mp3",
                                         "googletts-f69cb521-53ce040a-ff7df662-af2d5901-0cb79289.mp3",
                                         "googletts-fa94627d-527c4400-c3b06fb4-84cac0eb-dc33586d.mp3",
                                         "googletts-fe9d5806-e179c0c5-66ff4e28-7affc2f6-5c6b28f1.mp3"
@@ -6512,9 +6512,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "ボリスさんは 日本[にほん]のえいがはみました。それから<i>News</i>をみました。",
+                                                "ボリスさんは 日本[にほん]のえいが は みました。それから<i>News</i>をみました。",
                                                 "Herr Boris hat einen <b>japanischen </b>Film gesehen. Danach hat er die <i>Nachrichten </i>gesehen.",
-                                                "[sound:googletts-57e417f0-cb155e71-aa89be38-8901bd19-c2f0af05.mp3]"
+                                                "[sound:googletts-d049d5c7-196f06de-795e116a-4e64a743-b1b6e9cd.mp3]"
                                             ],
                                             "guid": "C6pwMolwdo",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -9203,6 +9203,7 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-0a3d692f-170ebb81-a3127980-e684625c-1300b1af.mp3",
+                                        "googletts-0c0d0f13-69bf88ff-3d902635-f8f44675-3631a6cd.mp3",
                                         "googletts-0d539fe7-fcf1b6b6-0113e8e8-65440f3b-575c1b7c.mp3",
                                         "googletts-4ed4776c-f02f0ba8-3cbc758a-dda4df5c-e64fe933.mp3",
                                         "googletts-56cdbcf2-d649bdcc-48b09422-f4f3aea5-25acd95e.mp3",
@@ -9210,7 +9211,6 @@
                                         "googletts-5cf2bd19-be6dea7e-ba2e6b3d-ebfc1088-90118f43.mp3",
                                         "googletts-6c53cc64-1f3b48d1-5c045bac-9c7ef9d3-a2988c33.mp3",
                                         "googletts-712c3d0d-49c71cb3-61192337-27ba40a8-f84c4d04.mp3",
-                                        "googletts-b533ce5b-58441ab7-f7af9559-30d1f0bd-4564b98d.mp3",
                                         "googletts-e1fd67f4-cf530cde-cc699cbd-17b3ac8e-90587c9e.mp3",
                                         "googletts-eaa4c284-6b7e2d6a-0c876492-60bc1421-d684ed84.mp3"
                                     ],
@@ -9265,7 +9265,7 @@
                                             "fields": [
                                                 "A: 日曜日[にちようび]にコンサートにいきませんか。<br>B: どうもありがとうございます。ざんねんですが、 日曜日[にちようび]にはえいがにいきます。",
                                                 "A: Wollen wir<b>&nbsp;</b>nicht am <b>Sonntag</b>&nbsp;zum Konzert gehen?<br>B: Vielen herzlichen Dank (für die Einladung). (Es ist) schade, aber am <b>Sonntag</b> gehe ich ins Kino.",
-                                                "[sound:googletts-b533ce5b-58441ab7-f7af9559-30d1f0bd-4564b98d.mp3]"
+                                                "[sound:googletts-0c0d0f13-69bf88ff-3d902635-f8f44675-3631a6cd.mp3]"
                                             ],
                                             "guid": "Ee&Hwd6$|p",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -10975,8 +10975,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-f10fc9a6-61522007-51d549e5-ddcd88a1-1fb9a942.mp3",
-                                        "googletts-f422f0ff-edb73f12-19f3db5a-0439302c-4218570d.mp3",
+                                        "googletts-8057f61e-a2e91355-113c0c75-cb13a2d8-195ac402.mp3",
                                         "googletts-f7c6c861-36079f0d-ddbf2b7c-713e03b0-4d2eaa05.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
@@ -10984,9 +10983,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 日本[にっぽん]のかたは 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかたは？<br><u>B: 日本人[にっぽんじん]は5 人[にん]です。 中国[ちゅうごく]のかたは6 人[にん]です。ドイツのかたは？</u><br>A:ドイツ 人[じん]は8 人[にん]です。",
+                                                "<u>A: 日本[にほん]のかた は 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかた は？</u><br>B: 日本人[にほんじん] は 5 人[にん]です。 中国[ちゅうごく]のかた は 6 人[にん]です。ドイツのかた は？<br>A:ドイツ 人[じん] は 8 人[にん]です。",
                                                 "<u>A: <b>Wie viele</b> Personen aus <b>Japan </b>kommen?&nbsp;Außerdem, wie viele Personen aus <b>China</b>?</u><br>B: Es gibt 5 <b>Japaner</b>.&nbsp;Es gibt 6 <b>Chinesen</b>.&nbsp;Und die Deutschen?<br>A: Die Deutsch<b>en</b> sind acht <b>Personen</b>.",
-                                                "[sound:googletts-f10fc9a6-61522007-51d549e5-ddcd88a1-1fb9a942.mp3]"
+                                                "[sound:googletts-8057f61e-a2e91355-113c0c75-cb13a2d8-195ac402.mp3]"
                                             ],
                                             "guid": "pL$Rw|GJ?q",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -10995,9 +10994,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 日本[にっぽん]のかたは 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかたは？<br><u>B: 日本人[にっぽんじん]は5 人[にん]です。 中国[ちゅうごく]のかたは6 人[にん]です。ドイツのかたは？</u><br>A:ドイツ 人[じん]は8 人[にん]です。",
+                                                "A: 日本[にほん]のかた は 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかた は？<br><u>B: 日本人[にほんじん] は 5 人[にん]です。 中国[ちゅうごく]のかた は 6 人[にん]です。ドイツのかた は？</u><br>A:ドイツ 人[じん] は 8 人[にん]です。",
                                                 "A:&nbsp;<b style=\"\">Wie viele</b>&nbsp;Personen aus&nbsp;<b style=\"\">Japan&nbsp;</b>kommen?&nbsp;Außerdem, wie viele Personen aus&nbsp;<b style=\"\">China</b>?<br><u>B: Es gibt 5&nbsp;<b>Japaner</b>.&nbsp;Es gibt 6&nbsp;<b>Chinesen</b>.&nbsp;Und die Deutschen?</u><br>A: Die Deutsch<b>en</b>&nbsp;sind acht&nbsp;<b>Personen</b>.",
-                                                "[sound:googletts-f422f0ff-edb73f12-19f3db5a-0439302c-4218570d.mp3]"
+                                                "[sound:googletts-8057f61e-a2e91355-113c0c75-cb13a2d8-195ac402.mp3]"
                                             ],
                                             "guid": "t~QO$AsyI;",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11006,9 +11005,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 日本[にっぽん]のかたは 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかたは？<br>B: 日本人[にっぽんじん]は5 人[にん]です。 中国[ちゅうごく]のかたは6 人[にん]です。ドイツのかたは？<br><u>A:ドイツ 人[じん]は8 人[にん]です。</u>",
+                                                "A: 日本[にほん]のかた は 何[なん] 人[にん]きますか。それから 中国[ちゅうごく]のかた は？<br>B: 日本人[にほんじん] は 5 人[にん]です。 中国[ちゅうごく]のかた は 6 人[にん]です。ドイツのかた は？<br><u>A:ドイツ 人[じん] は 8 人[にん]です。</u>",
                                                 "A:&nbsp;<b style=\"\">Wie viele</b>&nbsp;Personen aus&nbsp;<b style=\"\">Japan&nbsp;</b>kommen?&nbsp;Außerdem, wie viele Personen aus&nbsp;<b style=\"\">China</b>?<br>B: Es gibt 5&nbsp;<b>Japaner</b>.&nbsp;Es gibt 6&nbsp;<b>Chinesen</b>.&nbsp;Und die Deutschen?<br><u>A: Die Deutsch<b>en</b>&nbsp;sind acht&nbsp;<b>Personen</b>.</u>",
-                                                "[sound:googletts-f422f0ff-edb73f12-19f3db5a-0439302c-4218570d.mp3]"
+                                                "[sound:googletts-8057f61e-a2e91355-113c0c75-cb13a2d8-195ac402.mp3]"
                                             ],
                                             "guid": "h;F^62,WBh",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11394,8 +11393,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "きのう何をしましたか。",
-                                                "Was hast du gestern gemacht?",
+                                                "きのう 何[なに]をしましたか。",
+                                                "<b>Was</b> hast du gestern gemacht?",
                                                 "[sound:googletts-88bc0725-ebe7148d-2596ecf8-5a3dc5e0-310fd5b9.mp3]"
                                             ],
                                             "guid": "wS#7?f&U|$",
@@ -11472,7 +11471,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A:きよう 何[なに]をしますか。<br>B:ゴルフをします。",
-                                                "A: Was machst du heute?<br>B: Ich spiele Golf.",
+                                                "A: <b>Was</b> machst du heute?<br>B: Ich spiele Golf.",
                                                 "[sound:googletts-6c003a69-92128d50-4e8eb61d-ba3fe20d-024f83ef.mp3]"
                                             ],
                                             "guid": "is%JYU0im,",
@@ -15395,7 +15394,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: Bさん、ローマはいま 何[なん] 時[じ]ですか。<br>B: ごぜん一[いち]&nbsp;時[じ]です。",
+                                                "A: Bさん、ローマはいま 何[なん] 時[じ]ですか。<br>B: ごぜん 一[いち]&nbsp;時[じ]です。",
                                                 "A: Herr B, <b>wie viel Uhr</b>&nbsp;ist es gerade in Rom?<br>B: Es ist <b>1 Uhr</b> vormittags.",
                                                 "[sound:googletts-fe7f848e-2f22d513-b951f9d3-313d28d4-d911c348.mp3]"
                                             ],
@@ -15478,10 +15477,10 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-2460b233-8d3f0b42-667ae356-83b649b7-1b70602d.mp3",
                                         "googletts-796903e2-67a93a6c-60fef1d2-eff7aa02-b798dd27.mp3",
                                         "googletts-8a0cdcf8-4be1c7e8-bbf81fec-da2eab92-909e630a.mp3",
-                                        "googletts-c85765ef-f55cec63-b8e12c48-9f87c10f-dc9f34c4.mp3"
+                                        "googletts-c85765ef-f55cec63-b8e12c48-9f87c10f-dc9f34c4.mp3",
+                                        "googletts-f4da8589-442296ce-e1fcd00f-225a89d1-a26adad9.mp3"
                                     ],
                                     "name": "01 Kana",
                                     "notes": [
@@ -15512,10 +15511,10 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "夕",
+                                                "タ",
                                                 "ta",
                                                 "",
-                                                " [sound:googletts-2460b233-8d3f0b42-667ae356-83b649b7-1b70602d.mp3]"
+                                                "[sound:googletts-f4da8589-442296ce-e1fcd00f-225a89d1-a26adad9.mp3]"
                                             ],
                                             "guid": "GS,YjdOwX`",
                                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
@@ -18927,7 +18926,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Bei welchen Wörtern wird das Objekt mit der Partikel が markiert?",
+                                                "Notiz: Lieber andersrum fragen, mit welcher Partikel wird das Wort ... markiert?<br><br>Bei welchen Wörtern wird das Objekt mit der Partikel が markiert?",
                                                 "Bei わかる&nbsp;(wie auch bei できる oder すき)&nbsp;wird das Objekt mit が markiert. Im Deutschen hingegen handelt es sich hier um ein Akkusativobjekt.&nbsp;<br>英語がよくわかります&nbsp;bedeutet also&nbsp;<i>Ich verstehe Englisch gut</i>."
                                             ],
                                             "guid": "K_8/T@tnGb",
@@ -20717,7 +20716,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "こん週[こ んしゅつ]",
+                                                "こん 週[しゅう]",
                                                 "diese <b>Woche</b>",
                                                 "<img src=\"週.png\">",
                                                 "[sound:googletts-28ba25c2-0a25cd61-daf14681-2fda1af9-7c737c22-82ff37a1c88c77d2953f4ab15756d83654691018.mp3]"
@@ -22878,18 +22877,6 @@
                                             "guid": "EWju!T.FwF",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
                                             "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "ていしょく",
-                                                "Menü, Gedeck",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "A0k}@P{{Kc",
-                                            "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                            "tags": []
                                         }
                                     ]
                                 },
@@ -23670,7 +23657,7 @@
                                         "googletts-67b22f5e-1a1883b3-ec99bc21-2f973cba-17865008.mp3",
                                         "googletts-85ca688c-c664759b-d39873eb-ec16a4d2-9df3901a.mp3",
                                         "googletts-8f35df7d-2760bbfa-fd7c5b9a-7a7cbc93-c95d13fc.mp3",
-                                        "googletts-c90eb746-afd9f2dc-e219ab99-d1840074-8894cf80.mp3",
+                                        "googletts-d2e95c67-f35c4986-0f248b87-337729f1-8520da7a.mp3",
                                         "googletts-df92f847-fed97c67-349c34e3-6be785bd-6b39fb50.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
@@ -23690,8 +23677,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "わたしはにくが 好[す]きです。",
-                                                "Ich esse <b>gerne </b>Fleisch",
-                                                "[sound:googletts-c90eb746-afd9f2dc-e219ab99-d1840074-8894cf80.mp3]"
+                                                "Ich mag&nbsp;<b>gerne </b>Fleisch.",
+                                                "[sound:googletts-d2e95c67-f35c4986-0f248b87-337729f1-8520da7a.mp3]"
                                             ],
                                             "guid": "H?sQ@<}{Ah",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24122,14 +24109,14 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-17e51707-3917ef03-64afe8bc-6673864f-8f933876.mp3",
                                         "googletts-3b811d5e-ea2429ac-44f4a038-93207fd2-9754f0f3.mp3",
                                         "googletts-47c2292c-0eee8802-d24c924e-dabba4db-13994241.mp3",
                                         "googletts-4aaba336-4536934c-308a0386-b3a7d101-ad908c5d.mp3",
+                                        "googletts-4f9d653a-116d5fca-79d6c1f9-8dffa7dd-9cdcfcdf.mp3",
                                         "googletts-58eb288b-5490d6a5-16596ee9-3b560d49-9513a884.mp3",
                                         "googletts-5a1e2303-2779afff-a54230eb-2a6e5fb9-b527cf55.mp3",
-                                        "googletts-65b7df1b-0d5dbf40-2a596748-0ca0d10b-fa0a0aba.mp3",
                                         "googletts-6f64a5b9-2352e8a4-1c659631-23c2d260-bbdfcc29.mp3",
+                                        "googletts-7094eca5-6330a866-62a15f7e-d24bc79e-878b5522.mp3",
                                         "googletts-ba9ee30f-aa1d5c2b-24041845-761decae-d5d7ee73.mp3",
                                         "googletts-c4067d67-cf83b6d1-d818cc60-d515451b-3499f72a.mp3",
                                         "googletts-cd653d08-b1679ee3-d114b375-2bf8e12c-73475cbc.mp3",
@@ -24143,7 +24130,7 @@
                                             "fields": [
                                                 "ところでおんがくは 何[なに]が 好[す]きですか。",
                                                 "Übrigens, was Musik betrifft, <b>was mögen </b>Sie?",
-                                                "[sound:googletts-17e51707-3917ef03-64afe8bc-6673864f-8f933876.mp3]"
+                                                "[sound:googletts-4f9d653a-116d5fca-79d6c1f9-8dffa7dd-9cdcfcdf.mp3]"
                                             ],
                                             "guid": "q}BRtrox1M",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24154,7 +24141,7 @@
                                             "fields": [
                                                 "クラシックが 一番[いちばん] 好[す]きです。",
                                                 "<b>Am liebsten </b>mag ich klassische Musik.",
-                                                "[sound:googletts-65b7df1b-0d5dbf40-2a596748-0ca0d10b-fa0a0aba.mp3]"
+                                                "[sound:googletts-7094eca5-6330a866-62a15f7e-d24bc79e-878b5522.mp3]"
                                             ],
                                             "guid": "L<5|J~J=H]",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -25396,7 +25383,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "何[なん] 本[ぼん]",
-                                                "<b>Wie viele...</b>",
+                                                "<b>Wie viele (längliche Gegenstände)...</b>",
                                                 "<img src=\"何本.png\">",
                                                 "[sound:googletts-a41d7660-b33a85f2-a9ac5bf1-5ad3a38b-55d2fa19.mp3]"
                                             ],

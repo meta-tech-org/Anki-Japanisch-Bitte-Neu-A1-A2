@@ -3084,7 +3084,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: こんばんは。<br>B: Sonyのかたですか。<br>A: はい。",
-                                                "A: Guten Abend!<br>B: Arbeiten Sie bei Sony?<br>A. Ja.",
+                                                "A: Guten Abend!<br>B: Arbeiten Sie bei <i>Sony</i>?<br>A. Ja.",
                                                 "[sound:googletts-c3b8f59e-9bd5c31b-ad64c814-261db9af-6cc3a9ff.mp3]"
                                             ],
                                             "guid": "y?WA.S~e*H",

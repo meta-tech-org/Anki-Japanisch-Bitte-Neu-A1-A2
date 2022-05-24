@@ -3562,7 +3562,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: これは 何[なん]ですか。<br>B: それはソースです。",
-                                                "A: <b>Was </b>ist das hier?<br>B: Das ist japanische Worcester-Soße.",
+                                                "A: <b>Was </b>ist das hier?<br>B: Das ist Soße.",
                                                 "[sound:googletts-6f683157-fac0f4ac-9925a61d-3979bef5-4cec1b68.mp3]"
                                             ],
                                             "guid": "BMb]?F-HY!",
@@ -4249,7 +4249,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "まだ",
-                                                "noch",
+                                                "(immer) noch",
                                                 "",
                                                 "[sound:googletts-55877d8e-ef691f02-769e331c-fd5c046e-d48cb066-07aa43ed79761cb9297caf9943709185b27bb453.mp3]"
                                             ],
@@ -7996,7 +7996,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "ね",
-                                                "entspricht im Deutschen Wörtern wie <i>doch, wirklich, nicht wahr </i>usw."
+                                                "entspricht im Deutschen Wörtern wie …,ne?,&nbsp;<i>doch, wirklich, nicht wahr </i>usw."
                                             ],
                                             "guid": "O.}zo_QH1a",
                                             "note_model_uuid": "b37a10fb-8a71-11ec-a896-3c58c2d0fe16",
@@ -8122,7 +8122,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: あしたテニスをしませんか。<br>B: いいですね。ぜひしましょう。",
-                                                "A: Willst du morgen Tennis spielen?<br>B: Gute Idee. Lass uns das unbedingt machen!",
+                                                "A: Willst du morgen nicht Tennis spielen?<br>B: Gute Idee. Lass uns das unbedingt machen!",
                                                 "[sound:googletts-0e57359a-42a64ee3-54ec5e81-7e7146a3-fe13641d.mp3]"
                                             ],
                                             "guid": "Do:.!zUBw_",
@@ -8990,7 +8990,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "だいじょうぶ",
-                                                "(Adj.) sicher, möglich, machbar, in Ordnung",
+                                                "(Adj.) möglich, machbar, in Ordnung, sicher",
                                                 "",
                                                 "[sound:googletts-7253ef14-c1df5b6e-5e610940-12093998-604498f9-f4585acca146f43ae49ca6ff22a6188d8d408779.mp3]"
                                             ],
@@ -9308,7 +9308,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: じゃ、あした 日本[にほん]のえいがをみませんか。<br>B: ざんねんですが、あしたはちょっと・・・パーティーにいきます。",
-                                                "A: Wollen wir dann nicht morgen einen <b>japanischen </b>Film schauen?<br>B: Leider gehe ich morgen auf eine Party.",
+                                                "A: Wollen wir dann nicht morgen einen <b>japanischen </b>Film schauen?<br>B: Leider ist morgen nicht so gut... Ich gehe auf eine Party.",
                                                 "[sound:googletts-5a318b1d-15b6b474-9aa23ee1-ab13a216-e11f3447.mp3]"
                                             ],
                                             "guid": "FJ28fUe1I<",
@@ -21138,7 +21138,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "ならいます",
-                                                "lernen, üben",
+                                                "lernen, üben (Verb)",
                                                 "",
                                                 "[sound:googletts-e15eb240-d530bd6d-281b47f6-7e40435b-1c8c6625-4c7fbc8bb212abd255d2b5f18468981417ea7b12.mp3]"
                                             ],
@@ -25773,7 +25773,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "あのう",
-                                                "Äh…, Hallo, Entschuldigung",
+                                                "Äh, ähm, …",
                                                 "",
                                                 "[sound:googletts-149d50b7-0534c65c-f90f96b7-fbe89704-6910893a.mp3]"
                                             ],
@@ -28372,7 +28372,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "ごめんなさい",
-                                                "Es tut mir leid, entschuldigung",
+                                                "Es tut mir leid, entschuldigung (höflich)",
                                                 "",
                                                 "[sound:googletts-c6296967-c9e34459-87ee9dd0-d6646b5c-7c6a0b90.mp3]"
                                             ],

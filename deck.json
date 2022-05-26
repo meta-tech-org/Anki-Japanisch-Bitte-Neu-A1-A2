@@ -2034,7 +2034,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: Kafkaはスイス 人[じん]ですか。<br>B: いいえ、スイス 人[じん]じゃないです。",
-                                                "A: Ist Kafka <b>Schweizer</b>?<br>B: Nein, er ist kein <b>Schweizer</b>.",
+                                                "A: Ist <i>Kafka</i> <b>Schweizer</b>?<br>B: Nein, er ist kein <b>Schweizer</b>.",
                                                 "[sound:googletts-6c6aa40b-faca1249-0f48272c-b496b3fc-58502ce1.mp3]"
                                             ],
                                             "guid": "L:EI:[w_lv",
@@ -6425,7 +6425,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: りょこうはどこにいきましたか。<br>B: オーストリアにいきました。",
-                                                "A: Wohin sind Sie verreist?<br>B: Wir sind nach Österreich gefahren.",
+                                                "A: Auf Ihrer Reise, wohin sind Sie gegangen?<br>B: Wir sind nach Österreich gefahren.",
                                                 "[sound:googletts-f69cb521-53ce040a-ff7df662-af2d5901-0cb79289.mp3]"
                                             ],
                                             "guid": "MA4R:z^{N>",
@@ -12736,7 +12736,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: 東京[とうきょう]は 大[おお]きいまちですね。<br>B: そうですね。 大[おお]きいまちですね。 大阪[おおさか]も 大[おお]きいまちですね。",
-                                                "A: Tokio ist eine große Stadt, nicht wahr?<br>B: So ist es. (Tokio) Sie ist groß. Osaka ist auch eine große Stadt, nicht wahr?",
+                                                "A: Tokio ist eine große Stadt, nicht wahr?<br>B: So ist es. Die Stadt ist groß. Osaka ist auch eine große Stadt, nicht wahr?",
                                                 "[sound:googletts-669b9e59-251b097c-bf87ec5c-ddfd5fcd-f5896125.mp3]"
                                             ],
                                             "guid": "jE~UoH/PXD",
@@ -13739,7 +13739,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "おはようございます。おひさしぶりです。おげんきですか。",
-                                                "Guten Morgen. Lange nicht gesehen. wie gehts?",
+                                                "Guten Morgen. Lange nicht gesehen. Geht es dir gut?",
                                                 "[sound:googletts-4ed6c615-10462f3a-ae90ea29-2ee5b1ce-3b9ad8b3.mp3]"
                                             ],
                                             "guid": "i6P7/O84,u",
@@ -22494,7 +22494,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "おひるは 何[なに]にしますか。",
-                                                "<b>Was </b>essen Sie zu Mittag?",
+                                                "<b>Was</b> (nehmen/essen) Sie zu Mittag?",
                                                 "[sound:googletts-f00c2568-3cede76a-8cc5f176-4b834301-894a1088.mp3]"
                                             ],
                                             "guid": "z+dA_Bzb}T",
@@ -22504,8 +22504,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "しょくじは何時からにしましょうか。",
-                                                "(Ab) wann wollen wir essen?",
+                                                "しょくじは 何時[なんじ]からにしましょうか。",
+                                                "Ab <b>wann</b> wollen wir (gemeinsam) essen?",
                                                 "[sound:googletts-90fc618b-46e4a924-ac8bb790-1b33484b-dd196f51.mp3]"
                                             ],
                                             "guid": "M70aKB>O9K",
@@ -23328,7 +23328,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: すみません、ハムサンドおねがいします。<br>B: いくつですか。<br>A: 六[むっ]つおねがいします。",
-                                                "A: Entschuldigung, ich hätte gerne Sandwiches mit Schinken!<br>B: Wie viele?<br>A: Bringen Sie bitte <b>6</b>!",
+                                                "A: Entschuldigung, Schinkensandwiches, bitte!<br>B: Wie viele?<br>A:&nbsp;<b>6</b>, bitte!",
                                                 "[sound:googletts-18caa25a-a567aeef-13166c6c-99201ec5-c4feca1a.mp3]"
                                             ],
                                             "guid": "EEzFTa(<yu",
@@ -23666,7 +23666,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "さかなが 好[す]きです。<br>ばばさんは 何[なに]が 好[す]きですか。",
-                                                "Ich esse <b>gerne </b>Fisch.&nbsp;<br>Und sie Frau Baba, <b>was mögen&nbsp;</b>sie?",
+                                                "Ich mag&nbsp;<b>gerne </b>Fisch.&nbsp;<br>Frau Baba, <b>was mögen&nbsp;</b>sie?",
                                                 "[sound:googletts-8f35df7d-2760bbfa-fd7c5b9a-7a7cbc93-c95d13fc.mp3]"
                                             ],
                                             "guid": "Inu2,>z::F",
@@ -24675,7 +24675,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Was sind die Sonderverben?",
-                                                "します　-&gt; して<br>来ます -&gt;　来て"
+                                                "します　-&gt; して<br>来[き]ます -&gt;&nbsp; 来[き]て"
                                             ],
                                             "guid": "ya@NHC>-eF",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -24720,8 +24720,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: こんどぜひうちに 来[き]てください。<br>B: ありがとうございます。",
-                                                "A: <b>Kommen </b>Sie nächstes Mal unbedingt zu uns!／Sie müssen uns unbedingt mal besuchen!<br>B: Ich bedanke mich fur die Einladung./Vielen Dank!",
+                                                "こんどぜひうちに 来[き]てください。",
+                                                "A: <b>Kommen </b>sie nächstes Mal unbedingt zu unserem Haus (zu Besuch)!",
                                                 "[sound:googletts-44547d80-5ae58775-f9dedab5-f0501b4f-161e7b0f.mp3]"
                                             ],
                                             "guid": "mc5GyNxG[K",
@@ -25044,7 +25044,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was für ein Adjektiv-Typ ist 赤[あか]い?",
+                                                "Was für ein Adjektiv-Typ ist&nbsp; 赤[あか]い?",
                                                 "赤[あか]い ist ein い-Adjektiv"
                                             ],
                                             "guid": "LAiYmVz)!,",
@@ -25054,7 +25054,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Was für ein Adjektiv-Typ ist 白[しろ]い?",
+                                                "Was für ein Adjektiv-Typ ist&nbsp; 白[しろ]い?",
                                                 "白[しろ]い ist ein い-Adjektiv."
                                             ],
                                             "guid": "i[5Z](_t+~",
@@ -25094,7 +25094,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Mit welcher Partikel wird auf die Frage 何[なに]がありますか geantwortet?",
+                                                "Mit welcher Partikel wird auf die Frage&nbsp; 何[なに]がありますか geantwortet?",
                                                 "Die Antwort darauf wird durch が markiert.<br>Beispiel:ドイツワインがありますよ。<i>Es gibt deutschen Wein!</i>&nbsp;"
                                             ],
                                             "guid": "dkY.=Z:g3L",

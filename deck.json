@@ -7041,7 +7041,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "むかしはよくアニメをみました。いまもときどきみます。",
-                                                "Ich habe früher viel Anime geschaut. Jetzt sehe ich es immer noch manchmal.",
+                                                "Ich habe früher viel Anime geschaut. Auch jetzt schaue ich es manchmal.",
                                                 "[sound:googletts-2ddb017c-d5b26cc4-f3177af7-1e4ab036-03c151ca.mp3]"
                                             ],
                                             "guid": "Cc?WmPQ}x7",
@@ -7592,7 +7592,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: むかいさんはきょう 何[なに]をしましたか。<br>B: きょうはかいものをしました。それからそうじもしました。",
-                                                "A: Frau Mukai, <b>was </b>haben Sie gestern gemacht?<br>B: Gestern war ich einkaufen. Danach habe ich auch noch geputzt.",
+                                                "A: Frau Mukai, <b>was </b>haben Sie heute gemacht?<br>B: Heute war ich einkaufen. Danach habe ich auch noch geputzt.",
                                                 "[sound:googletts-78d9e33c-9bda745a-48347696-185ec6c9-65f7b04e.mp3]"
                                             ],
                                             "guid": "BqvQB[fg:-",
@@ -8078,7 +8078,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "しょくじをしませんか。",
-                                                "Wollen Sie nicht (mit mir) essen gehen?",
+                                                "Wollen (Sie) nicht (mit mir) essen?",
                                                 "[sound:googletts-1ce8ab13-633cc083-e0899d01-f04c997e-dbd37a10.mp3]"
                                             ],
                                             "guid": "I~`82?PC7x",
@@ -8100,7 +8100,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: いっしょにおひるをたべませんか。<br>B: ええ、たべましょう。",
-                                                "A: Wollen Sie nicht mit mir Mittag essen?<br>B: Ja, lasst uns das machen./Ja, gern.",
+                                                "A: Wollen Sie nicht gemeinsam mit mir Mittag essen?<br>B: Ja, lass uns essen.",
                                                 "[sound:googletts-029fe613-555415cc-f67fb799-d527f45c-06dd75c4.mp3]"
                                             ],
                                             "guid": "E+!nA3Kq,Q",
@@ -11448,8 +11448,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "東京にいきました。",
-                                                "(Sie) ging nach Tokyo.",
+                                                "東京[とうきょう]にいきました。",
+                                                "(Sie) ging nach <b>Tokyo</b>.",
                                                 "[sound:googletts-669717ef-8a3578c6-12ef096c-c697d459-3b771d37.mp3]"
                                             ],
                                             "guid": "E2kEeOkhj[",
@@ -13233,7 +13233,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "おひさしぶりです。おげんきですか。",
-                                                "Lange nicht gesehen! Wie geht es Ihnen?",
+                                                "Lange nicht gesehen! Geht es Ihnen gut?",
                                                 "[sound:googletts-22c5fc8a-7f5f589d-0a4bdd67-80e7a668-ed359755.mp3]"
                                             ],
                                             "guid": "pTJB{oGh8y",
@@ -13299,7 +13299,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "英語[えいご]はだいじょうぶですか。",
-                                                "Geht es mit Ihrem <b>Englisch</b>?",
+                                                "Ist&nbsp;<b>Englisch </b>okay?",
                                                 "[sound:googletts-f45e1313-bd14214e-bca06f98-630c9abe-48f8da62.mp3]"
                                             ],
                                             "guid": "LT23m%SW_>",
@@ -13837,7 +13837,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "はははきません。",
+                                                "はは は きません。",
                                                 "Meine Mutter kommt nicht.",
                                                 "[sound:googletts-a702c1d2-496aa379-8e29a51b-f035aa23-4b2a37dc.mp3]"
                                             ],
@@ -18896,7 +18896,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "~<b>と&nbsp;</b>はなします",
+                                                "<u>~と</u><b>&nbsp;</b>はなします",
                                                 "mit (jemandem);&nbsp;mit jemandem sprechen"
                                             ],
                                             "guid": "IBIVHNmVuw",
@@ -22505,7 +22505,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "しょくじは 何時[なんじ]からにしましょうか。",
-                                                "Ab <b>wann</b> wollen wir (gemeinsam) essen?",
+                                                "Ab <b>wie viel Uhr</b> wollen wir (gemeinsam) essen?",
                                                 "[sound:googletts-ea09b464-cbeac13b-d77c626d-8e67ff67-c3113e6b.mp3]"
                                             ],
                                             "guid": "M70aKB>O9K",
@@ -24261,7 +24261,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "そうですか…。ハイデルベルクが 一番[いちばん]ふるいですよ。",
-                                                "Ist das so? Heidelberg ist die ält<b>este</b> Universität!",
+                                                "Ist das so? Heidelberg ist die ält<b>este</b>&nbsp;(Universität)!",
                                                 "[sound:googletts-a0285665-898506c8-6c10faa3-3fc2041f-4d6a31f2.mp3]"
                                             ],
                                             "guid": "t{DF]CABo_",
@@ -25608,7 +25608,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A:&nbsp; 赤[あか]ワイン、ありますか。<br>B: はい。フランスワインとイタりアワイン、それからオーストラリアのワインがあります。",
+                                                "A:&nbsp; 赤[あか]ワイン、ありますか。<br>B: はい。フランスワインとイタリアワイン、それからオーストラリアのワインがあります。",
                                                 "A: Haben Sie <b>Rot</b>wein?<br>B: Ja. Wir haben französischen und italienischen Wein und außerdem australischen Wein.",
                                                 "[sound:googletts-cc96de8d-49245a71-4b371e1d-5becbcfc-ce72ef4b.mp3]"
                                             ],
@@ -26055,7 +26055,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "かんばい",
+                                                "かんぱい",
                                                 "Prost!",
                                                 "",
                                                 "[sound:googletts-32f07b04-c670d92c-c0b4c2c5-3a5be189-be1831f8.mp3]"
@@ -27036,7 +27036,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "きょう は すてきなえ を どうも ありがとうございました。",
-                                                "Vielen Dank für Ihre Wunderbarkeit heute.<br>(WTF? Steht keine Übersetzung dran)",
+                                                "Vielen Dank für Ihre Wunderbarkeit heute.<br><br>Claire sagt es geht um ein Bild. Nochmal nachschauen 16 B<br>(WTF? Steht keine Übersetzung dran)",
                                                 "[sound:googletts-c0b33c91-b36d8fb9-78c4aaae-ae5812f8-af98ade7.mp3]"
                                             ],
                                             "guid": "HX[!y@8?L|",
@@ -27388,7 +27388,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "このでんわはちょっと…。そのでんわておねがいします。",
+                                                "このでんわはちょっと…。そのでんわでおねがいします。",
                                                 "Dieses Telefon (können Sie nicht benutzen)... Bitte nehmen Sie jenes Telefon.",
                                                 "[sound:googletts-8f3be6a5-03a69fb4-11b21fd6-0676a107-4191279d.mp3]"
                                             ],

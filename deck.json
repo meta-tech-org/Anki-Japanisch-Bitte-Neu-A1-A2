@@ -594,9 +594,9 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-142f7d00-491401cf-e060101e-e318193a-379199d5.mp3",
                                         "googletts-16faaa88-d74d02c0-6fe56893-0a13aff1-2cf1d601.mp3",
-                                        "googletts-8431ea26-63d4cc52-fa66d375-6dd8ae2f-44a12229.mp3"
+                                        "googletts-8431ea26-63d4cc52-fa66d375-6dd8ae2f-44a12229.mp3",
+                                        "googletts-ecab3682-542df1cb-9ce3a87a-b05666ad-c0e39e4f.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -625,9 +625,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "いすず：すがさんですか。<br>さかい：いいえ、さかいです。",
-                                                "Isuzu: Sind Sie Frau Suga?<br>Sakai: Nein. Ich heiße Sakai.",
-                                                "[sound:googletts-142f7d00-491401cf-e060101e-e318193a-379199d5.mp3]"
+                                                "A: すがさんですか。<br>B: いいえ、さかいです。",
+                                                "A: Sind Sie Frau Suga?<br>B: Nein. Ich heiße Sakai.",
+                                                "[sound:googletts-ecab3682-542df1cb-9ce3a87a-b05666ad-c0e39e4f.mp3]"
                                             ],
                                             "guid": "Kqg~2<^}I!",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -1392,7 +1392,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "こんばんは。Behrmannです。ドイツ 人です。",
+                                                "こんばんは。Behrmannです。ドイツ人[じん]です。",
                                                 "Guten Abend! Ich bin&nbsp;<i>Behrmann</i>. Ich bin Deutsch<b>er</b>.",
                                                 "[sound:googletts-7101e88c-be64b3d9-c8783f02-03abc709-7d352f9e.mp3]"
                                             ],
@@ -2195,7 +2195,6 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-086ad51c-c7b20a06-1a26cb24-4170f8de-79161407.mp3",
                                         "googletts-0dc67c1b-b3ec3c36-06f63f07-76739160-2a8e601f.mp3",
                                         "googletts-323c8286-8037efc0-1ce88a4c-1c9fc586-d8bc97b0.mp3",
                                         "googletts-3416c71d-f338f250-1a1f8742-693148d0-4e2973c7.mp3",
@@ -2203,6 +2202,7 @@
                                         "googletts-8ad3d24d-7a3fc47d-cd8984cf-2b9bfc5b-aaa5d833.mp3",
                                         "googletts-bc384a5c-b1e190bc-46f66ed0-b40a303c-ab9708f0.mp3",
                                         "googletts-dac77aff-f7ee0cb2-15d4744d-4bf2c772-52a8e219.mp3",
+                                        "googletts-e07f1829-894637df-dec4c05b-954b636c-c00bbe03.mp3",
                                         "googletts-f1e0bb2f-e28961df-95801300-2b39463e-31283aaa.mp3",
                                         "googletts-f4916d4f-28e54fa7-04767afa-b74e09c0-cf99f717.mp3"
                                     ],
@@ -2223,8 +2223,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: さのです。はじめまして。<br>B: はじめまして。いしいです。",
-                                                "Sano: Ich bin Sano. Angenehm.<br>Ishii: Angenehm! Ich bin Ishii.",
-                                                "[sound:googletts-086ad51c-c7b20a06-1a26cb24-4170f8de-79161407.mp3]"
+                                                "A: Ich bin Sano. Angenehm.<br>B: Angenehm! Ich bin Ishii.",
+                                                "[sound:googletts-e07f1829-894637df-dec4c05b-954b636c-c00bbe03.mp3]"
                                             ],
                                             "guid": "H5+$Kwo`[Q",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -8714,12 +8714,12 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-1f22f02a-220a87e7-e0bce9b7-0110302c-68452af1.mp3",
+                                        "googletts-457b2f40-f86e4bee-a4c6c4b4-eb1468b6-634458fc.mp3",
                                         "googletts-54865b81-43d9f6e6-1217b3a3-8e2e95fc-44dfc653.mp3",
                                         "googletts-5acec620-0a9c45af-45558c4d-76a24305-ed30b51e.mp3",
                                         "googletts-63e3b6bf-6eed8510-58a2748a-4c7e8f13-89cca37b.mp3",
                                         "googletts-a825a230-a930ab3f-a644400d-27af1f54-a5c38565.mp3",
                                         "googletts-aefcc481-db9c8a2e-59a5a441-0fd0b1ff-3d4a8ed5.mp3",
-                                        "googletts-e05a989a-0c7e1a3f-50e7783b-98c70bbc-9ab82d67.mp3",
                                         "googletts-f6826ab3-d9e3f569-b9b4a2b3-68807241-934ca5d3.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
@@ -8771,9 +8771,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: Sauerkrautはいかがですか。<br>B: はい、いただきます。<br>A: どうぞ。<br>B: どうも。(vor dem Trinken / Essen) いただきます。",
+                                                "A: Sauerkrautはいかがですか。<br>B: はい、いただきます。<br>A: どうぞ。<br>B: どうも。いただきます。",
                                                 "A: Wie wäre es mit <i>Sauerkraut</i>?<br>B: Ja, (esse ich) gerne!<br>A. Bitte.<br>B: Danke. (vor dem Trinken/Essen) Guten Appetit.",
-                                                "[sound:googletts-e05a989a-0c7e1a3f-50e7783b-98c70bbc-9ab82d67.mp3]"
+                                                "[sound:googletts-457b2f40-f86e4bee-a4c6c4b4-eb1468b6-634458fc.mp3]"
                                             ],
                                             "guid": "INhM<Q5Wv{",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -9909,7 +9909,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "何[なに]をのみましょうか。",
-                                                "Was wollen wir trinken? (gemeinsam)",
+                                                "<b>Was </b>wollen wir trinken? (gemeinsam)",
                                                 "[sound:googletts-4b4c7cc4-86f233e4-19a0b79d-74b1a6e4-db6d562c.mp3]"
                                             ],
                                             "guid": "knY2,8&+Ar",
@@ -11315,6 +11315,7 @@
                                     "media_files": [
                                         "googletts-02399d9c-cec7d784-7e01f47a-737571ab-995f9b8b.mp3",
                                         "googletts-0697bb34-b245ea00-66848f05-285ac9ab-09180655.mp3",
+                                        "googletts-12fb1651-82fce4ae-90fbff16-4b44f969-2bf04bea.mp3",
                                         "googletts-27ee7971-92e1f8fc-f77f1ce9-040d3176-bb99c0a0.mp3",
                                         "googletts-2a47c9ae-5276d65f-b2d0bb31-7cebbea8-b4af5ecd.mp3",
                                         "googletts-2da46dc5-c82a53a0-50222a14-73708e12-4b19a673.mp3",
@@ -11333,10 +11334,9 @@
                                         "googletts-9196c4da-36c9a3da-cbf8f8bc-c6f8ca43-ee96066f.mp3",
                                         "googletts-93305fc4-3ac4eadb-d3039335-556f1fc9-cf1e2502.mp3",
                                         "googletts-a704d0b2-b0b654c7-7e129977-bfc62a98-bb59420e.mp3",
-                                        "googletts-a8c30b17-2bef1b03-8869d698-a46193e3-f7cade23.mp3",
                                         "googletts-acc47246-495b26ac-62d67817-4fc63e65-c1f6abbb.mp3",
-                                        "googletts-b48a2465-0a360d30-28cf2b91-ffaab3cc-9c8defa1.mp3",
                                         "googletts-bd1b10d9-5853fcf1-c0cb4cfd-3f81c8ce-0cc41625.mp3",
+                                        "googletts-d5d0a1b2-71674cdb-d3580b72-7a456c2e-fbf014ca.mp3",
                                         "googletts-e1855e8c-f1e9b7bf-433fd8eb-0229986d-faf16779.mp3",
                                         "googletts-e42db155-cd281abf-e9074f0b-0c314b33-527d13c4.mp3",
                                         "googletts-f0d00258-b377dae8-0232a14d-f11709fd-b3d92d7e.mp3",
@@ -11426,9 +11426,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "いで：では、からてはだれですか。<br>さの：わたしです。",
-                                                "Ide: Dann, wer macht Karate?<br>Sano: Ich.",
-                                                "[sound:googletts-b48a2465-0a360d30-28cf2b91-ffaab3cc-9c8defa1.mp3]"
+                                                "A: では、からてはだれですか。<br>B: わたしです。",
+                                                "A: Dann, wer macht Karate?<br>B: Ich.",
+                                                "[sound:googletts-d5d0a1b2-71674cdb-d3580b72-7a456c2e-fbf014ca.mp3]"
                                             ],
                                             "guid": "JhO=B$6ri9",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11547,9 +11547,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "いで:&nbsp;らいしゅう、パーティーをしましょうか。<br>日本語コースの人:&nbsp;しましょう。しましょう。",
-                                                "Ide: Nächste Woche, wollen wir da eine Party machen?<br><b>Japanisch</b>kurs-<b>Leute</b>: Wollen wir! Wollen wir!",
-                                                "[sound:googletts-a8c30b17-2bef1b03-8869d698-a46193e3-f7cade23.mp3]"
+                                                "A&nbsp;らいしゅう、パーティーをしましょうか。<br>B:&nbsp;しましょう。しましょう。",
+                                                "A: Nächste Woche, wollen wir da eine Party machen?<br>B: Wollen wir! Wollen wir!",
+                                                "[sound:googletts-12fb1651-82fce4ae-90fbff16-4b44f969-2bf04bea.mp3]"
                                             ],
                                             "guid": "k&Hgxbah:l",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12736,7 +12736,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: 東京[とうきょう]は 大[おお]きいまちですね。<br>B: そうですね。 大[おお]きいまちですね。 大阪[おおさか]も 大[おお]きいまちですね。",
-                                                "A: Tokio ist eine große Stadt, nicht wahr?<br>B: So ist es. Die Stadt ist groß. Osaka ist auch eine große Stadt, nicht wahr?",
+                                                "A: <b>Tokio </b>ist eine <b>große </b>Stadt, nicht wahr?<br>B: So ist es. Die Stadt ist <b>groß</b>. <b>Osaka </b>ist auch eine <b>große </b>Stadt, nicht wahr?",
                                                 "[sound:googletts-669b9e59-251b097c-bf87ec5c-ddfd5fcd-f5896125.mp3]"
                                             ],
                                             "guid": "jE~UoH/PXD",
@@ -19993,7 +19993,9 @@
                                             ],
                                             "guid": "g}@C!LkV/L",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
-                                            "tags": []
+                                            "tags": [
+                                                "leech"
+                                            ]
                                         }
                                     ]
                                 },
@@ -20119,7 +20121,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 2[に]&nbsp;月[がつ] 何[なん] 日[にち]ですか。<br>B: 2[に]&nbsp;月[がつ]の 29[にじゅうく]日[にち]です。<br>A: ほんとうですか。",
+                                                "A: 2[に]&nbsp;月[がつ] 何[なん] 日[にち]ですか。<br>B: 2[に]&nbsp;月[がつ]の 29[にじゅうく] 日[にち]です。<br>A: ほんとうですか。",
                                                 "A: An <b>welchem Tag </b>im <b>Februar</b>?<br>B: Am 29. <b>Februar</b>.<br>A: Tatsächlich?",
                                                 "[sound:googletts-1f565789-ae8a2afe-9f34fca3-d77b8638-33f2ecb6.mp3]"
                                             ],
@@ -23468,20 +23470,7 @@
                                     "extendRev": 0,
                                     "media_files": [],
                                     "name": "01 Kana",
-                                    "notes": [
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "好き",
-                                                "suki",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "J`cNs]n~R1",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
-                                        }
-                                    ]
+                                    "notes": []
                                 },
                                 {
                                     "__type__": "Deck",
@@ -23795,18 +23784,6 @@
                                             "guid": "f>wDq]zB_1",
                                             "note_model_uuid": "24bd090b-7ab1-11ec-99a2-0c7a15ee466f",
                                             "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "デュ",
-                                                "due wie in Fondue",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "GIX^^O~$u9",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
                                         }
                                     ]
                                 },
@@ -24107,7 +24084,7 @@
                                         "googletts-5bea10e7-bbb61db8-b2503a17-e13bdc26-fd8dfd3c.mp3",
                                         "googletts-63e26389-df35b404-0d29fb9f-6ceb1d59-5dd56339.mp3",
                                         "googletts-7094eca5-6330a866-62a15f7e-d24bc79e-878b5522.mp3",
-                                        "googletts-a0285665-898506c8-6c10faa3-3fc2041f-4d6a31f2.mp3",
+                                        "googletts-a71fcc20-a7f1c1b3-ccde5177-40184709-813a3dce.mp3",
                                         "googletts-a9c857be-0d094bb4-60e2d73d-46e8d564-c0c0a6b0.mp3",
                                         "googletts-c4067d67-cf83b6d1-d818cc60-d515451b-3499f72a.mp3"
                                     ],
@@ -24250,7 +24227,7 @@
                                             "fields": [
                                                 "そうですか…。ハイデルベルクが 一番[いちばん]ふるいですよ。",
                                                 "Ist das so? Heidelberg ist die ält<b>este</b>&nbsp;(Universität)!",
-                                                "[sound:googletts-a0285665-898506c8-6c10faa3-3fc2041f-4d6a31f2.mp3]"
+                                                "[sound:googletts-a71fcc20-a7f1c1b3-ccde5177-40184709-813a3dce.mp3]"
                                             ],
                                             "guid": "t{DF]CABo_",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24319,18 +24296,6 @@
                                                 ""
                                             ],
                                             "guid": "h=YH(0h,99",
-                                            "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
-                                            "tags": []
-                                        },
-                                        {
-                                            "__type__": "Note",
-                                            "fields": [
-                                                "番",
-                                                "Ban, ばん",
-                                                "",
-                                                ""
-                                            ],
-                                            "guid": "i[BNJU:GOx",
                                             "note_model_uuid": "24bae622-7ab1-11ec-8f92-0c7a15ee466f",
                                             "tags": []
                                         }
@@ -24691,7 +24656,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-25c1f86e-8e8cb9c6-edb4f5f3-e9337d20-e45eca7e.mp3",
+                                        "googletts-48902e91-03342104-4b132d98-70d527cf-a596b667.mp3",
                                         "googletts-56ba26fb-7191ed8b-a35e3a85-c2c3a8cd-5757dd0f.mp3",
                                         "googletts-5913b46b-707cafe0-f6a872e6-e1979723-ed6e6b5c.mp3",
                                         "googletts-7969b8ea-280dad61-cf33e59c-fba16927-5e02f845.mp3",
@@ -24786,7 +24751,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "日本人[にほんじん]はおまつりがとても 好[す]きです。",
-                                                "<b>Japaner </b>mögen Feste sehr gerne.",
+                                                "<b>Japaner mögen</b> Feste sehr gerne.",
                                                 "[sound:googletts-a88c5599-f7a689e6-34beb102-bf9536ab-dc7c7288.mp3]"
                                             ],
                                             "guid": "J)%~]v!{48",
@@ -24796,9 +24761,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "都[きょうと] や、奈良[なら]、鎌倉[かまくら] や、高山[たかやま] のおまつりは とても ふるい おまつりです。",
-                                                "Die Feste von Kyoto, Hara, Kamakura und takayama sind sehr alte Feste. (Kanji hier unwichtig)",
-                                                "[sound:googletts-25c1f86e-8e8cb9c6-edb4f5f3-e9337d20-e45eca7e.mp3]"
+                                                "京都[きょうと]や、 奈良[なら]や、 鎌倉[かまくら]や、 高山[たかやま]のおまつりはとてもふるいおまつりです。",
+                                                "Die Feste von Kyoto, Nara, Kamakura und Takayama sind sehr alte Feste. (Kanji hier unwichtig)",
+                                                "[sound:googletts-48902e91-03342104-4b132d98-70d527cf-a596b667.mp3]"
                                             ],
                                             "guid": "CeyG:Vo!e}",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -25371,7 +25336,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "何[なん] 本[ぼん]",
-                                                "<b>Wie viele (längliche Gegenstände)...</b>",
+                                                "<b>Wie viele (längliche Gegenstände)</b>",
                                                 "<img src=\"何本.png\">",
                                                 "[sound:googletts-a41d7660-b33a85f2-a9ac5bf1-5ad3a38b-55d2fa19.mp3]"
                                             ],
@@ -25527,7 +25492,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Wie ist die Lesung von: 二十本 (12 längliche Gegenstände)",
+                                                "Wie ist die Lesung von: 二十本 (20 längliche Gegenstände)",
                                                 "二十本[にじっぽん/にじゅっぽん]"
                                             ],
                                             "guid": "AcN2ju}5vm",
@@ -25548,8 +25513,8 @@
                                     "media_files": [
                                         "googletts-194c98b4-7753f003-6ccbbf35-2e3c96e2-135811e8.mp3",
                                         "googletts-1de0c5bb-1ad41cea-bff72ae3-ca5edbe5-c01846ef.mp3",
-                                        "googletts-2790a11d-321dee43-ddc6878b-a24f721d-421d8519.mp3",
                                         "googletts-28eda991-29a51342-9d710390-6d0b703c-c9b58517.mp3",
+                                        "googletts-4d292ae3-fac19387-07f429a4-083e85db-0188035f.mp3",
                                         "googletts-567edf4d-fcb08901-c645ebab-62b0ae86-20f6634d.mp3",
                                         "googletts-6e151b8d-d87f8a1e-6e641620-5cb89439-f3ece32c.mp3",
                                         "googletts-7a2af81e-729685a4-4493ef41-38aa5ce5-1e122cbd.mp3",
@@ -25619,7 +25584,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: ビールは 何[なん] 本[ぼん]になさいますか。<br>B: 四本[よんほん]にします。",
-                                                "A: <b>Wie viele</b> Flaschen Bier mochten Sie?<br>B: <b>Vier </b>Flaschen (möchten wir).",
+                                                "A: <b>Wie viele</b> <b>Flaschen </b>Bier mochten Sie?<br>B: <b>Vier Flaschen </b>(möchten wir).",
                                                 "[sound:googletts-1de0c5bb-1ad41cea-bff72ae3-ca5edbe5-c01846ef.mp3]"
                                             ],
                                             "guid": "z)T-Yf-(~L",
@@ -25651,9 +25616,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 日本[にほん] 酒[しゅは 何本[なにぼん]になさいますか。<br>B:&nbsp;日本[にほん] 酒[しゅは 十本[じっぽん]にしましょう。",
+                                                "A: 日本[にっほん] 酒[しゅ]は 何[なん]本[ぼん]になさいますか。<br>B: 日本[にっほん] 酒[しゅ]は 十本[じゅっぽん]にしましょう。",
                                                 "A: <b>Wie viele</b> <b>Japanische Sake</b> möchten Sie haben?<br>B: Wir möchten <b>10 </b><b>Japanische Sake</b> (haben).",
-                                                "[sound:googletts-2790a11d-321dee43-ddc6878b-a24f721d-421d8519.mp3]"
+                                                "[sound:googletts-4d292ae3-fac19387-07f429a4-083e85db-0188035f.mp3]"
                                             ],
                                             "guid": "-yb`a3H]7",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -26290,7 +26255,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: おちょこはどうしましょうか。<br>B: 三[みっ]つください。",
-                                                "A: Was soll ich/sollen wir mit den Sakebechernmachen? /Wie viele Becher möchten Sie?<br>B: Geben Sie bitte <b>drei</b>!",
+                                                "A: Was soll ich/sollen wir mit den Sakebechern machen? /Wie viele Becher möchten Sie?<br>B: Geben Sie bitte <b>drei</b>!",
                                                 "[sound:googletts-4ae3e302-d2ecb065-91bf75c3-f9608561-8ae93496.mp3]"
                                             ],
                                             "guid": "yp%nr[&@/|",
@@ -27015,8 +26980,8 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-64fcd357-0c2f6a41-d8128097-cebdefff-08720e89.mp3",
-                                        "googletts-c0b33c91-b36d8fb9-78c4aaae-ae5812f8-af98ade7.mp3",
-                                        "googletts-ed696441-6c5bbac2-4630d9de-2e0cd8cb-38f1570a.mp3"
+                                        "googletts-ed696441-6c5bbac2-4630d9de-2e0cd8cb-38f1570a.mp3",
+                                        "googletts-f9afc573-b0130e46-91b5c758-4158f1e0-cd9b50db.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -27024,8 +26989,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "きょう は すてきなえ を どうも ありがとうございました。",
-                                                "Vielen Dank für Ihre Wunderbarkeit heute.<br><br>Claire sagt es geht um ein Bild. Nochmal nachschauen 16 B<br>(WTF? Steht keine Übersetzung dran)",
-                                                "[sound:googletts-c0b33c91-b36d8fb9-78c4aaae-ae5812f8-af98ade7.mp3]"
+                                                "Vielen Dank für Ihr wunderbares Gemälde heute.",
+                                                "[sound:googletts-f9afc573-b0130e46-91b5c758-4158f1e0-cd9b50db.mp3]"
                                             ],
                                             "guid": "HX[!y@8?L|",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -27713,8 +27678,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "Wie wird die einfache Verneinungsform bei Verben der Gruppe I (<span style=\"color: rgb(55, 58, 60);\">う) gebildet?</span>",
-                                                "Der letzte u-Laut wird durch einen a-Laut ersetzt und ein nai angehangen:<br>よむ wird zu よまない"
+                                                "Wie wird die einfache Verneinungsform bei Verben der Gruppe う gebildet?<span style=\"color: rgb(55, 58, 60);\">う) gebildet?</span>",
+                                                "Der letzte う-Laut wird durch einen あ-Laut ersetzt und ein ない angehangen:<br>よむ wird zu よまない"
                                             ],
                                             "guid": "b;oobtdM6n",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",
@@ -27764,7 +27729,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "Welcher Verbgruppe gehört あいます&nbsp;an?",
-                                                "Gruppe I -&nbsp;<span style=\"color: rgb(55, 58, 60);\">う</span>"
+                                                "Gruppe I う"
                                             ],
                                             "guid": "l:4D=]DXRc",
                                             "note_model_uuid": "24bd0917-7ab1-11ec-b16e-0c7a15ee466f",

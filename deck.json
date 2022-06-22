@@ -595,8 +595,8 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-16faaa88-d74d02c0-6fe56893-0a13aff1-2cf1d601.mp3",
-                                        "googletts-8431ea26-63d4cc52-fa66d375-6dd8ae2f-44a12229.mp3",
-                                        "googletts-ecab3682-542df1cb-9ce3a87a-b05666ad-c0e39e4f.mp3"
+                                        "googletts-59b49962-196abd84-44a76bd1-8c95ff08-70df2e50.mp3",
+                                        "googletts-8431ea26-63d4cc52-fa66d375-6dd8ae2f-44a12229.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -627,7 +627,7 @@
                                             "fields": [
                                                 "A: すがさんですか。<br>B: いいえ、さかいです。",
                                                 "A: Sind Sie Frau Suga?<br>B: Nein. Ich heiße Sakai.",
-                                                "[sound:googletts-ecab3682-542df1cb-9ce3a87a-b05666ad-c0e39e4f.mp3]"
+                                                "[sound:googletts-59b49962-196abd84-44a76bd1-8c95ff08-70df2e50.mp3]"
                                             ],
                                             "guid": "Kqg~2<^}I!",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -1371,10 +1371,10 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-09f91a67-3a19e6f2-ff4838b0-074a47e2-43bff94c.mp3",
                                         "googletts-7101e88c-be64b3d9-c8783f02-03abc709-7d352f9e.mp3",
                                         "googletts-8e0cd352-c8c547d1-b8b66534-87d3fa8e-6d8fc457.mp3",
-                                        "googletts-f4613a63-000ccfc3-ced29dbe-b115cc7f-88f4828f.mp3"
+                                        "googletts-aa6555c2-72191ebe-369b421c-58b826b5-5d745686.mp3",
+                                        "googletts-f4d30ffb-2019ec7f-0e9f1f30-21d68166-400ff3bc.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -1405,7 +1405,7 @@
                                             "fields": [
                                                 "A: Wilhelm TellはAustria 人[じん]ですか。<br>B: いいえ、スイス 人[じん]です。",
                                                 "A: Ist<font color=\"#00ff00\"> </font><i>Wilhelm Tell Österreich</i><b>er</b>?<br>B: Nein, er ist Schweiz<b>er</b>.",
-                                                "[sound:googletts-f4613a63-000ccfc3-ced29dbe-b115cc7f-88f4828f.mp3]"
+                                                "[sound:googletts-aa6555c2-72191ebe-369b421c-58b826b5-5d745686.mp3]"
                                             ],
                                             "guid": "xg5B.uN56u",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -1416,7 +1416,7 @@
                                             "fields": [
                                                 "こが：カイさんはドイツ 人[じん]ですか。<br>いいの：はい、ドイツ 人[じん]です。",
                                                 "Koga: Ist Kai Deutsch<b>er</b>?<br>Iino: Ja, er ist Deutsch<b>er</b>.",
-                                                "[sound:googletts-09f91a67-3a19e6f2-ff4838b0-074a47e2-43bff94c.mp3]"
+                                                "[sound:googletts-f4d30ffb-2019ec7f-0e9f1f30-21d68166-400ff3bc.mp3]"
                                             ],
                                             "guid": "no?!kHsMQL",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -2195,6 +2195,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
+                                        "googletts-086ad51c-c7b20a06-1a26cb24-4170f8de-79161407.mp3",
                                         "googletts-0dc67c1b-b3ec3c36-06f63f07-76739160-2a8e601f.mp3",
                                         "googletts-323c8286-8037efc0-1ce88a4c-1c9fc586-d8bc97b0.mp3",
                                         "googletts-3416c71d-f338f250-1a1f8742-693148d0-4e2973c7.mp3",
@@ -2202,7 +2203,6 @@
                                         "googletts-8ad3d24d-7a3fc47d-cd8984cf-2b9bfc5b-aaa5d833.mp3",
                                         "googletts-bc384a5c-b1e190bc-46f66ed0-b40a303c-ab9708f0.mp3",
                                         "googletts-dac77aff-f7ee0cb2-15d4744d-4bf2c772-52a8e219.mp3",
-                                        "googletts-e07f1829-894637df-dec4c05b-954b636c-c00bbe03.mp3",
                                         "googletts-f1e0bb2f-e28961df-95801300-2b39463e-31283aaa.mp3",
                                         "googletts-f4916d4f-28e54fa7-04767afa-b74e09c0-cf99f717.mp3"
                                     ],
@@ -2224,7 +2224,7 @@
                                             "fields": [
                                                 "A: さのです。はじめまして。<br>B: はじめまして。いしいです。",
                                                 "A: Ich bin Sano. Angenehm.<br>B: Angenehm! Ich bin Ishii.",
-                                                "[sound:googletts-e07f1829-894637df-dec4c05b-954b636c-c00bbe03.mp3]"
+                                                "[sound:googletts-086ad51c-c7b20a06-1a26cb24-4170f8de-79161407.mp3]"
                                             ],
                                             "guid": "H5+$Kwo`[Q",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3506,9 +3506,9 @@
                                         "googletts-121cf2b2-14e99361-8b89a4a1-7eabddbe-0d419189.mp3",
                                         "googletts-14e0d176-839d56fe-b7b7fd9e-fb882d22-14ed8632.mp3",
                                         "googletts-1e9bac67-89ed0487-96b910b2-48d0e850-24359912.mp3",
+                                        "googletts-47e6a3ce-8e246bb8-547dcf72-568e831b-fde34d8d.mp3",
                                         "googletts-6b66c683-a32857f9-947b22b5-ebe6b787-d29b237b.mp3",
                                         "googletts-6f683157-fac0f4ac-9925a61d-3979bef5-4cec1b68.mp3",
-                                        "googletts-a421f1da-6a9e5f24-589c5204-54d41ea3-f4ad041d.mp3",
                                         "googletts-bd06b36c-763e5259-8a98529b-f5a1dfd0-0f065801.mp3",
                                         "googletts-eaebe4cf-aa545aff-0a2511b1-15dbf956-94348054.mp3"
                                     ],
@@ -3519,7 +3519,7 @@
                                             "fields": [
                                                 "A:それは 何[なん]ですか。<br>B:これですか。",
                                                 "A: <b>Was </b>ist das da?<br>B: Dieses hier?",
-                                                "[sound:googletts-a421f1da-6a9e5f24-589c5204-54d41ea3-f4ad041d.mp3]"
+                                                "[sound:googletts-47e6a3ce-8e246bb8-547dcf72-568e831b-fde34d8d.mp3]"
                                             ],
                                             "guid": "Hy.=1Rut4c",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -3961,8 +3961,8 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-1fc3fecf-606f2e4d-52ad8b8c-935791ba-21d75a1d.mp3",
-                                        "googletts-347c7493-937ca926-b2d612a6-e9d1e372-d6399492.mp3",
                                         "googletts-3be86a04-a4674cd3-77cf1c30-08f14df0-0b0cf020.mp3",
+                                        "googletts-7a03b9dc-51c18524-1d7969d3-09d5b336-65214f12.mp3",
                                         "googletts-85ac2f6d-56bb54c9-75c20bf4-0d71332d-7251fcfd.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
@@ -4003,9 +4003,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "[sound:googletts-347c7493-937ca926-b2d612a6-e9d1e372-d6399492.mp3]"
                                                 "A:「どくしょ」はドイツ 語[ご]で 何[なん]ですか。<br>B:ドイツ 語[ご]で「Bücherlesen」です。",
                                                 "A: <b>Was </b>heißt \"どくしょ\" auf <b>Deutsch</b>?<br>B: Auf <b>Deutsch </b>heißt das ,,Bücherlesen\"",
+                                                "[sound:googletts-7a03b9dc-51c18524-1d7969d3-09d5b336-65214f12.mp3]"
                                             ],
                                             "guid": "KF!L*W%}Ke",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -5310,10 +5310,10 @@
                                         "googletts-275952e3-013c41b1-cdff88c4-72d36435-b403fb91-c70f2e780162282ad0cf786cbf59d6addd9716e5.mp3",
                                         "googletts-37333234-f441c3ca-dfc3eba3-ab0b4beb-ddc9a3e2-7d979138d83fd8a012e9c50f0ad36c6691407c1e.mp3",
                                         "googletts-3c7f7ae6-9808d0f9-108e1cc0-ea1c9353-7991c981-4a5b1056c6d0de0512b30799c487102ef54ab3fd.mp3",
+                                        "googletts-3efdd50b-6526ab70-0daf2fa3-ca107a90-55f8cff9-31c9f249414edf166e41fc9675fe6891d78eb4ca.mp3",
                                         "googletts-49d61f53-ff478fa9-4b160ebe-7de9ae0f-f9a8d739-0be3de9e230555d7d20e5e04df99b8a94ef90235.mp3",
                                         "googletts-aa22e89a-a37f4690-3cf5fddd-16962bd1-eefdaabf-d1f036587ac4a43e843ad5e20ccf8f8b9414f3f4.mp3",
                                         "googletts-b13fa441-902ce4f5-4ef34363-d8377e51-148221a5-98b4f70e59520b130e404b1497b58b30a1d37e97.mp3",
-                                        "googletts-b8d7ac2a-68953ec7-3dea79dc-61694a32-a622345d.mp3",
                                         "googletts-d039186e-0080a997-89c3d5bf-7d9dea79-40f281ba-b8b7f52b6a55225ea4eaccc33555f60fa2db89a9.mp3"
                                     ],
                                     "name": "02 Vokabeln",
@@ -5360,7 +5360,7 @@
                                                 "ぇぇ",
                                                 "ja; weniger höflich als はい",
                                                 "",
-                                                "[sound:googletts-b8d7ac2a-68953ec7-3dea79dc-61694a32-a622345d.mp3]"
+                                                "[sound:googletts-3efdd50b-6526ab70-0daf2fa3-ca107a90-55f8cff9-31c9f249414edf166e41fc9675fe6891d78eb4ca.mp3]"
                                             ],
                                             "guid": "zv?IM`V!Cq",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -5495,13 +5495,13 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-1b9427f0-de0de078-575390c6-539ef04f-568cb1dd.mp3",
-                                        "googletts-3cf6c921-58332326-bc0ee686-9d8d919a-5c60dbce.mp3",
                                         "googletts-47299197-ac3452a5-110e8ea5-3d003e08-09f6cb1b.mp3",
-                                        "googletts-67f8ad9e-36ae7642-8cb90980-6f00a8d9-301a5ae6.mp3",
                                         "googletts-7e5e00c9-a65d28b0-33b692a7-05170ea5-f5edd199.mp3",
                                         "googletts-9ac0fb18-11a356e3-186f0693-62fd0b94-b011e960.mp3",
                                         "googletts-a3e2b160-4255ed54-4fccfd99-4c0bfaac-b94fea24.mp3",
-                                        "googletts-ea3d0067-e65d6e80-aca65fdd-331864e4-227b74eb.mp3"
+                                        "googletts-abe1ede4-d00ea1e8-126c9fc1-08278f72-8b084eed.mp3",
+                                        "googletts-ea3d0067-e65d6e80-aca65fdd-331864e4-227b74eb.mp3",
+                                        "googletts-f6cafa30-72a63b17-47ab44ff-ce57084c-d343855f.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -5576,7 +5576,7 @@
                                             "fields": [
                                                 "いしいさん は からてをします。でもわたしはしません。",
                                                 "Herr Ishi macht Karate, aber ich (mache es) nicht.",
-                                                "[sound:googletts-3cf6c921-58332326-bc0ee686-9d8d919a-5c60dbce.mp3]"
+                                                "[sound:googletts-f6cafa30-72a63b17-47ab44ff-ce57084c-d343855f.mp3]"
                                             ],
                                             "guid": "Ci/|R1uzzF",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -5587,7 +5587,7 @@
                                             "fields": [
                                                 "いしいさん は からてをよくします。",
                                                 "Herr Ishii macht oft Karate.",
-                                                "[sound:googletts-67f8ad9e-36ae7642-8cb90980-6f00a8d9-301a5ae6.mp3]"
+                                                "[sound:googletts-abe1ede4-d00ea1e8-126c9fc1-08278f72-8b084eed.mp3]"
                                             ],
                                             "guid": "mJHIa*K]K@",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -7262,12 +7262,12 @@
                                         "googletts-0d9f6d3b-d743193a-a058b9ff-8880dd5d-3ecde5e0-346a355d9804bb94130fa38baf2b4e90257fcb64.mp3",
                                         "googletts-2364bfbb-c866a54e-11f258a9-6dcd1895-2a4403b2-d7a340951308f6a5cd07df9f11616521a0441e0e.mp3",
                                         "googletts-26e1dff7-ef555bdb-2bb594a2-bc22ae4c-2a2d822c-93acf89b785aee6394fdca9af159d83f4c55d0d4.mp3",
-                                        "googletts-2ed929e2-91089ca1-548ddf9d-f6b44f72-1465ea30-94d3795fd3a95e3f9927a5151ac30cfe3ac70c12.mp3",
                                         "googletts-5fbd662f-4dca1cbe-b6351ff1-fc1f00c6-432571da-519755641ee1de11f8df907fab889bb993069fd0.mp3",
                                         "googletts-649e16d0-086a458f-a7eb2f3d-e391436b-742a4f4a-0057c75550241888cd693608f79cf4d4bb8033b1.mp3",
                                         "googletts-695fbcec-96169654-4e353cc6-97b95e25-65d2a31b-44994cfc445d3527f544647bae0f8d6b1be9c09d.mp3",
                                         "googletts-930256ba-6d08f4ee-bcc1cf31-f84285b7-7944b744-a9218653e55debc07623b946bbb4aa9627a20bcb.mp3",
                                         "googletts-b7a53226-5700f080-d1d776e4-69dc29df-8e53c0ad-31c28e941723da4ba3c24f1c5f4ae9c876465bfb.mp3",
+                                        "googletts-cd198406-3c88d9e6-323117fe-de4dc709-b555239d.mp3",
                                         "googletts-d50fdfb3-1b3d83ad-956301af-50484569-2cf18715-456398d0a353446e14d73edcb00db41296860ef0.mp3",
                                         "googletts-f335b68d-32884b58-b1d1f5b7-0e0ff9dc-868c3318-23906b36dfeb6cb9c10f484f41f3a721b43eb0a7.mp3",
                                         "何.png",
@@ -7362,10 +7362,10 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "CDをききま",
+                                                "CDをききます",
                                                 "<i>CD</i> hören",
                                                 "",
-                                                "[sound:googletts-2ed929e2-91089ca1-548ddf9d-f6b44f72-1465ea30-94d3795fd3a95e3f9927a5151ac30cfe3ac70c12.mp3]"
+                                                "[sound:googletts-cd198406-3c88d9e6-323117fe-de4dc709-b555239d.mp3]"
                                             ],
                                             "guid": "Mh9jQ]oKDp",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -8067,8 +8067,8 @@
                                         "googletts-00f063ba-09e0403f-2d4e47b4-5ce1311c-42ef14e7.mp3",
                                         "googletts-029fe613-555415cc-f67fb799-d527f45c-06dd75c4.mp3",
                                         "googletts-0e57359a-42a64ee3-54ec5e81-7e7146a3-fe13641d.mp3",
+                                        "googletts-17c06ca8-bd90203c-56d429b4-8b6267f9-542668d9.mp3",
                                         "googletts-1ce8ab13-633cc083-e0899d01-f04c997e-dbd37a10.mp3",
-                                        "googletts-836efa1f-41d507de-1911a0b3-5e164ee5-11eb3427.mp3",
                                         "googletts-b0f49f64-5e948e54-2b9b5966-20e90678-e77848b6.mp3",
                                         "googletts-f747c872-f3e5ebeb-b98c8b9b-e1fea94e-c1b30518.mp3"
                                     ],
@@ -8088,9 +8088,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "[sound:googletts-836efa1f-41d507de-1911a0b3-5e164ee5-11eb3427.mp3]"
                                                 "A: きょうおはなみをしませんか。",
                                                 "A: Wollen Sie heute nicht zur Kirschblütenschau gehen?",
+                                                "[sound:googletts-17c06ca8-bd90203c-56d429b4-8b6267f9-542668d9.mp3]"
                                             ],
                                             "guid": "G?C[)<-&Q[",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -8714,10 +8714,10 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-1f22f02a-220a87e7-e0bce9b7-0110302c-68452af1.mp3",
-                                        "googletts-457b2f40-f86e4bee-a4c6c4b4-eb1468b6-634458fc.mp3",
                                         "googletts-54865b81-43d9f6e6-1217b3a3-8e2e95fc-44dfc653.mp3",
                                         "googletts-5acec620-0a9c45af-45558c4d-76a24305-ed30b51e.mp3",
                                         "googletts-63e3b6bf-6eed8510-58a2748a-4c7e8f13-89cca37b.mp3",
+                                        "googletts-8a246651-9fa10fc0-35fba28a-9347bef3-e1d2f5ae.mp3",
                                         "googletts-a825a230-a930ab3f-a644400d-27af1f54-a5c38565.mp3",
                                         "googletts-aefcc481-db9c8a2e-59a5a441-0fd0b1ff-3d4a8ed5.mp3",
                                         "googletts-f6826ab3-d9e3f569-b9b4a2b3-68807241-934ca5d3.mp3"
@@ -8773,7 +8773,7 @@
                                             "fields": [
                                                 "A: Sauerkrautはいかがですか。<br>B: はい、いただきます。<br>A: どうぞ。<br>B: どうも。いただきます。",
                                                 "A: Wie wäre es mit <i>Sauerkraut</i>?<br>B: Ja, (esse ich) gerne!<br>A. Bitte.<br>B: Danke. (vor dem Trinken/Essen) Guten Appetit.",
-                                                "[sound:googletts-457b2f40-f86e4bee-a4c6c4b4-eb1468b6-634458fc.mp3]"
+                                                "[sound:googletts-8a246651-9fa10fc0-35fba28a-9347bef3-e1d2f5ae.mp3]"
                                             ],
                                             "guid": "INhM<Q5Wv{",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -8893,6 +8893,7 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
+                                        "googletts-09d0711f-4b4c87a2-832bf74e-a9edd4bf-7308a8e8-7f3a7edaba8ac7f0c827821a2293cc0959d904b2.mp3",
                                         "googletts-0d914a49-110d04cc-3bc2dc58-a19d374a-4e418bb5-6194c8bbd4103a34088c3b7b072e60ac4830f88f.mp3",
                                         "googletts-16755ee9-52a0a726-9982f150-1bdc9365-f84fac8d-35e59286645658e8cd8d9252baab34ee6d85d16c.mp3",
                                         "googletts-1dd4687b-6eb002a8-85561bf4-109df21a-b1ee1e21-41ec6ebc60b3844ca6fe199e88761e637fbba52d.mp3",
@@ -8900,13 +8901,12 @@
                                         "googletts-37ab3df9-fe167214-07a3f48a-bb724d3e-8810b573-3398fac8d5f084c709f04a130dc604f884e8afa9.mp3",
                                         "googletts-3f93f579-564b6f6c-b7bec295-8e39daff-1ce1be69-deebb2a2b7294130d395ed93b042cfc68e68871f.mp3",
                                         "googletts-4d1f6317-0efcef5c-fc04d39a-412d1d3d-3de0a244-88e6557c6302f6f0978fecc0701f70a193059e90.mp3",
+                                        "googletts-64873c1f-9de91066-e687effa-0d29a2cd-1f457087.mp3",
                                         "googletts-664219f7-155a5fd9-c232a045-ae7bb409-9ac10fa9-8263f615ce8b3f86d048cccc4e36dc295f322f9f.mp3",
                                         "googletts-68ae9399-e7e01f8a-ef50d349-6cba0a89-092709f8-424be3b2031f09e2fcf4cedfe336271023650d09.mp3",
                                         "googletts-7253ef14-c1df5b6e-5e610940-12093998-604498f9-f4585acca146f43ae49ca6ff22a6188d8d408779.mp3",
                                         "googletts-72c11465-a95b0595-835ed406-2cfb6bc2-8a024bcc-f03ca488011acd02bc8e137ab0195f79141a7bfc.mp3",
-                                        "googletts-81b37c20-cc6caa98-d5c258fa-991a6455-b9195910.mp3",
                                         "googletts-8d1f5925-02942ab4-7dc06c4f-36f76df8-b284cd95.mp3",
-                                        "googletts-aa55d3a6-30de3de7-06642136-2d70da5c-cdeaf2d0-192509df1459e02e053178e3c22a90d350b748b2.mp3",
                                         "googletts-c2e38b7f-64c2029a-024f18dd-feb8ebb9-551dd97b-b3ec4f33df09e4f80e4766739eaad386dd5c9811.mp3",
                                         "googletts-ed5b9261-67f4b51d-ee880d03-c1b11a09-3d366f4b-541b84134fb22cb2aeef7dfea1c4e9b4ca552490.mp3",
                                         "日曜日.png",
@@ -8944,7 +8944,7 @@
                                                 "が (Am Ende des Satzes)",
                                                 "aber, jedoch",
                                                 "",
-                                                "[sound:googletts-81b37c20-cc6caa98-d5c258fa-991a6455-b9195910.mp3]"
+                                                "[sound:googletts-09d0711f-4b4c87a2-832bf74e-a9edd4bf-7308a8e8-7f3a7edaba8ac7f0c827821a2293cc0959d904b2.mp3]"
                                             ],
                                             "guid": "l|S?Reb9ai",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -9028,7 +9028,7 @@
                                                 "日[にち] 曜[よう] 日[び]に",
                                                 "am <b>Sonntag</b>",
                                                 "",
-                                                "[sound:googletts-aa55d3a6-30de3de7-06642136-2d70da5c-cdeaf2d0-192509df1459e02e053178e3c22a90d350b748b2.mp3]"
+                                                "[sound:googletts-64873c1f-9de91066-e687effa-0d29a2cd-1f457087.mp3]"
                                             ],
                                             "guid": "NFVnN1PGf;",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -10519,7 +10519,7 @@
                                         "googletts-2f47c0ec-ce45c259-f4479e42-174b75eb-2feace36.mp3",
                                         "googletts-5f63b15f-630bb0b7-a7f83b19-1d0bb93e-20e0504e.mp3",
                                         "googletts-71902c48-487e7afa-1c5e9884-9713094d-3398359a.mp3",
-                                        "googletts-bd161149-8b66da1a-41b4f596-5d4c7b20-d14d5c3d.mp3",
+                                        "googletts-aab5c9b6-982032ad-6b32836d-b217ac14-a8b84d16.mp3",
                                         "googletts-c8e845eb-386d556b-841302f0-b93c7ecf-95a98ceb.mp3",
                                         "googletts-de3230da-c3da7fce-8e897631-a7dd03bc-a7a185a0.mp3",
                                         "googletts-f23b3eca-20cfddf9-54581246-f8362838-cb70076a.mp3",
@@ -10554,7 +10554,7 @@
                                             "fields": [
                                                 "A: だれがまいにちりょうりをしますか。<br>B: (in der Klasse herumschauend) だれもしません。",
                                                 "A: Wer kocht jeden Tag?<br>B: Niemand (macht das jeden Tag).",
-                                                "[sound:googletts-bd161149-8b66da1a-41b4f596-5d4c7b20-d14d5c3d.mp3]"
+                                                "[sound:googletts-aab5c9b6-982032ad-6b32836d-b217ac14-a8b84d16.mp3]"
                                             ],
                                             "guid": "w|lPuCyP]",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -10976,7 +10976,7 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-8057f61e-a2e91355-113c0c75-cb13a2d8-195ac402.mp3",
-                                        "googletts-f7c6c861-36079f0d-ddbf2b7c-713e03b0-4d2eaa05.mp3"
+                                        "googletts-b08a560b-f827e58e-2b19f1ea-cb9c3d54-2d208e7f.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -11018,7 +11018,7 @@
                                             "fields": [
                                                 "何[なん] 人[にん]ですか。",
                                                 "<b>Wie viele Personen</b> sind es?",
-                                                "[sound:googletts-f7c6c861-36079f0d-ddbf2b7c-713e03b0-4d2eaa05.mp3]"
+                                                "[sound:googletts-b08a560b-f827e58e-2b19f1ea-cb9c3d54-2d208e7f.mp3]"
                                             ],
                                             "guid": "MX*Sw,mNjZ",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11314,14 +11314,14 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-02399d9c-cec7d784-7e01f47a-737571ab-995f9b8b.mp3",
+                                        "googletts-02b28aae-d8943850-8043e536-4686364c-2d618046.mp3",
                                         "googletts-0697bb34-b245ea00-66848f05-285ac9ab-09180655.mp3",
-                                        "googletts-12fb1651-82fce4ae-90fbff16-4b44f969-2bf04bea.mp3",
                                         "googletts-27ee7971-92e1f8fc-f77f1ce9-040d3176-bb99c0a0.mp3",
                                         "googletts-2a47c9ae-5276d65f-b2d0bb31-7cebbea8-b4af5ecd.mp3",
                                         "googletts-2da46dc5-c82a53a0-50222a14-73708e12-4b19a673.mp3",
-                                        "googletts-4093c9f8-833181c8-ba88aedf-25653942-6f38c2e3.mp3",
                                         "googletts-48f2a93f-648dcac6-d86d9b9e-2f1c007a-656e719e.mp3",
                                         "googletts-4c68b667-633a46bd-5a84f2d5-8f113b71-94df09d0.mp3",
+                                        "googletts-572523e7-a39c6c53-46a2e06f-41cfd68e-65889e45.mp3",
                                         "googletts-5b51908c-7675454d-5daf4cfa-f5b70482-de81caac.mp3",
                                         "googletts-62831585-8e50fa31-bee7b076-57e70989-5a8590b1.mp3",
                                         "googletts-669717ef-8a3578c6-12ef096c-c697d459-3b771d37.mp3",
@@ -11334,15 +11334,15 @@
                                         "googletts-9196c4da-36c9a3da-cbf8f8bc-c6f8ca43-ee96066f.mp3",
                                         "googletts-93305fc4-3ac4eadb-d3039335-556f1fc9-cf1e2502.mp3",
                                         "googletts-a704d0b2-b0b654c7-7e129977-bfc62a98-bb59420e.mp3",
+                                        "googletts-aa6b7f50-6980c516-c100e8f7-673ecf3d-f4f35b1d.mp3",
                                         "googletts-acc47246-495b26ac-62d67817-4fc63e65-c1f6abbb.mp3",
                                         "googletts-bd1b10d9-5853fcf1-c0cb4cfd-3f81c8ce-0cc41625.mp3",
-                                        "googletts-d5d0a1b2-71674cdb-d3580b72-7a456c2e-fbf014ca.mp3",
+                                        "googletts-c7bae21d-369a9255-32624651-f3424d8e-2bc68668.mp3",
+                                        "googletts-ce0e82f5-2452b05b-d96a99d5-0b94327d-2c88716d.mp3",
                                         "googletts-e1855e8c-f1e9b7bf-433fd8eb-0229986d-faf16779.mp3",
-                                        "googletts-e42db155-cd281abf-e9074f0b-0c314b33-527d13c4.mp3",
                                         "googletts-f0d00258-b377dae8-0232a14d-f11709fd-b3d92d7e.mp3",
-                                        "googletts-fcac2fbb-f37bd19c-8fa4ba4e-b2040d2c-4667d2f7.mp3",
-                                        "googletts-fdb12e76-26dd9150-1a7437f3-2409a959-92261f99.mp3",
-                                        "googletts-fe4ce233-f5d188d1-992c1eb8-bc4227b2-b75dcb0f.mp3"
+                                        "googletts-fcfe05f0-bcd6fb7a-b96026f6-7ed5dad4-4c5c24a8.mp3",
+                                        "googletts-fdb12e76-26dd9150-1a7437f3-2409a959-92261f99.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -11417,7 +11417,7 @@
                                             "fields": [
                                                 "A: けんどうはだれがしますか。<br>B: ささきさんです。",
                                                 "A: Wer macht Kendo?<br>B: Herr Sasaki.",
-                                                "[sound:googletts-fcac2fbb-f37bd19c-8fa4ba4e-b2040d2c-4667d2f7.mp3]"
+                                                "[sound:googletts-572523e7-a39c6c53-46a2e06f-41cfd68e-65889e45.mp3]"
                                             ],
                                             "guid": "GM5b^ET1d3",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11428,7 +11428,7 @@
                                             "fields": [
                                                 "A: では、からてはだれですか。<br>B: わたしです。",
                                                 "A: Dann, wer macht Karate?<br>B: Ich.",
-                                                "[sound:googletts-d5d0a1b2-71674cdb-d3580b72-7a456c2e-fbf014ca.mp3]"
+                                                "[sound:googletts-02b28aae-d8943850-8043e536-4686364c-2d618046.mp3]"
                                             ],
                                             "guid": "JhO=B$6ri9",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11461,7 +11461,7 @@
                                             "fields": [
                                                 "A: きょう、 何[なに]をかいますか。<br>B: パンをかいます。",
                                                 "A: <b>Was </b>kaufen Sie heute?<br>B: Ich kaufe Brot.",
-                                                "[sound:googletts-fe4ce233-f5d188d1-992c1eb8-bc4227b2-b75dcb0f.mp3]"
+                                                "[sound:googletts-c7bae21d-369a9255-32624651-f3424d8e-2bc68668.mp3]"
                                             ],
                                             "guid": "A/B-9>e_m6",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11549,7 +11549,7 @@
                                             "fields": [
                                                 "A&nbsp;らいしゅう、パーティーをしましょうか。<br>B:&nbsp;しましょう。しましょう。",
                                                 "A: Nächste Woche, wollen wir da eine Party machen?<br>B: Wollen wir! Wollen wir!",
-                                                "[sound:googletts-12fb1651-82fce4ae-90fbff16-4b44f969-2bf04bea.mp3]"
+                                                "[sound:googletts-aa6b7f50-6980c516-c100e8f7-673ecf3d-f4f35b1d.mp3]"
                                             ],
                                             "guid": "k&Hgxbah:l",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11560,7 +11560,7 @@
                                             "fields": [
                                                 "A:&nbsp; 何[なに]をつくりましょうか。<br>B:&nbsp; 先生[せんせい]、おすしはどうですか。",
                                                 "A: <b>Was </b>sollen wir machen (produzieren)?<br>B: <b>Frau Lehrerin</b>, wie wäre es mit Sushi?",
-                                                "[sound:googletts-4093c9f8-833181c8-ba88aedf-25653942-6f38c2e3.mp3]"
+                                                "[sound:googletts-fcfe05f0-bcd6fb7a-b96026f6-7ed5dad4-4c5c24a8.mp3]"
                                             ],
                                             "guid": "JPlbCRH_?b",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11615,7 +11615,7 @@
                                             "fields": [
                                                 "いち、に、さん、よん、ご、ろく、しち、はち、きゅう、じゅう、 10[じゅう]&nbsp;人[にん]ですね。",
                                                 "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10 Leute also.",
-                                                "[sound:googletts-e42db155-cd281abf-e9074f0b-0c314b33-527d13c4.mp3]"
+                                                "[sound:googletts-ce0e82f5-2452b05b-d96a99d5-0b94327d-2c88716d.mp3]"
                                             ],
                                             "guid": "k+yyNHm2Wx",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -11920,8 +11920,8 @@
                                     "media_files": [
                                         "googletts-30f23075-69a44f71-3ec3f81d-51ce10ff-7a50408e.mp3",
                                         "googletts-377bceb4-d34d5beb-6dbb9dd7-3b2dc095-98420c73.mp3",
-                                        "googletts-89b2112e-a30af1e7-d246c22a-cca3465b-f53979fa.mp3",
                                         "googletts-a069962d-e33dff5e-c29bd89d-07b26b8a-0afb3c35.mp3",
+                                        "googletts-baa7f6e7-b316a1aa-2817770b-ce945330-f421aa7d.mp3",
                                         "googletts-bacf2374-c5ebcf8a-8e646f86-ff948f63-7e1749b5.mp3",
                                         "googletts-caac70f6-f926c667-78614691-752a2342-1222ac86.mp3",
                                         "googletts-d270c646-5b26c4ef-451ccf3b-f7ae7aee-d1f9ec59.mp3",
@@ -12010,8 +12010,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: Bさんは フランス 語[ご]ができますか。<br>B: はい、すこしできます。",
-                                                "[sound:googletts-89b2112e-a30af1e7-d246c22a-cca3465b-f53979fa.mp3]"
                                                 "A: Herr B, können Sie <b>Französisch</b>?<br>B: Ja, ich kann etwas (formell).",
+                                                "[sound:googletts-baa7f6e7-b316a1aa-2817770b-ce945330-f421aa7d.mp3]"
                                             ],
                                             "guid": "u6H;ecQ.=)",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -13637,12 +13637,12 @@
                                         "googletts-9527d23f-9067b79d-d958b22e-915fa3d5-57236281.mp3",
                                         "googletts-978fa08e-52885294-81bee4f1-976d5eb3-6be66a86.mp3",
                                         "googletts-a65e44db-4f8653d0-c2af26d1-5e2426cf-23570f2a.mp3",
-                                        "googletts-a702c1d2-496aa379-8e29a51b-f035aa23-4b2a37dc.mp3",
                                         "googletts-b0c9bceb-848d5c7a-38193597-6d0162e4-6dc4f703.mp3",
                                         "googletts-c4be3160-77c0462c-ccc963af-cd1e78f6-8fd1035c.mp3",
                                         "googletts-c79cb700-d4cc5537-afd777a0-214368ce-7a12d117.mp3",
                                         "googletts-e2ba769d-f95e511c-4ab43e42-b23d2a5b-4092047f.mp3",
                                         "googletts-ee5a1cf1-ce0177ec-f39d3e29-6e1c13f3-42ff3ee3.mp3",
+                                        "googletts-f8448ee1-20a7c194-056f1568-9299beb8-81f622f7.mp3",
                                         "googletts-ffd9d5bc-4a56f9d2-e6907304-cb80859f-ce287f33.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
@@ -13839,7 +13839,7 @@
                                             "fields": [
                                                 "はは は きません。",
                                                 "Meine Mutter kommt nicht.",
-                                                "[sound:googletts-a702c1d2-496aa379-8e29a51b-f035aa23-4b2a37dc.mp3]"
+                                                "[sound:googletts-f8448ee1-20a7c194-056f1568-9299beb8-81f622f7.mp3]"
                                             ],
                                             "guid": "Pl@8r::is4",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -14469,7 +14469,7 @@
                                         "googletts-761f5ac5-1270dc43-7e5362e9-b88758de-a96f74fe.mp3",
                                         "googletts-86f4146b-8dfe269e-8909f8bc-fbeef2ad-0fcbd628.mp3",
                                         "googletts-9884093b-01f402e7-bd6754ad-59f27827-f13af9c6.mp3",
-                                        "googletts-9c6c3323-1d5c4dbf-c3045463-1e2e8fa5-634ca832.mp3",
+                                        "googletts-b289b3da-eabf2675-c8595d43-80211f12-ca9b42a1.mp3",
                                         "googletts-b54643e2-a4bf5309-9bd2fa80-384b005f-0f541e54.mp3",
                                         "googletts-c4847acb-fd6e1824-3d725991-7b721d6a-06218aa8.mp3",
                                         "googletts-c973fb98-c82892d5-36c9976d-85964465-7ef52fef.mp3",
@@ -14549,7 +14549,7 @@
                                             "fields": [
                                                 "わたしは 東京[とうきょう]がすきです。",
                                                 "Ich mag <b>Tokio</b>.",
-                                                "[sound:googletts-9c6c3323-1d5c4dbf-c3045463-1e2e8fa5-634ca832.mp3]"
+                                                "[sound:googletts-b289b3da-eabf2675-c8595d43-80211f12-ca9b42a1.mp3]"
                                             ],
                                             "guid": "DEQ37wwXJ4",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -15337,9 +15337,9 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-36b6acb0-21d85412-9f4778ec-8a85fc42-2c16284a.mp3",
                                         "googletts-390b71d3-df5b64a6-754eb5a1-90ff01d5-e5d3e255.mp3",
                                         "googletts-423c0384-0febd4b4-f3fb7098-8c80e7cb-3c18db80.mp3",
+                                        "googletts-992b1bdb-c29c191c-b239c7ec-5ef2797e-1cdb898a.mp3",
                                         "googletts-9cfb6598-0e22a4f5-b2164d30-e8a52893-f9a3a3b8.mp3",
                                         "googletts-ae81921a-eb2b3afb-41939a78-a9ca2107-943fc39c.mp3",
                                         "googletts-b4ceed4b-0373bddb-ebb4593c-de8f3771-7638f17f.mp3",
@@ -15374,7 +15374,7 @@
                                             "fields": [
                                                 "ドイツはごぜん 10[じゅう]&nbsp;時[じ]です。",
                                                 "In Deutschland ist es 10 <b>Uhr </b>vormittags.",
-                                                "[sound:googletts-36b6acb0-21d85412-9f4778ec-8a85fc42-2c16284a.mp3]"
+                                                "[sound:googletts-992b1bdb-c29c191c-b239c7ec-5ef2797e-1cdb898a.mp3]"
                                             ],
                                             "guid": "CT$p3Jd!JL",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -16008,8 +16008,8 @@
                                         "googletts-994e2e32-67ae5fe6-185b1e19-21afaa3b-40ded407.mp3",
                                         "googletts-ab4da522-75ae025d-1da25fd6-fb41a73a-494e9bc5.mp3",
                                         "googletts-ad6892ec-dc18760e-55f0e69e-c940653d-ea29dd07.mp3",
+                                        "googletts-c17897c1-9617d5ce-962508f1-f7beb7b0-5a1f1dfb.mp3",
                                         "googletts-c63c1499-12c097ee-ea4a2fa3-f8e8fd06-3ed4c3c4.mp3",
-                                        "googletts-ea3519d8-18ab4d5a-ac289969-c735ee11-19c9c999.mp3",
                                         "googletts-f269b292-ea376bb5-e8933a8a-05f675e0-a6696630.mp3",
                                         "googletts-f77ac865-1b3ede36-52a05206-d873c313-fd058f10.mp3"
                                     ],
@@ -16097,7 +16097,7 @@
                                             "fields": [
                                                 "A: 三時[さんじ]から 何[なに]をしますか。<br>B: わたしは 四時[よじ]からテニスをします。",
                                                 "A: <b>Was </b>machen Sie heute ab/nach <b>3 Uhr</b>?<br>B: Ich spiele ab <b>4 Uhr</b> Tennis.",
-                                                "[sound:googletts-ea3519d8-18ab4d5a-ac289969-c735ee11-19c9c999.mp3]"
+                                                "[sound:googletts-c17897c1-9617d5ce-962508f1-f7beb7b0-5a1f1dfb.mp3]"
                                             ],
                                             "guid": "i`j]wWSVrx",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -17770,7 +17770,6 @@
                                         "googletts-43e3759f-27d4030f-5cc61a9c-5bec7845-906d4e6a.mp3",
                                         "googletts-7e4df71e-4ddfeefd-c452637e-ca42dd99-6a12f5ac.mp3",
                                         "googletts-7f53c8b7-af837bf3-b9a56074-212fcecb-27736a98.mp3",
-                                        "googletts-884c97a6-0b654bfe-4f8dbbd2-bcf0c45f-6455e179.mp3",
                                         "googletts-8c1af1d2-5802d5b5-46c77a19-31471fba-d5d01146.mp3",
                                         "googletts-8d05520c-0c7aed1f-954faf85-113b9f00-55950bb4.mp3",
                                         "googletts-9915216c-73d10f30-3a83a65d-85e3d550-e4429f70.mp3",
@@ -17779,6 +17778,7 @@
                                         "googletts-a9a8a121-41e53286-824ea5cb-9a304cbf-af0ccffc.mp3",
                                         "googletts-b0037aa9-e66f5e1d-2b09b818-f2e15496-c7785ef7.mp3",
                                         "googletts-b243934c-5e91316e-f303fc6c-bdf4444d-5fba9763.mp3",
+                                        "googletts-b8f47844-14f2bd82-7befcc2c-a0102bd2-f0896f30.mp3",
                                         "googletts-c03d363a-1c0ad02e-b0d4f9cb-276226da-09bb3160.mp3",
                                         "googletts-c5c6b610-0513ea6b-9b1716fe-4be0a73f-189a86cc.mp3",
                                         "googletts-cc7cb867-d428a77c-37cd9703-eb456c30-5a416784.mp3",
@@ -18014,7 +18014,7 @@
                                             "fields": [
                                                 "A: 日本語[にほんご]のじゅぎょうはどうでしたか。<br>B:むずかしかったです。",
                                                 "A: Wie war der <b>Japanisch</b>unterricht?<br>B: Er war schwierig.",
-                                                "[sound:googletts-884c97a6-0b654bfe-4f8dbbd2-bcf0c45f-6455e179.mp3]"
+                                                "[sound:googletts-b8f47844-14f2bd82-7befcc2c-a0102bd2-f0896f30.mp3]"
                                             ],
                                             "guid": "yr5N/H*JT4",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -19243,7 +19243,6 @@
                                         "googletts-1b95131e-312048d9-051ea38a-bdeef5ad-377476e1-855deff09811d7f8bfb26371d184ba960d93abe5.mp3",
                                         "googletts-2d2d7f74-6ebe0c65-7d919c7d-dbc7ea62-1dde725c-2e5c04c00da4d426c48c4853bcf1d81a327917f0.mp3",
                                         "googletts-2ffe4383-6b8e3cca-7e084cac-726b9aa7-560ac240-1ecf9ad7773ddb5208c78d54421f427a55a454e4.mp3",
-                                        "googletts-3a6fe1b9-87fbbd33-d684e70a-a853d62a-2ae4cc9f.mp3",
                                         "googletts-3e44524f-861b42b1-ae99b2a9-e9182cb5-805638e1-bbf71a2bb0e113e4968d0929d9ef0cd9a4f772de.mp3",
                                         "googletts-3eab81be-23a3e556-72cf19de-8df2e6e9-711f6129-b132fb6e07df9f3e270b7b1460844f4b7809ef50.mp3",
                                         "googletts-4b2f4acb-952cc8cd-f51fdfb4-99ae8997-55de8aa5-165a0e66546c57db0a02ba2b9ac0bfa9c1743771.mp3",
@@ -19291,6 +19290,7 @@
                                         "googletts-f04504e2-bb3b0550-29c4a08e-a91387dd-4a355dc9-d180f0bff899b02a96f87ad3cf20dbc7993b98cb.mp3",
                                         "googletts-f416e2ad-4277b058-43ac9186-1b8706a5-52633e20-51dc7a14b6fa11d34097d291fc761f2ffff7068a.mp3",
                                         "googletts-f7be31a7-9293e064-c0ef1962-bb70a042-2dbcdb58-9963868e6ecd300449bec3e78db0192a269e860d.mp3",
+                                        "googletts-fa0b2825-5712b06f-3ae81445-8623bd72-34487a9e-939891c1456358b2f2098fafb7908561e6a47af2.mp3",
                                         "何日.png",
                                         "何月.png",
                                         "大.png",
@@ -19425,7 +19425,7 @@
                                                 "2月[にがつ]",
                                                 "<b>Februar</b>",
                                                 "<img src=\"月.png\">",
-                                                "[sound:googletts-3a6fe1b9-87fbbd33-d684e70a-a853d62a-2ae4cc9f.mp3]"
+                                                "[sound:googletts-fa0b2825-5712b06f-3ae81445-8623bd72-34487a9e-939891c1456358b2f2098fafb7908561e6a47af2.mp3]"
                                             ],
                                             "guid": "vNr6zH}7b~",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -20053,10 +20053,10 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-1f565789-ae8a2afe-9f34fca3-d77b8638-33f2ecb6.mp3",
                                         "googletts-31bb8bda-78f2b3d0-f3c15a75-77e246d9-130bd963.mp3",
                                         "googletts-41ef202a-bccd452c-ffd4aad4-768d4bea-8aae577a.mp3",
                                         "googletts-7300ac2a-a290e723-ff871107-302d9f22-341a8122.mp3",
+                                        "googletts-76ff50fd-973c62a5-8fc4e249-bd4ea875-739104eb.mp3",
                                         "googletts-83d578ad-fc3800b4-74466702-6cb0e7fb-2875ad6e.mp3",
                                         "googletts-a6728d56-08334848-d8b6c79c-84a63e21-52b5ff3e.mp3",
                                         "googletts-b9550c21-a790342a-282d155b-70df94a8-b226ee3e.mp3"
@@ -20112,7 +20112,7 @@
                                             "fields": [
                                                 "A: 2[に]&nbsp;月[がつ] 何[なん] 日[にち]ですか。<br>B: 2[に]&nbsp;月[がつ]の 29[にじゅうく] 日[にち]です。<br>A: ほんとうですか。",
                                                 "A: An <b>welchem Tag </b>im <b>Februar</b>?<br>B: Am 29. <b>Februar</b>.<br>A: Tatsächlich?",
-                                                "[sound:googletts-1f565789-ae8a2afe-9f34fca3-d77b8638-33f2ecb6.mp3]"
+                                                "[sound:googletts-76ff50fd-973c62a5-8fc4e249-bd4ea875-739104eb.mp3]"
                                             ],
                                             "guid": "DEi3;-p[QB",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -20650,14 +20650,14 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-128b23e3-ecb676c4-b52ca6f1-539b5442-ea1e9412-c20cc47f50c75129de224dac46b14fb4137e32f1.mp3",
                                         "googletts-16755ee9-52a0a726-9982f150-1bdc9365-f84fac8d-35e59286645658e8cd8d9252baab34ee6d85d16c.mp3",
-                                        "googletts-28ba25c2-0a25cd61-daf14681-2fda1af9-7c737c22-82ff37a1c88c77d2953f4ab15756d83654691018.mp3",
                                         "googletts-4810b8d9-3d57bf79-1f0fadbc-3eb8c498-9569d2bc-92742f85fd75e2437df64410c35c148048dd89f7.mp3",
                                         "googletts-6ad204df-89059ef8-a7a1a9dc-8c22268a-e2e1c0a3-5994ddbb0cd11bdb867384d35a48f364ae6ed8e8.mp3",
                                         "googletts-72491d5b-5a2b4d3f-1665599a-5ddc43dc-72c48b30-ac8cfdc3eaaeca4c6d70d1acf9858a75af24df6e.mp3",
                                         "googletts-73f6983f-dfc53284-03caab1f-7080afdd-f4f972c1-4711b8dd0e774bc4c218cc2f8e999324be0561f3.mp3",
+                                        "googletts-7b14afd2-0d899a78-79ebe6a0-368b05b8-e2116edb.mp3",
                                         "googletts-909ae6b2-6655c6a8-67f542eb-16d256cd-e8761f14-9ebc917588fa29bae1a6ecae2e2b5576c6782d23.mp3",
+                                        "googletts-9f75122b-18e3c5d4-2ed78624-aaae5a33-4f126113.mp3",
                                         "googletts-a191e2f4-4ede2b3c-463014ef-0711d906-e676d82a-a2ca9a10c45a9843c54d78181531d7817b6a49da.mp3",
                                         "googletts-cf86e744-8861d0d9-dce9ce1c-c35e9ca1-95d8c82c-c9f9006c677e1e4017ca0e374b1ee869d6d6f899.mp3",
                                         "googletts-d4e1c2b9-29f0b849-e116f73e-b83b8d20-35a143e8-93346062bd97214def6cfa048829b874b688a8cc.mp3",
@@ -20721,7 +20721,7 @@
                                                 "こん 週[しゅう]",
                                                 "diese <b>Woche</b>",
                                                 "<img src=\"週.png\">",
-                                                "[sound:googletts-28ba25c2-0a25cd61-daf14681-2fda1af9-7c737c22-82ff37a1c88c77d2953f4ab15756d83654691018.mp3]"
+                                                "[sound:googletts-7b14afd2-0d899a78-79ebe6a0-368b05b8-e2116edb.mp3]"
                                             ],
                                             "guid": "n};T4:TFxf",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -20793,7 +20793,7 @@
                                                 "こん 週[しゅう]の 土曜日[どようび]",
                                                 "<b>Samstag </b>dieser <b>Woche</b>",
                                                 "<img src=\"週.png\"><img src=\"土曜日.png\">",
-                                                "[sound:googletts-128b23e3-ecb676c4-b52ca6f1-539b5442-ea1e9412-c20cc47f50c75129de224dac46b14fb4137e32f1.mp3]"
+                                                "[sound:googletts-9f75122b-18e3c5d4-2ed78624-aaae5a33-4f126113.mp3]"
                                             ],
                                             "guid": "A)2w?kp*gr",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -22147,12 +22147,12 @@
                                     "media_files": [
                                         "googletts-012f29b6-31a26638-d8606209-91c28c37-a0125eab-c3b14d1b1efd591ae00a31c8edd92dddaacf05ca.mp3",
                                         "googletts-07e71707-9e11f924-d449bd87-c366b17f-396532d1-149a08b9482b7c589fbaaffa69f433f24e9753b2.mp3",
-                                        "googletts-0db7eaa6-ee980e95-ab770a6b-d83e9039-0f8f7084.mp3",
                                         "googletts-0e598d89-a27bded7-37429adc-1e00dc53-f6c55ac3-0022c7fd6b6ea6d20dd84724251cf3dd6a048695.mp3",
                                         "googletts-1ce9d959-17b26b42-25494d48-e48ba40e-0ce65d73-cc2b2e271fa55f18e921eb1e28934d89e2e026d4.mp3",
                                         "googletts-23fc5966-93ab1224-720c4c51-771bb863-a2acabfc-515118baf26161838e5bef1e1dd1ed492744ebe0.mp3",
                                         "googletts-3d150025-a5501cb9-8a591f6f-6e41d060-e294b43e-4ba42f741cd552bdd3e7a01c07f91cd5ab306464.mp3",
                                         "googletts-40894677-125e4588-a5cf1910-0a448959-43c448fa-224a52c5e0097b91d072061e0302db91b055ce8b.mp3",
+                                        "googletts-5fd421db-e65b42e1-52bb5ac8-27f97bab-65d3a676.mp3",
                                         "googletts-63e298f6-feec780f-7ce616d7-6b260e56-0cd64fb2-48c87e846d59924d8092adcac274992c456be3e2.mp3",
                                         "googletts-6a8466fc-d3a3af1f-3ea677e4-c447a394-29444b0c-a2cbcfe63923fa098edeee03b79bce28f6f2ce62.mp3",
                                         "googletts-702aed31-bdc3498d-2bb87ff5-2fda50bf-d6b845a4-ea18d91cc26773f5d5ceee270808e8af215570ac.mp3",
@@ -22164,8 +22164,8 @@
                                         "googletts-9532bc45-6d4c0852-facb3edc-2b5a56f0-e2d4f033-f6e639e6a92fc7c2370147a2ac92c4d04366ed95.mp3",
                                         "googletts-a0b5677b-9c66e22c-8b22da23-9e031490-66f1b696-cb37e2c59f83444846155d4c602c3afc3a6ca4a6.mp3",
                                         "googletts-ab30043d-0d6a3bd8-86ffe463-163e170f-45f1fe69-b5f583c1d40d4be45b169dbaf3f66c72e3c309df.mp3",
-                                        "googletts-b02b8879-899ac852-b68fb82c-4d1c6393-db49b987.mp3",
-                                        "googletts-d82e5c4f-905d6126-1724024a-8d34b0f0-6cb0af76.mp3",
+                                        "googletts-cc811ebe-0955a473-da0d4b7f-907920bc-c9433351.mp3",
+                                        "googletts-ea81453e-51c7a4a9-beeb839d-76a85174-ac05188d.mp3",
                                         "googletts-eda6724e-e34d9e1c-62007b90-a8aa9279-6afd2abe-317081c33d99d2a7c3345f13484576bd22ddeee6.mp3"
                                     ],
                                     "mid": 1642764739085,
@@ -22405,7 +22405,7 @@
                                                 "やきにく",
                                                 "gegrilltes/gebratenes Fleisch",
                                                 "",
-                                                "[sound:googletts-d82e5c4f-905d6126-1724024a-8d34b0f0-6cb0af76.mp3]"
+                                                "[sound:googletts-ea81453e-51c7a4a9-beeb839d-76a85174-ac05188d.mp3]"
                                             ],
                                             "guid": "lR(ZT53k~j",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -22417,7 +22417,7 @@
                                                 "やきとり",
                                                 "gegrillte Hähnchenspieße",
                                                 "",
-                                                "[sound:googletts-0db7eaa6-ee980e95-ab770a6b-d83e9039-0f8f7084.mp3]"
+                                                "[sound:googletts-cc811ebe-0955a473-da0d4b7f-907920bc-c9433351.mp3]"
                                             ],
                                             "guid": "v5H2QBYT{^",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -22429,7 +22429,7 @@
                                                 "やきざかな",
                                                 "gegrillter Fisch",
                                                 "",
-                                                "[sound:googletts-b02b8879-899ac852-b68fb82c-4d1c6393-db49b987.mp3]"
+                                                "[sound:googletts-5fd421db-e65b42e1-52bb5ac8-27f97bab-65d3a676.mp3]"
                                             ],
                                             "guid": "h$kC(~wwGJ",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -22907,14 +22907,14 @@
                                     "media_files": [
                                         "googletts-103c7b48-1a2b8663-1d3fcae2-37458749-871c9461.mp3",
                                         "googletts-1e9dfb38-4f75df8d-19603ca4-cbdd5eb5-600082b5.mp3",
-                                        "googletts-2bbe633a-17d0c5ac-3b869e83-b9d9ee09-3a29359e.mp3",
-                                        "googletts-89e19d3d-771a60d9-b0a327ee-ee3fa566-7eac33e2.mp3",
+                                        "googletts-450306c1-f0c9f235-a30128c5-e48822c3-55bc1ecb.mp3",
+                                        "googletts-673b8f18-77ea7dd2-48dafddb-82963aef-e1a17318.mp3",
                                         "googletts-aada8f3d-b3145787-dfc93ec5-56ea233e-2cb90f66.mp3",
-                                        "googletts-dcf7b93f-680b1cf6-980a47ae-780ab5f7-4294a282.mp3",
+                                        "googletts-d414cdff-129bfce1-b8ac304f-2d5fe122-3d7551bc.mp3",
                                         "googletts-dd492a8d-fd2c3af0-766639c6-baf8c4f2-a09ef917.mp3",
-                                        "googletts-ea3d0086-f281598c-1b9ad5e1-ace8a2c4-98625dab.mp3",
                                         "googletts-ed1876fb-bca1e988-8466ca77-b881c37c-1b03a899.mp3",
-                                        "googletts-f320cbbd-52b553db-0bf520f1-e4f71484-31ec09fc.mp3"
+                                        "googletts-f320cbbd-52b553db-0bf520f1-e4f71484-31ec09fc.mp3",
+                                        "googletts-fdcb2036-ec490697-22c8f81a-38893c5d-ee2d968d.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -22955,8 +22955,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "何[なに]になさいますか。",
-                                                "[sound:googletts-dcf7b93f-680b1cf6-980a47ae-780ab5f7-4294a282.mp3]"
                                                 "<b>Was </b>möchten sie (bestellen)? (im Restaurant, höflich)",
+                                                "[sound:googletts-673b8f18-77ea7dd2-48dafddb-82963aef-e1a17318.mp3]"
                                             ],
                                             "guid": "bZ@!3#,fNG",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22967,7 +22967,7 @@
                                             "fields": [
                                                 "わたしは おさしみていしょくです。",
                                                 "Ich nehme das Sashimi-Menü",
-                                                "[sound:googletts-2bbe633a-17d0c5ac-3b869e83-b9d9ee09-3a29359e.mp3]"
+                                                "[sound:googletts-d414cdff-129bfce1-b8ac304f-2d5fe122-3d7551bc.mp3]"
                                             ],
                                             "guid": "k3D.8ct=a7",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23000,7 +23000,7 @@
                                             "fields": [
                                                 "いらっしゃいませ。 何[なに]になさいますか。",
                                                 "Herzlich Wilkommen. <b>Was </b>nehmen sie?",
-                                                "[sound:googletts-ea3d0086-f281598c-1b9ad5e1-ace8a2c4-98625dab.mp3]"
+                                                "[sound:googletts-450306c1-f0c9f235-a30128c5-e48822c3-55bc1ecb.mp3]"
                                             ],
                                             "guid": "Qm_($@M8.v",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23011,7 +23011,7 @@
                                             "fields": [
                                                 "おのみものは 何[なに]になさいますか。",
                                                 "<b>Was </b>möchten sie trinken?",
-                                                "[sound:googletts-89e19d3d-771a60d9-b0a327ee-ee3fa566-7eac33e2.mp3]"
+                                                "[sound:googletts-fdcb2036-ec490697-22c8f81a-38893c5d-ee2d968d.mp3]"
                                             ],
                                             "guid": "lK]i/Lx$#7",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23316,12 +23316,12 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
+                                        "googletts-0be8bd9b-8c8fa5c0-f0f1a358-fba1da6c-a434bd14.mp3",
                                         "googletts-18909ba9-37a1375e-2900a157-732c1f18-7e8ea0c0.mp3",
                                         "googletts-32bac84a-90f62057-2ccb726d-b6158286-46cd4e3f.mp3",
-                                        "googletts-6ffc9b67-ca239300-6ad745af-aed7c670-f345e629.mp3",
-                                        "googletts-7ec9a6c6-d1bd7cf2-8ae74207-334a8594-3ed63a93.mp3",
+                                        "googletts-63bff22a-1adfafce-6941fa78-35575559-a408c6ed.mp3",
+                                        "googletts-7bb984f5-2ee985c2-86fb704c-d50d6f80-7e19a0e1.mp3",
                                         "googletts-b68120b0-1eb1fde5-c90abbe5-a9257431-e141ec53.mp3",
-                                        "googletts-ef9f6101-3a6b8ff7-5cbab998-0af4518d-4812dc13.mp3",
                                         "googletts-fe78d8a6-ff552d85-42035b12-8763f04e-92603075.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
@@ -23342,7 +23342,7 @@
                                             "fields": [
                                                 "きのうアイスクリームを 二[ふた]つたべました。",
                                                 "Gestern habe ich <b>zwei </b>Eis gegessen.",
-                                                "[sound:googletts-6ffc9b67-ca239300-6ad745af-aed7c670-f345e629.mp3]"
+                                                "[sound:googletts-7bb984f5-2ee985c2-86fb704c-d50d6f80-7e19a0e1.mp3]"
                                             ],
                                             "guid": "s|/U?*;l71",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23363,8 +23363,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "いしいさんは 何[なに]にしますか。",
-                                                "[sound:googletts-7ec9a6c6-d1bd7cf2-8ae74207-334a8594-3ed63a93.mp3]"
                                                 "Herr Ishi, <b>was </b>nehmen Sie? (Bestellung, im Restaurant, höflich)",
+                                                "[sound:googletts-63bff22a-1adfafce-6941fa78-35575559-a408c6ed.mp3]"
                                             ],
                                             "guid": "gaw}<fY0h:",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23386,7 +23386,7 @@
                                             "fields": [
                                                 "おすし 二[ふた]つと、てんぷらていしょく 一[ひと]つ、おねがいします。",
                                                 "<b>Zwei </b>mal Sushi und <b>ein </b>mal das Tempura-Menü bitte!",
-                                                "[sound:googletts-ef9f6101-3a6b8ff7-5cbab998-0af4518d-4812dc13.mp3]"
+                                                "[sound:googletts-0be8bd9b-8c8fa5c0-f0f1a358-fba1da6c-a434bd14.mp3]"
                                             ],
                                             "guid": "MXI<Y4EtW_",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23797,11 +23797,10 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-1d49e33b-0ee5c5cb-bb4399da-0a4c39b6-b8b1b259.mp3",
                                         "googletts-2189b351-94c23cd3-015a0aa1-c6589a08-fa81fd1f.mp3",
-                                        "googletts-2d1baef6-7014f0c2-e82998ba-589f5cf4-6401e796.mp3",
+                                        "googletts-222cb2f0-6dc2111a-a6f57518-6bfd668f-9efef847.mp3",
+                                        "googletts-24a90835-5bc94dc5-ceb48ff9-0397e12a-140f5aee.mp3",
                                         "googletts-30ad0bfb-0338dfe0-0e94382b-13383d81-e6ca0483.mp3",
-                                        "googletts-52c20c41-60b2ee2b-d0b81c1a-9c20c29e-04cd640a.mp3",
                                         "googletts-58ad48c1-a149067d-39f25486-7fe5037b-134aea61.mp3",
                                         "googletts-78d8cde4-ac1e35a4-faf4a17d-c6118841-733f79d0.mp3",
                                         "googletts-7992ad8e-647ebbe3-ada6c5c5-618195e4-fa9d79bb.mp3",
@@ -23809,13 +23808,14 @@
                                         "googletts-8a1d01e6-03f6128e-d15a33fd-a95686e3-d4b3ea6a.mp3",
                                         "googletts-8cccef0c-16f957a4-da0aee27-b79efff2-c715df5e.mp3",
                                         "googletts-a63acbab-36b8c48c-eb38826c-8d77256f-e5156f7e.mp3",
-                                        "googletts-bc04d5f1-b51dd1bd-f752b80b-796ce2e8-15805c4b.mp3",
                                         "googletts-c341fb5e-72424cc3-dec3f7a3-0004538a-62a02455.mp3",
                                         "googletts-d64b1daa-ca7ab6a7-abc9b11d-7ab7847b-2503fa17.mp3",
                                         "googletts-d82613cf-836235ab-66bb27c3-96349972-7dcb92db.mp3",
                                         "googletts-e25090d6-2cc5633d-a5595032-eddf28db-cc415a4b.mp3",
                                         "googletts-e95f2fc4-aed1776c-73e55c30-d8a5cb0e-9b90b639.mp3",
                                         "googletts-f736309a-6133f82d-0e2e6007-c40bd53f-27d9285c.mp3",
+                                        "googletts-f825e022-4ca4c546-5b0cd527-db8415a3-bf8c4fa3.mp3",
+                                        "googletts-f8297bad-4e4e66c0-da896118-81e452f7-044bd9fd.mp3",
                                         "paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg",
                                         "番.png"
                                     ],
@@ -23839,7 +23839,7 @@
                                                 "番[ばん]",
                                                 "<b>Nummer</b>",
                                                 "<img src=\"paste-9d425b6e23227b8f065e9a2aa44677ca822ebe38.jpg\">",
-                                                "[sound:googletts-bc04d5f1-b51dd1bd-f752b80b-796ce2e8-15805c4b.mp3]"
+                                                "[sound:googletts-24a90835-5bc94dc5-ceb48ff9-0397e12a-140f5aee.mp3]"
                                             ],
                                             "guid": "zs|&sN4kZQ",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24019,7 +24019,7 @@
                                                 "一[いち] 番[ばん]",
                                                 "<b>Nummer 1, am besten, am liebsten</b>",
                                                 "<img src=\"番.png\">",
-                                                "[sound:googletts-52c20c41-60b2ee2b-d0b81c1a-9c20c29e-04cd640a.mp3]"
+                                                "[sound:googletts-222cb2f0-6dc2111a-a6f57518-6bfd668f-9efef847.mp3]"
                                             ],
                                             "guid": "tp%o^LO(dC",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24043,7 +24043,7 @@
                                                 "テレビ 番[ばん]ぐみ",
                                                 "Fernseh<b>programm/sender</b>",
                                                 "<img src=\"番.png\">",
-                                                "[sound:googletts-2d1baef6-7014f0c2-e82998ba-589f5cf4-6401e796.mp3]"
+                                                "[sound:googletts-f825e022-4ca4c546-5b0cd527-db8415a3-bf8c4fa3.mp3]"
                                             ],
                                             "guid": "q<h6t<_Lh?",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24055,7 +24055,7 @@
                                                 "ラジオ&nbsp;番[ばん]ぐみ",
                                                 "Radio<b>programm/sender</b>",
                                                 "<img src=\"番.png\">",
-                                                "[sound:googletts-1d49e33b-0ee5c5cb-bb4399da-0a4c39b6-b8b1b259.mp3]"
+                                                "[sound:googletts-f8297bad-4e4e66c0-da896118-81e452f7-044bd9fd.mp3]"
                                             ],
                                             "guid": "D4_V<.{u_q",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24096,7 +24096,7 @@
                                         "googletts-5bea10e7-bbb61db8-b2503a17-e13bdc26-fd8dfd3c.mp3",
                                         "googletts-63e26389-df35b404-0d29fb9f-6ceb1d59-5dd56339.mp3",
                                         "googletts-7094eca5-6330a866-62a15f7e-d24bc79e-878b5522.mp3",
-                                        "googletts-a71fcc20-a7f1c1b3-ccde5177-40184709-813a3dce.mp3",
+                                        "googletts-a0285665-898506c8-6c10faa3-3fc2041f-4d6a31f2.mp3",
                                         "googletts-a9c857be-0d094bb4-60e2d73d-46e8d564-c0c0a6b0.mp3",
                                         "googletts-c4067d67-cf83b6d1-d818cc60-d515451b-3499f72a.mp3"
                                     ],
@@ -24239,7 +24239,7 @@
                                             "fields": [
                                                 "そうですか…。ハイデルベルクが 一番[いちばん]ふるいですよ。",
                                                 "Ist das so? Heidelberg ist die ält<b>este</b>&nbsp;(Universität)!",
-                                                "[sound:googletts-a71fcc20-a7f1c1b3-ccde5177-40184709-813a3dce.mp3]"
+                                                "[sound:googletts-a0285665-898506c8-6c10faa3-3fc2041f-4d6a31f2.mp3]"
                                             ],
                                             "guid": "t{DF]CABo_",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24323,20 +24323,19 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-094a9eb3-4757df8c-8dd21028-f265e1ea-6c159b65.mp3",
-                                        "googletts-0a424281-e7ecfc8e-b7637de4-090839d9-878d0e1f.mp3",
+                                        "googletts-2fc781e6-b9533378-040242ee-f70679ae-4155f1b0.mp3",
+                                        "googletts-35cb9b8d-b1701928-a66b8638-01b525e3-295d8ee2.mp3",
                                         "googletts-36605b2f-7e389aa2-1b188800-2b2bd52e-f6b1ec0c.mp3",
                                         "googletts-3e067e03-7653eea8-e9fe624b-ff89aae4-61c70066.mp3",
-                                        "googletts-57dc1799-25449293-7adbd2ac-d544faa9-645659a8.mp3",
-                                        "googletts-6018534c-0f30e8c0-795c9fac-66d9dd52-7918d052.mp3",
-                                        "googletts-630f6691-24a6af06-6ae0d86e-b8cc6449-a65a3416.mp3",
+                                        "googletts-62a39e6b-7b2ad496-27ba3b3b-5fe2a2cd-855aae43.mp3",
                                         "googletts-71062bbb-7058de6f-ee60ca8f-c8c14898-35733d19.mp3",
                                         "googletts-7e1cabbe-d91fe6bf-a312faae-f220369f-32c3aa7c.mp3",
-                                        "googletts-7ed9b779-5a1ca4b9-9edea13d-11895467-910ba870.mp3",
-                                        "googletts-88af6446-17d6d976-e1ce263c-a4601455-0fc7f962.mp3",
-                                        "googletts-ce503842-a2dceea4-01949c2d-534d191b-52847521.mp3",
+                                        "googletts-89a11ef9-b49f8c7b-e54a22f1-b0d9ab49-f3f2abf6.mp3",
+                                        "googletts-931ba13e-06f5bbf1-fb70d70f-83364ece-f2ea8336-2b3f1e7073752a1f6fb1a8f5c3ecd59699c39ca4.mp3",
+                                        "googletts-9a105299-c50c946f-f96aaea7-5a926901-58451b59.mp3",
+                                        "googletts-d500904b-5bd8d87d-deca2164-e35f1c4f-56963488.mp3",
                                         "googletts-dd249f7f-d4408db5-ebc82bf1-8969279e-00e3b693.mp3",
-                                        "googletts-ef911fbe-ec829af1-a0cb5b27-1621a405-5bae4270.mp3",
+                                        "googletts-f8015613-3e3dd495-eeabcc93-e4533fb2-65d795d7.mp3",
                                         "富士山.png",
                                         "山車.png",
                                         "行.png",
@@ -24350,7 +24349,7 @@
                                                 "行[い]きます",
                                                 "<b>gehen</b>",
                                                 "<img src=\"行.png\">",
-                                                "[sound:googletts-0a424281-e7ecfc8e-b7637de4-090839d9-878d0e1f.mp3]"
+                                                "[sound:googletts-35cb9b8d-b1701928-a66b8638-01b525e3-295d8ee2.mp3]"
                                             ],
                                             "guid": "Hi[[kL?ZXK",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24374,7 +24373,7 @@
                                                 "とります",
                                                 "nehmen, (Fotos) aufnehmen",
                                                 "",
-                                                "[sound:googletts-88af6446-17d6d976-e1ce263c-a4601455-0fc7f962.mp3]"
+                                                "[sound:googletts-89a11ef9-b49f8c7b-e54a22f1-b0d9ab49-f3f2abf6.mp3]"
                                             ],
                                             "guid": "hjGlB_s)1>",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24434,7 +24433,7 @@
                                                 "じゅうしょ",
                                                 "Adresse, Anschrift",
                                                 "",
-                                                "[sound:googletts-7ed9b779-5a1ca4b9-9edea13d-11895467-910ba870.mp3]"
+                                                "[sound:googletts-2fc781e6-b9533378-040242ee-f70679ae-4155f1b0.mp3]"
                                             ],
                                             "guid": "bS/WkJKhA_",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24446,7 +24445,7 @@
                                                 "アドレス",
                                                 "E-Mail Adresse",
                                                 "",
-                                                "[sound:googletts-630f6691-24a6af06-6ae0d86e-b8cc6449-a65a3416.mp3]"
+                                                "[sound:googletts-f8015613-3e3dd495-eeabcc93-e4533fb2-65d795d7.mp3]"
                                             ],
                                             "guid": "f?XNFs*jJ^",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24458,7 +24457,7 @@
                                                 "(お) まつり",
                                                 "Fest",
                                                 "",
-                                                "[sound:googletts-ef911fbe-ec829af1-a0cb5b27-1621a405-5bae4270.mp3]"
+                                                "[sound:googletts-62a39e6b-7b2ad496-27ba3b3b-5fe2a2cd-855aae43.mp3]"
                                             ],
                                             "guid": "N?IOEJ_>Yl",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24470,7 +24469,7 @@
                                                 "や",
                                                 "(Partikel zur Aufzählung) und&nbsp;",
                                                 "",
-                                                "[sound:googletts-6018534c-0f30e8c0-795c9fac-66d9dd52-7918d052.mp3]"
+                                                "[sound:googletts-931ba13e-06f5bbf1-fb70d70f-83364ece-f2ea8336-2b3f1e7073752a1f6fb1a8f5c3ecd59699c39ca4.mp3]"
                                             ],
                                             "guid": "Q/?fVr[a@z",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24482,7 +24481,7 @@
                                                 "富士山[ふじさん]",
                                                 "<b>Fujiyama, Berg Fuji</b>",
                                                 "<img src=\"富士山.png\">",
-                                                "[sound:googletts-ce503842-a2dceea4-01949c2d-534d191b-52847521.mp3]"
+                                                "[sound:googletts-9a105299-c50c946f-f96aaea7-5a926901-58451b59.mp3]"
                                             ],
                                             "guid": "DB>]^(`:2_",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24494,7 +24493,7 @@
                                                 "山車[だし]",
                                                 "<b>geschmückter Festwagen</b>",
                                                 "<img src=\"山車.png\">",
-                                                "[sound:googletts-57dc1799-25449293-7adbd2ac-d544faa9-645659a8.mp3]"
+                                                "[sound:googletts-d500904b-5bd8d87d-deca2164-e35f1c4f-56963488.mp3]"
                                             ],
                                             "guid": "GVv[]-t}p4",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24506,7 +24505,7 @@
                                                 "見[み]ます",
                                                 "<b>sehen</b><b>, anschauen</b>",
                                                 "<img src=\"見.png\">",
-                                                "[sound:googletts-094a9eb3-4757df8c-8dd21028-f265e1ea-6c159b65.mp3]"
+                                                "[sound:googletts-71062bbb-7058de6f-ee60ca8f-c8c14898-35733d19.mp3]"
                                             ],
                                             "guid": "fq`hqm}jQ|",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -24668,8 +24667,8 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-48902e91-03342104-4b132d98-70d527cf-a596b667.mp3",
-                                        "googletts-56ba26fb-7191ed8b-a35e3a85-c2c3a8cd-5757dd0f.mp3",
+                                        "googletts-07ffafb4-58e0c3d2-e71334ab-9a54ecb0-a98274a1.mp3",
+                                        "googletts-474d6844-a966aea9-fc9cf025-a4fa196e-dc48fc69.mp3",
                                         "googletts-5913b46b-707cafe0-f6a872e6-e1979723-ed6e6b5c.mp3",
                                         "googletts-7969b8ea-280dad61-cf33e59c-fba16927-5e02f845.mp3",
                                         "googletts-922c1211-c8be3d7f-419a52ec-93395705-56cff84d.mp3",
@@ -24742,7 +24741,7 @@
                                             "fields": [
                                                 "東京[とうきょう]えきまで 行[い]ってください。",
                                                 "<b>Fahren </b>sie mich bitte zum Bahnhof von <b>Tokyo</b>.",
-                                                "[sound:googletts-56ba26fb-7191ed8b-a35e3a85-c2c3a8cd-5757dd0f.mp3]"
+                                                "[sound:googletts-07ffafb4-58e0c3d2-e71334ab-9a54ecb0-a98274a1.mp3]"
                                             ],
                                             "guid": "6$yx1PAfd",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -24775,7 +24774,7 @@
                                             "fields": [
                                                 "京都[きょうと]や、 奈良[なら]や、 鎌倉[かまくら]や、 高山[たかやま]のおまつりはとてもふるいおまつりです。",
                                                 "Die Feste von Kyoto, Nara, Kamakura und Takayama sind sehr alte Feste. (Kanji hier unwichtig)",
-                                                "[sound:googletts-48902e91-03342104-4b132d98-70d527cf-a596b667.mp3]"
+                                                "[sound:googletts-474d6844-a966aea9-fc9cf025-a4fa196e-dc48fc69.mp3]"
                                             ],
                                             "guid": "CeyG:Vo!e}",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -25089,8 +25088,8 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-1f7329ae-90b54558-28635369-026a927e-9d6c0231.mp3",
-                                        "googletts-51a6b16a-b5d41742-f55c4d25-5a5baac6-09a3f842.mp3",
                                         "googletts-53c5a663-5702d7b1-7503e380-6bfb106c-69de93ee.mp3",
+                                        "googletts-cd6876b6-9a691142-cff36fe7-290b9dc6-d4b9799c.mp3",
                                         "googletts-d4fe8549-3571dffb-24be2114-d5f2f3db-10fd6c25.mp3",
                                         "googletts-ef1dfc3c-0f5ab4ea-824bb65d-75beaff4-86b2ca94.mp3"
                                     ],
@@ -25101,8 +25100,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: メニューはありますか。<br>B: すみません。ありません。",
-                                                "[sound:googletts-51a6b16a-b5d41742-f55c4d25-5a5baac6-09a3f842.mp3]"
                                                 "A: Gibt es eine Speisekarte?<br>B: Es tut mir leid. Gibt es nicht.",
+                                                "[sound:googletts-cd6876b6-9a691142-cff36fe7-290b9dc6-d4b9799c.mp3]"
                                             ],
                                             "guid": "J$;aEtGV%Z",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -25523,15 +25522,15 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
+                                        "googletts-12a9d67a-ee53338e-d1103e4d-0d2931af-f2f8b04e.mp3",
                                         "googletts-194c98b4-7753f003-6ccbbf35-2e3c96e2-135811e8.mp3",
                                         "googletts-1de0c5bb-1ad41cea-bff72ae3-ca5edbe5-c01846ef.mp3",
                                         "googletts-28eda991-29a51342-9d710390-6d0b703c-c9b58517.mp3",
-                                        "googletts-4d292ae3-fac19387-07f429a4-083e85db-0188035f.mp3",
                                         "googletts-567edf4d-fcb08901-c645ebab-62b0ae86-20f6634d.mp3",
                                         "googletts-6e151b8d-d87f8a1e-6e641620-5cb89439-f3ece32c.mp3",
                                         "googletts-7a2af81e-729685a4-4493ef41-38aa5ce5-1e122cbd.mp3",
                                         "googletts-94611620-bfbd4f82-ebc0fe89-a9a6b9f1-24dd570a.mp3",
-                                        "googletts-cc96de8d-49245a71-4b371e1d-5becbcfc-ce72ef4b.mp3",
+                                        "googletts-e2192a96-2bec423f-af21cbe1-8fb3b759-55536a31.mp3",
                                         "googletts-f22cef19-0ec259fe-d6cfde71-4beb8a20-9be278cd.mp3"
                                     ],
                                     "mid": 1642764953999,
@@ -25575,7 +25574,7 @@
                                             "fields": [
                                                 "A:&nbsp; 赤[あか]ワイン、ありますか。<br>B: はい。フランスワインとイタリアワイン、それからオーストラリアのワインがあります。",
                                                 "A: Haben Sie <b>Rot</b>wein?<br>B: Ja. Wir haben französischen und italienischen Wein und außerdem australischen Wein.",
-                                                "[sound:googletts-cc96de8d-49245a71-4b371e1d-5becbcfc-ce72ef4b.mp3]"
+                                                "[sound:googletts-12a9d67a-ee53338e-d1103e4d-0d2931af-f2f8b04e.mp3]"
                                             ],
                                             "guid": "gOF.5q6H@i",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -25630,7 +25629,7 @@
                                             "fields": [
                                                 "A: 日本[にっほん] 酒[しゅ]は 何[なん]本[ぼん]になさいますか。<br>B: 日本[にっほん] 酒[しゅ]は 十本[じゅっぽん]にしましょう。",
                                                 "A: <b>Wie viele</b> <b>Japanische Sake</b> möchten Sie haben?<br>B: Wir möchten <b>10 </b><b>Japanische Sake</b> (haben).",
-                                                "[sound:googletts-4d292ae3-fac19387-07f429a4-083e85db-0188035f.mp3]"
+                                                "[sound:googletts-e2192a96-2bec423f-af21cbe1-8fb3b759-55536a31.mp3]"
                                             ],
                                             "guid": "-yb`a3H]7",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -25869,7 +25868,7 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-03411c19-c3a749f2-2024c9e1-30ac383e-d22def10.mp3",
-                                        "googletts-a9076b80-a81d8b9c-5e9fa536-4de504f1-d6607513.mp3"
+                                        "googletts-c563f979-eb0bc54c-418b57a1-7d7ec405-e82f5428.mp3"
                                     ],
                                     "mid": 1642764953999,
                                     "name": "04 Sätze und Phrasen",
@@ -25879,7 +25878,7 @@
                                             "fields": [
                                                 "A: ビール、おそいですね。（おみせの人に)あのう、ビールはまですか。<br>B: すみません。ちょっとまってください。",
                                                 "A: Mit dem Bier dauert es lange. (Zum Kellner) Entschuldigung! Kommt mein Bier noch nicht?<br>B: Es tut uns leid. Warten Sie bitte ein bisschen.",
-                                                "[sound:googletts-a9076b80-a81d8b9c-5e9fa536-4de504f1-d6607513.mp3]"
+                                                "[sound:googletts-c563f979-eb0bc54c-418b57a1-7d7ec405-e82f5428.mp3]"
                                             ],
                                             "guid": "z=9_u#=S~8",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -25964,14 +25963,14 @@
                                         "googletts-0b4aacab-35d2c04c-97124584-9d3b9350-9287e269.mp3",
                                         "googletts-1277850c-46d54003-c0cfb393-083f096c-b1eab130.mp3",
                                         "googletts-2f50ca3c-4c4dadc9-f36a0fd8-363a175b-e29ac8dd.mp3",
-                                        "googletts-61858650-93f01df6-fe992b9a-add56de6-1f6df951.mp3",
+                                        "googletts-6279e7c0-04ed6303-141f6b72-994d868d-208fd0da.mp3",
+                                        "googletts-634657af-0e286771-dc09ab64-f9d803bd-bd446933.mp3",
                                         "googletts-7f71a016-522a1cdb-069c0949-5965a942-df7c4bf8.mp3",
                                         "googletts-821b2ce5-444c0798-7635a413-19e9f715-8dcbf166.mp3",
                                         "googletts-8bfab358-4b4ab3f3-28b53e42-bb137c79-6ec60d6d.mp3",
                                         "googletts-8e9f8073-a8ccda2d-8948257c-e2aee216-cf40cff5.mp3",
                                         "googletts-bc25215d-444059f7-5b5af966-9f0e99ce-5ed2f782.mp3",
                                         "googletts-cb390e60-bfa96343-689366f8-9ae0bd82-8a7f5d73.mp3",
-                                        "googletts-d8bcb0a6-3e7031b5-52dd70e8-ba5e0309-36b2f62b.mp3",
                                         "googletts-f80edbab-5a9c44ff-45583376-c0e3c925-f3c8898a.mp3",
                                         "円.png",
                                         "屋.PNG",
@@ -26023,7 +26022,7 @@
                                                 "かんぱい",
                                                 "Prost!",
                                                 "",
-                                                "[sound:googletts-d8bcb0a6-3e7031b5-52dd70e8-ba5e0309-36b2f62b.mp3]"
+                                                "[sound:googletts-634657af-0e286771-dc09ab64-f9d803bd-bd446933.mp3]"
                                             ],
                                             "guid": "piW-224@p{",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -26119,7 +26118,7 @@
                                                 "(お)金[おかね]",
                                                 "<b>Geld</b>",
                                                 "<img src=\"金.png\">",
-                                                "[sound:googletts-61858650-93f01df6-fe992b9a-add56de6-1f6df951.mp3]"
+                                                "[sound:googletts-6279e7c0-04ed6303-141f6b72-994d868d-208fd0da.mp3]"
                                             ],
                                             "guid": "AKM`/x!JVi",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -26186,8 +26185,8 @@
                                         "googletts-1cb0b2af-4173bc14-48a475ea-ce47444b-763e8647.mp3",
                                         "googletts-46b28239-5bbc4faa-4f568b2a-6707e36d-1de1d0fc.mp3",
                                         "googletts-4ae3e302-d2ecb065-91bf75c3-f9608561-8ae93496.mp3",
+                                        "googletts-690f0cea-eabe023f-aa21f082-dddfda8b-5121d169.mp3",
                                         "googletts-6f60602e-7ae0a85f-28113bf9-da8a320a-e1afe79c.mp3",
-                                        "googletts-77f328fd-f3fcd254-bc2942a6-6b5a8d58-b5385e2e.mp3",
                                         "googletts-94b9e5a1-a788b4e1-b9c89c5a-7aa25b7c-ce29818e.mp3",
                                         "googletts-aaf009f3-21d24cf3-83d23df8-b51a78ae-b1d82706.mp3",
                                         "googletts-b6a08f84-bc752e61-76f546dd-666e8fe4-e17e2d9c.mp3",
@@ -26213,7 +26212,7 @@
                                             "fields": [
                                                 "A: おひるはどうしますか。<br>B: そうですねぇ…。うちでたべます。",
                                                 "A: Wie wollen Sie es mit dem Mittagessen machen?<br>B: Ja…Ich esse zu Hause.",
-                                                "[sound:googletts-77f328fd-f3fcd254-bc2942a6-6b5a8d58-b5385e2e.mp3]"
+                                                "[sound:googletts-690f0cea-eabe023f-aa21f082-dddfda8b-5121d169.mp3]"
                                             ],
                                             "guid": "G@.g8+-}+I",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -26430,13 +26429,12 @@
                                     "extendNew": 0,
                                     "extendRev": 0,
                                     "media_files": [
-                                        "googletts-0e553f59-4eb5dfb2-ccc989e9-cd1acff0-bab81f10.mp3",
                                         "googletts-261efd44-ea671142-b968e936-3e3585b2-2500e47b.mp3",
                                         "googletts-29062f03-bdcd4e35-e8628833-dd94b1cc-ec51470d.mp3",
                                         "googletts-2cd273c1-2b5931a8-9c10576f-c3351d29-8486964b.mp3",
+                                        "googletts-325d1da6-e4cf926a-e5af3e71-6adedf68-2fd42cda.mp3",
                                         "googletts-360f73d4-b79e6e4b-8683876a-31713b95-9cb1c101.mp3",
                                         "googletts-49a52c8b-a507c088-77cbae98-6da6c823-ae0d434e.mp3",
-                                        "googletts-529ed229-ab0f144c-148f879d-173a5478-23dac8d0.mp3",
                                         "googletts-647070c4-ebdcf53f-1a30cb59-f64c0223-a3b6ea35.mp3",
                                         "googletts-660f3458-5cb47a68-8dc6d35e-4d50bd6b-3a7de1ec.mp3",
                                         "googletts-8a32de4b-b9c4170d-40c86a0b-b5e85cc2-76743c60.mp3",
@@ -26444,13 +26442,14 @@
                                         "googletts-a3a4b1f4-6d4a0125-29ab3973-c45fce1e-fff38082.mp3",
                                         "googletts-a7d793ce-e4ca5930-a628590d-4223b372-fb1d3b5f.mp3",
                                         "googletts-b845f506-c04f0f7d-5cf3bce7-e2b7f747-09cb5bec.mp3",
-                                        "googletts-c717e8d0-255cdce2-a847c618-05e60867-707b88b4.mp3",
+                                        "googletts-d15cd60e-b196f250-ffabbf80-fc10792e-61d86181.mp3",
                                         "googletts-dbe236db-a425e7b4-6d101c01-2c1e8836-5ebc9918.mp3",
                                         "googletts-de8d3f18-9e5d5176-fc41306e-3be06ff6-52a7a93a.mp3",
                                         "googletts-e18fb3fd-d7e6f4ff-eb0a706b-daba4c0a-312876d5.mp3",
                                         "googletts-e36ad749-f4cf0378-89960b28-0da64c8a-7e626ca8.mp3",
                                         "googletts-ea14751b-eff7753c-bb0d651c-95db3c27-a6124b48.mp3",
-                                        "googletts-ea367339-a15fe2ba-16fa2278-d93d0337-42495d29.mp3"
+                                        "googletts-ea367339-a15fe2ba-16fa2278-d93d0337-42495d29.mp3",
+                                        "googletts-f3f32b8e-dfbb5bbe-288db30f-9ed0e9a9-efa307d5.mp3"
                                     ],
                                     "name": "02 Vokabeln",
                                     "notes": [
@@ -26664,7 +26663,7 @@
                                                 "何[なん]ばい",
                                                 "<b>Wie </b>viele Tassen?",
                                                 "",
-                                                "[sound:googletts-c717e8d0-255cdce2-a847c618-05e60867-707b88b4.mp3]"
+                                                "[sound:googletts-d15cd60e-b196f250-ffabbf80-fc10792e-61d86181.mp3]"
                                             ],
                                             "guid": "f0w;/fc!Dt",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -26688,7 +26687,7 @@
                                                 "オーストリアの 白[しろ]ワイン",
                                                 "Österreichischer <b>Weiß</b>wein",
                                                 "",
-                                                "[sound:googletts-0e553f59-4eb5dfb2-ccc989e9-cd1acff0-bab81f10.mp3]"
+                                                "[sound:googletts-f3f32b8e-dfbb5bbe-288db30f-9ed0e9a9-efa307d5.mp3]"
                                             ],
                                             "guid": "ItX<ANbtDH",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -26700,7 +26699,7 @@
                                                 "フランスの 赤[あか]ワイン",
                                                 "Französischer <b>Rot</b>wein",
                                                 "",
-                                                "[sound:googletts-529ed229-ab0f144c-148f879d-173a5478-23dac8d0.mp3]"
+                                                "[sound:googletts-325d1da6-e4cf926a-e5af3e71-6adedf68-2fd42cda.mp3]"
                                             ],
                                             "guid": "t6{GGTBS9D",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",
@@ -26992,8 +26991,8 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-64fcd357-0c2f6a41-d8128097-cebdefff-08720e89.mp3",
-                                        "googletts-ed696441-6c5bbac2-4630d9de-2e0cd8cb-38f1570a.mp3",
-                                        "googletts-f9afc573-b0130e46-91b5c758-4158f1e0-cd9b50db.mp3"
+                                        "googletts-c0b33c91-b36d8fb9-78c4aaae-ae5812f8-af98ade7.mp3",
+                                        "googletts-ed696441-6c5bbac2-4630d9de-2e0cd8cb-38f1570a.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
                                     "notes": [
@@ -27002,7 +27001,7 @@
                                             "fields": [
                                                 "きょう は すてきなえ を どうも ありがとうございました。",
                                                 "Vielen Dank für Ihr wunderbares Gemälde heute.",
-                                                "[sound:googletts-f9afc573-b0130e46-91b5c758-4158f1e0-cd9b50db.mp3]"
+                                                "[sound:googletts-c0b33c91-b36d8fb9-78c4aaae-ae5812f8-af98ade7.mp3]"
                                             ],
                                             "guid": "HX[!y@8?L|",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -27296,12 +27295,12 @@
                                         "googletts-5bce6b04-2a546e7f-c60ca20e-d17354bd-1b8ab451.mp3",
                                         "googletts-7841d177-a6cb66c1-bc17722f-f2af5ac0-2ec1e3ff.mp3",
                                         "googletts-78aa9492-089e1086-ed10e9c1-8e219349-4d5cfc8b.mp3",
-                                        "googletts-8f3be6a5-03a69fb4-11b21fd6-0676a107-4191279d.mp3",
                                         "googletts-94bf55e0-8d4bb4e9-4311df02-6bf53405-f2d38c78.mp3",
                                         "googletts-a7968dea-2d981995-ea39b43c-98a7fdd6-a7758094.mp3",
                                         "googletts-af158560-49bf8fd7-8c68242d-934418ad-8b5798ec.mp3",
                                         "googletts-aff5fa8c-405f04a4-6a78256b-5fb1298c-79876633.mp3",
                                         "googletts-b4614792-f37a414f-f8065a32-c2168afe-4ac91b32.mp3",
+                                        "googletts-c95a6daa-84c02904-c59405e6-084e5587-7c72bb2f.mp3",
                                         "googletts-d15a17c1-a4d63a1d-90771963-5fcb1f91-ec143ca5.mp3"
                                     ],
                                     "name": "04 Sätze und Phrasen",
@@ -27355,7 +27354,7 @@
                                             "fields": [
                                                 "このでんわはちょっと…。そのでんわでおねがいします。",
                                                 "Dieses Telefon (können Sie nicht benutzen)... Bitte nehmen Sie jenes Telefon.",
-                                                "[sound:googletts-8f3be6a5-03a69fb4-11b21fd6-0676a107-4191279d.mp3]"
+                                                "[sound:googletts-c95a6daa-84c02904-c59405e6-084e5587-7c72bb2f.mp3]"
                                             ],
                                             "guid": "p*h>$]&%;(",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -27537,7 +27536,7 @@
                                     "extendRev": 0,
                                     "media_files": [
                                         "googletts-095d7dad-48a38c7c-4bc95feb-749b4846-9aff7723.mp3",
-                                        "googletts-4a6fa4c1-49406ec4-4bda5e6e-cb1a85c9-49ee6fb2.mp3",
+                                        "googletts-4ee50784-2b981680-6d4849c6-bf2d160c-ee4038d1.mp3",
                                         "googletts-66af2bb1-2b4fd5ae-61af2462-296b1457-0cc1069f.mp3",
                                         "googletts-7cada2bc-52d91d40-6d87b1c6-979c9b64-456f56a0.mp3",
                                         "googletts-85219a7c-631fa03f-9b5e373c-2d13703a-307ae5d3.mp3",
@@ -27601,7 +27600,7 @@
                                                 "でんわ 番[ばん]ごう",
                                                 "Telefon<b>nummer</b>",
                                                 "",
-                                                "[sound:googletts-4a6fa4c1-49406ec4-4bda5e6e-cb1a85c9-49ee6fb2.mp3]"
+                                                "[sound:googletts-4ee50784-2b981680-6d4849c6-bf2d160c-ee4038d1.mp3]"
                                             ],
                                             "guid": "IG=9vseyb>",
                                             "note_model_uuid": "24bb0d42-7ab1-11ec-ad9a-0c7a15ee466f",

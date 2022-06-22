@@ -1392,7 +1392,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "こんばんは。Behrmannです。ドイツ人[じん]です。",
+                                                "こんばんは。Behrmannです。ドイツ 人[じん]です。",
                                                 "Guten Abend! Ich bin&nbsp;<i>Behrmann</i>. Ich bin Deutsch<b>er</b>.",
                                                 "[sound:googletts-7101e88c-be64b3d9-c8783f02-03abc709-7d352f9e.mp3]"
                                             ],
@@ -1403,7 +1403,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: Wilhelm TellはAustria人ですか。<br>B: いいえ、スイス人です。",
+                                                "A: Wilhelm TellはAustria 人[じん]ですか。<br>B: いいえ、スイス 人[じん]です。",
                                                 "A: Ist<font color=\"#00ff00\"> </font><i>Wilhelm Tell Österreich</i><b>er</b>?<br>B: Nein, er ist Schweiz<b>er</b>.",
                                                 "[sound:googletts-f4613a63-000ccfc3-ced29dbe-b115cc7f-88f4828f.mp3]"
                                             ],
@@ -1414,7 +1414,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "こが：カイさんはドイツ人ですか。<br>いいの：はい、ドイツ人です。",
+                                                "こが：カイさんはドイツ 人[じん]ですか。<br>いいの：はい、ドイツ 人[じん]です。",
                                                 "Koga: Ist Kai Deutsch<b>er</b>?<br>Iino: Ja, er ist Deutsch<b>er</b>.",
                                                 "[sound:googletts-09f91a67-3a19e6f2-ff4838b0-074a47e2-43bff94c.mp3]"
                                             ],
@@ -3517,7 +3517,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: それは何ですか。<br>B: これですか。",
+                                                "A:それは 何[なん]ですか。<br>B:これですか。",
                                                 "A: <b>Was </b>ist das da?<br>B: Dieses hier?",
                                                 "[sound:googletts-a421f1da-6a9e5f24-589c5204-54d41ea3-f4ad041d.mp3]"
                                             ],
@@ -4003,9 +4003,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A:「どくしょ」…。「どくしょ」はドイツ語で 何[なん]ですか。<br>B: ドイツ語で「Bücherlesen」です。",
-                                                "A: \"どくしょ‘‘… Was heißt \"どくしょ\" auf <b>Deutsch</b>?<br>B: Auf <b>Deutsch </b>heißt das ,,Bucherlesen\"",
                                                 "[sound:googletts-347c7493-937ca926-b2d612a6-e9d1e372-d6399492.mp3]"
+                                                "A:「どくしょ」はドイツ 語[ご]で 何[なん]ですか。<br>B:ドイツ 語[ご]で「Bücherlesen」です。",
+                                                "A: <b>Was </b>heißt \"どくしょ\" auf <b>Deutsch</b>?<br>B: Auf <b>Deutsch </b>heißt das ,,Bücherlesen\"",
                                             ],
                                             "guid": "KF!L*W%}Ke",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -8088,9 +8088,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: きょうおはなみをしませんか。<br>B: いいですね。",
-                                                "A: Wollen Sie heute nicht (mit mir) zur Kirschblütenschau gehen?<br>B: Gut!/Gute ldee!/Gerne!",
                                                 "[sound:googletts-836efa1f-41d507de-1911a0b3-5e164ee5-11eb3427.mp3]"
+                                                "A: きょうおはなみをしませんか。",
+                                                "A: Wollen Sie heute nicht zur Kirschblütenschau gehen?",
                                             ],
                                             "guid": "G?C[)<-&Q[",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -8728,7 +8728,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: おちゃはいかがですか。<br>B: はい、いただきます。<br>A: どうぞ。<br>B: どうも。",
-                                                "A: Wie wäre es mit Tee?/ Möchten Sie Tee?<br>B: Ja, (ich trinke) gerne.<br>A: Bitte!<br>B: Danke!",
+                                                "A: Wie wäre es mit Tee?<br>B: Ja, (ich trinke) gerne.<br>A: Bitte!<br>B: Danke!",
                                                 "[sound:googletts-aefcc481-db9c8a2e-59a5a441-0fd0b1ff-3d4a8ed5.mp3]"
                                             ],
                                             "guid": "ch%.awTfy{",
@@ -8794,7 +8794,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: あしたいっしょにすもうをみませんか。<br>B: すみません。すもうはあまり・・・。",
-                                                "A: Hast du Lust, morgen zusammen Sumo zu schauen?<br>B: Entschuldigung. Sumo ist nicht so gut...",
+                                                "A: Wollen wir morgen (nicht) zusammen Sumo schauen?<br>B: Entschuldigung. Sumo ist etwas...",
                                                 "[sound:googletts-5acec620-0a9c45af-45558c4d-76a24305-ed30b51e.mp3]"
                                             ],
                                             "guid": "krK%Gk]ToE",
@@ -8954,7 +8954,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "(どうも)ありがとう(ございます)",
-                                                "Vielen (herzlichen) Dank! Das ist sehr nett von Ihnen. <br>Mit どうも&nbsp;und ございます wird der Ausdruck höflicher",
+                                                "Danke + Extras",
                                                 "",
                                                 "[sound:googletts-72c11465-a95b0595-835ed406-2cfb6bc2-8a024bcc-f03ca488011acd02bc8e137ab0195f79141a7bfc.mp3]"
                                             ],
@@ -8990,7 +8990,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "だいじょうぶ",
-                                                "(Adj.) möglich, machbar, in Ordnung, sicher",
+                                                "(Adj.) In Ordnung, möglich, machbar,&nbsp;sicher",
                                                 "",
                                                 "[sound:googletts-7253ef14-c1df5b6e-5e610940-12093998-604498f9-f4585acca146f43ae49ca6ff22a6188d8d408779.mp3]"
                                             ],
@@ -9253,7 +9253,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "そうですか。ざんねんですね。",
-                                                "Ich verstehe. Schade!",
+                                                "So ist das? Schade!",
                                                 "[sound:googletts-6c53cc64-1f3b48d1-5c045bac-9c7ef9d3-a2988c33.mp3]"
                                             ],
                                             "guid": "r,uq,BgW.e",
@@ -10552,7 +10552,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: だれがまいにちりょうりをしますか。<br>B: (in der Klasse herumschauend) だれもません。",
+                                                "A: だれがまいにちりょうりをしますか。<br>B: (in der Klasse herumschauend) だれもしません。",
                                                 "A: Wer kocht jeden Tag?<br>B: Niemand (macht das jeden Tag).",
                                                 "[sound:googletts-bd161149-8b66da1a-41b4f596-5d4c7b20-d14d5c3d.mp3]"
                                             ],
@@ -11016,7 +11016,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "何人ですか。",
+                                                "何[なん] 人[にん]ですか。",
                                                 "<b>Wie viele Personen</b> sind es?",
                                                 "[sound:googletts-f7c6c861-36079f0d-ddbf2b7c-713e03b0-4d2eaa05.mp3]"
                                             ],
@@ -11405,7 +11405,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "きのうはしごとです。",
-                                                "Ich war gestern auf der Arbeit.",
+                                                "Ich bin heute arbeiten.",
                                                 "[sound:googletts-02399d9c-cec7d784-7e01f47a-737571ab-995f9b8b.mp3]"
                                             ],
                                             "guid": "NR+hf=z%Gd",
@@ -11558,7 +11558,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 何[なに]をつくりましょうか。<br>B: 先生[せんせい]、おすしはどうですか。",
+                                                "A:&nbsp; 何[なに]をつくりましょうか。<br>B:&nbsp; 先生[せんせい]、おすしはどうですか。",
                                                 "A: <b>Was </b>sollen wir machen (produzieren)?<br>B: <b>Frau Lehrerin</b>, wie wäre es mit Sushi?",
                                                 "[sound:googletts-4093c9f8-833181c8-ba88aedf-25653942-6f38c2e3.mp3]"
                                             ],
@@ -11613,7 +11613,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "いち、に、さん、よん、ご、ろく、しち、はち、きゅう、じゅう、10人ですね。",
+                                                "いち、に、さん、よん、ご、ろく、しち、はち、きゅう、じゅう、 10[じゅう]&nbsp;人[にん]ですね。",
                                                 "1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10 Leute also.",
                                                 "[sound:googletts-e42db155-cd281abf-e9074f0b-0c314b33-527d13c4.mp3]"
                                             ],
@@ -11669,7 +11669,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "ケラーさんはきょうはしごとですね。ラィヒさん、ケラーさんにでんわをおねがいします。",
-                                                "Herr Keller ist heute auf der Arbeit, oder? Herr Reich, bitte rufen Sie Herr Keller an.",
+                                                "Herr Keller ist heute arbeiten, oder? Herr Reich, bitte rufen Sie Herr Keller an.",
                                                 "[sound:googletts-27ee7971-92e1f8fc-f77f1ce9-040d3176-bb99c0a0.mp3]"
                                             ],
                                             "guid": "AepCH+U@|&",
@@ -12010,8 +12010,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: Bさんは フランス 語[ご]ができますか。<br>B: はい、すこしできます。",
-                                                "A: Herr B, können Sie Französ<b>isch</b>?<br>B: Ja, ich kann etwas (formell).",
                                                 "[sound:googletts-89b2112e-a30af1e7-d246c22a-cca3465b-f53979fa.mp3]"
+                                                "A: Herr B, können Sie <b>Französisch</b>?<br>B: Ja, ich kann etwas (formell).",
                                             ],
                                             "guid": "u6H;ecQ.=)",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -12659,7 +12659,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "いいえ、おもしろいですよ。",
-                                                "Das stimmt nicht. Es ist interessant.",
+                                                "Nein, (es) ist interessant.",
                                                 "[sound:googletts-b0857ee5-c92c47c7-54e914db-c0ae3b18-89414a0f.mp3]"
                                             ],
                                             "guid": "KE_x@);wWl",
@@ -12725,7 +12725,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "いいえ、とてもいいですよ。",
-                                                "Das stimmt nicht. Sie ist sehr gut!",
+                                                "Nein, (es) ist sehr gut!",
                                                 "[sound:googletts-457a21d7-7e99cd50-b9c08f2e-7fbe7317-ea07d209.mp3]"
                                             ],
                                             "guid": "pNY75uo?Z#",
@@ -13662,7 +13662,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "おたくの みなさんに どうぞ よろしく。",
-                                                "Viele Grüße an Ihre Familie!",
+                                                "Viele Grüße an alle bei Ihnen zu Hause!",
                                                 "[sound:googletts-363610d1-cea16b84-e16098a8-c403fe2c-d6cbcfbc.mp3]"
                                             ],
                                             "guid": "h<j_e=;8*f",
@@ -13695,7 +13695,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "おとうさんはおげんきですか。",
-                                                "Wie geht es Ihrem Vater?",
+                                                "Geht es Ihrem Vater gut?",
                                                 "[sound:googletts-449b8709-2194e7ad-01247ed0-0841ce82-9db83635.mp3]"
                                             ],
                                             "guid": "q+@:,BdoR`",
@@ -13783,7 +13783,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "さんぽですか。いいですね。",
-                                                "Ist es ein Spaziergang? Hört sich gut an.",
+                                                "Ein Spaziergang? Hört sich gut an.",
                                                 "[sound:googletts-3a10b9da-0dbcf407-11daa63f-70a984bd-61beac7a.mp3]"
                                             ],
                                             "guid": "Px)+X|~zwV",
@@ -13860,7 +13860,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "ドイツ 語[ご]はあまりできません。でも、よくドイツのオペラをききます。",
-                                                "Ich kann nicht gut Deutsch sprechen. Aber ich höre oft deutsche Opern.",
+                                                "Ich kann nicht gut Deutsch. Aber ich höre oft deutsche Opern.",
                                                 "[sound:googletts-01bdd604-d3f82479-4d2ed2a0-9ba4c9d7-48dfe52b.mp3]"
                                             ],
                                             "guid": "HV-k-7fd*X",
@@ -14503,8 +14503,8 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "本はあまりすきじゃないです。",
-                                                "Ich mag <b>Bücher</b> nicht besonders/Ich lese <b>Bücher </b>nicht so gern",
+                                                "本[ほん]はあまりすきじゃないです。",
+                                                "Ich mag <b>Bücher</b> nicht so viel.",
                                                 "[sound:googletts-b54643e2-a4bf5309-9bd2fa80-384b005f-0f541e54.mp3]"
                                             ],
                                             "guid": "O@z*cb%-l_",
@@ -14547,7 +14547,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "わたしは東京がすきです。",
+                                                "わたしは 東京[とうきょう]がすきです。",
                                                 "Ich mag <b>Tokio</b>.",
                                                 "[sound:googletts-9c6c3323-1d5c4dbf-c3045463-1e2e8fa5-634ca832.mp3]"
                                             ],
@@ -15372,7 +15372,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "ドイツはごぜん10時です。",
+                                                "ドイツはごぜん 10[じゅう]&nbsp;時[じ]です。",
                                                 "In Deutschland ist es 10 <b>Uhr </b>vormittags.",
                                                 "[sound:googletts-36b6acb0-21d85412-9f4778ec-8a85fc42-2c16284a.mp3]"
                                             ],
@@ -15384,7 +15384,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: いま 何[なん] 時[じ]ですか。<br>B: 四[よ] 時[じ]です。",
-                                                "A: <b>Wie viel Uhr</b> haben wir?<br>B: Es ist <b>4 Uhr</b>.",
+                                                "A: <b>Wie viel Uhr</b> haben wir gerade?<br>B: Es ist <b>4 Uhr</b>.",
                                                 "[sound:googletts-ae81921a-eb2b3afb-41939a78-a9ca2107-943fc39c.mp3]"
                                             ],
                                             "guid": "A{?ewx`dZa",
@@ -18012,7 +18012,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 日本語のじゅぎょうはどうでしたか。<br>B:&nbsp;むずかしかったです.",
+                                                "A: 日本語[にほんご]のじゅぎょうはどうでしたか。<br>B:むずかしかったです。",
                                                 "A: Wie war der <b>Japanisch</b>unterricht?<br>B: Er war schwierig.",
                                                 "[sound:googletts-884c97a6-0b654bfe-4f8dbbd2-bcf0c45f-6455e179.mp3]"
                                             ],
@@ -20066,7 +20066,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "きょうは 5 月[がつ] 11[じゅういち] 日[にち]です。",
+                                                "きょうは 5[ご]&nbsp;&nbsp;月[がつ] 11[じゅういち] 日[にち]です。",
                                                 "Heute ist der <b>11.</b> <b>Mai</b>.",
                                                 "[sound:googletts-b9550c21-a790342a-282d155b-70df94a8-b226ee3e.mp3]"
                                             ],
@@ -20790,7 +20790,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "こん週の土曜日",
+                                                "こん 週[しゅう]の 土曜日[どようび]",
                                                 "<b>Samstag </b>dieser <b>Woche</b>",
                                                 "<img src=\"週.png\"><img src=\"土曜日.png\">",
                                                 "[sound:googletts-128b23e3-ecb676c4-b52ca6f1-539b5442-ea1e9412-c20cc47f50c75129de224dac46b14fb4137e32f1.mp3]"
@@ -22518,7 +22518,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: エリカさんは 何[なに]にしますか。<br>B: てんぷらにします。<br>A: のみものは。<br>B: ビールにします。",
-                                                "A: <b>Was </b>nehmen Sie, Erika?<br>B: Ich nehme Tempura.<br>A: Und (was nehmen Sie) zu trinken?<br>B: Ich nehme ein Bier.",
+                                                "A: <b>Was </b>nehmen (bestellen) Sie, Erika?<br>B: Ich nehme Tempura.<br>A: Und (was nehmen Sie) zu trinken?<br>B: Ich nehme ein Bier.",
                                                 "[sound:googletts-dafee7ff-3126632f-65b075bb-e759f4eb-c09b88a0.mp3]"
                                             ],
                                             "guid": "KrNUyN?Bz}",
@@ -22955,8 +22955,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "何[なに]になさいますか。",
-                                                "<b>Was </b>möchten sie? (im Restaurant)",
                                                 "[sound:googletts-dcf7b93f-680b1cf6-980a47ae-780ab5f7-4294a282.mp3]"
+                                                "<b>Was </b>möchten sie (bestellen)? (im Restaurant, höflich)",
                                             ],
                                             "guid": "bZ@!3#,fNG",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -22977,7 +22977,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "すみません。おみずおねがいします。",
-                                                "Entschuldigung! Bitte bringen Sie mir ein Wasser!",
+                                                "Entschuldigung. Ein Wasser bitte!",
                                                 "[sound:googletts-ed1876fb-bca1e988-8466ca77-b881c37c-1b03a899.mp3]"
                                             ],
                                             "guid": "pzgJQ2DAE4",
@@ -22988,7 +22988,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "おかんじょう おねがいします。",
-                                                "Bitte bringen Sie mir die Rechnung!",
+                                                "Die Rechnung, bitte.",
                                                 "[sound:googletts-1e9dfb38-4f75df8d-19603ca4-cbdd5eb5-600082b5.mp3]"
                                             ],
                                             "guid": "m3Ml%=z`7}",
@@ -23352,7 +23352,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "てんぷら ひとつ おねがいします。",
-                                                "Ich hätte gerne ein mal Tempura!",
+                                                "Einmal Tempura, bitte.",
                                                 "[sound:googletts-18909ba9-37a1375e-2900a157-732c1f18-7e8ea0c0.mp3]"
                                             ],
                                             "guid": "b@p8CU+eQ?",
@@ -23363,8 +23363,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "いしいさんは 何[なに]にしますか。",
-                                                "Herr Ishi, <b>was </b>nehmen Sie?",
                                                 "[sound:googletts-7ec9a6c6-d1bd7cf2-8ae74207-334a8594-3ed63a93.mp3]"
+                                                "Herr Ishi, <b>was </b>nehmen Sie? (Bestellung, im Restaurant, höflich)",
                                             ],
                                             "guid": "gaw}<fY0h:",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -23699,7 +23699,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "ところで のみものは 何[なに]がいいですか",
-                                                "Übrigens, <b>w</b><b>as </b>möchten sie trinken?",
+                                                "Übrigens, <b>w</b><b>as </b>möchten sie trinken (welches Getränk ist gut)?",
                                                 "[sound:googletts-8bf42a33-0c4202a3-cc793cd7-18ef780f-ab874ba5.mp3]"
                                             ],
                                             "guid": "i&NM>YFJ:x",
@@ -24467,7 +24467,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "ゃ",
+                                                "や",
                                                 "(Partikel zur Aufzählung) und&nbsp;",
                                                 "",
                                                 "[sound:googletts-6018534c-0f30e8c0-795c9fac-66d9dd52-7918d052.mp3]"
@@ -25101,8 +25101,8 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: メニューはありますか。<br>B: すみません。ありません。",
-                                                "A: Haben Sie/Gibt es (hier) eine Speisekarte?<br>B: Es tut mir leid. Wir haben keine.",
                                                 "[sound:googletts-51a6b16a-b5d41742-f55c4d25-5a5baac6-09a3f842.mp3]"
+                                                "A: Gibt es eine Speisekarte?<br>B: Es tut mir leid. Gibt es nicht.",
                                             ],
                                             "guid": "J$;aEtGV%Z",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",
@@ -27598,7 +27598,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "でんわ番ごう",
+                                                "でんわ 番[ばん]ごう",
                                                 "Telefon<b>nummer</b>",
                                                 "",
                                                 "[sound:googletts-4a6fa4c1-49406ec4-4bda5e6e-cb1a85c9-49ee6fb2.mp3]"

@@ -8067,8 +8067,8 @@
                                         "googletts-00f063ba-09e0403f-2d4e47b4-5ce1311c-42ef14e7.mp3",
                                         "googletts-029fe613-555415cc-f67fb799-d527f45c-06dd75c4.mp3",
                                         "googletts-0e57359a-42a64ee3-54ec5e81-7e7146a3-fe13641d.mp3",
-                                        "googletts-17c06ca8-bd90203c-56d429b4-8b6267f9-542668d9.mp3",
                                         "googletts-1ce8ab13-633cc083-e0899d01-f04c997e-dbd37a10.mp3",
+                                        "googletts-574d6dd6-ae10650c-9e00b50b-7fb12e04-300768ba.mp3",
                                         "googletts-b0f49f64-5e948e54-2b9b5966-20e90678-e77848b6.mp3",
                                         "googletts-f747c872-f3e5ebeb-b98c8b9b-e1fea94e-c1b30518.mp3"
                                     ],
@@ -8088,9 +8088,9 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: きょうおはなみをしませんか。",
-                                                "A: Wollen Sie heute nicht zur Kirschblütenschau gehen?",
-                                                "[sound:googletts-17c06ca8-bd90203c-56d429b4-8b6267f9-542668d9.mp3]"
+                                                "きょうおはなみをしませんか。",
+                                                "Wollen Sie heute nicht die Kirschblütenschau (sehen)?",
+                                                "[sound:googletts-574d6dd6-ae10650c-9e00b50b-7fb12e04-300768ba.mp3]"
                                             ],
                                             "guid": "G?C[)<-&Q[",
                                             "note_model_uuid": "24bb0d45-7ab1-11ec-83a4-0c7a15ee466f",

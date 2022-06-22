@@ -4165,7 +4165,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "学[がく]",
-                                                "<b>lernen, Studiumm, Wissen, Bildung</b>",
+                                                "<b>Lernen, Studiumm, Wissen, Bildung</b>",
                                                 "<img src=\"学.PNG\">",
                                                 "[sound:googletts-e00d6baa-8d90e2bc-98344f56-fc6c46d5-3d507f4e-7760c8d8202df629e916ca41a12400c0ee0cbac6.mp3]"
                                             ],
@@ -5585,7 +5585,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "いしいさんはからてをよくします。",
+                                                "いしいさん は からてをよくします。",
                                                 "Herr Ishii macht oft Karate.",
                                                 "[sound:googletts-67f8ad9e-36ae7642-8cb90980-6f00a8d9-301a5ae6.mp3]"
                                             ],
@@ -16095,7 +16095,7 @@
                                         {
                                             "__type__": "Note",
                                             "fields": [
-                                                "A: 三時[さんじ]から 何[なに]をしますか。<br>B: わたしは四時[よじ]からテニスをします。",
+                                                "A: 三時[さんじ]から 何[なに]をしますか。<br>B: わたしは 四時[よじ]からテニスをします。",
                                                 "A: <b>Was </b>machen Sie heute ab/nach <b>3 Uhr</b>?<br>B: Ich spiele ab <b>4 Uhr</b> Tennis.",
                                                 "[sound:googletts-ea3519d8-18ab4d5a-ac289969-c735ee11-19c9c999.mp3]"
                                             ],
@@ -22518,7 +22518,7 @@
                                             "__type__": "Note",
                                             "fields": [
                                                 "A: エリカさんは 何[なに]にしますか。<br>B: てんぷらにします。<br>A: のみものは。<br>B: ビールにします。",
-                                                "A: <b>Was </b>nehmen Sie Erika?<br>B: Ich nehme Tempura.<br>A: Und (was nehmen Sie) zu trinken?<br>B: Ich nehme ein Bier.",
+                                                "A: <b>Was </b>nehmen Sie, Erika?<br>B: Ich nehme Tempura.<br>A: Und (was nehmen Sie) zu trinken?<br>B: Ich nehme ein Bier.",
                                                 "[sound:googletts-dafee7ff-3126632f-65b075bb-e759f4eb-c09b88a0.mp3]"
                                             ],
                                             "guid": "KrNUyN?Bz}",
